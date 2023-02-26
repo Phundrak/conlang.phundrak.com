@@ -12,7 +12,7 @@ files I’m using are written in [[https://orgmode.org/][org-mode]] and are expo
 through [[https://www.gnu.org/software/emacs/][Emacs]].
 
 These Markdown files are then compiled by [[https://v2.vuepress.vuejs.org/][Vuepress]] into a beautiful
-website available at [[https://conlang.phundrak.com][https://v2.vuepress.vuejs.org/]].
+website available at [[https://conlang.phundrak.com][conlang.phundrak.com]].
 
 * Running the project
 In order to run the project, you need to export all =.org= files in the
