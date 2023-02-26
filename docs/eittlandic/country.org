@@ -48,7 +48,7 @@ chart --- note that only the main religion is shown in a particular
 area and religions with less people in said area are not shown. You
 can also see on said map the population repartition of Eittland.
 
-#+headers: :cache yes :exports none
+#+headers: :cache yes :exports none :eval no-export
 #+begin_src gnuplot :file img/eittlandic/religions.png :var data=eittland-religions
 set title "Religions in Eittland since 1950"
 set title boxed offset 0,0 font ",15"
@@ -298,7 +298,7 @@ and Scandinavian population came with mixes of Christians and
 Protestants. On the other hand, most if not all of the English
 population was Christian.
 
-#+header: :exports none
+#+header: :exports none :eval no-export
 #+header: :file img/eittlandic/religious-refugees.png :cache yes
 #+begin_src gnuplot :var data=nationality-religious-refugees
 set title "Country of Origin of Religious Refugees"
