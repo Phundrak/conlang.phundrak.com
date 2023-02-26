@@ -1,0 +1,70 @@
+#+title: P’undrak’s Conlangs
+
+#+html: <a href="https://www.gnu.org/software/emacs/"><img src="https://img.shields.io/badge/Emacs-28.0.91-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white" /></a>
+#+html: <a href="https://orgmode.org/"><img src="https://img.shields.io/badge/Org%20mode-litterate%20config-success?logo=Org&logoColor=white&style=flat-square"/></a>
+#+html: <a href="https://v2.vuepress.vuejs.org/"><img src="https://img.shields.io/badge/Framework-Vuepress-42D392?logo=Vue.js&logoColor=white&style=flat-square"/></a>
+#+html: <a href="https://conlang.phundrak.com"><img src="https://img.shields.io/badge/dynamic/json?label=Website&query=%24%5B%3A1%5D.status&url=https%3A%2F%2Fdrone.phundrak.com%2Fapi%2Frepos%2Fphundrak%2Fdotfiles%2Fbuilds&style=flat-square&logo=buffer" /></a>
+
+
+* About the Project
+This repository holds my conlanging projects I am working on. The
+files I’m using are written in [[https://orgmode.org/][org-mode]] and are exported in Markdown
+through [[https://www.gnu.org/software/emacs/][Emacs]].
+
+These Markdown files are then compiled by [[https://v2.vuepress.vuejs.org/][Vuepress]] into a beautiful
+website available at [[https://conlang.phundrak.com][https://v2.vuepress.vuejs.org/]].
+
+* Running the project
+In order to run the project, you need to export all =.org= files in the
+Markdown format. To do that easily, you can use an org project setup
+in Emacs, mine looks like this:
+#+begin_src emacs-lisp
+(require 'ox-gfm)
+(defvar phundrak--projects-conlanging-common-root
+  "~/org/conlanging/docs/"
+  "Points to the common root of my source and target for my
+conlang.phundrak.com org project.")
+(setq org-publish-project-alist
+        `(("conlang-phundrak-com-md"
+           :base-directory ,phundrak--projects-conlanging-common-root
+           :base-extension "org"
+           :exclude ,(rx (* print
+                            (or "CONTRIB"
+                                   "README"
+                                   "site-map"
+                                   "temp"
+                                   "private"
+                                   "svg-ink")
+                            (* print)))
+           :publishing-directory ,phundrak--projects-conlanging-common-root
+           :recursive t
+           :language "en"
+           :publishing-function org-gfm-publish-to-gfm
+           :headline-levels 5
+           :auto-sitemap nil
+           :auto-preamble nil)
+          ("conlang-phundrak-com"
+           :components ("conlang-phundrak-com-md"))))
+#+end_src
+
+Once you have all the Markdown files generated correctly, you can
+install the dependencies of the project.
+#+begin_src shell
+yarn
+# or
+npm install
+#+end_src
+
+Once this is done, you can launch a preview of the project.
+#+begin_src shell
+yarn docs:dev
+# or
+npm run docs:dev
+#+end_src
+
+You can also compile the project to a static website.
+#+begin_src shell
+yarn docs:build
+# or
+npm run docs:build
+#+end_src

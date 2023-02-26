@@ -1,0 +1,562 @@
+#+title: The Country of Eittland
+#+setupfile: ../headers
+
+* The Country of Eittland
+** Eittlandic Geography
+Eittland is an active volcanic island. In its center we can find the
+most active volcanoes, surrounded by glaciers and some regular
+mountains. It is surrounded by some taiga, taiga plains covered mainly
+by ashen pines (/pinus fraxinus/), and a large cold desert covering most
+of the center of the island and its northern eastern part. Outside of
+this largely unpopulated region, Eastern Eittland mainly consists of
+grasslands with some temperate rainforests on its southern shores as
+well as some occasional wetland and marshes. On the other hand,
+Western Eittland has a lot more temperate deciduos forests, temperate
+rainforests and some more wetlands and marshes still. Three small cold
+deserts spawn in Western Eittland, including one north east of
+Đeberget not far from the city. More details can be found in the map
+below. Overall, the southern and western parts of Eittland can be
+compared to Scotland in terms of temperatures, or a warmer Iceland.
+
+#+html: <ImgFigure src="/img/eittlandic/map-biomes.png">Biomes of the Eittlandic Island</ImgFigure>
+
+Eastern Eittland is also recognizable by its great amount of flat
+shorelines, especially in its northern and eastern parts which are part
+of the more recent paths of lava flows. On the other hand, its few
+fjords and the numerous fjords found in the western part of the island
+are characteristic of much older parts of Eittland. The Fjord
+themselves were formed during the last ice age, while the smoother
+shore lines formed since. Western Eittland also has two main bays
+which are two very old caldeira volcanoes. It is not known whether
+they will be one day active again or not.
+
+** Culture
+The Eittlandic people share a common basis for their culture which
+remained rather conservative for much longer than the other nordic
+people due to its resistance towards Christianity conversion. The
+number of people adhering to Norse beliefs remained very high through
+the ages and only recently began declining, going from 93% of
+Eittlanders declaring themselves follower of the Norse Faith in 1950
+to 68% in 2019. This decline is also due to either people converting
+to a religion or due to the immigration boom from the last seventy
+years, though the main reason is the decline in people identifying to
+any faith at all --- the number of atheists went from only 2% of
+Eittlanders in 1940 to 15% in 2019. The evolution of the religious
+population is shown in the chart below, and a geographical
+distribution of these in 2019 can be found in the map following the
+chart --- note that only the main religion is shown in a particular
+area and religions with less people in said area are not shown. You
+can also see on said map the population repartition of Eittland.
+
+#+headers: :cache yes :exports none
+#+begin_src gnuplot :file img/eittlandic/religions.png :var data=eittland-religions
+set title "Religions in Eittland since 1950"
+set title boxed offset 0,0 font ",15"
+set key invert reverse Left outside
+
+set yrange [0:100]
+set grid y
+set ylabel "Percentage"
+
+set border 3
+set style data histograms
+set style histogram rowstacked
+set style fill solid border -1
+set boxwidth 1
+
+plot data u 2:xticlabels(1) axis x1y1 title 'Norse Faith', \
+     data u 3:xticlabels(1) axis x1y1 title 'Atheism', \
+     data u 4:xticlabels(1) axis x1y1 title 'Church of Eittland', \
+     data u 5:xticlabels(1) axis x1y1 title 'Christianity', \
+     data u 6:xticlabels(1) axis x1y1 title 'Buddhism', \
+     data u 7:xticlabels(1) axis x1y1 title 'Other'
+#+end_src
+
+#+html: <ImgFigure src="/img/eittlandic/religions.png">Religious Evolution of Eittland Since 1900</ImgFigure>
+
+#+html: <ImgFigure src="/img/eittlandic/map-religion.png">Religious population of Eittland in 2019</ImgFigure>
+
+There is also a regional cultural difference between Western, Eastern,
+and Southern Eittland marked with some differences in traditions and
+language. There is currently a nationalist movement in Southern
+Eittland so a new state is created within the Kingdom of Eittland. The
+repartition of the different eittlandic cultures is shown in the map
+below.
+#+html: <ImgFigure src="/img/eittlandic/map-cultural.png">Cultural Map of Eittland</ImgFigure>
+
+Standard Eittlandic is a relatively young language, created in the
+1960s by the government in order to create a standard dialect to
+facilitate communications between Eittlanders and make learning the
+language easier. Standard Eittlandic is now enforced as the /de facto/
+legal language of the High Kingdom of Eittland, used by its
+government, schools, and universities, but the local dialects are
+still widely spoken privately and in business which remains regional.
+They still have a strong presence in popular media and are still
+spoken by younger generations, however, a decline has been registered
+since the 90s among young people living in cities, speaking more and
+more in Standard Eittlandic instead. Dialects are also rarely used on
+the internet outside of private conversation. An estimate of 17% of
+the Eittlandic population younger than 25 in 2017 do not speak any
+dialectal Eittlandic outside of Standard Eittlandic, although only 2%
+of them do not understand their family’s dialectal Eittlandic.
+Standard Eittlandic also became the default dialect for Eittlandic
+communities living outside of Eittland --- in these communities the
+inability of speaking other dialects rise to 61% while the ability to
+understand them rises to 25% among Eittlanders younger than 25 in 2018
+and who still have Eittlandic as their mother tongue.
+
+It is estimated only 0.05% of people living in Eittland do not speak
+any Eittlandic dialect, all of them being immigrants or children of
+immigrants. It is therefore safe to say Eittlandic is still going
+strong and does not face any risk of disappearing anytime soon,
+although we might be at the start of the decline of the historical
+dialects of Eittland in favor of Standard Eittlandic.
+
+In this document, you will see references to both Standard Eittlandic
+and Modern Eittlandic. Although some people use the terms
+interchangeably, they are not. /Standard Eittlandic/ refers to the
+official dialect described above, while /Modern Eittlandic/ refers to
+all modern dialects of Eittlandic. This document focuses on Modern
+Eittlandic in general, and when details about specific dialects are
+given, the name of said dialect will be shared.
+
+** Name of the Country
+The origins of the name of Eittland are unclear, two main theories
+exist regarding its etymology.
+
+The first theory says the root of the name of “Eittland” is the
+accusative of /einn/ (Old Norse /one/, /alone/) and /land/ (Old Norse /country/,
+/land/. This is due to how remote it seemed to the people who
+discovered, before Iceland and Greenland were known. Hence, a possible
+translation of “Eittland” can be /Lonely Land/. The term “Eittlandic” is
+relatively transparent considering the term “Icelandic” for “Iceland”
+and “Greenlandic” for “Greenland”.
+
+However, the second but least probable theory is the island is named
+after /eitr/, a mythical poison from which the first Jøtunn Ymir was
+created. Eittland’s waters near the volcanoes containing high amounts
+of sulfur, a poison, could be what named the island. This association
+with poison, as well as the association to the place where it was
+found, /Ginnungagap/, could have acted as a deterrent to prevent people
+outsiders from coming.
+
+This last theory’s first recorded mention is from the 18th century,
+while the first theory appears to be much older, and therefore much
+more likely. It is possible the latter was thought of as a way to
+re-invigorate Eittland’s identity as a pagan country unlike its other
+Nordic counterparts, maybe even as a fearsome country.
+
+Although the country is known as Eittland, the island itself bears a
+few other names. Early records show the island being referred to as
+/Vestrheim/ by early settlers, meaning /West Home/, and its inhabitants
+being referred to as /Vestrheiming/ and /Vestrheimingjar/ (singular and
+plural respectively). Around the same time, settlers living closer to
+the mountains would also call the inner lands /Fjallheim/, meaning
+/Mountain Home/, which stuck until now as a name for the Northwestern
+peninsula of Eittland. Lastly, the name /Eldøy/, /Fire Island/, was used
+to refer both to Eittland and Iceland due to their volcanic activity.
+Nowadays, the name morphed into /Eldfjall/ to refer to the volcanic
+cluster at the center of the Island.
+
+** History
+*** Early Eittlandic History (7th-12th centuries)
+According to historical records, Eittland was first found in 763 by
+Norwegian explorers. Its first settlement appeared in 782 on its
+eastern shores with hopes of finding new farmland. The population grew
+rapidly after the discovery of the southern shores, and in 915
+Eittland became self-governing with Ásmundr Úlfsonn declared the first
+Eittlandic king. However, in order to avoid any unnecessary conflicts,
+the new king swore allegiance to the Norwegian king Harald I
+Halfdansson. Eittland thus became a vassal state to the Norwegian
+crown while retaining autonomy from it, which was granted due to the
+distance between the two countries.
+
+Shortly after however, the beginning of the christianisation of the
+nordic countries and especially of Norway created a new immigration
+boost in Eittland with norsemen seeking a pagan land untouched by
+christian faith. In 935, a year after Haakon I Haraldsson became king
+of Norway and began trying to introduce Christianity to its people,
+the newly crowned king Áleifr I Ásmundson of Eittland adopted a new
+law forbidding the Christian faith to be imported, promoted, and
+practiced in Eittland. This decision forever weakened the alliance
+between the two countries and detariorated their relationship.
+
+As more and more people in Eittland were moving to its western part
+due to larger opportunities with its farmlands, king Áleifr I chose in
+936 to move the capital of Eittland from Hylfjaltr to Đeberget and
+split in half the country. He appointed his brother Steingrímr, later
+known as Steingrímr I Áleifsbróðr, as his co-ruler and gave him
+authority over Eastern Eittland while he kept ruling himself over
+Western Eittland. This choice is due to the difficulty of going from
+one side of the island to the other by land --- lava flows often
+forcefully close and destroy paths joining the two parts together.
+This gave birth to the two states of the Kingdom of Đeberget (also
+called the /Western Eittlandic Kingdom/) and the Kingdom of Hylfjaltr
+(also called the /Eastern Eittlandic Kingdom/). More on that in
+[[Political Organization][#Political-Organization]].
+
+*** Crusades and Independence (13th century - 1400)
+As soon as the 13th century, and through the 14th century, the
+Teutonic Order and the Livonian Order, backed by the Holy Roman
+Empire, proposed crusades against Eittland to get rid of its norse
+faith. However, these never came to be due to the distance between
+Eittland and mainland Europe, despite the papal authorisations in
+1228, 1257, 1289, 1325, and 1367.
+
+In 1397, the creation of the Kalmar Union kicked a new crusade, this
+time backed by the Union itself as well as the Teutonic Order --- Eric
+of Pomerania aimed to unify his country both religiously by getting
+rid of the norse faith in Eittland and politically by getting rid of
+its established monarchy. A contingent sailed to Eittland to submit
+the island, however they were met with fierce resistance by the locals
+on arrival. Estimates show that while some 2.400 Eittlandic people
+died during this first invasion, most of the 3.000 men sent were
+either killed or taken prisoners.
+
+In 1398, a new contingent of 12.000 men landed in Eittland. This time,
+a much more prepared army of 14.000 men faced them on a battlefield
+east of the eastern capital of Hyfjaltr. This resulted in an
+Eittlandic victory, however the Monarch of Hylfjaltr Eiríkr IV
+Ásgeirsbróðr lost his life during the battle. Coincidentally, the High
+King Ásgeirr I Biœrgson died of unknown causes around the same time.
+Historians still debate whether it is due to the ongoing conflict, and
+if it is by who. Theories range from poisoning by spies from the
+Kalmar Union, to assassination by the next rulers, to a much more
+simple, unknown health condition which coincided with the ongoing
+events.
+
+During the same year, the Althing elected Arvid I Geirson as the new
+High King who nominated his brother Havardr I Arvidbróðr as the
+Monarch of Hylfjaltr. While the previous monarchs took a more
+defensive approach, they chose to become much more aggressive,
+striving for independence. After demands were sent to the Kalmar
+Union, Eittland began a series of raids on its territories, ranging
+from Iceland to the Faroese Islands to even two raids in Norway and
+Denmark. These raids only aimed trade and military ships but severely
+handicaped the Union’s marine.
+
+On September 17th, 1400 High King Arvid Geirson of Eittland and King
+Erik of the Kalmar Union met in Reykjavik to sign the Treaty of
+Reykjavik, during which the Kalmar Union recognized the independence
+of Eittland and renounced its claims to the island. On the other hand,
+Eittland ceeded its Greenlandic colonies to the Kalmar Union. Both
+parties agreed to end the hostilities towards one another.
+
+While the Union no longer launched any crusades against Eittland, the
+Teutonic Order attempted to land again in 1407 with 4.000 men.
+Although the Kingdom of Hylfjaltr took a devastating blow during the
+initial days of the crusade, loosing well over 6.000 men, the invaders
+were ultimately defeated thanks to reinforcement from the Kingdom of
+Ðeberget. This marked the end of crusades in Eittland.
+
+*** The Absolute Monarchy (1400-1852)
+Once independent, Eittland quickly became isolated among the European
+nations due as it was percieved as a pagan nation by the rest of the
+continent. For over a century, the country had to be almost entirely
+self-sufficient. This lead to a more in-depth survey of the resources
+of the land launched in 1421. Large quantities of iron were discovered
+in 1432 in Western Eittland in the geologically older parts of the
+island as well as copper and some gold.
+
+Unfortunately for the island, no coal deposit ever got found, the
+islanders turned to charcoal instead. During the following century, an
+important deforestation of Eittland took place until the royal decree
+of 1542 was proclaimed in order to protect the forests. It ruled that
+for each tree felled in the next hundred years, four shall be planted,
+and only one once the period ended. The only exceptions were for
+creating new pastures with the condition of the request being
+submitted and accepted by the local Jarl and its government.
+
+The discovery of important marble deposits in the geologically more
+recent parts of the island in 1512 was the event that reopened trades
+with the continent. England was the first country to openly trade with
+Eittland, swiftly followed by states from the Holy Roman Empire and
+other protestant countries. The country became famous for its pure
+white and green marble, which became its emblem. Walking in the
+streets of major cities today, we can still see most of the monuments
+and buildings from during that era made of marble. It is particularly
+the case in Hylfjaltr, known by the nickname of “The White City” due
+to the sheer amount of monuments made of ouf this material.
+
+It is around this time religious wars broke out in mainland Europe,
+and war refugees coming at first from Scandinavia and soon enough from
+all Northern and Western Europe came to Eittland to seek refuge. They
+were accepted on the condition never to try and spread their religion
+on the island with the risk of expulsion back to continental Europe.
+At the time, the influx of refugees represented around one percent of
+its total population, with about two thirds of it being protestants
+and the rest catholics. The local protestant population officially
+founded in 1587 the Church of Eittland.
+
+You can find in the chart below a breakdown of the various countries
+and regions religious refugees came from. Although Scandinavia was one
+of the first regions to take refuge in Eittland, most of refugees came
+from the Holy Roman Empire and from France where religious wars were
+particularly violent. It is estimated most of the Protestant
+population of Eittland are mainly from French descent, while the HRE’s
+and Scandinavian population came with mixes of Christians and
+Protestants. On the other hand, most if not all of the English
+population was Christian.
+
+#+header: :exports none
+#+header: :file img/eittlandic/religious-refugees.png :cache yes
+#+begin_src gnuplot :var data=nationality-religious-refugees
+set title "Country of Origin of Religious Refugees"
+set title boxed offset 0,-3 font ",15"
+set style fill solid border lt -1
+set style textbox opaque noborder
+set boxwidth 1.0 absolute
+unset key
+
+set yrange [0:45]
+set grid y
+set ylabel "Percentage"
+
+set border 3
+set style data histograms
+set style histogram cluster gap 1
+set style fill solid border -1
+set boxwidth 0.9
+set xtic rotate by -45 scale 0
+
+plot data u 2:xtic(1)
+#+end_src
+
+#+html: <ImgFigure src="/img/eittlandic/religious-refugees.png">Breakdown of the country or region of origin of religious refugees in the 1500s</ImgFigure>
+
+With the beginning of coloniolization of Northern America, Eittland
+became a naval hotspot. Its position allowed ships to cut in half
+their journey if necessary and replenish their supplies. England and
+the Netherlands were the first countries to halt in Eittland for such
+reasons, participating in an important economic boom in the early 16th
+century on a national scale. France later joined this trade route
+starting in 1619 when going to their colonies in modern-day Canada.
+
+On the 30th of March 1775, England demanded from Eittland a port to be
+used as a military port as part of their war effort during the
+American revolution. Eittland refused these demands, invoking a
+neutrality concerning the ongoing conflict. In response, England sent
+an ultimatum, asking the port of Vátrsteinn to be their military base.
+On Eittland’s second refusal, England declared war and launched a land
+invasion of the island. The general in charge of the invasion, Sir
+Andrew Sapping, decided to avoid landing in fjords, judging it too
+risky and prone to ambushes. Instead, English troops landed in the
+flatlands west of Vátrsteinn. While eittlandic troops were massing in
+the nearby town of Vestrfjoðarkjapt, a volcano erupted into a
+pyroclastic flow. The English landing site being on its path, half of
+the invading English forces were immediately wiped out, and two thirds
+of their vessels were badly dammaged or destroyed. Immediately after
+this, Sir Sapping surrendered to the Eittlandic troops which were
+captured as prisonners of war. Due to this defeat and the sudden
+reduction in available men and ships in the English army, the Treaty
+of Hylfjaltr was signed on the 25 of May of the same year. While
+England recognized its defeat, Eittland promised not to intervene on
+any side in the current rebellion of the American colonies (which was
+not the intent of Eittland in the first place).
+
+After the independence of the United States of America, Eittland
+retained its status as a maritime hotspot between Northern America and
+Europe. Its ports of Kóparvall and Tvinnár, near Ðeberget and
+Hylfjaltr respectively, became the two major ports in Eittland, with
+Tvinnár generally favoured by ships coming from Europe and Kóparvall
+favoured by ships coming from Northern America.
+
+** Political Organization
+*** Kingdoms and Monarchy
+While Eittland is a single country, it is host to two kingdoms: the
+Kingdom of Đeberget in the western part of the country, and the
+Kingdom of Hylfjaltr in its eastern part. This is due to a separation
+of the country in two halves during the reign of Eittlands second king
+Áleifr I when he realized the difficulties he and the following
+monarchs of the island would face trying to rule the country alone
+while the latter is almost always split in two by active volcanoes.
+Thus, while the two kingdoms operate very independently from each
+other --- each have their own policies on economics, education,
+industry, and so on --- they also operate in cooperation as the
+Eittlandic High Kingdom with the king of Đeberget at its head when it
+comes to common policies, such as military decision and internrational
+affairs.
+#+html: <ImgFigure src="/img/eittlandic/map-political.png">The Two Eittlandic States</ImgFigure>
+
+This means that while both governments are independent from each other
+and are legally equals to each other, the western monarch is the one
+with the authority to decide on national actions after negotiations
+between them and the eastern monarch. This is reflected by the throne
+rooms found in official buildings such as the royal palaces where
+three thrones can be found: a central, very large throne surrounded by
+two other identical thrones, the right one for the monarch of
+Hylfjaltr and the left one for the king of Đeberget. Most of the time,
+both monarchs sit on their side throne, including when they meet each
+other as the monarchs of Hylfjaltr and Đeberget. However, when the
+monarch of Đeberget is meant to act as the High Monarch of Eittland,
+they step up to the central throne and then represent the country as a
+whole.
+
+At the end of the reign of the High King, either through abdication or
+their death, his successor is enthroned within a month. Then, within a
+year, the new High King has to appoint a new monarch for Hylfjaltr.
+Traditionally, the new co-ruler is a brother of the current High
+Monarch, however history showed it could be sometimes an uncle, a son,
+a sister or even sometimes a daughter. When the eastern monarch either
+abdicates or dies, the High Monarch has a month to designate a new
+one.
+
+Up until the 14th century, the monarch of Hylfjaltr was rarely the
+successor of the High Monarch. However, High King Ólafr I changed this
+tradition and created a new one. He named his brother and co-ruler
+King of Eittland and his son Prince of Eittland. From here on, the
+King (or occasionally the Queen) of Eastern Eittland was meant to
+become the new High Monarch of Eittland and make the Prince (or
+occasional Princess) the ruler of Hylfjaltr. Then, once the reign of
+the King ends, the Prince becomes the new High King and nominates a
+new King and a new Prince. This was done to ensure the upcoming High
+Monarch would be prepared in ruling the whole country by first ruling
+the state. If anything were to happen to the Prince or Princess of
+Eittland while the King or Queen of Hylfjaltr is on the throne, they
+would have to nominate a new heir among the other possible heirs
+possible for the late High Monarch.
+
+When the High Monarchs steps up to the central throne, they may
+designate someone to fill in the role of the monarch of Đeberget for
+the time being. They can also authorize the monarch of Hylfjaltr to do
+so in case they are unavailable and someone need to represent the
+country in front of foreign representatives. The last example was
+during the two last years of Eríkr IX’s reign from 1987 to 1989 when
+he could not act as High King due to his illness. While he did not
+abdicate, he authorized king Harald III to act as High King while he
+appointed his daughter and present-day High Queen Njall III as the
+acting monarch of Đeberget.
+
+*** Regions and Jarldoms
+While each kingdom is ruled by a monarch and the country is ruled by
+the High Monarch, the kingdoms are divided into several kinds of
+subdivisions. The most common one is the jarldom, historically ruled
+by and still represented by a jarl during ceremonies. “Jarl”
+translates as “Earl” in English, and they were the nobles in charge of
+managing parts of the land in the name of the ruler.
+
+#+html: <ImgFigure src="/img/eittlandic/map-provinces.png">Eittlandic Provinces</ImgFigure>
+
+Some parts of the land are directly under the control of the crown,
+such as the districts of Đeberget and Hylfjaltr, which the ruler ruled
+without intermediaries. They are the private possessions of the family
+of the rulers.
+
+On top of this the center of the island is divided in territories, one
+administered by the government of Đeberget and two by the government
+of Hylfjaltr. These territories are supposedly not inhabited by anyone
+and are currently natural parks. This is mostly where you can find the
+mountains and volcanoes of Eittland as well as its cold deserts.
+
+Due to the Last Royal Decree of 1826, jarls no longer rule their
+jarldom themselves anymore. Instead, a local elected government takes
+care of this role now.
+
+*** Governments
+**** Monarchy and Things
+The first form of government created in Eittland revolved around
+Things (/þing/ in Eittlandic), assemblies of varying size occasionally
+created at various levels of the state to decide on important matters,
+with the Althing being the highest Thing to exist in Eittland. The
+Things allow at first any adult man to participate, but as the
+population grew some restrictions were put in place in order to limit
+the amount of participants. Only one man could represent a household
+starting from 982. Then, starting from 998, only jarls were allowed to
+the ruler’s Thing, and only ten jarls from each kingdom, elected among
+all the jarls from the same kingdom, would be allowed to attend the
+High Monarch’s Thing. These jarls would then act as representatives of
+the kingdom to the High King and his counsellors.
+
+In 1278, the first formal ministry (or department) was created in the
+Ðeberget Kingdom, called a /Ráðuneyt/ (litt. “fellowship of
+counsellors”) with a /Ráðunautr/ at its head, to aid the King Hallþórr V
+Gunhildson’s in administering agriculture. The Hylfjaltr Kingdom soon
+followed, creating its own in 1283 by order of Eyvindor III
+Steingrímson. From then, ráðuneyts were created as needed with a
+growing number.
+
+**** Constitutional Monarchy
+In 1826, fearing the revolutionary climate in mainland Europe, Ólafr V
+passed the appropriately named “Last Royal Decree” in 1826. This act
+put in place a new form of government based on the British monarchy.
+
+The king transfers all the royal power from the rulers of Đeberget and
+Hylfjaltr to the House of the People and the House of the Land (the
+equivalent of the lower and upper Houses respectively). The House of
+the People is composed of men elected during general elections every
+eight years. It was decided for each jarldom and district, one
+representative would be elected plus another one for each percentage
+of the population of the kingdom the jarldom represents.
+
+A similar system was created for jarldoms in order to replace jarls
+with locally elected governments, as well as the organisation of
+municipalities.
+
+At first only male land owner of the Nordic Faith could vote and could
+be elected. In 1886, all men of the Nordic Faith got the right to vote
+and be elected in the general elections. In 1902, women gained the
+right to vote and they gained the right to be elected in 1915. The law
+that allowed women to vote also made the authorities stop enforcing
+the restriction on the faith of the participants --- while the
+original texts of 1826 and 1886 were clear on the fact only men of the
+Nordic Faith were allowed to vote and be elected, women had no such
+restriction making it unclear if it only applied to women or if this
+restriction was revoked for everyone. Organizers of the next elections
+in 1914 chose not to enforce this religious restriction and ever since
+then. In 1998, Queen Siv I exceptionally used her powers of High Queen
+to pass a law to clarify this issue and formally make Eittland a
+non-religious country. This also removed the long unenforced ban on
+other religions in Eittland.
+
+Note that while the rulers of Đeberget and Hylfjaltr have lost all
+their power with the “Last Royal Decree”, the High Monarch remained
+unaffected by the text though they act and are expected to act as if
+it were the case. To replace them, the eastern and western governments
+elect a single national representative meant to act as the head of
+both states instead of the High Monarch who now holds only a
+ceremonial position. However, it happens from time to time the High
+Monarch passes a law, although they only write down in the law already
+well established traditions, such as the ban on the religious
+restrictions for voters which had not been enforced for almost a
+century by that point.
+
+Today, Ráðuneyts still exist, but their head is no longer designated
+by the monarch but by the head of the House of the People. Here is the
+list of Ministries that exist in Eittland in 2022:
+- /Bærráðuneyt/ :: Agriculture Ministry
+- Dæmaráðuneyt :: Justice Ministry
+- Erlendslandsráðuneyt :: Foreign Affair Ministry
+- Fræðiráðuneyt :: Education Ministry
+- Heilsráðuneyt :: Health Ministry
+- Konungdómráðuneyt :: Kingdom’s Ministry (State Affairs)
+- Náttúrráðuneyt :: Nature Ministry (including ecology)
+- Rógráðuneyt :: War Ministry
+- Teknikráðuneyt :: Technology Ministry
+- Kaupráðuneyt :: Economy Ministry
+- Vinnaráðuneyt :: Employment Ministry
+
+With the separation of the State with its religious departments
+following the law of 1998, the /Heiðniráðuneyt/ (the Heathendom
+Department) became an entity separate from the Government. Its
+Ráðunautr used to be exceptionally appointed by the House of the Land,
+unlike the rest of Ráðunautrs.
+
+* Private Data                                                     :noexport:
+#+name: eittland-religions
+|    / |           < |         |                    |              |          |       |
+| Year | Norse Faith | Atheism | Church of Eittland | Christianity | Buddhism | Other |
+|------+-------------+---------+--------------------+--------------+----------+-------|
+| 1900 |          97 |       0 |                  2 |            1 |        0 |     0 |
+| 1950 |          93 |       2 |                  2 |            1 |        0 |     2 |
+| 1975 |          84 |       7 |                  3 |            1 |      0.5 |   4.5 |
+| 2000 |          76 |      12 |                  3 |            1 |        4 |     4 |
+| 2019 |          69 |      18 |                  3 |            1 |        6 |     3 |
+
+#+name: nationality-religious-refugees
+| Country           | Percentage |
+|-------------------+------------|
+| France            |         36 |
+| Holy Roman Empire |         24 |
+| Scandinavia       |         22 |
+| United Kingdom    |         14 |
+| Others            |          4 |

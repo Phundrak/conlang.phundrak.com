@@ -1,0 +1,42 @@
+#+setupfile: ../headers
+* Functional System
+** Grammatical Relationship                                        :noexport:
+# Examplify some simple intransitive, transitive, and ditransitive
+# clauses. Three-argument clauses may not unequivocally exist.
+# - What are the grammatical erlations of this language? Give
+#   morphosyntactic evidence for each one that you propose.
+#   - Subject?
+#   - Ergative?
+#   - Absolutive?
+#   - Direct object?
+#   - Indirect object?
+#   There are basically four possible sources of evidence for
+#   grammatical relations:
+#   - morphological case on NPs
+#   - person marking on verbs
+#   - constituent order
+#   - some pragmatic hierarchy
+# - Is the system of grammatical relations in basic (affirmative,
+#   declarative) clauses organized according to a
+#   nominative/accusative, ergative/absolutive, tripartite, or some
+#   other system?
+# - Is there a split system for organizing grammatical relations? If
+#   so, what determines the split?
+#   - Is there split instransitivity? If so, what semantic or
+#     discourse/pragmatic factor conditions the split?
+#   - Does the system for pronouns and/or person marking on verbs
+#     operate on the same basis as that of full NPs?
+#   - Are there different grammatical-relation systems depending on
+#     the clause type (e.g. main vs. dependent clauses, affirmative
+#     vs. negative clauses)?
+#   - Are there different grammatical-relation assignment systems
+#     depending on the tense and/or aspect of the clause?
+#   - Are there any syntactic processes (e.g. conjunction reduction,
+#     relativization) that operate on an ergative/absolutive basis?
+** Constructions Linked to Voice and Valence                       :noexport:
+** Valence Increase                                                :noexport:
+*** Causative
+*** Applicative
+*** Dative Shift
+*** Dative Interest
+*** External Possession

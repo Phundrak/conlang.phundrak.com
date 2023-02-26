@@ -1,0 +1,64 @@
+#+setupfile: ../headers
+* Culture of the Proto-Ñyqy People
+While the Proto-Ñyqy is the most well attested cultural and linguistic
+family, the temporal distance between the Proto-Ñyqy people and us
+makes it extremely hard to reconstruct anything. The various branches
+of the Ñyqy family evolved over the past eight to twelve past
+millenia, and some changed pretty drastically compared to their
+ancestors. Therefore, do not expect an in-depth description of what
+their society was like, but rather what could be considered an
+overview compared to some other culture descriptions.
+
+** The Name of the Language
+First, it is important to know where the name of this language came
+from. Since it has such a wide spread in this world, giving it a name
+based on where its daughter branches went would give it a very long
+name, or with a shorter one we would have very boring or limited names
+--- the “Proto-Northern-Southern” language doesn’t sound very good,
+and the “Proto-Mojhal-Andelian” language leaves other major branches
+out, such as the Pritian branch which we cannot ommit, just as the
+Mojhal and Andelian branches. So, researchers went with the
+reconstructed word for the inclusive /we/: {{{recon(ñyqy)}}}. It itself is a
+coumpound word made up of {{{recon(ñy)}}}, which is the first person
+pronoun, and {{{recon(qy)}}} which is sometimes used as a grammatical
+morpheme indicating a plural --- it also means six, as we will later
+on, the number system of the Proto-Ñyqy people was a bit complex.
+
+** Geographical Location
+It is often very hard to find the location of very old reconstructed
+languages, such as the Proto-Mojhal language itself which location is
+still not clearly known despite its name. But when it comes to the
+Proto-Ñyqy people, we have a surprisingly good idea of where they
+were: in the hot rainforests of the northern main continent, most
+probably near nowadays’ Rhesodia. We know this thanks to some of their
+reconstructed words which are typical for the other people that lived
+or still live in hot rainforests, and these terms are older than the
+split between the northern and southern groups. For instance, both
+groups have a common ancestor word for /bongo/, {{{recon(zebec)}}}, as well as
+for the /bonobo/, {{{recon(pœwec)}}}, which are only found in these
+rainforests.
+
+** Society
+The Proto-Ñyqy was a matriachal society, led most likely by older
+women who had an important spiritual role. This cultural trait is
+found in numerous daughter branches of the Ñyqy family, and it would
+be unreasonable to think a large amount of them would change in the
+same way despite many branches being most likely disconnected from one
+another, and the patriarchal branches almost all retained women as
+their spiritual figurehead, even if political power passed in the
+hands of men.
+
+** Religion and Beliefs
+This question might be the hardest of all to answer, as we can only
+speculate based on the religions the daughter cultures of the Ñyqy
+family had, as well as the few hints we can get through the Proto-Ñyqy
+vocabulary. Through this keyhole, dusted by millenia of cultural and
+linguistic changes, we can offer an initial answer. It seems the
+Proto-Ñyqy reveered several gods, with however one god or goddes above
+them called {{{recon(Qiisci)}}}, that might have been to them some form of
+queen or some sort of god for the gods themselves. We can find for
+instance this figure in the Mojhal patheon under the name of Kísce.
+Other than the parental figure of this divinity, their role is vastly
+unknown.
+
+** Personal Names                                                 :noexport:

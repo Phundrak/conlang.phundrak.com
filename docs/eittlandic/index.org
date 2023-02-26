@@ -1,0 +1,16 @@
+#+setupfile: ../headers
+
+* Eittland
+
+Eittland (Eittlandic: /Eittland/, {{{rune(eittland)}}}, {{{phon(ɑɪʔlɑ̃d)}}}) is part
+of the family of Nordic countries and a member state of the Nordic
+Council, with a population of 31.5 millions as per the 2019 national
+census. It has a superficy of 121 km^{2}, making it the second largest
+island in Europe after Great Britain. Its capital Đeberget is the
+largest eittlandic city with a population of 1.641.600 in 2019. The
+island is naturally separated in two, its western and eastern sides,
+by a chain of volcanoes spawning on the separation of the North
+American and the Eurasian plates, much like its northern sister
+Iceland. Thus, its Eastern side covers 49km^{2} of the island and hosts
+11.3 million inhabitants while the western side covers 72km^{2} with a
+population of 20.1 millions.

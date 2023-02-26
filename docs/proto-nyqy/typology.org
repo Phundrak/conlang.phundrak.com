@@ -1,0 +1,96 @@
+#+setupfile: ../headers
+* Typological Outline of Proto-Ñyqy
+# - Is the language dominantly isolating or polysynthetic?
+# - If the language is at all polysynthetic, is it dominantly
+#   agglutinative or fusional? Give examples of its dominant pattern
+#   and any secondary patterns.
+# - If the language is at all agglutinative, is it dominantly
+#   prefixing, suffixing or neither?
+# - Illustrate the major and secondary patterns (including infixation,
+#   stem modification, reduplication, suprasegmental modification, and
+#   suppletion).
+# - If the language is at all polysynthetic, is it dominantly
+#   "head-marking", "dependent-marking", or mixed?
+# - Give some examples of each type of marking the language exhibits.
+Proto-Ñyqy is a language that appears to be strongly analytical and
+isolating. It relies mainly on its syntax when it comes to its grammar
+and seldom on morphological rules if at all. It wouldn’t really make
+much sense to say whether the language is postpositional or
+prepositional since the only rule defined in Hawkin’s Universals
+Proto-Ñyqy respects is relative clauses and possessives before the
+noun, though it tends to make Proto-Ñyqy slightly more postpositional
+than neutral. Most of its words contain either one or two syllables
+and its sentenses often revolve around linked morphemes which could be
+interpreted as grammatical particules. You can find some examples of
+Proto-Ñyqy and its translation below as well as its glossing.
+1. {{{recon(yq ñe pom qy)}}}
+
+   dem.prox3 home gen 1sg.abs
+
+   This house is mine
+2. {{{recon(cø ne)}}}
+
+   1sg.poss.incl house.abs
+
+   This is my house
+3. {{{recon(pim bú qi coq op)}}}
+
+   mango 2sg.erg du eat pst
+
+   We (two) ate a mango
+4. {{{recon(cø pim i bœ mygú coq ug mún op zø qy zúmu op)}}}
+
+   POSS.1sg mango undef.art(ABS) def.art monkey(ERG) eat SUBJ PROG PST
+   3sg(ABS) 1sg(ERG) see PST
+
+   I saw the monkey that would have been eating a mango of mine
+
+In the first and second examples, we can notice the absence of a verb
+“to be” or any equivalent, this shows existential predicates did not
+need a verb in order to express the existance of something and its
+attributes. This also reveals the word order of the genitive form in
+Proto-Ñyqy, the genitive particle follows the element it propertizes
+and is followed by its property. For instance, in {{{recon(yq ñe pom qy)}}},
+{{{recon(yq ñe)}}} “this house” has the property of being mine {{{recon(qy)}}} is
+the first person singular). /I/ characterize /this house/, therefore /this
+house is of me/, /this is my house/. The main difference between the
+first and the second examples is the first example is the accent in
+the first example is on the fact that said house is /mine/, whereas in
+the second example “my house” is simply presented to the interlocutor.
+
+As you can see in the third example, Proto-Ñyqy used to have a dual
+number which has been lost in most of its decendent languages, and the
+remaining languages employ the former dual as their current plural
+dissmissing instead the old plural. Only does the Énanon keep it with
+its plural, using the former dual as a paucal. As indicated by its
+name, the dual was used when referencing to two elements when an
+otherwise greater amount of elements would have required the plural.
+Hence, in this example, you could consider {{{recon(bú qi)}}} to be kind of
+a 2DU pronoun.
+# --- it is actually a bit more complex than that, as we’ll see in
+# chapter
+# [[#Structural-Preview-Structure-of-a-Nominal-Group-Numbers-n0a6umu058j0]].
+
+Finally, the fourth example gives us an overview of Proto-Ñyqy syntax,
+such as a different position depending on whether we use an indefinite
+or definite article, as well as a subclause inserted in the main
+clause defining a noun phrase, here {{{recon(zø)}}} refering to {{{recon(mygú)}}}.
+We can also clearly see the word order of main clauses presented as
+Patient-Agent-Verb. Although most of its are nominative languages,
+Aarlerte (3652) postulates in her recent papers Proto-Ñyqy might have
+been primarily ergative. The loss of this trait in its closest
+descendent languages such as Proto-Mojhal-Andelian and Proto-Tiltinian
+might indicate this feature was already unstable in Proto-Ñyqy.
+Ergativity might have been in use only in main clauses, and Aarlerte
+argues this might have been the last trace of ergativity in an
+otherwise nominative language.
+
+Note that although linguists suppose Proto-Ñyqy was a mostly
+analytical language, some people like to write related morphemes
+together as one word, hyphenated or not. Thus, the third example could
+also be written as {{{recon(pim búqi coqop)}}} or {{{recon(pim bú-qi coq-op)}}} by
+some. It is due to the fact Proto-Ñyqy was for a long time thought to
+be an agglutinative language like Proto-Mojhal-Andelian and the habit
+of writing related morphemes as one word stuck around. However,
+nowadays we know an analytical Proto-Ñyqy is instead most likely and
+scolars began writing morphenes separated from each other instead.

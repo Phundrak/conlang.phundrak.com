@@ -1,0 +1,15 @@
+#+setupfile: ../headers
+
+* Proto-Ñyqy
+
+The documentation is about a conlang I created. However, it will be
+written as an in-universe document would be. Therefore, any reference
+to other works, documents or people will be completely fictional. If
+there is somewhere written along the lines of “there needs to be more
+research done on the subject”, this simply means I haven’t written
+anything on this subject, and I may or may not plan to. As you might
+notice, the style of writing in this document will be inspired mainly
+by the book /Indo-European Language and Culture/ by Benjamin W. Forston.
+Go read this book if you haven’t already, it’s extremely interesting
+(except for the part with the Old Irish and Vedic people and what
+their kings and queens did with horses, I wish to unread that).

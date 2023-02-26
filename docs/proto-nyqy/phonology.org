@@ -1,0 +1,290 @@
+#+setupfile: ../headers
+* Phonetics and Phonology of Proto-Ñyqy
+** Phonetic Inventory and Translitteration
+*** Vowels
+As we stand today, eight vowels were reconstructed for Proto-Ñyqy, as
+presented in the table below.
+
+#+NAME: table:vowels:trans
+#+CAPTION: Proto-Ñyqy Vowels
+#+ATTR_LATEX: :placement [htb]
+|             | antérieures | postérieures |
+|-------------+-------------+--------------|
+| fermées     | y           | ú            |
+| pré-fermées | i           | u            |
+| mi-fermées  | ø           | œ            |
+| mi-ouvertes | e           | o            |
+
+Below is a short guide to their pronunciation:
+- e :: {{{phon(*ɛ)}}} as in General American English /“bed”/ [bɛd]
+- i :: {{{phon(*ɪ)}}} as in General American English /“bit”/ [bɪt]
+- o :: {{{phon(*ɔ)}}} as in General American English /“thought”/ [θɔːt]
+- ø :: {{{phon(*ø)}}} as in French /“peu”/ [pø]
+- œ :: {{{phon(*ɤ)}}} as in Scottish Gaelic /“doirbh”/ [d̪̊ɤrʲɤv]
+- u :: {{{phon(*ʊ)}}} as in General American English /“hook”/ [hʊ̞k]
+- ú :: {{{phon(*u)}}} as in General American English /“boot”/ [bu̟ːt]
+- y :: {{{phon(*y)}}} as in French /“dune”/ [d̪yn]
+
+We also have a ninth vowel, noted «ə» which denotes an unknown vowel.
+It is most likely this was before the Proto-Ñyqy breakup a simple
+schwa standing where a vowel got reduced either at an earlier stage
+than Proto-Ñyqy or during the breakup of the language. Depending on
+the languages that evolved from Proto-Ñyqy, some got rid of it later
+while some other reinstated it as a full vowel with different rules
+each on which vowel it would become. Thus in the current stage of
+reasearch on Proto-Ñyqy, we cannot know for certain which vowel it
+should have been.
+
+It is however possible to create a featural tree for the known vowels,
+determining which would have been considered closer to others, as
+seens with the vowel tree below.
+#+NAME: vow-tree
+#+header: :var vowels=vowels-featural-list
+#+BEGIN_SRC emacs-lisp :wrap "src dot :file proto-nyqy/vowel-feature-tree.png :exports none"
+(conlanging-list-to-graphviz vowels)
+#+END_SRC
+
+#+RESULTS[eaefac0c72a08ab3e9f428c0d312996e99dc0502]: vow-tree
+#+begin_src dot :file proto-nyqy/vowel-feature-tree.png :exports none
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jqz10ex3ux6"[label="vowels"];"+back-0jqz10ex3uxr"[label="+back"];"vowels-0jqz10ex3ux6"--"+back-0jqz10ex3uxr";"+tense-0jqz10ex3uy2"[label="+tense"];"+back-0jqz10ex3uxr"--"+tense-0jqz10ex3uy2";"+high-0jqz10ex3uyb"[label="+high"];"+tense-0jqz10ex3uy2"--"+high-0jqz10ex3uyb";"/u/-0jqz10ex3uyk"[label="/u/"];"+high-0jqz10ex3uyb"--"/u/-0jqz10ex3uyk";"-high-0jqz10ex3uz6"[label="-high"];"+tense-0jqz10ex3uy2"--"-high-0jqz10ex3uz6";"/ɤ/-0jqz10ex3uzg"[label="/ɤ/"];"-high-0jqz10ex3uz6"--"/ɤ/-0jqz10ex3uzg";"-tense-0jqz10ex3v0u"[label="-tense"];"+back-0jqz10ex3uxr"--"-tense-0jqz10ex3v0u";"+high-0jqz10ex3v14"[label="+high"];"-tense-0jqz10ex3v0u"--"+high-0jqz10ex3v14";"/ʊ/-0jqz10ex3v1d"[label="/ʊ/"];"+high-0jqz10ex3v14"--"/ʊ/-0jqz10ex3v1d";"-high-0jqz10ex3v20"[label="-high"];"-tense-0jqz10ex3v0u"--"-high-0jqz10ex3v20";"/ɔ/-0jqz10ex3v29"[label="/ɔ/"];"-high-0jqz10ex3v20"--"/ɔ/-0jqz10ex3v29";"-back-0jqz10ex3v4z"[label="-back"];"vowels-0jqz10ex3ux6"--"-back-0jqz10ex3v4z";"+tense-0jqz10ex3v59"[label="+tense"];"-back-0jqz10ex3v4z"--"+tense-0jqz10ex3v59";"+high-0jqz10ex3v5i"[label="+high"];"+tense-0jqz10ex3v59"--"+high-0jqz10ex3v5i";"/y/-0jqz10ex3v5r"[label="/y/"];"+high-0jqz10ex3v5i"--"/y/-0jqz10ex3v5r";"-high-0jqz10ex3v6c"[label="-high"];"+tense-0jqz10ex3v59"--"-high-0jqz10ex3v6c";"/ø/-0jqz10ex3v6m"[label="/ø/"];"-high-0jqz10ex3v6c"--"/ø/-0jqz10ex3v6m";"-tense-0jqz10ex3v7w"[label="-tense"];"-back-0jqz10ex3v4z"--"-tense-0jqz10ex3v7w";"+high-0jqz10ex3v86"[label="+high"];"-tense-0jqz10ex3v7w"--"+high-0jqz10ex3v86";"/ɪ/-0jqz10ex3v8f"[label="/ɪ/"];"+high-0jqz10ex3v86"--"/ɪ/-0jqz10ex3v8f";"-high-0jqz10ex3v91"[label="-high"];"-tense-0jqz10ex3v7w"--"-high-0jqz10ex3v91";"/ɛ/-0jqz10ex3v9a"[label="/ɛ/"];"-high-0jqz10ex3v91"--"/ɛ/-0jqz10ex3v9a";}
+#+end_src
+
+#+html: <ImgFigure src="/img/proto-nyqy/vowel-feature-tree.png" alt="Proto-Ñyqy Vowel Featural Tree">Proto-Ñyqy Vowels Featural Tree</ImgFigure>
+
+**** Private Data                                               :noexport:
+#+name: vowels-featural-list
+- vowels
+  - +back
+    - +tense
+      - +high
+        - /u/
+      - -high
+        - /ɤ/
+    - -tense
+      - +high
+        - /ʊ/
+      - -high
+        - /ɔ/
+  - -back
+    - +tense
+      - +high
+        - /y/
+      - -high
+        - /ø/
+    - -tense
+      - +high
+        - /ɪ/
+      - -high
+        - /ɛ/
+
+*** Consonants
+The topic of consonants, unlike vowels, is a hot debate among
+linguists. while we are pretty sure proto-ñyqy has twelve consonants,
+we are still unsure which consonants they are due to the extreme
+unstability of the dorsal feature, and there is seemingly no
+consistency as to how the consonants stabilized in the different
+languages that emerged from the proto-ñyqy breakup. it is only in the
+recent years Ishy Maeln proposed a new theory that is gaining traction
+among proto-ñyqy specialists: each consonant could be pronounced
+either as a dorsal or as a non-dorsal depending on its environment and
+both potential pronunciation can be correct. she even goes further and
+proposes proto-ñyqy had an alternating rule stating a given consonant
+had to be non-dorsal if the previous one was, and vice versa. this
+would explain the common pattern of dorsal consonants alternation
+found in some early languages found after the breakup such as
+proto-mojhal. this phenomenon is more thouroughly explained in
+[[file:phonology.md#consonants][Consonants]].
+
+You can find the featural tree of the Proto-Ñyqy consonants in the
+consonant tree below. Each grapheme displays below its dorsal
+pronunciation on the left and its non-dorsal pronunciation on the
+right.
+
+#+name: cons-tree
+#+header: :var consonants=consonants-featural-list
+#+begin_src emacs-lisp :wrap "src dot :file proto-nyqy/consonant-feature-tree.png :exports none"
+(conlanging-list-to-graphviz consonants)
+#+end_src
+
+#+RESULTS[084ff9041851d57a11859fbe86f3939212c0caf5]: cons-tree
+#+begin_src dot :file proto-nyqy/consonant-feature-tree.png :exports none
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"consonants-0jqz10keat1f"[label="consonants"];"+coronal-0jqz10keat1m"[label="+coronal"];"consonants-0jqz10keat1f"--"+coronal-0jqz10keat1m";"+anterior-0jqz10keat1p"[label="+anterior"];"+coronal-0jqz10keat1m"--"+anterior-0jqz10keat1p";"+voice-0jqz10keat1r"[label="+voice"];"+anterior-0jqz10keat1p"--"+voice-0jqz10keat1r";"+nasal-0jqz10keat1t"[label="+nasal"];"+voice-0jqz10keat1r"--"+nasal-0jqz10keat1t";"n\nɳ / n-0jqz10keat1v"[label="n\nɳ / n"];"+nasal-0jqz10keat1t"--"n\nɳ / n-0jqz10keat1v";"-nasal-0jqz10keat21"[label="-nasal"];"+voice-0jqz10keat1r"--"-nasal-0jqz10keat21";"z\nʝ / z-0jqz10keat22"[label="z\nʝ / z"];"-nasal-0jqz10keat21"--"z\nʝ / z-0jqz10keat22";"-voice-0jqz10keat2d"[label="-voice"];"+anterior-0jqz10keat1p"--"-voice-0jqz10keat2d";"s\nç / s-0jqz10keat2e"[label="s\nç / s"];"-voice-0jqz10keat2d"--"s\nç / s-0jqz10keat2e";"-anterior-0jqz10keat2t"[label="-anterior"];"+coronal-0jqz10keat1m"--"-anterior-0jqz10keat2t";"+voice-0jqz10keat2v"[label="+voice"];"-anterior-0jqz10keat2t"--"+voice-0jqz10keat2v";"j\nɟ / d͡ʒ-0jqz10keat2y"[label="j\nɟ / d͡ʒ"];"+voice-0jqz10keat2v"--"j\nɟ / d͡ʒ-0jqz10keat2y";"- voice-0jqz10keat34"[label="- voice"];"-anterior-0jqz10keat2t"--"- voice-0jqz10keat34";"c\nc / t͡ʃ-0jqz10keat36"[label="c\nc / t͡ʃ"];"- voice-0jqz10keat34"--"c\nc / t͡ʃ-0jqz10keat36";"-coronal-0jqz10keat5e"[label="-coronal"];"consonants-0jqz10keat1f"--"-coronal-0jqz10keat5e";"+voice-0jqz10keat5g"[label="+voice"];"-coronal-0jqz10keat5e"--"+voice-0jqz10keat5g";"+nasal-0jqz10keat5i"[label="+nasal"];"+voice-0jqz10keat5g"--"+nasal-0jqz10keat5i";"+labial-0jqz10keat5k"[label="+labial"];"+nasal-0jqz10keat5i"--"+labial-0jqz10keat5k";"m\nŋ͡m / m-0jqz10keat5m"[label="m\nŋ͡m / m"];"+labial-0jqz10keat5k"--"m\nŋ͡m / m-0jqz10keat5m";"-labial-0jqz10keat5r"[label="-labial"];"+nasal-0jqz10keat5i"--"-labial-0jqz10keat5r";"ñ\nɴ / ɦ̃-0jqz10keat5t"[label="ñ\nɴ / ɦ̃"];"-labial-0jqz10keat5r"--"ñ\nɴ / ɦ̃-0jqz10keat5t";"-nasal-0jqz10keat63"[label="-nasal"];"+voice-0jqz10keat5g"--"-nasal-0jqz10keat63";"+labial-0jqz10keat65"[label="+labial"];"-nasal-0jqz10keat63"--"+labial-0jqz10keat65";"+constricted-0jqz10keat67"[label="+constricted"];"+labial-0jqz10keat65"--"+constricted-0jqz10keat67";"w\nw / v-0jqz10keat6d"[label="w\nw / v"];"+constricted-0jqz10keat67"--"w\nw / v-0jqz10keat6d";"-constricted-0jqz10keat6h"[label="-constricted"];"+labial-0jqz10keat65"--"-constricted-0jqz10keat6h";"b\ng͡b / b-0jqz10keat6k"[label="b\ng͡b / b"];"-constricted-0jqz10keat6h"--"b\ng͡b / b-0jqz10keat6k";"-labial-0jqz10keat6u"[label="-labial"];"-nasal-0jqz10keat63"--"-labial-0jqz10keat6u";"g\nɡ / ʕ-0jqz10keat6w"[label="g\nɡ / ʕ"];"-labial-0jqz10keat6u"--"g\nɡ / ʕ-0jqz10keat6w";"-voice-0jqz10keat7t"[label="-voice"];"-coronal-0jqz10keat5e"--"-voice-0jqz10keat7t";"+labial-0jqz10keat7v"[label="+labial"];"-voice-0jqz10keat7t"--"+labial-0jqz10keat7v";"p\nk͡p / p-0jqz10keat7w"[label="p\nk͡p / p"];"+labial-0jqz10keat7v"--"p\nk͡p / p-0jqz10keat7w";"-labial-0jqz10keat81"[label="-labial"];"-voice-0jqz10keat7t"--"-labial-0jqz10keat81";"q\nq / ħ-0jqz10keat83"[label="q\nq / ħ"];"-labial-0jqz10keat81"--"q\nq / ħ-0jqz10keat83";}
+#+end_src
+
+#+html: <ImgFigure src="/img/proto-nyqy/consonant-feature-tree.png" alt="Feature Tree of Proto-Ñyqy Consonants">Feature Tree of Proto-Ñyqy Consonants</ImgFigure>
+
+As you can see, each one of the consonants have their two alternative
+indicated below their grapheme. In the case of the coronal consonants,
+the alternative consonant is obtained by replacing the anterior
+feature by the dorsal feature when it is present.
+
+The way of writing consonants was therefore standardized as presented
+in the table below.
+#+name: table:consonants-pronunciation
+#+caption: Possible Pronunciations of the Proto-Ñyqy Consonants
+| Main Grapheme | Dorsal Phoneme | Non-Dorsal Phoneme | Alternate Grapheme |
+|---------------+----------------+--------------------+--------------------|
+| ñ             | {{{phon(*ɴ)}}}       | {{{phon(*ɦ̃)}}}            | ḿ                  |
+| q             | {{{phon(*q)}}}       | {{{phon(*ħ)}}}           | ħ, h_{1}              |
+| g             | {{{phon(*ɢ)}}}       | {{{phon(*ʕ)}}}           | ȟ, h_{2}              |
+| c             | {{{phon(*c)}}}       | {{{phon(*t͡ʃ)}}}         | ł                  |
+| j             | {{{phon(*ɟ)}}}        | {{{phon(*d͡ʒ)}}}         | ʒ                  |
+| w             | {{{phon(*w)}}}       | {{{phon(*v)}}}           | l                  |
+| m             | {{{phon(*ŋ͡m)}}}     | {{{phon(*m)}}}           | r, r_{1}              |
+| p             | {{{phon(*χ)}}}       | {{{phon(*p)}}}           | xh, r_{2}             |
+| b             | {{{phon(*g͡b)}}}     | {{{phon(*b)}}}           | rh, r_{3}             |
+| n             | {{{phon(*ɳ)}}}       | {{{phon(*n)}}}           | y                  |
+| s             | {{{phon(*ç)}}}       | {{{phon(*s)}}}           | x, r_{4}              |
+| z             | {{{phon(*ʝ)}}}        | {{{phon(*z)}}}           | ɣ, r_{5}              |
+For each of these consonants, the letter chosen represents what we
+suppose was the most common or the default pronunciation of the
+consonant represented. In the table are also included alternate
+graphemes you might find in other, mostly older works, though they are
+mostly deprecated now.
+
+As you can see, Proto-Ñyqy had potentially two different consonants
+that could be pronounced as {{{phon(*m)}}}. Although it did not influence
+Proto-Ñyqy as far as we know, it definitively influenced the Pritian
+branch of the family, with «ñ» and «m» influencing differently the
+vowel following it.
+
+Several consonants used to be unknown at the beginnings of the
+Proto-Ñyqy study, as can be seen with the old usage of «h_{1}, h_{2}, r_{1},
+r_{2}, r_{3}, r_{4}, and r_{5}». These are found mostly in the earlier documents
+but progressively dissapear as our understanding of the Proto-Ñyqy
+grew during the past century. They are not used anymore, but any
+student that wishes to read older documents on Proto-Ñyqy should be
+aware of these.
+
+**** Private Data                                               :noexport:
+#+name: consonants-featural-list
+- consonants
+  - +coronal
+    - +anterior
+      - +voice
+        - +nasal
+          - n\nɳ / n
+        - -nasal
+          - z\nʝ / z
+      - -voice
+        - s\nç / s
+    - -anterior
+      - +voice
+        - j\nɟ / d͡ʒ
+      - - voice
+        - c\nc / t͡ʃ
+  - -coronal
+    - +voice
+      - +nasal
+        - +labial
+          - m\nŋ͡m / m
+        - -labial
+          - ñ\nɴ / ɦ̃
+      - -nasal
+        - +labial
+          - +constricted
+            - w\nw / v
+          - -constricted
+            - b\ng͡b / b
+        - -labial
+          - g\nɡ / ʕ
+    - -voice
+      - +labial
+        - p\nk͡p / p
+      - -labial
+        - q\nq / ħ
+
+*** Pitch and Stress
+It is definitively known Proto-Ñyqy had a stress system that was used
+both on a clause and on a word level, as the languages that evolved
+from it inherited this characteristic. However, it is not possible to
+reconstruct it accurately, we only know the vowel «ə» was unstressed
+and only appeared in words with two syllables or more. However, we do
+not know if it had any morphological meaning or if it was productive.
+
+On the other hand, we are much less sure about whether it had a pitch
+system, and if it did whether it was productive or not. Most of the
+languages that evolved from Proto-Ñyqy had or have one such as the
+Mojhal-Andelian family, but some don’t such as the Pritian family. The
+most commonly accepted answer is a pitch system appeared after the
+breakup of the pitchless branches which happenned earlier than the
+other branches which do have a pitch system. In reconstructed
+Proto-Ñyqy however, if such a system was present, pitches were most
+likely non-phonemic and unproductive. It only gained productivity in
+later stages, after the first breakups we know, in a common unknown
+ancestor language of the branches which did or still do have either an
+accent or a pitch system, and even there the evolutions seem to have
+happened in different ways depending on the branches. It is therefore
+impossible to know what the pitch system of Proto-Ñyqy was if it had
+one.
+
+** Phonotactics
+*** Syllable Structure
+The prototypical syllable in Proto-Ñyqy appears as a (C)V(C)(C)
+syllable with at least one consonant around the vowel, either in the
+onset or in the coda. At most, it can have one consonant in the onset
+and two in the coda.
+
+No special rule have been found to rule the onset, it can host any
+consonant without any effect on the vowel.
+
+However, it has been found the coda has some rules:
+- two nasal consonants cannot follow each other --- no {{{recon(-ñm)}}}
+- two coronal consonants cannot follow each other --- no {{{recon(-ns)}}}
+- labial consonants are never found with another consonant in the coda
+  --- no {{{recon(-ps)}}}
+For instance, {{{recon(noc zebec)}}} would be pronounced as {{{recon(noc
+gebec)}}}. It is most likely the features to chose from when converting a
+consonant from a coronal to a non-coronal were considered as absent by
+default. This results in the table below --- as you can see, the pair
+«z» and «j» and the pair «s» and «c» convert to the same consonant
+respectively.
+#+name: table:coronal-to-non-coronal-consonants
+#+caption: Conversion Table of Coronal to Non-Coronal Consonants
+| Coronal Consonant | Non-Coronal Consonant |
+|-------------------+-----------------------|
+| n                 | ñ                     |
+| z                 | g                     |
+| s                 | q                     |
+| j                 | g                     |
+| c                 | q                     |
+
+It has also been found that if two coronal consonants do follow each
+other in cross-syllabic environments, with the first one in the coda
+of a first syllable and the second one in the onset of a second
+syllable, then the former will become voiced as the latter.
+
+Similarly, if two nasal consonants are found near each other in a
+cross-syllabic environment, the second nasal consonant will become
+denasalized. Thus, we get the conversion table below.
+#+name: table:consonants-denasalization
+#+caption: Denasalization Table for Proto-Ñyqy Consonants
+| Nasal Consonant | Non-Nasal Consonant |
+|-----------------+---------------------|
+| n               | z                   |
+| m               | w                   |
+| ñ               | b                   |
+
+It has also been found a schwa tends to appear between syllables when
+the first one ends with two consonants and the second one begins with
+one.
+
+*** Consonantal Dorsal Alternation
+As mentioned above in [[file:phonology.md#consonants][Consonants]], it seems probable according to
+Maeln’s theory consonants were alternating between dorsals and
+non-dorsals. We do not know if it only happened between words, within
+words, or along whole clauses, but this would explain much of the
+different languages that evolved from Proto-Ñyqy. The table below
+shows different possible pronunciation of Proto-Ñyqy words with
+word-wise consonantal dorsal alternation whether the first consonant
+is to be considered a dorsal consonant or not. Note the nasal switch
+as well as the extra schwa insertion in the third example as described
+above in [[file:phonology.md#syllable-structure][Syllable Structure]].
+
+#+name: table:word-consonantal-dorsal-alternation
+#+caption: Different Possible Pronunciation of Proto-Ñyqy Words
+| Word            | Dorsal-Initial        | Dorsal-Final        |
+|-----------------+-----------------------+---------------------|
+| {{{recon(pœwec)}}}    | {{{phon(*pɤwɛt͡ʃ)}}}        | {{{phon(*pɤvɛc)}}}        |
+| {{{recon(zebec)}}}    | {{{phon(*zɛg͡bɛt͡ʃ)}}}      | {{{phon(*ʝɛbɛc)}}}         |
+| {{{recon(ñocm noc)}}} | {{{phon(*ɴɔt͡ʃŋ͡m ə ɦɔc)}}} | {{{phon(*ɦɔcm ə ɴot͡ʃ)}}} |

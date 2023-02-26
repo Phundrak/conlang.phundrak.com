@@ -1,0 +1,415 @@
+#+setupfile: ../headers
+
+* Syntax
+** Word Structure                                                 :noexport:
+** Word Classes
+*** Nouns                                                             :noexport:
+# - What are the distributional properties of nouns?
+# - What are the structural properties of nouns?
+# - What are the major formally distinct subcategories of nouns?
+# - What is the basic structure of the noun word (for polysynthetic
+#   languages) and/or noun phrases (for more isolating languages)?
+
+**** Countables and Uncountables                                      :noexport:
+**** Proper Nouns                                                     :noexport:
+*** Pronouns and Anaphoric Clitics                                    :noexport:
+# - Does the language have free pronouns and/or anaphoric clitics?
+#   (These are distinct from grammatical agreement.)
+# - Give a chart of the free pronouns and/or anaphoric clitics.
+**** Personal Pronouns
+**** Demonstrative Pronouns
+**** Possessive Pronouns
+*** Verbs                                                             :noexport:
+# - What are the distributional properties of verbs?
+# - What are the structural properties of verbs?
+# - What are the major subclasses of verbs?
+# - Describe the order of various verbal operators within the verbal
+# - word or verb phrase.
+# - Give charts of th
+# - tense/aspect/mode, etc. Indicate major allomorphic variants.
+# - Are directional and/or locational notions expressed in the verb or
+# - verb phrase at all?
+#   - Is this operation obligatory, i.e. does one member of the
+#     paradigm have to occur in every finite verb or verb phrase?
+#   - Is it productiv
+#     verb stems, and does it have the same meaning with each one?
+#     (Nothing is fully productive, but some operations are more
+#     productive than others.)
+#   - Is this operation primarily coded morphologically, analytically,
+#     or lexically? Are there any exceptions to the general case?
+#   - Where in the verb phrase or verbal word is this operation likely
+#     to appear? Can it occur in more than one place?
+**** Verbal Structure
+**** Verbal Derivations
+**** Verbal Inflexions
+*** Modifiers
+# - If you posit a morphosyntactic category of adjectives, give
+#   evidence for not grouping theseforms with the verbs or nouns. What
+#   characterizes a form as being an adjective in this language?
+# - How can you characterize semantically the class of concepts coded
+#   by this formal category?
+# - Do adjectives agr
+#   noun class)?
+# - What kind of syst
+# - How high can a fluent native speaker count without resorting
+#   either to words from another language or to a generic word like
+#   /many/? Exemplify the system up to this point.
+# - Do numerals agree with their head nouns (number, case, noun
+#   class, ...)?
+**** Descriptive Adjectives                                           :noexport:
+**** Non-Numeral Quantifiers                                          :noexport:
+**** Numerals
+
+*** Adverbs                                                           :noexport:
+# - What characterikes a form as being an adverb in this language? If
+#   you posit a distinct class of adverbs, argue for why these forms
+#   should not be treated as nouns, verbs, or adjectives.
+# - For each kind of adverb listed in this section, list a few members
+#   of the type, and specify whether there are any restrictions
+#   relavite to that type, e.g. where they can come in a clause, any
+#   morphemes common to the type, etc.
+# - Are any of these classes of adverbs related to older
+#   complement-taking (matrix) verbs?
+*** Adpositions                                                       :noexport:
+*** Grammatical Particules                                            :noexport:
+** Constituants Order Typology                                    :noexport:
+*** Constituants Order in Main Clauses
+# - What is the neutral order of free elements in the unit?
+# - Are there variations?
+# - How do the variant orders function?
+# - Specific to the main clause constituent order: What is the
+#   pragmatically neutral order of constituents (A/S, P, and V) in
+#   basic clauses of the language?
+*** Constituants Order in Nominal Clauses
+# - Describe the order(s) of elements in the noun phrase.
+*** Constituants Order in Verbal Clauses
+# - Where do auxliari
+#   verb?
+# - Where do verb-phrase adverbs occur with respect to the verb and
+#   auxiliaries?
+*** Adpositional Phrases
+# - Is the language dominantly prepositional or post-positional? Give
+#   examples.
+# - Do many adpositions come from nouns or verbs?
+*** Comparatives
+# - Does the language have one or more grammaticalized comparative
+#   constructions? If so, what is the order of the standard, the
+#   marker and the quality by which an item is compared to the
+#   standard?
+*** Questions
+# - In yes/no questions, if there is a question particle, where does
+#   it occur?
+# - In information qu
+** Structure of a Nominal Group
+*** Composed Words                                               :noexport:
+# - Is there noun-noun compounding that results in a noun (e.g.
+#   /windshield/)?
+# - How do you know it is compounding?
+# - Is there noun-verb (or verb-noun) compounding that results in a
+#   noun (e.g. /pickpocket/, /scarecrow/)?
+# - Are these process
+#   can-opener)? How common is compounding?
+*** Denominalization                                             :noexport:
+# - Are there any processes (productive or not) that form a verb from
+#   a noun?
+# - An adjective from a noun?
+# - An adverb from a noun?
+*** Numbers                                                      :noexport:
+# - Is number express
+# - Is the distinction between singular and non-singular obligatory,
+#   optional, or completely absent in the noun phrase?
+# - If number marking is “optional”, when does it tend to occur, and
+#   when does it tend not to occur?
+# - If number marking is obligatory, is number overtly expressed for
+#   all noun phrases or only some subclasses of noun phrases, such as
+#   animate?
+# - What non-singular distinctions are there?
+*** Grammatical Case
+# - Do nouns exhibit morphological case?
+# - If so, what are the cases? (The functions of the cases will be
+#   elaborated in lat
+**** Cases in Modern Eittlandic
+Although seldom visible, as described in [[file:./syntax.md#case-marking][Case Marking]], cases still
+remain part of the Eittlandic grammar, expressed through its syntax
+rather than explicit marking on its nouns and adjectives. Four
+different grammatical cases exist in this language: the *nominative*,
+*accusative*, *genitive*, and *dative* case.
+- The *nominative* case represents the subject of a sentence, that is,
+  the subject of intransitive clauses and the agent of transitive
+  clauses. As we’ll see below, it is morphologically marked only in
+  dialects other than Standard Eittlandic, and only if the word is a
+  strong masculine word.
+- On the other hand *accusative*, like Old Norse, usually marks the
+  object of a verb, but it can also express time-related ideas such as
+  a duration in time, or after some prepositions. It is also the
+  default case when a noun has no clear status in a clause, and it can
+  as such serve as a vocative.
+- *Dative* usually marks indirect objects of verbs in Old Norse, though
+  it can also often mark direct objects depending on the verb used.
+
+**** Case Marking
+Although present in Early Old Norse, the use of grammatical cases has
+been on the decline since the Great Vowel Shift (see [[file:phonology.md#great-vowel-shift][Phonology: Great
+Vowel Shift]]). Due to the general loss of word-final short vowels and
+to regularization of its nouns, Eittlandic lost almost all of weak
+nouns’ inflexions and a good amount in its strong nouns’ inflexions.
+On top of this, the root of most nouns got regularized, getting rid of
+former umlauts. Hence, while in Old Norse one might find the table
+below presented in Cleasby and Vigfusson (1874), Modern Eittlandic is
+simplified to the table following it.
+
+#+name: tbl:old-norse-noun-inflexions
+#+caption: 1st declension of strong nouns and declensions of masculine weak nouns in Old Norse
+| / |        <r> |                  |                 |               |                |
+|   |            | Strong Masculine | Strong Feminine | Strong Neuter | Weak Masculine |
+|---+------------+------------------+-----------------+---------------+----------------|
+|   | Sing. Nom. | heim-r           | tíð             | skip          | tím-i          |
+|   |       Acc. | heim             | tíð             | skip          | tím-a          |
+|   |       Gen. | heim-s           | tíð-ar          | skip-s        | tím-a          |
+|   |       Dat. | heim-i           | tíð             | skip-i        | tím-a          |
+|   | Plur. Nom. | heim-ar          | tíð-ir          | skip          | tím-ar         |
+|   |       Acc. | heim-a           | tíð-ir          | skip          | tím-a          |
+|   |       Gen. | heim-a           | tíð-a           | skip-a        | tím-a          |
+|   |       Dat. | heim-um          | tíð-um          | skip-um       | tím-um         |
+
+#+name: tbl:eittlandic-example-noun-inflexions
+#+caption: Declensions for strong and weak nouns in Modern Eittlandic
+| / |        <r> |               |               |            |
+|   |            | Strong Common | Strong Neuter | Weak Nouns |
+|---+------------+---------------+---------------+------------|
+|   | Sing. Nom. | heim-r        | skip          | tím        |
+|   |       Acc. | heim          | skip          | tím        |
+|   |       Gen. | heim-ar       | skip-s        | tím-s      |
+|   |       Dat. | heim          | skip          | tím        |
+|   | Plur. Nom. | heim-r        | skip          | tím-r      |
+|   |       Acc. | heim          | skip          | tím        |
+|   |       Gen. | heim-ar       | skip-s        | tím-s      |
+|   |       Dat. | heim-um       | skip-um       | tím-um     |
+
+As you can see, a good amount of declensions disappeared from nouns,
+with only four marked cases for strong common nouns and two for strong
+neuter and weak nouns. The declension system completely merged weak
+nouns which are no longer distinguished by gender. Strong masculine
+and strong feminine also got merged into strong common.
+
+Declensions are no longer productive in almost all Modern Eittlandic
+dialects. They are still mostly used in formal and written speech, but
+they are less and less used in less formal circumstances and in oral
+speech. The Royal Academy for Literature, which authored Standard
+Eittlandic, even recommends not using grammatical cases when using
+this dialect as they are reduntand with other syntactic strategies.
+While the recommendation is mostly followed, speakers still tend to
+use the singular genetive declension oraly. Younger folks at the time
+of writing even tend to regularize it as /-ar/ for strong neuter and
+weak nouns.
+
+The only exception to declensions no longer being productive is in the
+Hylfjaltr Kingdom’s exclave in southern Eittland where speakers of its
+local dialect tend instead to favor strong nouns for newer terms.
+Hence, while most dialects agree on “internet” (pl.nom /internetr/,
+pl.dat /internetum/) being a weak noun, this dialect treats it as either
+a strong feminine (sg.gen /internetar/, pl.nom&acc /internetr/, pl.dat
+/internetum/) or a strong neuter (sg.gen /internets/, pl.dat /internetum/)
+--- the difference is due to subdivisions in said dialect, mainly
+between rural and urban areas favoring the former and the latter
+respectively.
+
+There are some regular exceptions to the declension system. The first
+one, inherited from Old Norse, is the /-r/ suffix becoming /-n/ or /-l/ when
+a noun ends with an «n» or an «l» respectively, hence the table below
+showing the declensions of strong masculine /himn/ (/heaven/) and strong
+feminine /hafn/ (/harbour/, /haven/).
+#+name: tbl:irregular-noun-declensions
+|        <r> |        |        |
+|            | himn   | hafn   |
+|------------+--------+--------|
+| Sing. Nom. | himnn  | hafnn  |
+|       Acc. | himn   | hafn   |
+|       Gen. | himnar | hafnar |
+|       Dat. | himn   | hafn   |
+| Plur. Nom. | himnn  | hafnn  |
+|       Acc. | himn   | hafn   |
+|       Gen. | himnar | hafnar |
+|       Dat. | himnum | hafnum |
+
+During the last five centuries, the root of the word got regularized
+so that only one or two forms are allowed. Due to umlaut or ablaut, it
+is possible the main vowel of a word changes between its singular and
+plural form, even sometimes affecting its dative form. These changes
+are due to old vowels long gone since --- with most even gone by the
+time of Old Norse. These changes mainly remains in a few common words.
+The table below gives some examples of such irregularities. These
+words are marked as irregular in the dictionary.
+#+name: tbl:irregularities-root-nouns
+ |        <r> |             |           |           |            |
+ |            | kettle (m.) | foot (m.) | book (f.) | water (n.) |
+ |------------+-------------+-----------+-----------+------------|
+ | Sing. Nom. | ketll       | fótr      | bók       | vatn       |
+ |       Gen. | ketl        | fót       | bók       | vatn       |
+ |       Acc. | ketlar      | fótar     | bókar     | vatn       |
+ |       Dat. | ketl        | fót       | bók       | vatn       |
+ | Plur. Nom. | katll       | fœtr      | bœkr      | vótnn      |
+ |       Acc. | katl        | fœt       | bœkr      | vótn       |
+ |       Gen. | katl        | fœt       | bœk       | vótn       |
+ |       Dat. | katlum      | fótum     | bókum     | vótnum     |
+
+*** Articles and Demonstratives
+# - Do noun phrases have articles?
+# - If so, are they obligatory or optional, and under what
+#   circumstances do they occur?
+# - Are they separate words, or bound morphemes?
+# - Is there a class of classes of demonstratives as distinct from
+#   articles?
+# - How many degrees of distance are there in the system of
+#   demontsratives?
+# - Are there other distinctions beside distances?
+
+When the noun of a nominal group is not a mass noun or a proper noun,
+an article must accompany it, except for indefinite plural nouns.
+
+**** Indefinite Article
+The indefinite article is /einn/, the same term as /one/ in Eittlandic. It
+agrees in declension with its noun, though it is to be noted its
+declension is irregular, as seen in table below. Similarly, other
+numerals have declensions as discussed in [[file:word-structure-and-classes.md#numerals][Word Classes: Numerals]].
+#+name: tbl:declension-einn
+|      | Masculine | Feminine | Neuter |
+|------+-----------+----------+--------|
+| Nom. | einn      | ein      | eit    |
+| Acc. | ein       | ein      | eit    |
+| Dat. | ein       | einn     | eits   |
+| Gen. | einn      | ein      | eit    |
+
+**** Definite articles
+As in other scandinavian languages, definite articles in Eittlandic
+act as suffixes to the noun and fully replace its declension as it has
+case marking itself. The full declension table of definite articles
+can be found in the table below. As we can see, the definite articles
+underwent an important regularization as well as merging strong neuter
+and weak nouns together.
+#+name: tbl:definite-articles
+| / |        <r> |               |                              |
+|   |            | Strong Common | Strong Neuter and Weak Nouns |
+|---+------------+---------------+------------------------------|
+|   | Sing. Nom. | -(i)nn        | -(i)t                        |
+|   |       Acc. | -(i)n         | -(i)t                        |
+|   |       Gen. | -(i)ns        | -(i)ts                       |
+|   |       Dat. | -(i)n         | -(i)t                        |
+|   | Plur. Nom. | -(i)nn        | -(i)tr                       |
+|   |       Acc. | -(i)n         | -(i)t                        |
+|   |       Gen. | -(i)n         | -(i)t                        |
+|   |       Dat. | -(i)num       | -(i)tum                      |
+
+The initial /i/ is only used when using the definite articles as a
+suffix would cause a consonant cluster forbidden by Eittlandic
+phonology, otherwise it is omitted. An example of the former case is
+with /vatn/ (/water/) which becomes /vatnits/ when in its definite singular
+genitive form, while /øy/ (/island/) becomes /øyns/ in the same form. Like
+the indefinite article, the suffix agrees in gender, agreeing either
+with strong masculine or feminine words (or as established before,
+strong common) or with strong neuter and weak nouns.
+
+The use of definite articles with nouns is further discussed in
+[[file:./syntax.md#definiteness][Definiteness]].
+
+*** Definiteness
+Definiteness in Eittlandic serves multiple purposes. Its most obvious
+one is to distinguish between an indefinite and a definite entity, as
+in English /a dog/ or /the dog/, respectively /einn hundr/ and /hundinn/, as
+discussed in [[file:./syntax.md#articles-and-demonstratives][Articles and Demonstratives]].
+
+However, definiteness is also necessary with suffixed possessives and
+demonstrative.
+
+*** Possessives
+# - How are possessors expressed in the noun phrase?
+# - Do nouns agree with their possessors? Do possessors agree with
+#   possessed nouns? Neither, or both?
+# - Is there a distinction between alienable and inalienable
+#   possesson?
+# - Are there other types of possession?
+# - When the possessor is a full noun, where does it usually come with
+#   respect to the possessed noun?
+*** Gender
+# - Is there a noun class system?
+# - What are the classes and how are they manifested in the noun
+#   phrase?
+# - What dimension of reality is most central to the noun class system
+#   (e.g. animacy, shape, function, etc.)? What other dimensions are
+#   relevant?
+# - Do the classifiers occur with numerals? Adjectives? Verbs?
+# - What is their function in these contexts?
+Eittlandic inherited from Old Norse a gender system divided into three
+genders: male, female, and neuter. Although the number of elements
+marking it declined during its evolution, Eittlandic still marks
+gender in its strong nouns, adjectives, pronouns, and to a certain
+degree in its articles. However, as mentioned in [[file:./syntax.md#case-marking][Case Marking]], case
+marking and by extensions gender marking is slowly disappearing in
+Modern Eittlandic nouns and adjectives.
+
+Due to the presence of declensions with strong nouns and
+adjectives, its pronouns, and to a certain degree different articles,
+it can still be said Eittlandic is a gendered language although it
+doesn’t hold much importance in its grammar anymore. Since strong
+nouns aren’t productive anymore and weak nouns lost all obvious gender
+differences, we can even consider gender as not productive anymore in
+Eittlandic and bound to eventually disappear. In fact, the loss of
+gender is even stronger in Standard Eittlandic due to the theoretical
+absence of declensions in this dialect.
+
+In case a strong noun is used with a strong adjective, both will agree
+in number and gender.
+
++ Examples:
+  - hvítr hund
+
+    white.m.sg.acc dog.m.sg.acc
+
+    white dog
+  - langir tungir
+
+    long.f.pl.acc tongues.f.pl.acc
+
+    long tongues
+
+*** Diminution and Augmentation                                    :noexport:
+# - Does the language employ diminutive and/or augmentative operators
+#   in the noun or noun phrase?
+# - Questions to answ
+#   - Is this operation obligatory, i.e. does one member of the
+#     paradigm have to occur in every full noun phrase?
+#   - Is it productiv
+#     full noun phras
+#     one? (Nothing is fully productive, but some operations are more
+#     so than others.)
+#   - Is this operation primarily expressed lexically,
+#     morphologically, or analytically?
+# - Where in the noun phrase is this operation likely to be located?
+# - Can it occur in more than one place?
+
+** Predicates and Linked Constructions                            :noexport:
+*** Nominal Predicates
+# - How are proper inclusion and equative predicates formed?
+# - What restrictions are there, if any, on the TAM marking of such
+#   clauses?
+*** Adjective Predicates
+# - How are predicate adjective formed? (Include a separate section on
+#   predicate adjectives only if they are structurally distinct from
+#   predicate nominals.)
+*** Locative Predicat
+# - How are locational clauses (or predicate locatives) formed?
+*** Existential Predicates
+# - How are existential clauses formed? (Give examples in different
+#   tense/aspects, especially if there is significant variation.)
+# - How are negative
+# - Are there extended uses of existential morphology? (Provide
+#   pointers to other relevant sections of the grammar.)
+*** Possessive Clauses
+# - How are possessiv
+** Verbal Groups Structure                                        :noexport:
+** Intransitive Clauses                                           :noexport:
+** Ditransitive Clauses                                           :noexport:
+** Dependent Type Clauses                                         :noexport:
+*** Non-Finite
+*** Semi-Finite
+*** Finite

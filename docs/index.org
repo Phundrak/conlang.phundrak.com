@@ -1,0 +1,11 @@
+#+title: P’undrak’s Constructed Languages
+#+setupfile: headers
+
+* P’undrak’s Constructed Languages
+** Introduction
+Hi, I’m P’undrak (pronounced {{{phon(pʰynɖak̚)}}}), also known as Lucien
+Cartier-Tilet. I create constructed languages and worlds, both for fun
+and for my literary universe. As you might have guessed with the name
+of this website, you will find here the documentation of my public
+constructed languages. If you want to know more about me, you can head
+to my [[https://phundrak.com/en][main website]].

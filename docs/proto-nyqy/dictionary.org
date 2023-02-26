@@ -1,0 +1,71 @@
+#+setupfile: ../headers
+* Dictionary
+** B
+*** {{{recon(beñ)}}}
+  1. (n) tooth/teeth
+*** {{{recon(bin)}}}
+  1. (n) something bad, badness
+  2. (n) mischief, ill-will, maliciousness
+  3. (n) dirtiness
+
+** C
+*** {{{recon(cø)}}}
+  1. (pron) my, first person singular possessive pronoun
+
+** E
+
+** G
+
+** I
+
+** J
+
+** M
+
+** N
+*** {{{recon(noc)}}}
+  1. (n) old age
+  2. (n) elderly person
+*** {{{recon(núc)}}}
+  1. (n) youth
+  2. (n) youngster, teenager
+
+** Ñ
+*** {{{recon(ñocm)}}}
+  1. (n) human being
+  2. (n) someone
+*** {{{recon(ñe)}}}
+  1. (n) house
+
+** O
+
+** Ø
+
+** Œ
+
+** P
+*** {{{recon(pœwec)}}}
+  1. (n) bonobo
+*** {{{recon(pom)}}}
+  1. genitive particle
+
+** Q
+*** {{{recon(qy)}}}
+  1. (pron) first person singular
+
+** S
+
+** U
+
+** Ú
+
+** W
+
+** Y
+*** {{{recon(yq)}}}
+  1. demonstrative of proximity, designating something visible by but
+     far from both speakers.
+
+** Z
+*** {{{recon(zebec)}}}
+  1. (n) bongo (antelope)

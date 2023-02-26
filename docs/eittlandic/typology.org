@@ -1,0 +1,79 @@
+#+setupfile: ../headers
+
+* Typological Outline of the Eittlandic Language
+# - Is the language dominantly isolating or polysynthetic?
+# - If the language is at all polysynthetic, is it dominantly
+#   agglutinative or fusional? Give examples of its dominant pattern
+#   and any secondary patterns.
+# - If the language is at all agglutinative, is it dominantly
+#   prefixing, suffixing or neither?
+# - Illustrate the major and secondary patterns (including infixation,
+#   stem modification, reduplication, suprasegmental modification, and
+#   suppletion).
+# - If the language is at all polysynthetic, is it dominantly
+#   "head-marking", "dependent-marking", or mixed?
+# - Give some examples of each type of marking the language exhibits.
+Over the last centuries, Eittlandic evolved to become a language
+leaning more and more towards an analytic language, losing its
+fusional aspect Old Eittlandic once had. It grammar now greatly relies
+on its syntax as well as on grammatical particules rather than on its
+morphology. Let’s take the following sentence as an example.
+
+- Barn etar fisk
+
+  barn et-ar fisk
+
+  child.nom eat-3sg fish.acc
+
+  A child is eating a fish
+
+In this sentence, the word order helps us understand the child is the
+subject of the sentence while its subject is /fisk/, although we have no
+information on their number; the sentence could also very well mean
+/children are eating fishes/. Unlike in Old Eittlandic where we could
+have the following sentences.
+
+- Barn etar fiska
+
+  barn et-ar fiska
+
+  child.nom eat-3sg fish-pl.acc
+
+  A child is eating fishes
+- Fiska etar barn
+
+  fisk-a et-ar barn
+
+  fish-pl.acc eat-3sg child.nom
+
+  A child is eating fishes
+
+Both have the same meaning as the Eittlandic sentence. However, the
+near-complete (or even complete in Standard Eittlandic) loss of case
+marking makes the sentence /fisk barn etar/ much more gruesome.
+
+- Fisk etar barn
+
+  fisk et-ar barn
+
+  fish.nom eat-3sg barn.acc
+
+  A fish is eating a child
+
+Eittlandic is a V-2 language, meaning in most cases, finite verbs are
+in second position in their clause and may be in first position
+interrogative clauses and dependent clauses, as shown below.
+- Han talð mér þat kom han hér í gær
+
+  han talð mér þat kom han hér í=gær
+
+  3sg.m.nom tell-3sg.pret 1sg.dat that come.3sg.pret 3sg.m.nom here yesterday
+
+  He told me he came here yesterday
+
+Loss of case marking also affected adjectives which share most of
+their declensions with nouns. The parts where Eittlandic retains its
+fusional aspect is with verbs, where loss of its words’ final vowel
+had much less impact, as we could see in /barn fisk etar/. In this case,
+/etar/ is the third person singular declension of the verb /et/, a weak
+verb.
