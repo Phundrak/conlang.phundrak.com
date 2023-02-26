@@ -70,7 +70,7 @@ the Mojhal tree has been itself linked to the Ñyqy tree some fifty
 years ago by the Pr Khorlan (3598).
 
 #+name: tree-language-family
-#+begin_src dot :file proto-nyqy/nyqy-family-tree.png :exports none :eval no-export
+#+begin_src dot :file proto-nyqy/nyqy-family-tree.png :results none :eval no-export
 digraph d {
     graph[dpi=300,bgcolor="transparent"];
     node[shape=plaintext];
@@ -166,11 +166,7 @@ digraph d {
 }
 #+end_src
 
-#+RESULTS[b30fb82e380dd904580da9fe90cdaaaf7cd0be25]: tree-language-family
-[[file:img/proto-nyqy/nyqy-family-tree.png]]
-
 #+html: <ImgFigure src="/img/proto-nyqy/nyqy-family-tree.png" alt="Ñyqy Family Tree">Ñyqy Family Tree</ImgFigure>
-
 
 ** Principles of Historical Linguistics
 So, how does historical linguistics work? How does one know what the
