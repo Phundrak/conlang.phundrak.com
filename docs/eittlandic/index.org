@@ -14,3 +14,5 @@ American and the Eurasian plates, much like its northern sister
 Iceland. Thus, its Eastern side covers 49km^{2} of the island and hosts
 11.3 million inhabitants while the western side covers 72km^{2} with a
 population of 20.1 millions.
+
+#+html: <ImgFigure src="/img/eittlandic/flag.png">Flag of Eittland</ImgFigure>
