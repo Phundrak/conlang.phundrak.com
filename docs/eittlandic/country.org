@@ -401,6 +401,7 @@ At the turn of the century, Eittland became an important hub of
 commerce between Europe and Northern America with its two major ports,
 Kóparvall and Tvinnár.
 
+**** Women’s right to vote
 On August 22nd 1902, a billed written by the House of the People led
 by the Labourer’s Party is ratified by the High King. It gives women
 the right to vote in any election open to the Eittlandic people. On
@@ -413,6 +414,7 @@ House of the People during the general election of September 1905,
 while Ása Sigríðsdóttr became the first woman to enter the House of
 the Land in 1934.
 
+**** World War One
 When World War I started, Eittland stated their neutrality regarding
 the matter and continued business with any country willing to do so.
 The only Eittlandic deaths recorded were three voluntary men of German
@@ -420,6 +422,7 @@ descent who went to mainland Europe in order to fight on Germany’s
 side. Two of them died during the battle of the Somme while one died
 of an unspecified illness.
 
+**** 1920s and 1930s
 As it was largely unaffected by the Great War, Eittland became an
 important economic partner of the European countries affected by the
 war, especially in terms of reconstruction. This further cemented
@@ -433,6 +436,7 @@ outside of Eittland, and second-generation Eittlandic immigrants
 retained their Eittlandic nationality despite most of them never going
 to Eittland.
 
+**** World War Two (1940-1944)
 In the years leading up to World War Two, Nazi Germany spent great
 efforts to develop a positive relationship with Eittland, mostly due
 to their fascination for ancient Nordic culture and Eittland being the
@@ -470,21 +474,113 @@ country.
 
 Eittlandic ports played an important part in bringing US warships and
 war material to Europe, especially in the months leading up to D-Day
-and the different landings in the Mediteranean Sea. When the war ended
-in Europe and Iceland gained its independence, a referendum was held
-in both Eittland and Iceland regarding the potential unification of
-the two countries, as both were already close to one another both
-geographically and culturally. This however never came to pass, as it
-failed both in Iceland with 54% of the voters answering “no”, while
-64% of Eittlandic voters also answered “no”. They still however
-entered a close alliance, Iceland relying on Eittland for military
-protection while an economic alliance was made between both of them,
-inspiring the Schengen Area some decades later. It was thus possible
-for citizens of both countries to move freely between Iceland and
-Eittland and live in either country as any of its citizens would while
-goods could also be freely exchanged. Thus, in 1965, Páll Jónsson
-became the firts Icelandic citizen elected to public office as the
-Town Master of Eldheim in Western Eittland.
+and the different landings in the Mediteranean Sea.
+
+**** Eittland-Iceland Alliance
+When the war ended in Europe and Iceland gained its independence, a
+referendum was held in both Eittland and Iceland regarding the
+potential unification of the two countries, as both were already close
+to one another both geographically and culturally. This however never
+came to pass, as it failed both in Iceland with 54% of the voters
+answering “no”, while 64% of Eittlandic voters also answered “no”.
+
+The two countries still entered a close alliance, Iceland relying on
+Eittland for military protection while an economic alliance was made
+between both of them, inspiring the Schengen Area some decades later.
+It was thus possible for citizens of both countries to move freely
+between Iceland and Eittland and live in either country as any of its
+citizens would while goods could also be freely exchanged. Thus, in
+1965, Páll Jónsson became the firts Icelandic citizen elected to
+public office as the Town Master of Eldheim in Western Eittland.
+
+**** Computer Sciences Pioneering
+Out of personal interest, the then Co-King of Ðeberget Ragnarr
+Sigurðsbróðr asked the Dean of the Royal University of Eittland to
+open as quickly as possible a lab focused on the development of
+computers and computer sciences. This accompanied a new law raising
+the annual budget allocated to universities in Eittland to 9% of the
+nation’s GDP. As the first lab grew in size and became more and more
+proeminent internationally, even becoming one of the leading
+laboratories along with MIT, Bell Labs and CERN, numerous other
+laboratories both public and private appeared in Eittland.
+
+What is now known as the Internet is born of a mix of ARPANET, the
+American standard, and Skruggmál, the Eittlandic standard. Eittland
+also became the first country off the coast of the United States to
+become connected to the American continent. It also became the main
+relay between mainland Europe and Northern America with one third of
+internet connections between the continent going through Eittlandic
+servers in 2015, although this number is slowly getting lower as new
+direct lines between Northern America and Europe are being laid.
+
+Eittland became one of the first countries to pledge on a national
+level in 1989 to conform to the Unicode standard when it would be
+ready, which came in effect on the publication of the first version of
+its standard on October 1992. The Teknikráðuneyt, the Eittlandic
+Technology Ministry, remained a full voting member of the Unicode
+Consortium from 1991 to 2006 and from 2015 until today. It is through
+its lobby that the first version of the Unicode standard integrated
+runes, Eittland’s official alphabet, and compatibility with the
+=ISO-EI-1a= through =ISO-EI-5c= encoding systems as well as various
+non-standard encoding systems used by minor Eittlandic operating
+systems.
+
+*** 21st century
+**** Eittland and the European Union (1994-present)
+Although it never applied for membership in the European Union,
+Eittland is still part of the European Economic Area as well as the
+Schengen Area, making it easy for European citizen as well as
+Eittlandic citizens to move freely in Europe. It joined these two
+organisations on their creation, in 1994 and in 1995 respectively,
+after signing both in 1992 and 1985 respectively.
+
+In 2008, due to the economic crisis and instability of the Eittlandic
+Krúna (*EIK*), discussions opened with the European parliament to adopt
+the Euro. Brussels accepted the application in 2013 and the Euro
+became the official Eittlandic currency in 2015. Eittlanders have a
+ten years window to convert their Eittlandic Krúna in Euros, which
+will become the sole currency accepted in Eittland starting January
+1st 2026.
+
+EU membership became an important debate topic in politics after the
+2013 in the Eurozone, however no official membership application has
+ever been sent to the European Union. Polls estimates paint mixed
+feelings from the Eittlandic people with only a thin margin putting
+either "yes" or "no" in front of the other when asked if people would
+like Eittland to join the EU, as seen below.
+
+|      |  Yes |   No | Do not know |
+|------+------+------+-------------|
+| 1995 | 40.6 | 34.2 |        25.2 |
+| 1998 | 41.2 | 36.3 |        22.5 |
+| 2001 | 42.3 | 38.9 |        18.8 |
+| 2005 | 43.0 | 40.1 |        16.9 |
+| 2009 | 39.5 | 41.3 |        19.2 |
+| 2010 | 43.4 | 44.3 |        12.3 |
+| 2013 | 45.6 | 44.7 |         9.7 |
+| 2015 | 46.4 | 45.9 |         7.7 |
+| 2020 | 41.5 | 41.7 |        16.8 |
+#+TBLFM: $4=100-($3+$2)
+
+**** Internet and Computer Boom
+Eittland is home to some of the largest websites in the world,
+considered the European counterpart to the United State’s Sillicon
+Valley. Some of its best known websites are Raustr, a podcast and
+blogging platform often compared to a Facebook or VK alternative, as
+well as Sønmek, a video streaming and sharing platform compared to
+YouTube and Twitch.
+
+An entire governmental department of the Teknikráðuneyt got assigned
+to developping and auditing the Linux kernel in 2011. Although it has
+no official name, it is often referred to as the *pengvinsstyrsamhald*,
+or *Penguins’ Batallion* in English. It was later integrated in a larger
+department dedicated to open source software in general.
+
+In 2014, the Eittlandic government announced fully switching to free
+and open-source software on all levels of government. This became
+fully effective in 2016, with all software developed for the
+government changing their license to the GPL-2.0 or AGPL-2.0 licenses
+and their source code available on the Teknikráðuneyt’s website.
 
 ** Political Organization
 *** Kingdoms and Monarchy

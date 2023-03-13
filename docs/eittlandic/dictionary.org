@@ -232,6 +232,13 @@ Eittlandic fjords.
 
 ** P
 
+*** pengvin
+n. {{{phon(peŋβin)}}}
+
+1. penguin
+
+From English *penguin*
+
 ** Q
 
 ** R
@@ -257,6 +264,15 @@ v. {{{phon(ʃkiʎ)}}}
 m. {{{phon(sɲɔr)}}}
 
 1. snow
+
+*** styrsamhald
+n. {{{phon(ʃtyrsamhald)}}}
+
+1. military batallion
+2. mitilary unit, group
+
+From Old Norse *styrr* (stir, battle) and *samhald* (a holding together,
+unity).
 
 ** T
 
