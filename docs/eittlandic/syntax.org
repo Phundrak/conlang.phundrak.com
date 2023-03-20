@@ -347,15 +347,15 @@ degree in its articles. However, as mentioned in [[file:./syntax.md#case-marking
 marking and by extensions gender marking is slowly disappearing in
 Modern Eittlandic nouns and adjectives.
 
-Due to the presence of declensions with strong nouns and
-adjectives, its pronouns, and to a certain degree different articles,
-it can still be said Eittlandic is a gendered language although it
-doesn’t hold much importance in its grammar anymore. Since strong
-nouns aren’t productive anymore and weak nouns lost all obvious gender
-differences, we can even consider gender as not productive anymore in
-Eittlandic and bound to eventually disappear. In fact, the loss of
-gender is even stronger in Standard Eittlandic due to the theoretical
-absence of declensions in this dialect.
+Due to the presence of declensions with strong nouns and adjectives,
+its pronouns, and to a certain degree different articles, it can still
+be said Eittlandic is a gendered language, although it doesn’t hold
+much importance in its grammar anymore. Since strong nouns aren’t
+productive anymore and weak nouns lost all obvious gender differences,
+we can even consider gender as not productive anymore in Eittlandic
+and bound to eventually disappear. In fact, the loss of gender is even
+stronger in Standard Eittlandic due to the theoretical absence of
+declensions in this dialect.
 
 In case a strong noun is used with a strong adjective, both will agree
 in number and gender.

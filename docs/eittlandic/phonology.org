@@ -2,7 +2,7 @@
 * Phonetic Inventory and Translitteration
 ** Evolution from Early Old Norse to Eittlandic
 Eittlandic evolved early on from Early Old Norse, and as such some
-vowels it evolved from are different than the Old Norse vowels and
+vowels it evolved from are different from the Old Norse vowels and
 consonants some other Nordic languages evolved from. In this chapter,
 we will see the main list of attested phonetic evolution Eittlandic
 lived through.
@@ -94,8 +94,8 @@ schwa.
 
 Notice how in the modern orthography the «ó» didn’t get lost, unlike
 with the previous rule. Unlike the schwa from the previous rule, the
-current schwa still bears the long vowel feature although it is not
-pronounced anymore by that point, influencing the rule described in [[*ə\[-long\] / C_# »
+current schwa still bears the long vowel feature, although it is not
+pronounced any more by that point, influencing the rule described in [[*ə\[-long\] / C_# »
 ∅][rule 15]].
 
 *** ɣ / {#,V}_ » j
@@ -193,7 +193,7 @@ following «j».
 
 *** ə[-long] / C_# » ∅
 As described in the [[*Vː / _# » ə][rule 6]], the schwa resulting from it kept its long
-vowel feature although it wasn’t pronounced anymore. This resulted in
+vowel feature, although it wasn’t pronounced anymore. This resulted in
 the current rule making all schwas resulting from short vowels at the
 end of words to disappear when following a voiced consonant. This
 basically boils down to any former short vowel following a «j» in
@@ -224,7 +224,7 @@ become shorter.
 From the beginning of the 16th century, the Eastern Eittlandic {{{phon(r)}}}
 began morphing into an {{{phon(ʁ)}}} in all contexts except in word-final
 «-r», remanants of Old Norse’s nominative «-R». This is typical in the
-Eastern region of Eittland and it can be even heard in some dialects
+Eastern region of Eittland, and it can be even heard in some dialects
 of Southern Eittlandic.
 
 + Example ::
@@ -404,9 +404,9 @@ with their own accent. These three main dialects are Eastern
 Eittlandic spoken in the majority Kingdom of Hylfjaltr, Western
 Eittlandic spoken in the majority of the Kingdom of Ðeberget, and
 Southern Eittlandic spoken on the southern parts of the island,
-regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]. Three
+regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]). Three
 main elements of their respective accent were presented above in [[*r » ʁ (Eastern Eittlandic)][rule
-18]], [[*V / _N » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[*V^{U} » ə ! diphthongs (Western Eittlandic)][rule 22]].
+18]], [[*V / _N » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[phonology#vu-»-ə-diphthongs-western-eittlandic][rule 22]].
 
 Some regional variation can be also found in these dialects, although
 less significant and less consistantly than the changes mentioned

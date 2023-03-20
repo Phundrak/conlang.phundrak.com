@@ -7,13 +7,13 @@ Eittland is an active volcanic island. In its center we can find the
 most active volcanoes, surrounded by glaciers and some regular
 mountains. It is surrounded by some taiga, taiga plains covered mainly
 by ashen pines (/pinus fraxinus/), and a large cold desert covering most
-of the center of the island and its northern eastern part. Outside of
+of the center of the island and its northern eastern part. Outside
 this largely unpopulated region, Eastern Eittland mainly consists of
 grasslands with some temperate rainforests on its southern shores as
 well as some occasional wetland and marshes. On the other hand,
 Western Eittland has a lot more temperate deciduos forests, temperate
 rainforests and some more wetlands and marshes still. Three small cold
-deserts spawn in Western Eittland, including one north east of
+deserts spawn in Western Eittland, including one north-east of
 Đeberget not far from the city. More details can be found in the map
 below. Overall, the southern and western parts of Eittland can be
 compared to Scotland in terms of temperatures, or a warmer Iceland.
@@ -45,7 +45,7 @@ Eittlanders in 1940 to 15% in 2019. The evolution of the religious
 population is shown in the chart below, and a geographical
 distribution of these in 2019 can be found in the map following the
 chart --- note that only the main religion is shown in a particular
-area and religions with less people in said area are not shown. You
+area and religions with fewer people in said area are not shown. You
 can also see on said map the population repartition of Eittland.
 
 #+headers: :cache yes :exports none :eval no-export
@@ -79,7 +79,7 @@ plot data u 2:xticlabels(1) axis x1y1 title 'Norse Faith', \
 There is also a regional cultural difference between Western, Eastern,
 and Southern Eittland marked with some differences in traditions and
 language. There is currently a nationalist movement in Southern
-Eittland so a new state is created within the Kingdom of Eittland. The
+Eittland to create a new state within the Kingdom of Eittland. The
 repartition of the different eittlandic cultures is shown in the map
 below.
 #+html: <ImgFigure src="/img/eittlandic/map-cultural.png">Cultural Map of Eittland</ImgFigure>
@@ -95,12 +95,12 @@ They still have a strong presence in popular media and are still
 spoken by younger generations, however, a decline has been registered
 since the 90s among young people living in cities, speaking more and
 more in Standard Eittlandic instead. Dialects are also rarely used on
-the internet outside of private conversation. An estimate of 17% of
+the internet outside private conversation. An estimate of 17% of
 the Eittlandic population younger than 25 in 2017 do not speak any
 dialectal Eittlandic outside of Standard Eittlandic, although only 2%
 of them do not understand their family’s dialectal Eittlandic.
 Standard Eittlandic also became the default dialect for Eittlandic
-communities living outside of Eittland --- in these communities the
+communities living outside Eittland --- in these communities the
 inability of speaking other dialects rise to 61% while the ability to
 understand them rises to 25% among Eittlanders younger than 25 in 2018
 and who still have Eittlandic as their mother tongue.
@@ -126,7 +126,7 @@ exist regarding its etymology.
 
 The first theory says the root of the name of “Eittland” is the
 accusative of /einn/ (Old Norse /one/, /alone/) and /land/ (Old Norse /country/,
-/land/. This is due to how remote it seemed to the people who
+/land/). This is due to how remote it seemed to the people who
 discovered, before Iceland and Greenland were known. Hence, a possible
 translation of “Eittland” can be /Lonely Land/. The term “Eittlandic” is
 relatively transparent considering the term “Icelandic” for “Iceland”
@@ -188,12 +188,12 @@ split in half the country. He appointed his brother Steingrímr, later
 known as Steingrímr I Áleifsbróðr, as his co-ruler and gave him
 authority over Eastern Eittland while he kept ruling himself over
 Western Eittland. This choice is due to the difficulty of going from
-one side of the island to the other by land --- lava flows often
-forcefully close and destroy paths joining the two parts together.
-This gave birth to the two states of the Kingdom of Đeberget (also
-called the /Western Eittlandic Kingdom/) and the Kingdom of Hylfjaltr
-(also called the /Eastern Eittlandic Kingdom/). More on that in
-[[Political Organization][#Political-Organization]].
+one side of the island to the other by land --- lava often flows from
+volcanoes to the shores and destroy paths joining the two parts
+together. This gave birth to the two states of the Kingdom of Đeberget
+(also called the /Western Eittlandic Kingdom/) and the Kingdom of
+Hylfjaltr (also called the /Eastern Eittlandic Kingdom/). More on that
+in [[Political Organization][#Political-Organization]].
 
 *** Crusades and Independence (13th century - 1400)
 As soon as the 13th century, and through the 14th century, the
@@ -209,18 +209,18 @@ of Pomerania aimed to unify his country both religiously by getting
 rid of the norse faith in Eittland and politically by getting rid of
 its established monarchy. A contingent sailed to Eittland to submit
 the island, however they were met with fierce resistance by the locals
-on arrival. Estimates show that while some 2.400 Eittlandic people
-died during this first invasion, most of the 3.000 men sent were
+on arrival. Estimates show that while some 2,400 Eittlandic people
+died during this first invasion, most of the 3,000 men sent were
 either killed or taken prisoners.
 
-In 1398, a new contingent of 12.000 men landed in Eittland. This time,
-a much more prepared army of 14.000 men faced them on a battlefield
+In 1398, a new contingent of 12,000 men landed in Eittland. This time,
+a much more prepared army of 14,000 men faced them on a battlefield
 east of the eastern capital of Hyfjaltr. This resulted in an
 Eittlandic victory, however the Monarch of Hylfjaltr Eiríkr IV
 Ásgeirsbróðr lost his life during the battle. Coincidentally, the High
 King Ásgeirr I Biœrgson died of unknown causes around the same time.
 Historians still debate whether it is due to the ongoing conflict, and
-if it is by who. Theories range from poisoning by spies from the
+if it is by whom. Theories range from poisoning by spies from the
 Kalmar Union, to assassination by the next rulers, to a much more
 simple, unknown health condition which coincided with the ongoing
 events.
@@ -236,16 +236,16 @@ Denmark. These raids only aimed trade and military ships but severely
 handicaped the Union’s marine.
 
 On September 17th, 1400 High King Arvid Geirson of Eittland and King
-Erik of the Kalmar Union met in Reykjavik to sign the Treaty of
-Reykjavik, during which the Kalmar Union recognized the independence
+Erik of the Kalmar Union met in Reykjavík to sign the Treaty of
+Reykjavík, during which the Kalmar Union recognized the independence
 of Eittland and renounced its claims to the island. On the other hand,
 Eittland ceeded its Greenlandic colonies to the Kalmar Union. Both
 parties agreed to end the hostilities towards one another.
 
 While the Union no longer launched any crusades against Eittland, the
-Teutonic Order attempted to land again in 1407 with 4.000 men.
+Teutonic Order attempted to land again in 1407 with 4,000 men.
 Although the Kingdom of Hylfjaltr took a devastating blow during the
-initial days of the crusade, loosing well over 6.000 men, the invaders
+initial days of the crusade, loosing well over 6,000 men, the invaders
 were ultimately defeated thanks to reinforcement from the Kingdom of
 Ðeberget. This marked the end of crusades in Eittland.
 
@@ -290,12 +290,12 @@ founded in 1587 the Church of Eittland.
 
 You can find in the chart below a breakdown of the various countries
 and regions religious refugees came from. Although Scandinavia was one
-of the first regions to take refuge in Eittland, most of refugees came
+of the first regions to take refuge in Eittland, most refugees came
 from the Holy Roman Empire and from France where religious wars were
 particularly violent. It is estimated most of the Protestant
 population of Eittland are mainly from French descent, while the HRE’s
 and Scandinavian population came with mixes of Christians and
-Protestants. On the other hand, most if not all of the English
+Protestants. On the other hand most, if not all, of the English
 population was Christian.
 
 #+header: :exports none :eval no-export
@@ -428,11 +428,11 @@ important economic partner of the European countries affected by the
 war, especially in terms of reconstruction. This further cemented
 Eittland’s place in European economics. However, the country became
 affected by the Great Depression too. Some twenty thousand Eittlanders
-left Eittland at the time, fifteen thousands of them went to the
+left Eittland at the time, fifteen thousand of them went to the
 United States while five thousands left for European countries such as
 Norway, Germany, the UK, or France. To this day, Chicago (Michigan,
 USA) is known for hosting the only significant Eittlandic population
-outside of Eittland, and second-generation Eittlandic immigrants
+outside Eittland, and second-generation Eittlandic immigrants
 retained their Eittlandic nationality despite most of them never going
 to Eittland.
 
@@ -510,7 +510,7 @@ also became the first country off the coast of the United States to
 become connected to the American continent. It also became the main
 relay between mainland Europe and Northern America with one third of
 internet connections between the continent going through Eittlandic
-servers in 2015, although this number is slowly getting lower as new
+servers in 2015, although this number is slowly getting lower, as new
 direct lines between Northern America and Europe are being laid.
 
 Eittland became one of the first countries to pledge on a national
@@ -535,7 +535,7 @@ organisations on their creation, in 1994 and in 1995 respectively,
 after signing both in 1992 and 1985 respectively.
 
 In 2008, due to the economic crisis and instability of the Eittlandic
-Krúna (*EIK*), discussions opened with the European parliament to adopt
+Krúna (*EIK*), discussions opened with the European Parliament to adopt
 the Euro. Brussels accepted the application in 2013 and the Euro
 became the official Eittlandic currency in 2015. Eittlanders have a
 ten years window to convert their Eittlandic Krúna in Euros, which
@@ -544,7 +544,7 @@ will become the sole currency accepted in Eittland starting January
 
 EU membership became an important debate topic in politics after the
 2013 in the Eurozone, however no official membership application has
-ever been sent to the European Union. Polls estimates paint mixed
+ever been sent to the European Union. Poll estimates paint mixed
 feelings from the Eittlandic people with only a thin margin putting
 either "yes" or "no" in front of the other when asked if people would
 like Eittland to join the EU, as seen below.
@@ -564,7 +564,7 @@ like Eittland to join the EU, as seen below.
 
 **** Internet and Computer Boom
 Eittland is home to some of the largest websites in the world,
-considered the European counterpart to the United State’s Sillicon
+considered the European counterpart to the United States’ Sillicon
 Valley. Some of its best known websites are Raustr, a podcast and
 blogging platform often compared to a Facebook or VK alternative, as
 well as Sønmek, a video streaming and sharing platform compared to
@@ -582,16 +582,16 @@ fully effective in 2016, with all software developed for the
 government changing their license to the GPL-2.0 or AGPL-2.0 licenses
 and their source code available on the Teknikráðuneyt’s website.
 
-** Political Organization
+** Political Organisation
 *** Kingdoms and Monarchy
-While Eittland is a single country, it is host to two kingdoms: the
-Kingdom of Đeberget in the western part of the country, and the
-Kingdom of Hylfjaltr in its eastern part. This is due to a separation
-of the country in two halves during the reign of Eittlands second king
+While Eittland is a single country, it hosts two kingdoms: the Kingdom
+of Đeberget in the western part of the country, and the Kingdom of
+Hylfjaltr in its eastern part. This is due to a separation of the
+country in two halves during the reign of Eittlands second king
 Áleifr I when he realized the difficulties he and the following
 monarchs of the island would face trying to rule the country alone
 while the latter is almost always split in two by active volcanoes.
-Thus, while the two kingdoms operate very independently from each
+Thus, while the two kingdoms operate very independently of each
 other --- each have their own policies on economics, education,
 industry, and so on --- they also operate in cooperation as the
 Eittlandic High Kingdom with the king of Đeberget at its head when it
@@ -599,7 +599,7 @@ comes to common policies, such as military decision and internrational
 affairs.
 #+html: <ImgFigure src="/img/eittlandic/map-political.png">The Two Eittlandic States</ImgFigure>
 
-This means that while both governments are independent from each other
+This means that while both governments are independent of each other
 and are legally equals to each other, the western monarch is the one
 with the authority to decide on national actions after negotiations
 between them and the eastern monarch. This is reflected by the throne
@@ -640,7 +640,7 @@ possible for the late High Monarch.
 When the High Monarchs steps up to the central throne, they may
 designate someone to fill in the role of the monarch of Đeberget for
 the time being. They can also authorize the monarch of Hylfjaltr to do
-so in case they are unavailable and someone need to represent the
+so in case they are unavailable and someone needs to represent the
 country in front of foreign representatives. The last example was
 during the two last years of Eríkr IX’s reign from 1987 to 1989 when
 he could not act as High King due to his illness. While he did not
@@ -713,10 +713,10 @@ A similar system was created for jarldoms in order to replace jarls
 with locally elected governments, as well as the organisation of
 municipalities.
 
-At first only male land owner of the Nordic Faith could vote and could
+At first only male landowner of the Nordic Faith could vote and could
 be elected. In 1886, all men of the Nordic Faith got the right to vote
 and be elected in the general elections. In 1902, women gained the
-right to vote and they gained the right to be elected in 1915. The law
+right to vote, and they gained the right to be elected in 1915. The law
 that allowed women to vote also made the authorities stop enforcing
 the restriction on the faith of the participants --- while the
 original texts of 1826 and 1886 were clear on the fact only men of the
