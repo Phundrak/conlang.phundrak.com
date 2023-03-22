@@ -15,7 +15,8 @@
 
 (setq org-confirm-babel-evaluate nil
       org-html-validation-link nil
-      make-backup-files nil)
+      make-backup-files nil
+      org-export-with-broken-links t)
 
 (defvar project-root
   (file-name-as-directory (expand-file-name "docs" default-directory)))
