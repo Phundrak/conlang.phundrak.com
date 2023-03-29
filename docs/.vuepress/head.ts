@@ -123,6 +123,11 @@ simplifiedHead.map((tag: SimplifiedHeader) => {
   tag.content.forEach((element) => {
     head.push([tagName, element]);
   });
+  head.push([
+    'a',
+    { rel: 'me', href: 'https://emacs.ch/@phundrak' },
+    'Mastodon',
+  ]);
 });
 
 export default head;
