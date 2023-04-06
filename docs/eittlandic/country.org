@@ -543,11 +543,11 @@ will become the sole currency accepted in Eittland starting January
 1st 2026.
 
 EU membership became an important debate topic in politics after the
-2013 in the Eurozone, however no official membership application has
-ever been sent to the European Union. Poll estimates paint mixed
-feelings from the Eittlandic people with only a thin margin putting
-either "yes" or "no" in front of the other when asked if people would
-like Eittland to join the EU, as seen below.
+2013 in the Eurozone, however the government sent no official
+membership application to the European Union. Poll estimates paint
+mixed feelings from the Eittlandic people with only a thin margin
+putting either "yes" or "no" in front of the other when asked if
+people would like Eittland to join the EU, as seen below.
 
 |      |  Yes |   No | Do not know |
 |------+------+------+-------------|
@@ -579,7 +579,7 @@ department dedicated to open source software in general.
 In 2014, the Eittlandic government announced fully switching to free
 and open-source software on all levels of government. This became
 fully effective in 2016, with all software developed for the
-government changing their license to the GPL-2.0 or AGPL-2.0 licenses
+government changing their license to the GPL-3.0 or AGPL-3.0 licenses
 and their source code available on the Teknikráðuneyt’s website.
 
 ** Political Organisation

@@ -274,7 +274,12 @@ Diphthongs also evolved following these rules:
 - {{{phon(ou)}}} » {{{phon(ɔʊ)}}}
 - {{{phon(øy)}}} » {{{phon(œʏ)}}}
 
-*** V / _N » Ṽ[-tense] ! V[+high] (Southern Eittlandic)
+It is probably up to this time period when Eittlandic stopped
+nasalizing its vowels aside from Southern Eittland (see below),
+although the timeframe regarding this evolution is very much unclear
+and it might have happened as early as during the 13th century.
+
+*** VN / _ » Ṽ[-tense] ! V[+high] (Southern Eittlandic)
 When preceding a nasal, any vowel that is not high as determined by
 the vowel tree in [[*Vowel Inventory][Vowel Inventory]] gets nasalized when preceding a
 nasal consonant and loses its tenseness if it has any. Hence, the
@@ -393,10 +398,12 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jqz15b
           - /ɛ/
 
 ** Consonant Inventory
+/Under construction/
 
 *** Private Data                                                :noexport:
 
 ** Pitch and Stress
+/Under construction/
 
 ** Regional accents
 Eittlandic is a language in which three distinct main dialects exist
@@ -405,8 +412,8 @@ Eittlandic spoken in the majority Kingdom of Hylfjaltr, Western
 Eittlandic spoken in the majority of the Kingdom of Ðeberget, and
 Southern Eittlandic spoken on the southern parts of the island,
 regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]). Three
-main elements of their respective accent were presented above in [[*r » ʁ (Eastern Eittlandic)][rule
-18]], [[*V / _N » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[phonology#vu-»-ə-diphthongs-western-eittlandic][rule 22]].
+main elements of their respective accent were presented above in [[*r » ʁ (Eastern
+Eittlandic)][rule 18]], [[*VN / _ » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[phonology#vu-»-ə-diphthongs-western-eittlandic][rule 22]].
 
 Some regional variation can be also found in these dialects, although
 less significant and less consistantly than the changes mentioned
