@@ -129,17 +129,13 @@ const simplifiedHead = [
 ];
 
 let head = [];
-simplifiedHead.map((tag: SimplifiedHeader) => {
+simplifiedHead.forEach((tag: SimplifiedHeader) => {
   let tagName = tag.tag;
   tag.content.forEach((element) => {
     head.push([tagName, element]);
   });
-  head.push([
-    'a',
-    { rel: 'me', href: 'https://emacs.ch/@phundrak' },
-    'Mastodon',
-  ]);
-  head.push(['script', {}, matomoTrackingCode]);
 });
+head.push(['a', { rel: 'me', href: 'https://emacs.ch/@phundrak' }, 'Mastodon']);
+head.push(['script', {}, matomoTrackingCode]);
 
 export default head;
