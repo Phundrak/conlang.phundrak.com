@@ -1,12 +1,12 @@
-import { defineUserConfig, defaultTheme } from "vuepress";
-import { removeHtmlExtensionPlugin } from "vuepress-plugin-remove-html-extension";
-import head from "./head";
+import { defineUserConfig, defaultTheme } from 'vuepress';
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension';
+import head from './head';
 
 export default defineUserConfig({
-  lang: "en-US",
+  lang: 'en-US',
   title: "Phundrak's Conlangs",
   head: head,
-  description: "Documentation of the constructed languages made by Phundrak",
+  description: 'Documentation of the constructed languages made by Phundrak',
   markdown: {
     html: false,
     linkify: true,
@@ -18,70 +18,71 @@ export default defineUserConfig({
   plugins: [removeHtmlExtensionPlugin()],
   theme: defaultTheme({
     sidebarDepth: 5,
-    repo: "https://labs.phundrak.com/phundrak/conlang.phundrak.com",
+    repo: 'https://labs.phundrak.com/phundrak/conlang.phundrak.com',
     sidebar: [
       {
-        text: "Index",
-        link: "/",
+        text: 'Index',
+        link: '/',
       },
       {
-        text: "Eittlandic",
-        link: "/eittlandic/",
+        text: 'Eittlandic',
+        link: '/eittlandic/',
         collapsible: true,
         children: [
           {
-            text: "The Country",
-            link: "/eittlandic/country",
+            text: 'The Country',
+            link: '/eittlandic/country',
           },
           {
-            text: "Linguistic Typology",
-            link: "/eittlandic/typology",
+            text: 'Linguistic Typology',
+            link: '/eittlandic/typology',
           },
           {
-            text: "Phonology",
-            link: "/eittlandic/phonology",
+            text: 'Phonology',
+            link: '/eittlandic/phonology',
           },
           {
-            text: "Syntax",
-            link: "/eittlandic/syntax",
+            text: 'Syntax',
+            link: '/eittlandic/syntax',
           },
           {
-            text: "Dictionary",
-            link: "/eittlandic/dictionary",
+            text: 'Dictionary',
+            link: '/eittlandic/dictionary',
           },
         ],
       },
       {
-        text: "Proto-Ñyqy",
-        link: "/proto-nyqy/",
+        text: 'Proto-Ñyqy',
+        link: '/proto-nyqy/',
         collapsible: true,
         children: [
           {
-            text: "Introduction",
-            link: "/proto-nyqy/introduction",
+            text: 'Introduction',
+            link: '/proto-nyqy/introduction',
           },
           {
-            text: "Culture and People",
-            link: "/proto-nyqy/culture-and-people",
+            text: 'Culture and People',
+            link: '/proto-nyqy/culture-and-people',
           },
           {
-            text: "Linguistic Typology",
-            link: "/proto-nyqy/typology",
+            text: 'Linguistic Typology',
+            link: '/proto-nyqy/typology',
           },
           {
-            text: "Phonology",
-            link: "/proto-nyqy/phonology",
+            text: 'Phonology',
+            link: '/proto-nyqy/phonology',
           },
           {
-            text: "Syntax",
-            link: "/proto-nyqy/syntax",
+            text: 'Syntax',
+            link: '/proto-nyqy/syntax',
           },
           {
-            text: "Dictionary",
-            link: "/proto-nyqy/dictionary",
+            text: 'Dictionary',
+            link: '/proto-nyqy/dictionary',
           },
         ],
       },
+      '/zikãti/',
     ],
   }),
 });
