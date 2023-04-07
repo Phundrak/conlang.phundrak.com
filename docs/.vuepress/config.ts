@@ -24,6 +24,7 @@ export default defineUserConfig({
         text: 'Index',
         link: '/',
       },
+      '/about',
       {
         text: 'Eittlandic',
         link: '/eittlandic/',
