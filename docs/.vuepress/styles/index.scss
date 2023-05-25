@@ -52,14 +52,14 @@
 
   // custom container colors
   --c-tip: var(--nord14);
-  --c-tip-bg: var(--c-bg);
+  --c-tip-bg: rgba(163, 190, 140, 0.2);
   --c-tip-title: var(--c-text);
   --c-tip-text: var(--c-text);
   --c-tip-text-accent: var(--c-text-accent);
   --c-warning: var(--nord13);
-  --c-warning-bg: var(--c-bg);
-  --c-warning-bg-light: var(--c-bg-light);
-  --c-warning-bg-lighter: var(--c-bg-lighter);
+  --c-warning-bg: rgba(235, 203, 139, 0.3);
+  --c-warning-bg-light: rgba(235, 203, 139, 0.2);
+  --c-warning-bg-lighter: rgba(235, 203, 139, 0.1);
   --c-warning-border-dark: var(--nord3);
   --c-warning-details-bg: var(--c-bg);
   --c-warning-title: var(--nord12);
@@ -69,9 +69,9 @@
   --c-warning-text-quote: var(--nord12);
 
   --c-danger: var(--nord11);
-  --c-danger-bg: var(--c-bg);
-  --c-danger-bg-light: var(--c-bg-light);
-  --c-danger-bg-lighter: var(--c-bg-light);
+  --c-danger-bg: rgba(191, 97, 106, 0.2);
+  --c-danger-bg-light: rgba(191, 97, 106, 0.2);
+  --c-danger-bg-lighter: rgba(191, 97, 106, 0.1);
   --c-danger-border-dark: var(--nord11);
   --c-danger-details-bg: var(--nord2);
   --c-danger-title: var(--nord11);
@@ -140,9 +140,9 @@ html.dark {
   // custom container colors
   --c-tip: var(--nord14);
   --c-warning: var(--nord13);
-  --c-warning-bg: var(--c-bg);
-  --c-warning-bg-light: var(--c-bg-light);
-  --c-warning-bg-lighter: var(--c-bg-lighter);
+  --c-warning-bg: rgba(235, 203, 139, 0.2);
+  --c-warning-bg-light: rgba(235, 203, 139, 0.2);
+  --c-warning-bg-lighter: rgba(235, 203, 139, 0.1);
   --c-warning-border-dark: var(--nord3);
   --c-warning-details-bg: var(--c-bg);
   --c-warning-title: var(--nord13);
@@ -152,13 +152,13 @@ html.dark {
   --c-warning-text-quote: var(--nord13);
 
   --c-danger: var(--nord11);
-  --c-danger-bg: var(--c-bg);
-  --c-danger-bg-light: var(--c-bg-light);
-  --c-danger-bg-lighter: var(--c-bg-light);
+  --c-danger-bg: rgba(191, 97, 106, 0.2);
+  --c-danger-bg-light: rgba(191, 97, 106, 0.2);
+  --c-danger-bg-lighter: rgba(191, 97, 106, 0.1);
   --c-danger-border-dark: var(--nord11);
   --c-danger-details-bg: var(--nord2);
-  --c-danger-title: var(--nord11);
-  --c-danger-text: var(--nord11);
+  --c-danger-title: hsl(354 43% 75.7%);
+  --c-danger-text: hsl(354 43% 80.7%);
   --c-danger-text-accent: var(--nord11);
   --c-danger-text-light: var(--nord11);
   --c-danger-text-quote: var(--nord11);
