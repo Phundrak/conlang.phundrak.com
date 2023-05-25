@@ -1,6 +1,69 @@
 #+setupfile: ../headers
 
 * Dictionary
+Below you will find a simple Eittlandic to English dictionary. It uses
+some abbreviations you should keep in mind:
+- acc :: accusative
+- adj :: adjective
+- adv :: adverb
+- art :: article
+- aux :: auxiliary
+- comp :: comparative
+- conj :: conjunction
+- Dan :: Danish
+- dat :: dative
+- def :: definite
+- Eng :: English
+- f :: feminine
+- gen :: genitive
+- Ger :: German
+- imp :: imperative
+- ind :: indicative
+- interr :: interrogative
+- m :: masculine
+- ME :: Middle Eittlandic
+- n :: neuter
+- neg :: negative
+- nom :: nominal
+- Nor :: Norwegian (Nynork if no dialect is specified)
+- num :: numeral
+- OE :: Old Eittlandic
+- ON :: Old Norse
+- pl :: plural
+- prep :: preposition
+- pret :: preterite
+- pron :: pronoun
+- sc :: strong common
+- sg :: singular
+- sn :: strong neuter
+- sv :: strong verb
+- Swe :: Swedish
+- wk :: weak
+- wn :: weak noun
+- wv :: weak verb
+
+Note that when a word is marked solely as /masculine/, /feminine/ or
+/neutral/, it is a noun. Otherwise, another marker such as /adj./ should
+be added, for instance /f.adj./ for a feminine adjective.
+
+All words are indexed by their spelling as determined by Standard
+Eittlandic, which roughly corresponds to the accusative of other
+dialects. Each noun has its declension presented to the reader as a
+guide to how it might generally look in dialects other than Standard
+Eittlandic, however variations may exist from one dialect to another.
+For instance, while most Eittlandic dialects lost the /ru/ part of the
+dat.pl. declention, going from /férum/ to /fém/, some dialects in East
+Northern Eittland still retain the former form.
+
+Letters in parenthesis are no longer used when writing Eittlandic but
+are still underlying vowels that can still affect the pronunciation of
+the word and its surroundings. For instance, /dag/ can represent two
+forms of the word /dag(r)/, /dag/ and /dag(a)/. The former is pronounced
+{{{phon(daɣ)}}} while the latter is pronounced {{{phon(daj)}}}. They can also
+represent grammatical cases which are no longer used in Standard
+Eittlandic, such as /dag(r)/ shown above which doesn’t exist as /dagr/ in
+Standard Eittlandic, only as /dag/.
+
 ** A
 
 ** Á
@@ -8,17 +71,17 @@
 ** Æ
 
 ** B
-*** bræð
-m. {{{phon(brɛð)}}}
+*** bræðr
+sm. {{{phon(brɛð)}}}
 
 See [[file:dictionary.md#broð][/bróð/]]
 
 *** bróð
-m. {{{phon(brɔð)}}}
+sm. {{{phon(brɔð)}}} , from ON [[https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir][bróðir]]
 
 1. brother, plural /bræð/
 
-Re-analysis of /bródir/ decomposed into /bróð/ + /-ir/ by popular
+Re-analysis of ON /bródir/ decomposed into /bróð/ + /-ir/ by popular
 etymology. Same goes for its former plural /bræðir/ which got
 re-analyzed into /bræð/ + /-ir/.
 
@@ -31,7 +94,8 @@ re-analyzed into /bræð/ + /-ir/.
 |   | Dat. | bróð     | bræðum |
 
 *** bók
-f. {{{phon(bɔk)}}}
+sf. {{{phon(bɔk)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%B3k2][bók]]
+
 1. book, plural /bøk/
 
 | / |  <r> |          |        |
@@ -43,69 +107,111 @@ f. {{{phon(bɔk)}}}
 |   | Dat. | bók      | bøkum  |
 
 *** bøk
-f. {{{phon(bøk)}}}
+sf. {{{phon(bøk)}}}
 
-See [[file:dictionary.md#bok][/bók/]]
+See [[file:dictionary.md#bok(r)][/bók/]]
 
 ** C
 
 ** D
 *** djúp
-adj. {{{phon(dʒop)}}}
+adj. {{{phon(dʒop)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
 1. deep
 2. profound (figuratively)
 
-*** djúpligr
-adv. {{{phon(dʒopliɡr̩)}}}
+*** djúplig
+adv. {{{phon(dʒopliɡ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/
+(see ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
 1. deeply
-*** dóttir
-f. {{{phon(dɔʧir)}}}, plural *dœtr* {{{phon(dœtr̩)}}}
+2. inherently
+
+*** dótt
+sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
+
+| / |  <r> |          |        |
+|   |      | Singular | Plural |
+|---+------+----------+--------|
+|   | Nom. | dóttr    | dœttr  |
+|   | Acc. | dótt     | dœtt   |
+|   | Gen. | dóttr    | dœtr   |
+|   | Dat. | dótt     | dœttum |
 
 ** Đ
 
 ** E
-*** edda
-f. {{{phon(ed)}}}
+*** edd(a)
+wf. {{{phon(ed)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
 2. female ancestor, beyond the grandmother
-*** Eittland
-n. {{{phon(ɑɪʔlɑnd)}}}
 
-1. (n) High Kingdom of Eittland, island of Eittland
+| / |  <r> |          |        |
+|   |      | Singular | Plural |
+|---+------+----------+--------|
+|   | Nom. | edd      | eddr   |
+|   | Acc. | edd      | edd    |
+|   | Gen. | eddas    | eddas  |
+|   | Dat. | edd      | eddam  |
+
+*** Eittland
+wn. {{{phon(ɑɪʔlɑnd)}}}, from OE neutral /einn/ (/alone/, /lonely/), itself from
+ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.net/html/l.php#land][land]]
+
+1. High Kingdom of Eittland
+2. island of Eittland
+
+| / |  <r> |           |
+|   |      | Singular  |
+|---+------+-----------|
+|   | Nom. | eittland  |
+|   | Acc. | eittland  |
+|   | Gen. | eittlands |
+|   | Dat. | eittland  |
 
 ** É
 
 ** F
-*** feð
-m. {{{phon(feð)}}}
+*** fað
+m. {{{phon(fað)}}}, from ON [[https://old-norse.net/html/f.php#fa%C3%B0ir][faðir]]
 
-See [[file:dictionary.md#føð][/føð/]]
+1. father, plural /feð/
+
+Re-analysis of sg. /fadir/ and pl. /feðir/ as /fað/ and /feð/ respectively,
+each appended with a grammatical /-r/ or /-ir/ (which later got reduced to
+/-r/).
+
+|      | Singular | Plural |
+|------+----------+--------|
+| Nom. | faðr     | feðr   |
+| Acc. | fað      | feð    |
+| Gen. | faðar    | feðar  |
+| Dat. | fað      | feðum  |
+
+*** feð
+sm. {{{phon(feð)}}}
+
+See [[file:dictionary.md#fað][/fað/]]
 
 *** fé
-n. {{{phon(fɛ)}}}
+wn. {{{phon(fɛ)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
 
 1. wealth
-
-From Old Norse /fé/.
 
 |      | Singular | Plural |
 |------+----------+--------|
 | Nom. | fé       | fé     |
 | Acc. | fé       | fé     |
 | Gen. | fés      | fés    |
-| Dat. | fé       | férum  |
+| Dat. | fé       | fém    |
 
 *** fisk
-m. {{{phon(fiʃk)}}}
+sm. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr]]
 
 1. fish
-
-From Old Norse /fiskr/.
 
 |      | Singular | Plural |
 |------+----------+--------|
@@ -114,27 +220,13 @@ From Old Norse /fiskr/.
 | Gen. | fiskar   | fiskar |
 | Dat. | fisk     | fiskum |
 
-*** føð
-m. {{{phon(føð)}}}
-
-1. father, plural /feð/
-
-   From Old Norse /fødir/ and /feðir/ which got re-analyzed as /føð/
-   appended with a grammatical /-ir/ (which later got reduced to a /-r/).
-
-|      | Singular | Plural |
-|------+----------+--------|
-| Nom. | føðr     | feðr   |
-| Acc. | føð      | feð    |
-| Gen. | føðar    | feðar  |
-| Dat. | føð      | feðum  |
-
 ** G
 *** gauð
-n. {{{phon(jɔʊð)}}}
+n. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
 
-1. a barking
-2. a quarrel
+1. a quarrel
+2. a heated debate /(informal)/
+
 *** gegn
 adv. {{{phon(jeɡn̩)}}}
 
