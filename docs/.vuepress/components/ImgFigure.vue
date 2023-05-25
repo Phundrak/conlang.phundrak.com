@@ -7,7 +7,6 @@
 const props = defineProps<{
   src: string;
   alt?: string;
-  caption: string;
 }>();
 </script>
 
