@@ -43,8 +43,8 @@ export default defineUserConfig({
             link: '/eittlandic/phonology',
           },
           {
-            text: 'Syntax',
-            link: '/eittlandic/syntax',
+            text: 'Grammar',
+            link: '/eittlandic/grammar',
           },
           {
             text: 'Dictionary',
