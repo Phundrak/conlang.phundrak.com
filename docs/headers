@@ -20,4 +20,3 @@
 #+macro: begin-largetable @@html:<div class="largetable">@@
 #+macro: end-largetable @@html:</div>@@
 #+macro: recon *@@html:<i>$1</i>@@
-#+macro: rune (eval (conlanging-to-org-runes $1 'eittlandic))

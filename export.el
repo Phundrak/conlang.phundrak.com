@@ -5,7 +5,6 @@
 (package-refresh-contents)
 (package-install 'f)
 (package-install 'ox-gfm)
-(package-vc-install '(conlanging . (:url "https://labs.phundrak.com/phundrak/conlanging.el.git")))
 
 (message "Emacs directory: %s" user-emacs-directory)
 
@@ -15,8 +14,7 @@
 
 (setq org-confirm-babel-evaluate nil
       org-html-validation-link nil
-      make-backup-files nil
-      org-export-with-broken-links t)
+      make-backup-files nil)
 
 (defvar project-root
   (file-name-as-directory (expand-file-name "docs" default-directory)))

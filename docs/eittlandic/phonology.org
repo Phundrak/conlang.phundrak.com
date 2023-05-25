@@ -412,8 +412,8 @@ Eittlandic spoken in the majority Kingdom of Hylfjaltr, Western
 Eittlandic spoken in the majority of the Kingdom of Ðeberget, and
 Southern Eittlandic spoken on the southern parts of the island,
 regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]). Three
-main elements of their respective accent were presented above in [[*r » ʁ (Eastern
-Eittlandic)][rule 18]], [[*VN / _ » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[phonology#vu-»-ə-diphthongs-western-eittlandic][rule 22]].
+main elements of their respective accent were presented above in [[file:/phonology.md#*r » ʁ (Eastern
+Eittlandic)][rule 18]], [[file:/phonology.md#*VN / _ » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][rule 20]] and [[file:/phonology.md#vu-»-ə-diphthongs-western-eittlandic][rule 22]].
 
 Some regional variation can be also found in these dialects, although
 less significant and less consistantly than the changes mentioned

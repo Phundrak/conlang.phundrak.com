@@ -193,7 +193,7 @@ volcanoes to the shores and destroy paths joining the two parts
 together. This gave birth to the two states of the Kingdom of Đeberget
 (also called the /Western Eittlandic Kingdom/) and the Kingdom of
 Hylfjaltr (also called the /Eastern Eittlandic Kingdom/). More on that
-in [[Political Organization][#Political-Organization]].
+in [[file:country.md#Political-Organization][Political Organization]].
 
 *** Crusades and Independence (13th century - 1400)
 As soon as the 13th century, and through the 14th century, the

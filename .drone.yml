@@ -28,7 +28,7 @@ steps:
   image: silex/emacs:master-alpine
   commands:
     - apk update && apk add git
-    - emacs -Q --script config.el
+    - emacs -Q --script export.el
     - pwd
     - find / -name '*.org'
     - find / -name '*.md'
