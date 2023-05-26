@@ -41,41 +41,27 @@ seens with the vowel tree below.
 #+NAME: vow-tree
 #+header: :var vowels=vowels-featural-list
 #+BEGIN_SRC emacs-lisp :wrap "src dot :file proto-nyqy/vowel-feature-tree.png :results none :eval no-export"
-(conlanging-list-to-graphviz vowels)
+(conlanging-graphviz-feature-tree vowels :label "vowels")
 #+END_SRC
 
-#+RESULTS[ca8201ea639a90a732e280bbf68fcc380622d674]: vow-tree
+#+RESULTS[85d023c482748762946216827d7af76ee029175f]: vow-tree
 #+begin_src dot :file proto-nyqy/vowel-feature-tree.png :results none :eval no-export
-graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jqz164sl6mq"[label="vowels"];"+back-0jqz164sl6nb"[label="+back"];"vowels-0jqz164sl6mq"--"+back-0jqz164sl6nb";"+tense-0jqz164sl6nm"[label="+tense"];"+back-0jqz164sl6nb"--"+tense-0jqz164sl6nm";"+high-0jqz164sl6nw"[label="+high"];"+tense-0jqz164sl6nm"--"+high-0jqz164sl6nw";"/u/-0jqz164sl6o8"[label="/u/"];"+high-0jqz164sl6nw"--"/u/-0jqz164sl6o8";"-high-0jqz164sl6ou"[label="-high"];"+tense-0jqz164sl6nm"--"-high-0jqz164sl6ou";"/ɤ/-0jqz164sl6p4"[label="/ɤ/"];"-high-0jqz164sl6ou"--"/ɤ/-0jqz164sl6p4";"-tense-0jqz164sl6ql"[label="-tense"];"+back-0jqz164sl6nb"--"-tense-0jqz164sl6ql";"+high-0jqz164sl6qw"[label="+high"];"-tense-0jqz164sl6ql"--"+high-0jqz164sl6qw";"/ʊ/-0jqz164sl6r6"[label="/ʊ/"];"+high-0jqz164sl6qw"--"/ʊ/-0jqz164sl6r6";"-high-0jqz164sl6rv"[label="-high"];"-tense-0jqz164sl6ql"--"-high-0jqz164sl6rv";"/ɔ/-0jqz164sl6s4"[label="/ɔ/"];"-high-0jqz164sl6rv"--"/ɔ/-0jqz164sl6s4";"-back-0jqz164sl6v7"[label="-back"];"vowels-0jqz164sl6mq"--"-back-0jqz164sl6v7";"+tense-0jqz164sl6vk"[label="+tense"];"-back-0jqz164sl6v7"--"+tense-0jqz164sl6vk";"+high-0jqz164sl6vw"[label="+high"];"+tense-0jqz164sl6vk"--"+high-0jqz164sl6vw";"/y/-0jqz164sl6w6"[label="/y/"];"+high-0jqz164sl6vw"--"/y/-0jqz164sl6w6";"-high-0jqz164sl6wt"[label="-high"];"+tense-0jqz164sl6vk"--"-high-0jqz164sl6wt";"/ø/-0jqz164sl6x4"[label="/ø/"];"-high-0jqz164sl6wt"--"/ø/-0jqz164sl6x4";"-tense-0jqz164sl6yl"[label="-tense"];"-back-0jqz164sl6v7"--"-tense-0jqz164sl6yl";"+high-0jqz164sl6yw"[label="+high"];"-tense-0jqz164sl6yl"--"+high-0jqz164sl6yw";"/ɪ/-0jqz164sl6z7"[label="/ɪ/"];"+high-0jqz164sl6yw"--"/ɪ/-0jqz164sl6z7";"-high-0jqz164sl6zu"[label="-high"];"-tense-0jqz164sl6yl"--"-high-0jqz164sl6zu";"/ɛ/-0jqz164sl704"[label="/ɛ/"];"-high-0jqz164sl6zu"--"/ɛ/-0jqz164sl704";}
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju80zsy4qu3"[label="vowels"];"+back-0ju80zsy4qu7"[label="+back"];"vowels-0ju80zsy4qu3"--"+back-0ju80zsy4qu7";"+tense-0ju80zsy4quf"[label="+tense"];"+back-0ju80zsy4qu7"--"+tense-0ju80zsy4quf";"+high-0ju80zsy4qum"[label="+high"];"+tense-0ju80zsy4quf"--"+high-0ju80zsy4qum";"/u/-0ju80zsy4qur"[label="/u/"];"+high-0ju80zsy4qum"--"/u/-0ju80zsy4qur";"-high-0ju80zsy4quo"[label="-high"];"+tense-0ju80zsy4quf"--"-high-0ju80zsy4quo";"/ɤ/-0ju80zsy4quw"[label="/ɤ/"];"-high-0ju80zsy4quo"--"/ɤ/-0ju80zsy4quw";"-tense-0ju80zsy4qui"[label="-tense"];"+back-0ju80zsy4qu7"--"-tense-0ju80zsy4qui";"+high-0ju80zsy4qv2"[label="+high"];"-tense-0ju80zsy4qui"--"+high-0ju80zsy4qv2";"/ʊ/-0ju80zsy4qv7"[label="/ʊ/"];"+high-0ju80zsy4qv2"--"/ʊ/-0ju80zsy4qv7";"-high-0ju80zsy4qv4"[label="-high"];"-tense-0ju80zsy4qui"--"-high-0ju80zsy4qv4";"/ɔ/-0ju80zsy4qvd"[label="/ɔ/"];"-high-0ju80zsy4qv4"--"/ɔ/-0ju80zsy4qvd";"-back-0ju80zsy4qu9"[label="-back"];"vowels-0ju80zsy4qu3"--"-back-0ju80zsy4qu9";"+tense-0ju80zsy4qvl"[label="+tense"];"-back-0ju80zsy4qu9"--"+tense-0ju80zsy4qvl";"+high-0ju80zsy4qvq"[label="+high"];"+tense-0ju80zsy4qvl"--"+high-0ju80zsy4qvq";"/y/-0ju80zsy4qvv"[label="/y/"];"+high-0ju80zsy4qvq"--"/y/-0ju80zsy4qvv";"-high-0ju80zsy4qvs"[label="-high"];"+tense-0ju80zsy4qvl"--"-high-0ju80zsy4qvs";"/ø/-0ju80zsy4qw0"[label="/ø/"];"-high-0ju80zsy4qvs"--"/ø/-0ju80zsy4qw0";"-tense-0ju80zsy4qvn"[label="-tense"];"-back-0ju80zsy4qu9"--"-tense-0ju80zsy4qvn";"+high-0ju80zsy4qw6"[label="+high"];"-tense-0ju80zsy4qvn"--"+high-0ju80zsy4qw6";"/ɪ/-0ju80zsy4qwb"[label="/ɪ/"];"+high-0ju80zsy4qw6"--"/ɪ/-0ju80zsy4qwb";"-high-0ju80zsy4qw8"[label="-high"];"-tense-0ju80zsy4qvn"--"-high-0ju80zsy4qw8";"/ɛ/-0ju80zsy4qwg"[label="/ɛ/"];"-high-0ju80zsy4qw8"--"/ɛ/-0ju80zsy4qwg";}
 #+end_src
 
 #+html: <ImgFigure src="/img/proto-nyqy/vowel-feature-tree.png" alt="Proto-Ñyqy Vowel Featural Tree">Proto-Ñyqy Vowels Featural Tree</ImgFigure>
 
 **** Private Data                                               :noexport:
 #+name: vowels-featural-list
-- vowels
-  - +back
-    - +tense
-      - +high
-        - /u/
-      - -high
-        - /ɤ/
-    - -tense
-      - +high
-        - /ʊ/
-      - -high
-        - /ɔ/
-  - -back
-    - +tense
-      - +high
-        - /y/
-      - -high
-        - /ø/
-    - -tense
-      - +high
-        - /ɪ/
-      - -high
-        - /ɛ/
+#+begin_src emacs-lisp
+'("back"
+  ("tense"
+   ("high" "/u/" "/ɤ/")
+   ("high" "/ʊ/" "/ɔ/"))
+  ("tense"
+   ("high" "/y/" "/ø/")
+   ("high" "/ɪ/" "/ɛ/")))
+#+end_src
 
 *** Consonants
 The topic of consonants, unlike vowels, is a hot debate among
@@ -103,12 +89,48 @@ right.
 #+name: cons-tree
 #+header: :var consonants=consonants-featural-list
 #+begin_src emacs-lisp :wrap "src dot :file proto-nyqy/consonant-feature-tree.png :results none :eval no-export"
-(conlanging-list-to-graphviz consonants)
+(conlanging-graphviz-feature-tree consonants :label "consonants")
 #+end_src
 
-#+RESULTS[fb6adbb160bf8050832a8ff6280f201959fdd8a2]: cons-tree
+#+RESULTS[817e951d960e966e8edf25bd40c34406c8de759b]: cons-tree
 #+begin_src dot :file proto-nyqy/consonant-feature-tree.png :results none :eval no-export
-graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"consonants-0jqz165icxvs"[label="consonants"];"+coronal-0jqz165icxw0"[label="+coronal"];"consonants-0jqz165icxvs"--"+coronal-0jqz165icxw0";"+anterior-0jqz165icxw3"[label="+anterior"];"+coronal-0jqz165icxw0"--"+anterior-0jqz165icxw3";"+voice-0jqz165icxw5"[label="+voice"];"+anterior-0jqz165icxw3"--"+voice-0jqz165icxw5";"+nasal-0jqz165icxw8"[label="+nasal"];"+voice-0jqz165icxw5"--"+nasal-0jqz165icxw8";"n\nɳ / n-0jqz165icxwa"[label="n\nɳ / n"];"+nasal-0jqz165icxw8"--"n\nɳ / n-0jqz165icxwa";"-nasal-0jqz165icxwg"[label="-nasal"];"+voice-0jqz165icxw5"--"-nasal-0jqz165icxwg";"z\nʝ / z-0jqz165icxwi"[label="z\nʝ / z"];"-nasal-0jqz165icxwg"--"z\nʝ / z-0jqz165icxwi";"-voice-0jqz165icxwu"[label="-voice"];"+anterior-0jqz165icxw3"--"-voice-0jqz165icxwu";"s\nç / s-0jqz165icxww"[label="s\nç / s"];"-voice-0jqz165icxwu"--"s\nç / s-0jqz165icxww";"-anterior-0jqz165icxxc"[label="-anterior"];"+coronal-0jqz165icxw0"--"-anterior-0jqz165icxxc";"+voice-0jqz165icxxe"[label="+voice"];"-anterior-0jqz165icxxc"--"+voice-0jqz165icxxe";"j\nɟ / d͡ʒ-0jqz165icxxh"[label="j\nɟ / d͡ʒ"];"+voice-0jqz165icxxe"--"j\nɟ / d͡ʒ-0jqz165icxxh";"- voice-0jqz165icxxn"[label="- voice"];"-anterior-0jqz165icxxc"--"- voice-0jqz165icxxn";"c\nc / t͡ʃ-0jqz165icxxq"[label="c\nc / t͡ʃ"];"- voice-0jqz165icxxn"--"c\nc / t͡ʃ-0jqz165icxxq";"-coronal-0jqz165icxzj"[label="-coronal"];"consonants-0jqz165icxvs"--"-coronal-0jqz165icxzj";"+voice-0jqz165icxzm"[label="+voice"];"-coronal-0jqz165icxzj"--"+voice-0jqz165icxzm";"+nasal-0jqz165icxzo"[label="+nasal"];"+voice-0jqz165icxzm"--"+nasal-0jqz165icxzo";"+labial-0jqz165icxzq"[label="+labial"];"+nasal-0jqz165icxzo"--"+labial-0jqz165icxzq";"m\nŋ͡m / m-0jqz165icxzs"[label="m\nŋ͡m / m"];"+labial-0jqz165icxzq"--"m\nŋ͡m / m-0jqz165icxzs";"-labial-0jqz165icxzz"[label="-labial"];"+nasal-0jqz165icxzo"--"-labial-0jqz165icxzz";"ñ\nɴ / ɦ̃-0jqz165icy01"[label="ñ\nɴ / ɦ̃"];"-labial-0jqz165icxzz"--"ñ\nɴ / ɦ̃-0jqz165icy01";"-nasal-0jqz165icy0d"[label="-nasal"];"+voice-0jqz165icxzm"--"-nasal-0jqz165icy0d";"+labial-0jqz165icy0f"[label="+labial"];"-nasal-0jqz165icy0d"--"+labial-0jqz165icy0f";"+constricted-0jqz165icy0i"[label="+constricted"];"+labial-0jqz165icy0f"--"+constricted-0jqz165icy0i";"w\nw / v-0jqz165icy0q"[label="w\nw / v"];"+constricted-0jqz165icy0i"--"w\nw / v-0jqz165icy0q";"-constricted-0jqz165icy0v"[label="-constricted"];"+labial-0jqz165icy0f"--"-constricted-0jqz165icy0v";"b\ng͡b / b-0jqz165icy0y"[label="b\ng͡b / b"];"-constricted-0jqz165icy0v"--"b\ng͡b / b-0jqz165icy0y";"-labial-0jqz165icy1a"[label="-labial"];"-nasal-0jqz165icy0d"--"-labial-0jqz165icy1a";"g\nɡ / ʕ-0jqz165icy1c"[label="g\nɡ / ʕ"];"-labial-0jqz165icy1a"--"g\nɡ / ʕ-0jqz165icy1c";"-voice-0jqz165icy2i"[label="-voice"];"-coronal-0jqz165icxzj"--"-voice-0jqz165icy2i";"+labial-0jqz165icy2l"[label="+labial"];"-voice-0jqz165icy2i"--"+labial-0jqz165icy2l";"p\nk͡p / p-0jqz165icy2n"[label="p\nk͡p / p"];"+labial-0jqz165icy2l"--"p\nk͡p / p-0jqz165icy2n";"-labial-0jqz165icy2s"[label="-labial"];"-voice-0jqz165icy2i"--"-labial-0jqz165icy2s";"q\nq / ħ-0jqz165icy2v"[label="q\nq / ħ"];"-labial-0jqz165icy2s"--"q\nq / ħ-0jqz165icy2v";}
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"consonants-0ju80zlhce8n"[label="consonants"];"+coronal-0ju80zlhce98"[label="+coronal"];"consonants-0ju80zlhce8n"--"+coronal-0ju80zlhce98";"+anterior-0ju80zlhceaa"[label="+anterior"];"+coronal-0ju80zlhce98"--"+anterior-0ju80zlhceaa";"+voice-0ju80zlhceb3"[label="+voice"];"+anterior-0ju80zlhceaa"--"+voice-0ju80zlhceb3";"+nasal-0ju80zlhcebu"[label="+nasal"];"+voice-0ju80zlhceb3"--"+nasal-0ju80zlhcebu";"n
+ɳ / n-0ju80zlhcecj"[label="n
+ɳ / n"];"+nasal-0ju80zlhcebu"--"n
+ɳ / n-0ju80zlhcecj";"-nasal-0ju80zlhcec2"[label="-nasal"];"+voice-0ju80zlhceb3"--"-nasal-0ju80zlhcec2";"z
+ʝ / z-0ju80zlhceda"[label="z
+ʝ / z"];"-nasal-0ju80zlhcec2"--"z
+ʝ / z-0ju80zlhceda";"-voice-0ju80zlhcebc"[label="-voice"];"+anterior-0ju80zlhceaa"--"-voice-0ju80zlhcebc";"s
+ç / s-0ju80zlhcee1"[label="s
+ç / s"];"-voice-0ju80zlhcebc"--"s
+ç / s-0ju80zlhcee1";"-anterior-0ju80zlhceai"[label="-anterior"];"+coronal-0ju80zlhce98"--"-anterior-0ju80zlhceai";"+voice-0ju80zlhceeu"[label="+voice"];"-anterior-0ju80zlhceai"--"+voice-0ju80zlhceeu";"j
+ɟ / d͡ʒ-0ju80zlhcefj"[label="j
+ɟ / d͡ʒ"];"+voice-0ju80zlhceeu"--"j
+ɟ / d͡ʒ-0ju80zlhcefj";"-voice-0ju80zlhcef2"[label="-voice"];"-anterior-0ju80zlhceai"--"-voice-0ju80zlhcef2";"c
+c / t͡ʃ-0ju80zlhceg9"[label="c
+c / t͡ʃ"];"-voice-0ju80zlhcef2"--"c
+c / t͡ʃ-0ju80zlhceg9";"-coronal-0ju80zlhce9h"[label="-coronal"];"consonants-0ju80zlhce8n"--"-coronal-0ju80zlhce9h";"+voice-0ju80zlhceh5"[label="+voice"];"-coronal-0ju80zlhce9h"--"+voice-0ju80zlhceh5";"+nasal-0ju80zlhcehw"[label="+nasal"];"+voice-0ju80zlhceh5"--"+nasal-0ju80zlhcehw";"+labial-0ju80zlhceil"[label="+labial"];"+nasal-0ju80zlhcehw"--"+labial-0ju80zlhceil";"m
+ŋ͡m / m-0ju80zlhceja"[label="m
+ŋ͡m / m"];"+labial-0ju80zlhceil"--"m
+ŋ͡m / m-0ju80zlhceja";"-labial-0ju80zlhceit"[label="-labial"];"+nasal-0ju80zlhcehw"--"-labial-0ju80zlhceit";"ñ
+ɴ / ɦ̃-0ju80zlhcejz"[label="ñ
+ɴ / ɦ̃"];"-labial-0ju80zlhceit"--"ñ
+ɴ / ɦ̃-0ju80zlhcejz";"-nasal-0ju80zlhcei4"[label="-nasal"];"+voice-0ju80zlhceh5"--"-nasal-0ju80zlhcei4";"+labial-0ju80zlhcekr"[label="+labial"];"-nasal-0ju80zlhcei4"--"+labial-0ju80zlhcekr";"+constricted-0ju80zlhcelh"[label="+constricted"];"+labial-0ju80zlhcekr"--"+constricted-0ju80zlhcelh";"w
+w / v-0ju80zlhcem6"[label="w
+w / v"];"+constricted-0ju80zlhcelh"--"w
+w / v-0ju80zlhcem6";"-constricted-0ju80zlhcelp"[label="-constricted"];"+labial-0ju80zlhcekr"--"-constricted-0ju80zlhcelp";"b
+g͡b / b-0ju80zlhcemw"[label="b
+g͡b / b"];"-constricted-0ju80zlhcelp"--"b
+g͡b / b-0ju80zlhcemw";"-labial-0ju80zlhcekz"[label="-labial"];"-nasal-0ju80zlhcei4"--"-labial-0ju80zlhcekz";"g
+ɡ / ʕ-0ju80zlhceno"[label="g
+ɡ / ʕ"];"-labial-0ju80zlhcekz"--"g
+ɡ / ʕ-0ju80zlhceno";"-voice-0ju80zlhcehd"[label="-voice"];"-coronal-0ju80zlhce9h"--"-voice-0ju80zlhcehd";"+labial-0ju80zlhceoi"[label="+labial"];"-voice-0ju80zlhcehd"--"+labial-0ju80zlhceoi";"p
+k͡p / p-0ju80zlhcep8"[label="p
+k͡p / p"];"+labial-0ju80zlhceoi"--"p
+k͡p / p-0ju80zlhcep8";"-labial-0ju80zlhceoq"[label="-labial"];"-voice-0ju80zlhcehd"--"-labial-0ju80zlhceoq";"q
+q / ħ-0ju80zlhcepx"[label="q
+q / ħ"];"-labial-0ju80zlhceoq"--"q
+q / ħ-0ju80zlhcepx";}
 #+end_src
 
 #+html: <ImgFigure src="/img/proto-nyqy/consonant-feature-tree.png" alt="Feature Tree of Proto-Ñyqy Consonants">Feature Tree of Proto-Ñyqy Consonants</ImgFigure>
@@ -158,41 +180,21 @@ aware of these.
 
 **** Private Data                                               :noexport:
 #+name: consonants-featural-list
-- consonants
-  - +coronal
-    - +anterior
-      - +voice
-        - +nasal
-          - n\nɳ / n
-        - -nasal
-          - z\nʝ / z
-      - -voice
-        - s\nç / s
-    - -anterior
-      - +voice
-        - j\nɟ / d͡ʒ
-      - - voice
-        - c\nc / t͡ʃ
-  - -coronal
-    - +voice
-      - +nasal
-        - +labial
-          - m\nŋ͡m / m
-        - -labial
-          - ñ\nɴ / ɦ̃
-      - -nasal
-        - +labial
-          - +constricted
-            - w\nw / v
-          - -constricted
-            - b\ng͡b / b
-        - -labial
-          - g\nɡ / ʕ
-    - -voice
-      - +labial
-        - p\nk͡p / p
-      - -labial
-        - q\nq / ħ
+#+begin_src emacs-lisp
+'("coronal"
+  ("anterior"
+   ("voice"
+    ("nasal" "n\nɳ / n" "z\nʝ / z")
+    "s\nç / s")
+   ("voice" "j\nɟ / d͡ʒ" "c\nc / t͡ʃ"))
+  ("voice"
+   ("nasal"
+    ("labial" "m\nŋ͡m / m" "ñ\nɴ / ɦ̃")
+    ("labial"
+     ("constricted" "w\nw / v" "b\ng͡b / b")
+     "g\nɡ / ʕ"))
+   ("labial" "p\nk͡p / p" "q\nq / ħ")))
+#+end_src
 
 *** Pitch and Stress
 It is definitively known Proto-Ñyqy had a stress system that was used

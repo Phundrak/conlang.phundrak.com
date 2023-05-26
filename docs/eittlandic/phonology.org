@@ -341,12 +341,12 @@ lists the Eittlandic diphthongs.
 #+name: vow-dot-gen
 #+header: :var vowels=vowels-featural-list
 #+begin_src emacs-lisp :wrap "src dot :file eittlandic/vowel-feature-tree.png :results none :eval no-export"
-(conlanging-list-to-graphviz vowels)
+(conlanging-graphviz-feature-tree vowels :label "vowels")
 #+end_src
 
-#+RESULTS[e1868783b51cb33971edbf34bfff0a0a8b65f75c]: vow-dot-gen
+#+RESULTS[c723b412fc993fadd185fd61b5d05018b76844ac]: vow-dot-gen
 #+begin_src dot :file eittlandic/vowel-feature-tree.png :results none :eval no-export
-graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jqz15bnkngz"[label="vowels"];"+high-0jqz15bnkni2"[label="+high"];"vowels-0jqz15bnkngz"--"+high-0jqz15bnkni2";"+round-0jqz15bnknid"[label="+round"];"+high-0jqz15bnkni2"--"+round-0jqz15bnknid";"+front-0jqz15bnknin"[label="+front"];"+round-0jqz15bnknid"--"+front-0jqz15bnknin";"/y/-0jqz15bnkniw"[label="/y/"];"+front-0jqz15bnknin"--"/y/-0jqz15bnkniw";"-front-0jqz15bnknjj"[label="-front"];"+round-0jqz15bnknid"--"-front-0jqz15bnknjj";"/u/-0jqz15bnknjs"[label="/u/"];"-front-0jqz15bnknjj"--"/u/-0jqz15bnknjs";"-round-0jqz15bnknlg"[label="-round"];"+high-0jqz15bnkni2"--"-round-0jqz15bnknlg";"/i/-0jqz15bnknlq"[label="/i/"];"-round-0jqz15bnknlg"--"/i/-0jqz15bnknlq";"-high-0jqz15bnknnh"[label="-high"];"vowels-0jqz15bnkngz"--"-high-0jqz15bnknnh";"+round-0jqz15bnknnr"[label="+round"];"-high-0jqz15bnknnh"--"+round-0jqz15bnknnr";"+tense-0jqz15bnkno0"[label="+tense"];"+round-0jqz15bnknnr"--"+tense-0jqz15bnkno0";"+front-0jqz15bnknoa"[label="+front"];"+tense-0jqz15bnkno0"--"+front-0jqz15bnknoa";"/ø/-0jqz15bnknoj"[label="/ø/"];"+front-0jqz15bnknoa"--"/ø/-0jqz15bnknoj";"-front-0jqz15bnknp8"[label="-front"];"+tense-0jqz15bnkno0"--"-front-0jqz15bnknp8";"/o/-0jqz15bnknpi"[label="/o/"];"-front-0jqz15bnknp8"--"/o/-0jqz15bnknpi";"-tense-0jqz15bnknqs"[label="-tense"];"+round-0jqz15bnknnr"--"-tense-0jqz15bnknqs";"+low-0jqz15bnknr2"[label="+low"];"-tense-0jqz15bnknqs"--"+low-0jqz15bnknr2";"/œ/-0jqz15bnknrb"[label="/œ/"];"+low-0jqz15bnknr2"--"/œ/-0jqz15bnknrb";"-low-0jqz15bnknrz"[label="-low"];"-tense-0jqz15bnknqs"--"-low-0jqz15bnknrz";"/ɔ/-0jqz15bnkns9"[label="/ɔ/"];"-low-0jqz15bnknrz"--"/ɔ/-0jqz15bnkns9";"-round-0jqz15bnknv3"[label="-round"];"-high-0jqz15bnknnh"--"-round-0jqz15bnknv3";"+tense-0jqz15bnknvd"[label="+tense"];"-round-0jqz15bnknv3"--"+tense-0jqz15bnknvd";"/e/-0jqz15bnknvm"[label="/e/"];"+tense-0jqz15bnknvd"--"/e/-0jqz15bnknvm";"-tense-0jqz15bnknw7"[label="-tense"];"-round-0jqz15bnknv3"--"-tense-0jqz15bnknw7";"+low-0jqz15bnknwg"[label="+low"];"-tense-0jqz15bnknw7"--"+low-0jqz15bnknwg";"/ɑ/-0jqz15bnknwq"[label="/ɑ/"];"+low-0jqz15bnknwg"--"/ɑ/-0jqz15bnknwq";"-low-0jqz15bnknxc"[label="-low"];"-tense-0jqz15bnknw7"--"-low-0jqz15bnknxc";"/ɛ/-0jqz15bnknxl"[label="/ɛ/"];"-low-0jqz15bnknxc"--"/ɛ/-0jqz15bnknxl";}
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju80zwg7uit"[label="vowels"];"+high-0ju80zwg7ujg"[label="+high"];"vowels-0ju80zwg7uit"--"+high-0ju80zwg7ujg";"+round-0ju80zwg7ukn"[label="+round"];"+high-0ju80zwg7ujg"--"+round-0ju80zwg7ukn";"+front-0ju80zwg7uli"[label="+front"];"+round-0ju80zwg7ukn"--"+front-0ju80zwg7uli";"/y/-0ju80zwg7ume"[label="/y/"];"+front-0ju80zwg7uli"--"/y/-0ju80zwg7ume";"-front-0ju80zwg7uls"[label="-front"];"+round-0ju80zwg7ukn"--"-front-0ju80zwg7uls";"/u/-0ju80zwg7un4"[label="/u/"];"-front-0ju80zwg7uls"--"/u/-0ju80zwg7un4";"-round-0ju80zwg7ukw"[label="-round"];"+high-0ju80zwg7ujg"--"-round-0ju80zwg7ukw";"/i/-0ju80zwg7unw"[label="/i/"];"-round-0ju80zwg7ukw"--"/i/-0ju80zwg7unw";"-high-0ju80zwg7ujs"[label="-high"];"vowels-0ju80zwg7uit"--"-high-0ju80zwg7ujs";"+round-0ju80zwg7uon"[label="+round"];"-high-0ju80zwg7ujs"--"+round-0ju80zwg7uon";"+tense-0ju80zwg7uph"[label="+tense"];"+round-0ju80zwg7uon"--"+tense-0ju80zwg7uph";"+front-0ju80zwg7uq9"[label="+front"];"+tense-0ju80zwg7uph"--"+front-0ju80zwg7uq9";"/ø/-0ju80zwg7ur2"[label="/ø/"];"+front-0ju80zwg7uq9"--"/ø/-0ju80zwg7ur2";"-front-0ju80zwg7uqk"[label="-front"];"+tense-0ju80zwg7uph"--"-front-0ju80zwg7uqk";"/o/-0ju80zwg7urs"[label="/o/"];"-front-0ju80zwg7uqk"--"/o/-0ju80zwg7urs";"-tense-0ju80zwg7upp"[label="-tense"];"+round-0ju80zwg7uon"--"-tense-0ju80zwg7upp";"+low-0ju80zwg7usp"[label="+low"];"-tense-0ju80zwg7upp"--"+low-0ju80zwg7usp";"/œ/-0ju80zwg7uth"[label="/œ/"];"+low-0ju80zwg7usp"--"/œ/-0ju80zwg7uth";"-low-0ju80zwg7usz"[label="-low"];"-tense-0ju80zwg7upp"--"-low-0ju80zwg7usz";"/ɔ/-0ju80zwg7uu6"[label="/ɔ/"];"-low-0ju80zwg7usz"--"/ɔ/-0ju80zwg7uu6";"-round-0ju80zwg7uoy"[label="-round"];"-high-0ju80zwg7ujs"--"-round-0ju80zwg7uoy";"+tense-0ju80zwg7uv2"[label="+tense"];"-round-0ju80zwg7uoy"--"+tense-0ju80zwg7uv2";"/e/-0ju80zwg7uvv"[label="/e/"];"+tense-0ju80zwg7uv2"--"/e/-0ju80zwg7uvv";"-tense-0ju80zwg7uvd"[label="-tense"];"-round-0ju80zwg7uoy"--"-tense-0ju80zwg7uvd";"+low-0ju80zwg7uwl"[label="+low"];"-tense-0ju80zwg7uvd"--"+low-0ju80zwg7uwl";"/ɑ/-0ju80zwg7uxc"[label="/ɑ/"];"+low-0ju80zwg7uwl"--"/ɑ/-0ju80zwg7uxc";"-low-0ju80zwg7uwv"[label="-low"];"-tense-0ju80zwg7uvd"--"-low-0ju80zwg7uwv";"/ɛ/-0ju80zwg7uy0"[label="/ɛ/"];"-low-0ju80zwg7uwv"--"/ɛ/-0ju80zwg7uy0";}
 #+end_src
 
 #+html: <ImgFigure src="/img/eittlandic/vowel-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Eittlandic Vowels Featural Tree</ImgFigure>
@@ -367,35 +367,19 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jqz15b
 
 *** Private Data                                                :noexport:
 #+name: vowels-featural-list
-- vowels
-  - +high
-    - +round
-      - +front
-        - /y/
-      - -front
-        - /u/
-    - -round
-      - /i/
-  - -high
-    - +round
-      - +tense
-        - +front
-          - /ø/
-        - -front
-          - /o/
-      - -tense
-        - +low
-          - /œ/
-        - -low
-          - /ɔ/
-    - -round
-      - +tense
-        - /e/
-      - -tense
-        - +low
-          - /ɑ/
-        - -low
-          - /ɛ/
+#+begin_src emacs-lisp
+'("high"
+  ("round"
+   ("front" "/y/" "/u/")
+   "/i/")
+  ("round"
+   ("tense"
+    ("front" "/ø/" "/o/")
+    ("low" "/œ/" "/ɔ/"))
+   ("tense"
+    "/e/"
+    ("low" "/ɑ/" "/ɛ/"))))
+#+end_src
 
 ** Consonant Inventory
 /Under construction/
