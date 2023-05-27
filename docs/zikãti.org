@@ -111,7 +111,7 @@ most of them are bound morphenes and not words by themselves, such as
 anything on its own, speakers of Zikãti cannot use it by itself.
 
 For the meaning of some abbreviations in the list of prefixes and
-suffixes, see [[file:zikãti.md#Abbreviations][Abbreviations]].
+suffixes, see [[file:zikãti.md#abbreviations][Abbreviations]].
 
 ***** Prefixes
 - hi- :: INSTV
