@@ -1,0 +1,289 @@
+#+title: Zikãti
+#+setupfile: headers
+
+* Zikãti
+Zikãti ({{{phon(d̻͡zikãti)}}}) is an agglutinative language I am currently
+working on as an experiment. It doesn’t have any worldbuilding around
+it yet and may never have. I’m mostly experimenting with vocabulary
+generation with a language relying heavily on affixes modifying the
+meaning of a root word.
+
+** Phonology
+*** Consonants
+Zikãti has a moderately small consonant inventory with seventeen
+phonemes. Three of these phonemes are prenasalized plosives, and its
+alveolar consonants are laminal.
+- b ::  {{{phon(b)}}}
+- d ::  {{{phon(d̻)}}}
+- g ::  {{{phon(ŋ)}}}
+- h ::  {{{phon(h)}}}
+- k ::  {{{phon(k)}}}
+- l ::  {{{phon(ʟ)}}}
+- m ::  {{{phon(m)}}}
+- mb ::  {{{phon(ᵐb)}}}
+- n ::  {{{phon(n̻)}}}
+- nd ::  {{{phon(ⁿd̻)}}}
+- nz ::  {{{phon(ⁿd̻͡z)}}}
+- p ::  {{{phon(p)}}}
+- q ::  {{{phon(kʷ)}}}
+- r ::  {{{phon(r̻)}}}
+- s ::  {{{phon(s̻)}}}
+- t ::  {{{phon(t̻)}}}
+- z ::  {{{phon(d̻͡z)}}}
+
+|                              | bilabial | lamino-alveolar | velar | labial-velar | glottal |
+|------------------------------+----------+-----------------+-------+--------------+---------|
+| nasal                        | m        | n               | g     |              |         |
+| nasalized plosive            | mb       | nd              |       |              |         |
+| nasalized sibilant affricate |          | nz              |       |              |         |
+| plosive                      | p b      | t d             | k     | q            |         |
+| affricate                    |          | z               |       |              |         |
+| fricative                    |          | s               |       |              | h       |
+| trill                        |          | r               |       |              |         |
+| lateral approximant          |          |                 | l     |              |         |
+
+*** Vowels
+Zikãti has a total of six vowels, which makes it relatively average in
+terms of size. Three of these vowels are nazalised:
+- a :: {{{phon(a)}}}
+- ã :: {{{phon(ã)}}}
+- ẽ :: {{{phon(ɛ̃)}}}
+- i :: {{{phon(i)}}}
+- õ :: {{{phon(ɔ̃)}}}
+- u :: {{{phon(u)}}}
+
+#+name: vow-dot-gen
+#+header: :var vowels=vowels-featural-list
+#+begin_src emacs-lisp :wrap "src dot :file ./zikati/vowel-feature-tree.png :eval no-export :mkdirp t :results none"
+(conlanging-graphviz-feature-tree vowels :label "vowels")
+#+end_src
+
+#+RESULTS[186d29b605ead5cf2fc03c537509869aa1e7cfd3]: vow-dot-gen
+#+begin_src dot :file ./zikati/vowel-feature-tree.png :eval no-export :mkdirp t :results none
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju8102v5o9f"[label="vowels"];"+round-0ju8102v5o9y"[label="+round"];"vowels-0ju8102v5o9f"--"+round-0ju8102v5o9y";"+nasal-0ju8102v5ob0"[label="+nasal"];"+round-0ju8102v5o9y"--"+nasal-0ju8102v5ob0";"/ɔ̃/-0ju8102v5obs"[label="/ɔ̃/"];"+nasal-0ju8102v5ob0"--"/ɔ̃/-0ju8102v5obs";"-nasal-0ju8102v5oba"[label="-nasal"];"+round-0ju8102v5o9y"--"-nasal-0ju8102v5oba";"/u/-0ju8102v5ocj"[label="/u/"];"-nasal-0ju8102v5oba"--"/u/-0ju8102v5ocj";"-round-0ju8102v5oa7"[label="-round"];"vowels-0ju8102v5o9f"--"-round-0ju8102v5oa7";"+low-0ju8102v5odd"[label="+low"];"-round-0ju8102v5oa7"--"+low-0ju8102v5odd";"+nasal-0ju8102v5oe3"[label="+nasal"];"+low-0ju8102v5odd"--"+nasal-0ju8102v5oe3";"/ã/-0ju8102v5oet"[label="/ã/"];"+nasal-0ju8102v5oe3"--"/ã/-0ju8102v5oet";"-nasal-0ju8102v5oec"[label="-nasal"];"+low-0ju8102v5odd"--"-nasal-0ju8102v5oec";"/a/-0ju8102v5ofj"[label="/a/"];"-nasal-0ju8102v5oec"--"/a/-0ju8102v5ofj";"-low-0ju8102v5odm"[label="-low"];"-round-0ju8102v5oa7"--"-low-0ju8102v5odm";"+nasal-0ju8102v5oga"[label="+nasal"];"-low-0ju8102v5odm"--"+nasal-0ju8102v5oga";"/ɛ̃/-0ju8102v5ogz"[label="/ɛ̃/"];"+nasal-0ju8102v5oga"--"/ɛ̃/-0ju8102v5ogz";"-nasal-0ju8102v5ogi"[label="-nasal"];"-low-0ju8102v5odm"--"-nasal-0ju8102v5ogi";"/i/-0ju8102v5oho"[label="/i/"];"-nasal-0ju8102v5ogi"--"/i/-0ju8102v5oho";}
+#+end_src
+
+#+html: <ImgFigure src="/img/zikati/vowel-feature-tree.png" alt="Zikãti Vowel Featural Tree">Zikãti Vowels Featural Tree</ImgFigure>
+
+**** Private Data                                                  :noexport:
+#+name: vowels-featural-list
+#+begin_src emacs-lisp
+'("round"
+  ("nasal" "/ɔ̃/" "/u/")
+  ("low"
+   ("nasal" "/ã/" "/a/")
+   ("nasal" "/ɛ̃/" "/i/")))
+#+end_src
+
+*** Syllable and word structure
+| Group     | Consonants                           |
+|-----------+--------------------------------------|
+| C         | m n g mb nd nz p b t d z k q s h r l |
+| C_{2}        | g p b t d z k q r h                  |
+| V         | i u ẽ õ a ã                          |
+| V[-nasal] | i u a                                |
+| V[+nasal] | ã ẽ õ                                |
+
+Prefixes follow the (C_{2})V[-nasal] phonetic structure, with C_{2} being
+optional. Suffixes follow the CV[+nasal](C_{2}) structure with C_{2} being
+optional.
+
+Roots are a bit more complex, with a C(V[+nasal](C_{2})C)V[-nasal](C_{2})
+structure.
+
+The only consonants that can follow the vowels /õ/ and /ẽ/ are non-nasal
+plosive consonants. These two vowels cannot follow the consonants /m/,
+/n/, or /g/. If such an occurence is created be it while constructing a
+word or when they co-occur between words, a dummy {{{phon(u)}}} is added.
+
+A word may contain one or more core roots which affixes cannot
+separate but which can aggregate around this word core. A word can
+consist of its bare core only, or the core surrounded by affixes. The
+amount of prefixes and suffixes is independent from each other.
+
+** Grammar
+*** Word structure
+**** Affixes
+Most words in Zikãti is an agglutination of affixes around one or more
+roots or words. Roots are relatively rare to find by themselves since
+most of them are bound morphenes and not words by themselves, such as
+/kãti/ which expresses the idea of a mountain but doesn’t really mean
+anything on its own, speakers of Zikãti cannot use it by itself.
+
+For the meaning of some abbreviations in the list of prefixes and
+suffixes, see [[file:zikãti.md#Abbreviations][Abbreviations]].
+
+***** Prefixes
+- hi- :: INSTV
+- hu- :: TOOL
+- i- :: COL
+- ka- :: POSSIB
+- pi- :: DIM
+- qa- :: AUG
+- qi- :: ADJ
+- qu- :: PROG
+- ra- :: LOC
+- ru- :: NEG
+- ti- :: CAUS
+- zi- :: PERS
+
+***** Suffixes
+- -dãt :: PART
+- -gãs :: AGAT
+- -hãr :: NECESS
+- -hẽ :: INTR
+- -kõt :: PARTN
+- -nzẽz :: AVER
+- -rã :: TR
+- -sõr :: NOMIN
+- -zãr :: PASS
+
+*** Word order
+Zikãti is a postpositional language following the SOV word order in
+main clauses, meaning the verb comes last whereas the subject comes
+first and the object slots itself between the subject and the verb.
+However, due to the language’s agglutinative nature, the speaker can
+omit them in the sentence if the verb’s agreement is enough in context
+to determine what is being talked about.
+
+#+html: ::: tip Example
+sahhẽqulur
+- sah-hẽ-qu-lur
+- spirit.mind-INTR-PROG-2sg.NOM.PST
+You were thinking
+#+html: :::
+
+#+html: ::: tip Example
+zimbi mbisõr mbirãilih
+- zi-mbi mbi-sõr mbi-rã-i-lih
+- PERS-meat.food meat.food-NOMIN meat.food-TR-3s.NOM.NPST-3s.ACC.NPST
+The cook prepares a meal
+#+html: :::
+
+Other elements that are not the subject or the object, such as a
+dative or an oblique element, get slotted between the subject and the
+object.
+
+#+html: ::: tip Example
+zimbi pimbi ziirailik timbirãhilih
+- zi-mbi pi-mbi zi-i-ra-i-lik ti-mbi-rã-hi-lih
+- PERS-meat.food DIM-COL-LOC-COL-person.human
+  CAUS-meat.food-TR-3s.NOM.PST-3s.ACC.PST
+A cook fed a villager a snack
+#+html: :::
+
+**** Noun phrase order
+In noun phrases, adjectives, relatives clauses, numerals, possessives,
+and genitives preceed the noun while determiners follow it. By order
+of element closest to the noun, they rank as follows:
+- determiner
+- possessive
+- adjective
+- numeral
+- genitive
+- relative
+
+*** Verbs
+Verbs in Zikãti agree with their subject and object in person and
+number, with anaphoric clitics, but these clitics also indicate the
+tense of the verb. Zikãti has two tenses: past and non-past which
+expresses present and future as well as near-past when its events
+still carry over to the present.
+
+Anaphoric clitics are suffixed to the verb with the subject first
+followed by the object’s clitic.
+
+|     | non-past subject | non-past object | past subject | past object |
+|-----+------------------+-----------------+--------------+-------------|
+| 1s  | qa               | tut             | raq          | qut         |
+| 2s  | lu               | pia             | lur          | a           |
+| 3s  | i                | lih             | hi           | lih         |
+| 4s  | bu               | qur             | bu           | qur         |
+| 1px | gai              | ar              | gai          | tar         |
+| 1pi | zu               | iq              | qir          | zur         |
+| 2p  | lai              | iaz             | uit          | iaz         |
+| 3p  | pi               | up              | au           | up          |
+
+#+html: ::: tip Example
+- kãtikõthẽqa :: I hike
+- kãtikõthẽbu :: it hikes
+- kãtikõthẽgai :: we (but not the interlocutor) hike
+#+html: :::
+
+** Abbreviations
+- ACC :: accusative
+- ADJ :: adjective
+- adj. :: adjective
+- adv. :: adverb
+- AGAT :: agative (prone to smth, liking)
+- AUG :: augmentative
+- AVER :: avertive, badness
+- CAUS :: causative
+- COL :: collective, collection
+- con. :: concept
+- DIM :: diminutive
+- INSTV :: instantiative
+- INTR :: intransitive verb
+- LOC :: locative
+- n. :: noun
+- NECESS :: necessitive
+- NEG :: negative
+- NOM :: nominative
+- NOMIN :: nominalisation, nominalizer
+- NPST :: non-past
+- PART :: participle
+- PARTN :: partisan
+- PASS :: passive verb
+- PERS :: person
+- POSSIB :: possibility, capacity, ability
+- PROG :: progressive, process
+- PST :: past
+- TOOL :: thing, tool
+- TR :: transitive verb
+- vi. :: intransitive verb
+- vt. :: transitive verb
+
+** Vocabulary
+*** mbi - meat, food
+- mbi (n.) :: meat, food
+- mbisõr (n.) :: a meal
+- mbihẽ (vi.) :: to cook, to prepare food
+  #+html: ::: tip Example
+  qumbihẽqa
+  - qu-mbi-hẽ-qa
+  - PROG-meat.food-INTR-1s
+  I’m preparing food / I’m cooking
+  #+html: :::
+- mbirã (vt.) :: to cook (something)
+  #+html: ::: tip Example
+  zimbi mbisõr qumbirãiqur
+  - zi-mbi mbi-sõr qu-mbi-rã-i-qur
+  - PERS-meat.food meat.food-NOMIN PROG-meat.food-TR-3s.NOM-4s.ACC
+  The cook is cooking the meal
+  #+html: :::
+- mbirãzãr (vt.) :: to be cooked by
+  #+html: ::: tip Example
+  mbisõr zimbi qumbirãzãrbulih
+  - mbi-sõr zi-mbi qu-mbi-rã-zãr-bu-lih
+  - meat.food-NOMIN PERS-meat.food PROG-meat.food-TR-PASS-4s.NOM-3s.ACC
+  The meal is being cooked by the cook
+  #+html: :::
+- qimbi (adj.) :: edible
+- mbidãt (adj.) :: cooked
+- zimbi (n.) :: a cook, chef
+- rambi (n.) :: a kitchen
+- zirambi (n.) :: a chef
+- humbi (n.) :: a knife
+- humbihẽ (vi.) :: to stick a knife in something
+- humbirã (vt.) :: to cut
+- zihumbirã (n.) :: a butcher
+- humbirãsõr (n.) :: a cut
+- timbirã (vt.) :: to feed someone
+- timbihẽ (vi.) :: to feed oneself
+- qambi (n.) :: a meal, feast
+- pimbi (n.) :: a snack
+*** keti - mountain
+- kãti (n., concept) :: mountain
+- kãtisõr :: a mountain
+- pikãti (n.) :: a hill
+- qakãti (n.) :: summit
