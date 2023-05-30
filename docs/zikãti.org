@@ -276,12 +276,15 @@ followed by the object’s clitic.
 - humbi (n.) :: a knife
 - humbihẽ (vi.) :: to stick a knife in something
 - humbirã (vt.) :: to cut
-- zihumbirã (n.) :: a butcher
+- zihumbi (n.) :: a butcher
+- zihumbihẽ (vi.) :: to prepare meat
+- zihumbirã (vt.) :: to butcher
 - humbirãsõr (n.) :: a cut
 - timbirã (vt.) :: to feed someone
 - timbihẽ (vi.) :: to feed oneself
 - qambi (n.) :: a meal, feast
 - pimbi (n.) :: a snack
+
 *** keti - mountain
 - kãti (n., concept) :: mountain
 - kãtisõr :: a mountain
