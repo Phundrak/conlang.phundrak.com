@@ -394,7 +394,7 @@ and seafood exports represented 35.3% of Eittland’s exports.
 
 In 1826, the country underwent a change in its government, going from
 an absolute monarchy to a constitutional monarchy. More details in
-[[file:/country.md#constitutional-monarchy][Constitutional Monarchy]].
+[[file:./country.md#constitutional-monarchy][Constitutional Monarchy]].
 
 *** 20th Century, World Wars, and Europe
 At the turn of the century, Eittland became an important hub of
