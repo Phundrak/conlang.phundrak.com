@@ -77,7 +77,7 @@ sm. {{{phon(brɛð)}}}
 See [[file:dictionary.md#broð][/bróð/]]
 
 *** bróð
-sm. {{{phon(brɔð)}}} , from ON [[https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir][bróðir]]
+sm. {{{phon(brɔ̀ð)}}} , from ON [[https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir][bróðir]]
 
 1. brother, plural /bræð/
 
@@ -94,7 +94,7 @@ re-analyzed into /bræð/ + /-ir/.
 |   | Dat. | bróð     | bræðum |
 
 *** bók
-sf. {{{phon(bɔk)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%B3k2][bók]]
+sf. {{{phon(bɔ̀k)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%B3k2][bók]]
 
 1. book, plural /bøk/
 
@@ -107,7 +107,7 @@ sf. {{{phon(bɔk)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%B3k2][bók
 |   | Dat. | bók      | bøkum  |
 
 *** bøk
-sf. {{{phon(bøk)}}}
+sf. {{{phon(bø̀k)}}}
 
 See [[file:dictionary.md#bok(r)][/bók/]]
 
@@ -115,14 +115,14 @@ See [[file:dictionary.md#bok(r)][/bók/]]
 
 ** D
 *** djúp
-adj. {{{phon(dʒop)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
+adj. {{{phon(dʒòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
 1. deep
 2. profound (figuratively)
 
 *** djúplig
-adv. {{{phon(dʒopliɡ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/
-(see ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
+adv. {{{phon(dʒòpliɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
+ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
 1. deeply
 2. inherently
@@ -144,7 +144,7 @@ sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][
 
 ** E
 *** edd(a)
-wf. {{{phon(ed)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
+wf. {{{phon(e:d)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
 2. female ancestor, beyond the grandmother
@@ -197,7 +197,7 @@ sm. {{{phon(feð)}}}
 See [[file:dictionary.md#fað][/fað/]]
 
 *** fé
-wn. {{{phon(fɛ)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
+wn. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
 
 1. wealth
 
@@ -237,8 +237,8 @@ f. {{{phon(jøv)}}}
 1. gift, present
 
 ** H
-*** heilsa
-f. {{{phon(hɑɪls)}}}
+*** heils(a)
+f. {{{phon(hɑ:ɪls)}}}
 
 1. health
 *** hjól
@@ -250,8 +250,8 @@ n. {{{phon(l̥ɔð)}}}
 
 1. hearth
 2. living room
-*** hneisa
-f. {{{phon(n̥ɑɪs)}}}
+*** hneis(a)
+f. {{{phon(n̥ɑ:ɪs)}}}
 
 1. shame, disgrace
 2. social isolation
@@ -260,8 +260,8 @@ n. {{{phon(n̥ɑɪsinɡ)}}}
 
 1. hermit
 2. (modern) shut-in, hikikomori
-*** hnjósa
-v. {{{phon(ɲ̥ɔs)}}}
+*** hnjós(a)
+v. {{{phon(ɲ̥ɔ̀ːs)}}}
 
 1. to sneeze
 *** hrifs
@@ -273,7 +273,7 @@ adv. {{{phon(ʍɑt)}}}
 
 1. what
 *** hví
-adv. {{{phon(ʍe)}}}
+adv. {{{phon(ʍè)}}}
 
 1. why
 
@@ -293,10 +293,14 @@ n. {{{phon(kɔp)}}}
 ** L
 
 ** M
+*** myrɡun
+m. {{{phon(myrɡun)}}}
+
+1. morning, aurora
 
 ** N
 *** noregsúlf
-m. {{{phon(norejsolv)}}}
+m. {{{phon(norejsòlv)}}}
 
 1. wolf, litt. Norway’s wolf.
 
@@ -309,7 +313,7 @@ m. {{{phon(norejsolv)}}}
 
 ** Ó
 *** óglaðr
-adj. {{{phon(ɔɡʲɑðr̩)}}}
+adj. {{{phon(ɔ̀ɡʲɑðr̩)}}}
 
 1. very sad, depressed, miserable
 
@@ -336,24 +340,24 @@ From English *penguin*
 ** R
 
 ** S
-*** sitja
-v. {{{phon(sitʃ)}}}
+*** sitj(a)
+v. {{{phon(siːtʃ)}}}
 
 1. to sit
 2. to represent (politics)
 *** sjá
-v. {{{phon(ʃɛ)}}}
+v. {{{phon(ʃɛ̀)}}}
 
 1. to see
 2. to understand
 *** skilja
-v. {{{phon(ʃkiʎ)}}}
+v. {{{phon(ʃkiːʎ)}}}
 
 1. to differenciate
 2. to segregate, to separate
 3. to understand a difference
 *** snjór
-m. {{{phon(sɲɔr)}}}
+m. {{{phon(sɲɔ̀r)}}}
 
 1. snow
 
@@ -372,13 +376,13 @@ unity).
 
 ** U
 *** uppá
-prep. {{{phon(upɸə)}}}
+prep. {{{phon(upɸə̀)}}}
 
 1. upon
 
 ** Ú
 *** úlf
-m. {{{phon(olv)}}}
+m. {{{phon(òlv)}}}
 
 1. wolf-dog. See also /noregsúlfr/.
 
@@ -387,8 +391,8 @@ m. {{{phon(olv)}}}
 f. {{{phon(βɑɪshɑɪt)}}}
 
 1. knowledge or wisdom. From German /Weisheit/. See also /vizka/
-*** viska
-f. {{{phon(βiʃk)}}}
+*** visk(a)
+f. {{{phon(βiːʃk)}}}
 
 1. practical knowledge or wisdom, acquired from experience
 See /veisheit/ for a more general term for /wisdow/
