@@ -99,7 +99,11 @@ word or when they co-occur between words, a dummy {{{phon(u)}}} is added.
 A word may contain one or more core roots which affixes cannot
 separate but which can aggregate around this word core. A word can
 consist of its bare core only, or the core surrounded by affixes. The
-amount of prefixes and suffixes is independent from each other.
+amount of prefixes and suffixes that can be possibly added is
+independent from the amount of compounds forming the core of a word.
+
+An example is *sahlud* (/life/), which is a compound of *sah* (/spirit, mind/)
+and *lud* (/breath, life/).
 
 ** Grammar
 *** Word structure
@@ -127,6 +131,9 @@ suffixes, see [[file:zikãti.md#abbreviations][Abbreviations]].
 - ti- :: CAUS
 - zi- :: PERS
 
+When the negative prefix is associated with a verb, it acts as a
+negative towards the verb itself.
+
 ***** Suffixes
 - -dãt :: PART
 - -gãs :: AGAT
@@ -137,6 +144,7 @@ suffixes, see [[file:zikãti.md#abbreviations][Abbreviations]].
 - -rã :: TR
 - -sõr :: NOMIN
 - -zãr :: PASS
+- -qã :: SUBJ, attaches to verbs only, see [[file:zikãti#subclauses][subclauses]]
 
 *** Word order
 Zikãti is a postpositional language following the SOV word order in
@@ -210,6 +218,26 @@ followed by the object’s clitic.
 - kãtikõthẽgai :: we (but not the interlocutor) hike
 #+html: :::
 
+If the verb has an oblique argument, it will require an accusative
+anaphoric clitic and use a second one to agree with this third
+argument. If no object is available, a dummy accusative clitic *lih* or
+*qur* is used as a placeholder. The choice is made depending on whether
+the dummy object can be an animate or inanimate object respectively.
+
+**** Subclauses
+When using a subclause, the verb must be used in the subjunctive. This
+simply means speakers must add the *-qã* suffix at the end of the verb
+but before its anaphoric clitics, and the subclause itself must end
+with the nominalizer *-sõr*. The subclauses agrees with other verbs with
+the fourth singular person.
+
+#+html: ::: tip Example
+gi qusahsõr  mbihẽhãrqãsõr sahrãraqqur
+- from PROG-spirit.mind-NOMIN meat.food-INTR-NECESS-SUBJ-1s.NPST.NOM-NOMIN mind.spirit-TR-1s.PST.NOM-4s.PST.ACC
+- gi qu-sah-sõr  mbi-hẽ-hãr-qã-qa-sõr sah-rã-raq-qur
+I remembered I have to cook
+#+html: :::
+
 ** Abbreviations
 - ACC :: accusative
 - ADJ :: adjective
@@ -231,6 +259,7 @@ followed by the object’s clitic.
 - NOM :: nominative
 - NOMIN :: nominalisation, nominalizer
 - NPST :: non-past
+- OBL :: oblique
 - PART :: participle
 - PARTN :: partisan
 - PASS :: passive verb
@@ -238,30 +267,92 @@ followed by the object’s clitic.
 - POSSIB :: possibility, capacity, ability
 - PROG :: progressive, process
 - PST :: past
+- SUBJ :: subjunctive, irrealis
 - TOOL :: thing, tool
 - TR :: transitive verb
-- vi. :: intransitive verb
-- vt. :: transitive verb
 
 ** Vocabulary
+
+*** banzi - hand
+- banzi (n.) :: hand
+
+*** banzida - nail (hand)
+See [[file:./zikãti#banzi-hand][banzi]] and [[file:./zikãti#da-bone][da]].
+
+- banzida (n.) :: nail (of a hand)
+
+*** da - bone
+- da (n.) :: bone
+
+*** disur - body
+- disur (n.) :: body
+
+*** disurda - skeleton
+See [[file:./zikãti#disur-body][disur]] and [[file:./zikãti#da-bone][da]].
+
+- disurda (n.) :: skeleton
+
+*** disurtaq - core entity
+See [[file:./zikãti#taq-core-kernel][taq]] and [[file:./zikãti#disur-body][disur]].
+
+- disurtaq (n., con.) :: core entity or body, main entity or body
+
+*** gi - from
+- gi :: from
+
+*** hiti - fire, light
+- hiti (n.) :: fire, light
+
+*** hitimbi - hearth, coocked food
+See [[file:zikãti#hiti-fire-light][hiti]] and [[file:zikãti#mbi-meat-food][mbi]].
+
+- hitimbi (n.) :: hearth, coocked food
+
+*** hitimiz - tea
+See [[file:zikãti#hiti-fire-light][hiti]] and [[file:zikãti#miz-water-stream][miz]].
+
+- hitimiz (n.) :: tea
+
+*** keti - mountain
+- kãti (n., con.) :: mountain
+- kãtisõr :: a mountain
+- pikãti (n.) :: a hill
+- qakãti (n.) :: summit
+
+*** lik - person, human
+- lik (n., con.) :: person, human
+- ailik (n.) :: house
+- iailik (n.) :: village
+- ilik (n.) :: family, group of people
+- ziiailik (n.) :: villager
+- ziilik (n.) :: family member, member of a group
+
+*** lud - breath, life
+- lud (n., con.) :: breath, life
+
+*** ludmiz - blood
+See [[file:zikãti#lud-breath-life][lud]] and [[file:zikãti#miz-water-stream][miz]].
+
+- ludmiz (n.) :: blood
+
 *** mbi - meat, food
 - mbi (n.) :: meat, food
 - mbisõr (n.) :: a meal
-- mbihẽ (vi.) :: to cook, to prepare food
+- mbihẽ (INTR) :: to cook, to prepare food
   #+html: ::: tip Example
   qumbihẽqa
   - qu-mbi-hẽ-qa
   - PROG-meat.food-INTR-1s
   I’m preparing food / I’m cooking
   #+html: :::
-- mbirã (vt.) :: to cook (something)
+- mbirã (TR) :: to cook (something)
   #+html: ::: tip Example
   zimbi mbisõr qumbirãiqur
   - zi-mbi mbi-sõr qu-mbi-rã-i-qur
   - PERS-meat.food meat.food-NOMIN PROG-meat.food-TR-3s.NOM-4s.ACC
   The cook is cooking the meal
   #+html: :::
-- mbirãzãr (vt.) :: to be cooked by
+- mbirãzãr (TR) :: to be cooked by
   #+html: ::: tip Example
   mbisõr zimbi qumbirãzãrbulih
   - mbi-sõr zi-mbi qu-mbi-rã-zãr-bu-lih
@@ -274,19 +365,110 @@ followed by the object’s clitic.
 - rambi (n.) :: a kitchen
 - zirambi (n.) :: a chef
 - humbi (n.) :: a knife
-- humbihẽ (vi.) :: to stick a knife in something
-- humbirã (vt.) :: to cut
+- humbihẽ (INTR) :: to stick a knife in something
+- humbirã (TR) :: to cut
 - zihumbi (n.) :: a butcher
-- zihumbihẽ (vi.) :: to prepare meat
-- zihumbirã (vt.) :: to butcher
+- zihumbihẽ (INTR) :: to prepare meat
+- zihumbirã (TR) :: to butcher
 - humbirãsõr (n.) :: a cut
-- timbirã (vt.) :: to feed someone
-- timbihẽ (vi.) :: to feed oneself
+- timbirã (TR) :: to feed someone
+  This verb can take up to three arguments
+  - The agent, the thing or being doing the feeding
+  - The patient, the thing or being being fed something
+  - The oblique, the thing or being used as food
+  #+html: ::: tip Example
+  timbirãraqqurlih
+  - ti-mbi-rã-raq-qur-lih
+  - CAUS-meat.food-TR-1s.PST.NOM-1pl.PST.ACC-4s.PST.OBL
+  You were feeding it to us
+  #+html: :::
+- timbihẽ (INTR) :: to feed oneself
 - qambi (n.) :: a meal, feast
 - pimbi (n.) :: a snack
 
-*** keti - mountain
-- kãti (n., concept) :: mountain
-- kãtisõr :: a mountain
-- pikãti (n.) :: a hill
-- qakãti (n.) :: summit
+*** miz - water, stream
+- miz (n., con.) :: water, stream
+
+*** sah - spirit, mind
+- sah (n., con.) :: spirit, mind
+- sahsõr (n.) :: being with a mind
+- sahsõrnzẽz (n.) :: being without a mind
+- sahzãr (PASS) :: to be though of, to be remembered
+- sahhẽ (INTR) :: to dream, to have one’s mind escape, to mentally wander
+- sahrã (TR) :: to think about, to remember, to be aware of
+
+  To explicitly say “to remember”, seakers can say “to think about
+  something from memory”.
+- tisah (CAUS) :: to remind someone
+
+  The subject is the agent, the object is the patient, and the objique
+  is the thing brought to the patient’s mind by the agent
+- qisah (adj) :: mindful, attentive
+- qisahsõr (n.) :: mindfulness, attention
+- sahdãt (adj) :: though of, known, present in the mind
+- zisah (n.) :: philosopher, guru, scientist
+- rasah (n.) :: temple, school
+- husah (n.) :: deep though, important dialog, important speech (made
+  to make people think deeply)
+- qusah (n.) :: thinking back, research
+- qusahsõr (n.) :: memory, knowledge
+- hisah (n.) :: idea, thought
+- rusah (n.) :: memory loss, memory lapse
+  #+html: ::: tip Example
+  timbiaulihrãqãsõr rusahqalihrã
+  - ti-mbi-au-lih-rã-qã-sõr ru-sah-qu-lih-rã
+  - CAUS-meat.food-3pl.PST.NOM-3s.PST.ACC-TR-SUBJ-NOMIN NEG-spirit.mind-1s.NPST.NOM-3s.NPST.ACC-TR
+  - the fact that they were fed it / I do not think it
+  I do not think they were fed it
+  #+html: :::
+- pisah (n.) :: light, small, shallow idea or though
+- qusah (n.) :: concept
+- kasah (n.) :: ability to think
+- kasahdãt sahsõr :: sentient being (on a higher level than just
+  *sahsõr*, beings with a mind)
+- sahŋãs (n.) :: philosopher, intellectual
+- asah (n.) :: inner, in our own mind, in our own being
+- sahkõt (n.) :: opinion
+- isah (n.) :: agreement
+- isahkõt (n.) :: belief
+- sahnzẽz (n.) :: mental illness or mental handicap
+
+The Zikãti people categorize things, both living and inanimate, into
+three categories:
+- sahsõrnzẽz :: things without a mind, which regroup objects but also
+  a lot of living things that are not animals. Some exceptions do
+  exist, such as some trees (generaly notably old trees) and water are
+  ranked in the following category
+- sahsõr :: things with a mind but not able to think. This regroups
+  most animals, but also sometimes humans when the speaker wants to
+  dehumanize them
+- kasahdãt sahsõr :: beings able to think, regrouping mostly humans,
+  but also higher or spiritual beings, such as ghosts, gods, or highly
+  sacred objects or plants (the latter are generally trees that are
+  extremely important in religious settings).
+
+While they might not consider plants to have a mind, the Zikãti people
+believes all things are a conduit for the energy of the world, with
+some elements being able to move, flourish, and perish while some
+other things have the gift of being inanimate. These are simply
+considered as properties given by this universal energy flowing
+through all things and all beings.
+
+Animate things are considered to be alive, and therefore have a mind
+and emotions, even possibly a will. However, they are not able of
+thought and are therefore limited in terms of intelligence and they
+cannot be reasoned with.
+
+Beings with a mind capable of thought are beings able to have complex
+thoughts and actions, such as humans.
+
+*** sahlud - life
+See [[file:./zikãti#sah-spirit-mind][sah]] and [[file:zikãti.md#lud-breath-life-concept][lud]].
+
+*** taq - core, kernel
+- taq (n., con.) :: core, kernel
+
+*** taqdisur - heart
+See [[file:./zikãti#taq-core-kernel][taq]] and [[file:./zikãti#disur-body][disur]].
+
+- taqdisur (n.) :: heart
