@@ -298,7 +298,8 @@ See [[file:./zikãti#taq-core-kernel][taq]] and [[file:./zikãti#disur-body][dis
 - disurtaq (n., con.) :: core entity or body, main entity or body
 
 *** gi - from
-- gi :: from
+- gi (adv) :: from
+- gisõr (n.) :: origin
 
 *** hiti - fire, light
 - hiti (n.) :: fire, light
