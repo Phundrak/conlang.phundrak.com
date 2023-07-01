@@ -236,13 +236,13 @@ shown in the table below.
 #+caption: Evolution of Old Norse long vowels to Eittlandic short vowels
 | Orthography | Old Eittlandic vowel | Modern Eittlandic Vowel |
 |-------------+----------------------+-------------------------|
-| á           | {{{phon(ɑː)}}}             | {{{phon(ɛ̀)}}}                |
-| é           | {{{phon(eː)}}}             | {{{phon(ɛ̀)}}}              |
-| í           | {{{phon(iː)}}}             | {{{phon(è)}}}                |
-| ó           | {{{phon(oː)}}}             | {{{phon(ɔ̀)}}}                |
-| œ (ǿ)       | {{{phon(øː)}}}             | {{{phon(œ̀)}}}                |
-| ú           | {{{phon(uː)}}}             | {{{phon(ò)}}}              |
-| ý           | {{{phon(yː)}}}             | {{{phon(ø̀)}}}                |
+| á           | {{{phon(ɑː)}}}             | {{{phon(ɛ̀)}}}                 |
+| é           | {{{phon(eː)}}}             | {{{phon(ɛ̀)}}}                 |
+| í           | {{{phon(iː)}}}             | {{{phon(è)}}}                 |
+| ó           | {{{phon(oː)}}}             | {{{phon(ɔ̀)}}}                 |
+| œ (ǿ)       | {{{phon(øː)}}}             | {{{phon(œ̀)}}}                 |
+| ú           | {{{phon(uː)}}}             | {{{phon(ò)}}}                 |
+| ý           | {{{phon(yː)}}}             | {{{phon(ø̀)}}}                 |
 
 As you can see, some overlap is possible from Old Norse vowels and
 Modern Eittlandic vowels. For instance, Eittlanders will read «é» and
