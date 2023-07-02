@@ -134,6 +134,10 @@ suffixes, see [[file:zikãti.md#abbreviations][Abbreviations]].
 When the negative prefix is associated with a verb, it acts as a
 negative towards the verb itself.
 
+The prefix *qi-* produces adjectives most of the time, but its name as
+an adjectivizer is a bit misleading as it can occasionaly produce
+adverbs, e.g. *qigi* /before/ from *gi* /from/ (see [[file:./zikãti#gi-from][gi]]).
+
 ***** Suffixes
 - -dãt :: PART
 - -gãs :: AGAT
@@ -185,11 +189,29 @@ In noun phrases, adjectives, relatives clauses, numerals, possessives,
 and genitives preceed the noun while determiners follow it. By order
 of element closest to the noun, they rank as follows:
 - determiner
-- possessive
 - adjective
 - numeral
 - genitive
 - relative
+
+The genitive also holds the possessive of the name. In Zikãti, a noun
+cannot hold both a genitive and a possessive at the same time.
+
+*** Determiners
+**** Possessive determiners
+Possessive determiners are anaphoric clitics suffixed to a noun or the
+head of a noun phrase. They take the same form as the non-past
+accusative anaphoric clitics found in verbal agreement as shown in
+[[file:./zikãti#verbs][verbs]].
+
+#+html: ::: tip Example
+pimbiqa / snack-1s / my snack
+
+humbiup / knife-3p / their knife
+#+html: :::
+
+These clitics take the place of the genitive element of nouns phrases
+as shown in [[file:./zikãti#noun-phrase-order][noun phrase order]].
 
 *** Verbs
 Verbs in Zikãti agree with their subject and object in person and
@@ -201,16 +223,16 @@ still carry over to the present.
 Anaphoric clitics are suffixed to the verb with the subject first
 followed by the object’s clitic.
 
-|     | non-past subject | non-past object | past subject | past object |
-|-----+------------------+-----------------+--------------+-------------|
-| 1s  | qa               | tut             | raq          | qut         |
-| 2s  | lu               | pia             | lur          | a           |
-| 3s  | i                | lih             | hi           | lih         |
-| 4s  | bu               | qur             | bu           | qur         |
-| 1px | gai              | ar              | gai          | tar         |
-| 1pi | zu               | iq              | qir          | zur         |
-| 2p  | lai              | iaz             | uit          | iaz         |
-| 3p  | pi               | up              | au           | up          |
+|     | non-past nominative | non-past accusative | past nominative | past accusative |
+|-----+---------------------+---------------------+-----------------+-----------------|
+| 1s  | qa                  | tut                 | raq             | qut             |
+| 2s  | lu                  | pia                 | lur             | a               |
+| 3s  | i                   | lih                 | hi              | lih             |
+| 4s  | bu                  | qur                 | bu              | qur             |
+| 1px | gai                 | ar                  | gai             | tar             |
+| 1pi | zu                  | iq                  | qir             | zur             |
+| 2p  | lai                 | iaz                 | uit             | iaz             |
+| 3p  | pi                  | up                  | au              | up              |
 
 #+html: ::: tip Example
 - kãtikõthẽqa :: I hike
@@ -298,8 +320,20 @@ See [[file:./zikãti#taq-core-kernel][taq]] and [[file:./zikãti#disur-body][dis
 - disurtaq (n., con.) :: core entity or body, main entity or body
 
 *** gi - from
-- gi (adv) :: from
+- gi (adv.) :: from
 - gisõr (n.) :: origin
+- higi (n.) :: past
+- qihigi (adj.) :: past
+- qigi (adv.) :: before
+- igi (n.) :: past of something, of someone, collection of all that
+  happened to an entity
+- pigi (adv.) :: weak “from”, with uncertainty
+#+html: ::: tip Example
+pigi qusahsõr sahrãiqur
+- DIM-from memory remember-3s.NPST.NOM-4s.NPST.ACC
+- pi-gi qusahsõr sahrã-i-qur
+He thinks about it, maybe remembers it
+#+html: :::
 
 *** hiti - fire, light
 - hiti (n.) :: fire, light
@@ -407,6 +441,7 @@ See [[file:zikãti#lud-breath-life][lud]] and [[file:zikãti#miz-water-stream][m
 - qisah (adj) :: mindful, attentive
 - qisahsõr (n.) :: mindfulness, attention
 - sahdãt (adj) :: though of, known, present in the mind
+- sahdãtrã (TR) :: to know
 - zisah (n.) :: philosopher, guru, scientist
 - rasah (n.) :: temple, school
 - husah (n.) :: deep though, important dialog, important speech (made
