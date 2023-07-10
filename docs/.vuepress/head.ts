@@ -135,7 +135,11 @@ simplifiedHead.forEach((tag: SimplifiedHeader) => {
     head.push([tagName, element]);
   });
 });
-head.push(['a', { rel: 'me', href: 'https://emacs.ch/@phundrak' }, 'Mastodon']);
+head.push([
+  'a',
+  { rel: 'me', href: 'https://mastodon.phundrak.com/@phundrak' },
+  'Mastodon',
+]);
 head.push(['script', {}, matomoTrackingCode]);
 
 export default head;
