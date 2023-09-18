@@ -27,7 +27,7 @@ const simplifiedHead = [
         content: 'https://cdn.phundrak.com/img/rich_preview.png',
       },
       {
-        property: 'org:title',
+        property: 'og:title',
         content: 'P’undrak’s Conlangs',
       },
       {
