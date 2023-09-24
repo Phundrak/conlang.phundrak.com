@@ -38,7 +38,7 @@ steps:
 - name: generate node
   image: node:19-alpine
   commands:
-    - yarn --frozen-lockfile
+    - yarn
     - yarn docs:build
   depends_on:
     - "restore cache node"
