@@ -120,8 +120,8 @@ adj. {{{phon(dʒòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr]
 1. deep
 2. profound (figuratively)
 
-*** djúplig
-adv. {{{phon(dʒòpliɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
+*** djúplig / djúpleg
+adv. {{{phon(dʒòpleɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
 ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
 1. deeply
@@ -260,6 +260,7 @@ n. {{{phon(n̥ɑɪsinɡ)}}}
 
 1. hermit
 2. (modern) shut-in, hikikomori
+
 *** hnjós(a)
 v. {{{phon(ɲ̥ɔ̀ːs)}}}
 
@@ -312,24 +313,23 @@ m. {{{phon(norejsòlv)}}}
 ** O
 
 ** Ó
-*** óglaðr
-adj. {{{phon(ɔ̀ɡʲɑðr̩)}}}
+*** óglaðr / óglœðr
+adj. {{{phon(ɔ̀ɡʲœðr̩)}}}
 
 1. very sad, depressed, miserable
 
 ** Ø
 
 ** Œ
-*** Œgir
-m. {{{phon(œjir)}}}
+*** Œgir / Œger
+m. {{{phon(œjer)}}}
 
 1. A mythical beast residing in the forests of the western
 Eittlandic fjords.
 
 ** P
-
-*** pengvin
-n. {{{phon(peŋβin)}}}
+*** pengvin / pengven
+n. {{{phon(peŋβen)}}}
 
 1. penguin
 
@@ -345,17 +345,20 @@ v. {{{phon(siːtʃ)}}}
 
 1. to sit
 2. to represent (politics)
+
 *** sjá
 v. {{{phon(ʃɛ̀)}}}
 
 1. to see
 2. to understand
-*** skilja
+
+*** skilj(a)
 v. {{{phon(ʃkiːʎ)}}}
 
 1. to differenciate
 2. to segregate, to separate
 3. to understand a difference
+
 *** snjór
 m. {{{phon(sɲɔ̀r)}}}
 

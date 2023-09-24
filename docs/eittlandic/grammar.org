@@ -203,16 +203,16 @@ use the singular genetive declension oraly. Younger folks at the time
 of writing even tend to regularize it as /-ar/ for strong neuter and
 weak nouns.
 
-The only exception to declensions no longer being productive is in the
-Hylfjaltr Kingdom’s exclave in southern Eittland where speakers of its
-local dialect tend instead to favor strong nouns for newer terms.
-Hence, while most dialects agree on “internet” (pl.nom /internetr/,
-pl.dat /internetum/) being a weak noun, this dialect treats it as either
-a strong feminine (sg.gen /internetar/, pl.nom&acc /internetr/, pl.dat
-/internetum/) or a strong neuter (sg.gen /internets/, pl.dat /internetum/)
---- the difference is due to subdivisions in said dialect, mainly
-between rural and urban areas favoring the former and the latter
-respectively.
+One exception to declensions no longer being productive is in and
+around the Hylfjaltr Kingdom exclave in southern Eittland where
+speakers of its local dialect tend instead to favor strong nouns for
+newer terms. Hence, while most dialects agree on “internet” (pl.nom
+/internetr/, pl.dat /internetum/) being a weak noun, this dialect treats
+it as either a strong feminine (sg.gen /internetar/, pl.nom&acc
+/internetr/, pl.dat /internetum/) or a strong neuter (sg.gen /internets/,
+pl.dat /internetum/) --- the difference is due to subdivisions in said
+dialect, mainly between rural and urban areas favoring the former and
+the latter respectively.
 
 There are some regular exceptions to the declension system. The first
 one, inherited from Old Norse, is the /-r/ suffix becoming /-n/ or /-l/ when

@@ -41,28 +41,33 @@ Icelandic or in Norwegian. However, this evolution is cause to debate,
 mainly due to the original phoneme {{{phon(hʷ)}}} which could be inherited
 from Proto-Norse instead.
 
-+ Example :: Early Old Norse or Late Proto-Norse /hvat/ (what)
-  {{{phon(hʷɑt)}}} > Eittlandic /hvat/ (what) {{{phon(ʍɑt)}}}
+#+html: ::: tip Example
+Early Old Norse or Late Proto-Norse /hvat/ (what) {{{phon(hʷɑt)}}} >
+Eittlandic /hvat/ (what) {{{phon(ʍɑt)}}}
+#+html: :::
 
 *** C / #h_ > C[-voice]
 When preceded by a {{{phon(h)}}}, word-initial consonants such as «l», «r»,
 «n» would lose their voicing and become voiceless consonants. Note
 «hj» went to {{{phon(ç)}}}.
 
-+ Example ::  
-  - Early Old Norse /hlóð/ (/hearth/) {{{phon(hloːð)}}} > Old Eittlandic /hlóð/
-    {{{phon(l̥oːð)}}}
-  - Early Old-Norse /hneisa/ (/shame, disgrace/) {{{phon(hneisɑ)}}} > Early Old
-    Eittlandic {{{phon(n̥eisɑ)}}}
-  - Early Old Norse /hrifs/ (/robbery/) {{{phon(hrifs)}}} > Old Norse {{{phon(r̥ifs)}}}
-  - Early Old Norse /hjól/ (wheel) {{{phon(hjoːl)}}} > Old Eittlandic {{{phon(çoːl)}}}
+#+html: ::: tip Example
+- Early Old Norse /hlóð/ (/hearth/) {{{phon(hloːð)}}} > Old Eittlandic /hlóð/
+  {{{phon(l̥oːð)}}}
+- Early Old-Norse /hneisa/ (/shame, disgrace/) {{{phon(hneisɑ)}}} > Early Old
+  Eittlandic {{{phon(n̥eisɑ)}}}
+- Early Old Norse /hrifs/ (/robbery/) {{{phon(hrifs)}}} > Old Norse {{{phon(r̥ifs)}}}
+- Early Old Norse /hjól/ (wheel) {{{phon(hjoːl)}}} > Old Eittlandic {{{phon(çoːl)}}}
+#+html: :::
 
 *** g / {#,V}_⁣{V,#} > ɣ
 In word-initial position and followed by a vowel or when between
 vowels, Early Old Norse {{{phon(g)}}} gets palatalized into a {{{phon(ɣ)}}}.
 
-+ Example :: Early Old Norse /gegn/ (/against, right opposite/) {{{phon(gegn̩)}}}
-  > Old Eittlandic {{{phon(ɣegn̩)}}}
+#+html: ::: tip Example
+Early Old Norse /gegn/ (/against, right opposite/) {{{phon(gegn̩)}}} > Old
+Eittlandic {{{phon(ɣegn̩)}}}
+#+html: :::
 
 *** V / _⁣# > ∅ ! j _
 When finishing a word, short unaccented vowels disappeared.
@@ -71,8 +76,10 @@ into a {{{phon(ə)}}}, but they eventually disappeared before long vowels got
 affected by the first part of the rule. However, it did not apply to
 final vowels following a «j».
 
-+ Example :: Old Norse /heilsa/ (/health/) {{{phon(heilsɑ)}}} > Late Old
-  Eittlandic /heils/ {{{phon(heils)}}}.
+#+html: ::: tip Example
+Old Norse /heilsa/ (/health/) {{{phon(heilsɑ)}}} > Late Old Eittlandic /heils/
+{{{phon(heils)}}}.
+#+html: :::
 
 Reflecting this change, the last vowel got lost in the Eittlandic
 orthography. However, this rule did not get applied consistently with
@@ -82,15 +89,18 @@ a good deal of people that kept them well until the [[file:./phonology.md#great-
 While the final short vowel of words did not disappear when preceded
 by a «j», they still weakened to a schwa.
 
-+ Example :: Old Norse /sitja/ (/to sit/) {{{phon(sitjɑ)}}} > Old Eittlandic
-  {{{phon(sitjə)}}}
+#+html: ::: tip Example
+Old Norse /sitja/ (/to sit/) {{{phon(sitjɑ)}}} > Old Eittlandic {{{phon(sitjə)}}}
+#+html: :::
 
 *** Vː / _# > ə
 When at the end of a word, long unaccented vowels get weakened into a
 schwa.
 
-+ Example :: Old Norse /erþó/ (as though) {{{phon(erθoː)}}} > Late Old
-  Eittlandic {{{phon(erθə)}}}.
+#+html: ::: tip Example
+Old Norse /erþó/ (as though) {{{phon(erθoː)}}} > Late Old Eittlandic
+{{{phon(erθə)}}}.
+#+html: :::
 
 Notice how in the modern orthography the «ó» didn’t get lost, unlike
 with the previous rule. Unlike the schwa from the previous rule, the
@@ -103,8 +113,10 @@ when beginning or preceding a vowel transformed it from {{{phon(g)}}} in
 Proto-Norse to {{{phon(ɣ)}}} in Old Eittlandic to {{{phon(j)}}} in Early Modern
 Eittlandic.
 
-+ Example :: Old Norse /gauð/ (a barking) {{{phon(gɑuð)}}} > Early Middle
-  Eittlandic /gauð/ (a barking, a quarrel) {{{phon(jɑuð)}}}.
+#+html: ::: tip Example
+Old Norse /gauð/ (a barking) {{{phon(gɑuð)}}} > Early Middle Eittlandic /gauð/
+(a barking, a quarrel) {{{phon(jɑuð)}}}.
+#+html: :::
 
 This is the first rule of the g/j-shift along with the three next
 rules, marking the passage from Old Eittlandic to Middle Eittlandic.
@@ -113,8 +125,10 @@ rules, marking the passage from Old Eittlandic to Middle Eittlandic.
 The exception to the above rule is the «g» remains a hard {{{phon(g)}}} when
 followed by an «l» in which case {{{phon(gl)}}} becomes {{{phon(gʲ)}}}.
 
-+ Example :: Old Norse /óglaðr/ (sad, moody) {{{phon(oːɡlɑðr̩)}}} > Early
-  Middle Eittlandic /óglaðr/ (very sad, miserable) {{{phon(oːɡʲɑðr̩)}}}
+#+html: ::: tip Example
+Old Norse /óglaðr/ (sad, moody) {{{phon(oːɡlɑðr̩)}}} > Early Middle Eittlandic
+/óglaðr/ (very sad, miserable) {{{phon(oːɡʲɑðr̩)}}}
+#+html: :::
 
 *** d g n s t / _j > C[+palat]
 Another exception to the [[file:./phonology.md#g-v-%E2%81%A3-v-ɣ][lenition of {{{phon(ɡ)}}}]] is it remained until the
@@ -136,42 +150,51 @@ conversion table given by the table below.
 
 Note this is also applicable to devoiced consonants [[file:phonology#c-h-c-voice][described above]].
 
-+ Example ::  
-  - Early Old Norse /djúp/ (/deep/) {{{phon(djuːp)}}} > Middle Eittlandic /djúp/
-    (/deep, profound/) {{{phon(dʒuːp)}}}
-  - Early Old Norse /gjøf/ (/gift/) {{{phon(gjøf)}}} > Early Middle Eittlandic
-    {{{phon(jøf)}}}
-  - Early Old Norse /snjór/ (/snow/) {{{phon(snjoːr)}}} > Middle Eittlandic
-    {{{phon(sɲoːr)}}}
-  - Early Old Norse /hnjósa/ (/to sneeze/) {{{phon(hnjoːsɑ)}}} > Middle Eittlandic {{{phon(ɲ̥oːs)}}}
-  - Early Old Norse /sjá/ (/to see/) {{{phon(sjɑː)}}} > Middle Eittlandic {{{phon(ʃɑː)}}}
-  - Early Old Norse /skilja/ (/to understand, to distinguish/)
-    {{{phon(skiljɑ)}}} > Early Middle Eittlandic {{{phon(ʃkiljə)}}}
-  - Old Eittlandic /sitja/ (/to sit/) {{{phon(sitjə)}}} > Middle Eittlandic {{{phon(sitʃə)}}}
+#+html: ::: tip Example
+- Early Old Norse /djúp/ (/deep/) {{{phon(djuːp)}}} > Middle Eittlandic /djúp/
+  (/deep, profound/) {{{phon(dʒuːp)}}}
+- Early Old Norse /gjøf/ (/gift/) {{{phon(gjøf)}}} > Early Middle Eittlandic
+  {{{phon(jøf)}}}
+- Early Old Norse /snjór/ (/snow/) {{{phon(snjoːr)}}} > Middle Eittlandic
+  {{{phon(sɲoːr)}}}
+- Early Old Norse /hnjósa/ (/to sneeze/) {{{phon(hnjoːsɑ)}}} > Middle Eittlandic
+  {{{phon(ɲ̥oːs)}}}
+- Early Old Norse /sjá/ (/to see/) {{{phon(sjɑː)}}} > Middle Eittlandic
+  {{{phon(ʃɑː)}}}
+- Early Old Norse /skilja/ (/to understand, to distinguish/) {{{phon(skiljɑ)}}}
+  > Early Middle Eittlandic {{{phon(ʃkiljə)}}}
+- Old Eittlandic /sitja/ (/to sit/) {{{phon(sitjə)}}} > Middle Eittlandic
+  {{{phon(sitʃə)}}}
+#+html: :::
 
 *** j > jə / _#
 With the appearance of word-final {{{phon(j)}}}, and epenthtetic {{{phon(ə)}}}
 appeared due to the phonological rule forbidding word-final consonant
 clusters to end with a {{{phon(j)}}}.
 
-+ Example :: Early Old Norse /berg/ (/rock/, /boulder/) {{{phon(berɡ)}}} > Middle
-  Eittlandic /berg/ {{{phon(berjə)}}}
+#+html: ::: tip Example
+Early Old Norse /berg/ (/rock/, /boulder/) {{{phon(berɡ)}}} > Middle Eittlandic
+/berg/ {{{phon(berjə)}}}
+#+html: :::
 
 *** u / V_ > ʊ
 When following another vowel, {{{phon(u)}}} becomes an {{{phon(ʊ)}}}.
 
-+ Example :: Old Norse /kaup/ (/bargain/) {{{phon(kɑup)}}} > Early Middle
-  Eittlandic {{{phon(kɑʊp)}}}
+#+html: ::: tip Example
+Old Norse /kaup/ (/bargain/) {{{phon(kɑup)}}} > Early Middle Eittlandic
+{{{phon(kɑʊp)}}}
+#+html: :::
 
 *** {s,z} / _C[+plos] > ʃ
 If {{{phon(s)}}} or {{{phon(z)}}} precede a plosive consonant, they become
 palatalized into a {{{phon(ʃ)}}} --- the distinction between «s» and «z» is
 lost.
 
-+ Example ::  
-  - Old Norse /fiskr/ (/fish/) {{{phon(fiskr̩)}}} > Middle Eittlandic {{{phon(fiʃkr̩)}}}
-  - Early Old Norse /vizka/ (/wisdom/) {{{phon(βizkɑ)}}} > Middle Eittlandic
-    /viska/ {{{phon(βiʃk)}}}
+#+html: ::: tip Example
+- Old Norse /fiskr/ (/fish/) {{{phon(fiskr̩)}}} > Middle Eittlandic {{{phon(fiʃkr̩)}}}
+- Early Old Norse /vizka/ (/wisdom/) {{{phon(βizkɑ)}}} > Middle Eittlandic /viska/
+  {{{phon(βiʃk)}}}
+#+html: :::
 
 Note that in the Modern Eittlandic orthography, the «z» is replaced
 with an «s».
@@ -180,32 +203,41 @@ with an «s».
 When a «f» is either surrounded by voice phonemes or is preceded by a
 voiced phoneme and ends a word, it gets voiced into a {{{phon(v)}}}.
 
-+ Example :: Old Norse /úlf/ (wolf) {{{phon(uːlf)}}} > Middle Eittlandic /úlv/ {{{phon(uːlv)}}}.
+#+html: ::: tip Example
+Old Norse /úlf/ (wolf) {{{phon(uːlf)}}} > Middle Eittlandic /úlv/ {{{phon(uːlv)}}}.
+#+html: :::
 
 *** l / _j > ʎ
 When followed by a «j», any «l» becomes a {{{phon(ʎ)}}}, merging with the
 following «j».
 
-+ Example :: Early Middle Eittlandic /skilja/ (to understand, to
-  distinguish) {{{phon(ʃkiljə)}}} > Middle Eittlandic {{{phon(ʃkiʎə)}}}
+#+html: ::: tip Example
+Early Middle Eittlandic /skilja/ (to understand, to distinguish)
+{{{phon(ʃkiljə)}}} > Middle Eittlandic {{{phon(ʃkiʎə)}}}
+#+html: :::
 
 *** ɑʊ > oː
 Sometime in the 15th century, any occurence of «au», pronounced by
 then {{{phon(ɑʊ)}}}, began shifting to {{{phon(oː)}}}.
 
-+ Example :: Early Middle Eittlandic /kaup/ (/bargain/) {{{phon(kɑʊp)}}} > Late
-  Middle Eittlandic /kaup/ (/commerce/) {{{phon(koːp)}}}
+#+html: ::: tip Example
+Early Middle Eittlandic /kaup/ (/bargain/) {{{phon(kɑʊp)}}} > Late Middle
+Eittlandic /kaup/ (/commerce/) {{{phon(koːp)}}}
+#+html: :::
 
 *** C[+long +plos -voice] > C[+fric] ! / _C > C[+long +plos] > C[-long]
 Unless followed by another consonant, any unvoiced long plosive
 consonant becomes a short affricate while other long plosives simply
 become shorter.
 
-+ Example ::  
-  - Old Norse /edda/ (great grandmother) {{{phon(edːɑ)}}} > Late Middle Eittlandic
-    /edda/ (great grandmother, femalle ancestor) {{{phon(edɑ)}}}
-  - Old Norse /Eittland/ {{{phon(eitːlɑnd)}}} > Late Middle Eittlandic {{{phon(eitlɑnd)}}}
-  - Old Norse /uppá/ (/upon/) {{{phon(upːɑː)}}} > Late Middle Eittlandic {{{phon(upɸə)}}}
+#+html: ::: tip Example
+- Old Norse /edda/ (great grandmother) {{{phon(edːɑ)}}} > Late Middle
+  Eittlandic /edda/ (great grandmother, femalle ancestor) {{{phon(edɑ)}}}
+- Old Norse /Eittland/ {{{phon(eitːlɑnd)}}} > Late Middle Eittlandic
+  {{{phon(eitlɑnd)}}}
+- Old Norse /uppá/ (/upon/) {{{phon(upːɑː)}}} > Late Middle Eittlandic
+  {{{phon(upɸə)}}}
+#+html: :::
 
 *** r > ʁ (Eastern Eittlandic)
 From the beginning of the 16th century, the Eastern Eittlandic {{{phon(r)}}}
@@ -214,12 +246,13 @@ began morphing into an {{{phon(ʁ)}}} in all contexts except in word-final
 Eastern region of Eittland, and it can be even heard in some dialects
 of Southern Eittlandic.
 
-+ Example ::  
-  - Old Norse /dratta/ (/to trail/ or /walk like a cow/) {{{phon(drɑtʃ)}}} > Eastern Modern
-    Eittlandic /dratt/ (/act mindlessly/) {{{phon(dʁɑtʃ)}}}
-  - Early Old Norse /fjárdráttr/ (/(unfairly) making money/)
-    {{{phon(fjɑːdrɑːtːr̩)}}} > Eastern Modern Eittlandic /fjárdráttr/ (/to scam/)
-    {{{phon(fjɛʁdʁɛtr̩)}}}
+#+html: ::: tip Example
+- Old Norse /dratta/ (/to trail/ or /walk like a cow/) {{{phon(drɑtʃ)}}} > Eastern
+  Modern Eittlandic /dratt/ (/act mindlessly/) {{{phon(dʁɑtʃ)}}}
+- Early Old Norse /fjárdráttr/ (/(unfairly) making money/)
+  {{{phon(fjɑːdrɑːtːr̩)}}} > Eastern Modern Eittlandic /fjárdráttr/ (/to scam/)
+  {{{phon(fjɛʁdʁɛtr̩)}}}
+#+html: :::
 
 *** Great Vowel Shift
 The great vowel shift happened during the 16th and 17th century during
@@ -248,15 +281,19 @@ As you can see, some overlap is possible from Old Norse vowels and
 Modern Eittlandic vowels. For instance, Eittlanders will read «é» and
 «á» both as an {{{phon(ɛ̀)}}}.
 
-+ Examples ::  
-  - Middle Eittlandic /sjá/ (/to see/) {{{phon(ʃɑː)}}} > Modern Eittlandic {{{phon(ʃɛ̀)}}}
-  - Old Norse /fé/ (/cattle/) {{{phon(feː)}}} > Modern Eittlandic /fé/ (wealth) {{{phon(fɛ̀)}}}
-  - Late Proto-Norse /hví/ (/why/) {{{phon(hʷiː)}}} > Modern Eittlandic {{{phon(ʍè)}}}
-  - Old Norse /bók/ (/beech/, /book/) {{{phon(boːk)}}} > Modern Eittlandic (/book/)
-    {{{phon(bɔ̀k)}}}
-  - Early Old Norse /œgir/ (/frightener/, /terrifier/) {{{phon(øːɡir)}}} > Modern
-    Eittlandic /Œgir/ (a kind of mythical beast) {{{phon(œ̀jir)}}}
-  - Middle Eittlandic /úlv/ (/wolf/) {{{phon(uːlv)}}} > Modern Eittlandic {{{phon(òlv)}}}
+#+html: ::: tip Example
+- Middle Eittlandic /sjá/ (/to see/) {{{phon(ʃɑː)}}} > Modern Eittlandic
+  {{{phon(ʃɛ̀)}}}
+- Old Norse /fé/ (/cattle/) {{{phon(feː)}}} > Modern Eittlandic /fé/ (wealth)
+  {{{phon(fɛ̀)}}}
+- Late Proto-Norse /hví/ (/why/) {{{phon(hʷiː)}}} > Modern Eittlandic {{{phon(ʍè)}}}
+- Old Norse /bók/ (/beech/, /book/) {{{phon(boːk)}}} > Modern Eittlandic (/book/)
+  {{{phon(bɔ̀k)}}}
+- Early Old Norse /œgir/ (/frightener/, /terrifier/) {{{phon(øːɡir)}}} > Modern
+  Eittlandic /Œgir/ (a kind of mythical beast) {{{phon(œ̀jir)}}}
+- Middle Eittlandic /úlv/ (/wolf/) {{{phon(uːlv)}}} > Modern Eittlandic
+  {{{phon(òlv)}}}
+#+html: :::
 
 Diphthongs also evolved following these rules:
 - {{{phon(ei)}}} > {{{phon(ɑɪ)}}}
@@ -267,11 +304,6 @@ It is probably up to this time period when Eittlandic stopped
 nasalizing its vowels aside from Southern Eittland (see below),
 although the timeframe regarding this evolution is very much unclear
 and it might have happened as early as during the 13th century.
-
-*** rɡ > ʁ (Southeastern Eittlandic)
-In Southeastern Eittlandic, in the area around Hylfjaltr, the phonemes
-{{{phon(r)}}} and {{{phon(ɡ)}}} assimilated each other into a {{{phon(ʁ)}}}, affecting
-words such as /myrgun/ pronounced then as {{{phon(myʁun)}}}.
 
 *** ə[-long] / C_# > ∅
 As described in the [[file:./phonology.md#vː-ə][weakening of final long vowels]], the schwa
@@ -284,54 +316,17 @@ and long vowels in Eittlandic. This distinction is however unmarked
 when written in Standard Eittlandic due to the spelling dropping the
 final vowels affected here.
 
-+ Example :: Middle Eittlandic (to understand, to distinguish)
-  {{{phon(ʃkiʎə)}}} > Late Middle Eittlandic {{{phon(ʃkiːʎ)}}}
-
-*** VN / _ > Ṽ[-tense] ! V[+high] (Southern Eittlandic)
-When preceding a nasal, any vowel that is not high as determined by
-the vowel tree in [[*Vowel Inventory][Vowel Inventory]] gets nasalized when preceding a
-nasal consonant and loses its tenseness if it has any. Hence, the
-pronunciation of the «a» in /Eittland/ is {{{phon(ã)}}}. However, Old Norse
-/runa/ (rune) {{{phon(runɑ)}}} becomes /run/ (letter, character, rune) {{{phon(run)}}}
-without any nasalization.
-
-Note this evolution is mostly proeminent in the southern regions of
-Eittland and the city of Hundraðskip. It is less often documented in
-Eastern Eittland and almost undocumented in Western Eittland. It is
-more often documented in casual conversation buch rarer in formal
-conversation, especially when the majority of the speakers in a group
-are not southerners.
+#+html: ::: tip Example
+Middle Eittlandic (to understand, to distinguish) {{{phon(ʃkiʎə)}}} > Late
+Middle Eittlandic {{{phon(ʃkiːʎ)}}}
+#+html: :::
 
 *** t / _C > ʔ ! _ʃ
 When a {{{phon(t)}}} precedes another consonant, it becomes a glottal stop.
 
-+ Example :: Early Modern Eittlandic /Eittland/ {{{phon(ɑɪtlɑnd)}}} > Modern
-  Eittlandic {{{phon(ɑɪʔlɑnd)}}}
-
-*** V^{U} > ə ! diphthongs (Western Eittlandic)
-A recent evolution in Western Eittland is weakening any unstressed
-vowel that is not a diphthong to a schwa. It is only documented in
-casual speech but almost never in formal speech.
-
-+ Example ::  
-  - Standard Eittlandic /ádreif/ (spray) {{{phon(ɛ̀drɑɪv)}}} > Western Casual
-    Eittlandic {{{phon(ɛ̀drɑɪv)}}}
-  - Standard Eittlandic /einlægr/ (/sincere/) {{{phon(ɑɪnlæɡr)}}} > Western
-    Casual Eittlandic {{{phon(ɑɪnləɡr)}}}
-
-*** ɣ > h (Urban Eittlandic)
-Since around the middle of the 20th century, urban Eittlandic started
-leniting any {{{phon(ɣ)}}} into a {{{phon(h)}}}.
-
-+ Example :: Standard Eittlandic /djúplig/ {{{phon(dʒòpliɣ)}}} > urban
-  Eittlandic {{{phon(dʒòplih)}}}
-
-In urban areas North of Ðeberget, word-final {{{phon(h)}}} resulting from
-this evolution tends to get completely dropped since around the 90s.
-
-+ Example :: Standard Eittlandic /djúplig/ {{{phon(dʒòpliɣ)}}} > urban
-  Eittlandic {{{phon(dʒòplih)}}} > Northwestern Urban Eittlandic
-  {{{phon(dʒòpli)}}}
+#+html: ::: tip Example
+Early Modern Eittlandic /Eittland/ {{{phon(ɑɪtlɑnd)}}} > Modern  Eittlandic {{{phon(ɑɪʔlɑnd)}}}
+#+html: :::
 
 ** Vowel Inventory
 Modern Eittlandic has a total of ten simple vowels and three
@@ -343,7 +338,7 @@ have existed in Old Norse has been most likely lost early on during
 Eittlandic’s evolution, leaving room for the current one. The first
 table below lists the Eittlandic simple vowels while the second table
 lists the Eittlandic diphthongs. Note that the contrast by length or
-tone is not listed in the table,
+tone is not listed in the table.
 
 #+name: tab:vow:ipa
 #+caption: Vowel inventory of Modern Eittlandic
@@ -375,21 +370,98 @@ tone is not listed in the table,
 graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju80zwg7uit"[label="vowels"];"+high-0ju80zwg7ujg"[label="+high"];"vowels-0ju80zwg7uit"--"+high-0ju80zwg7ujg";"+round-0ju80zwg7ukn"[label="+round"];"+high-0ju80zwg7ujg"--"+round-0ju80zwg7ukn";"+front-0ju80zwg7uli"[label="+front"];"+round-0ju80zwg7ukn"--"+front-0ju80zwg7uli";"/y/-0ju80zwg7ume"[label="/y/"];"+front-0ju80zwg7uli"--"/y/-0ju80zwg7ume";"-front-0ju80zwg7uls"[label="-front"];"+round-0ju80zwg7ukn"--"-front-0ju80zwg7uls";"/u/-0ju80zwg7un4"[label="/u/"];"-front-0ju80zwg7uls"--"/u/-0ju80zwg7un4";"-round-0ju80zwg7ukw"[label="-round"];"+high-0ju80zwg7ujg"--"-round-0ju80zwg7ukw";"/i/-0ju80zwg7unw"[label="/i/"];"-round-0ju80zwg7ukw"--"/i/-0ju80zwg7unw";"-high-0ju80zwg7ujs"[label="-high"];"vowels-0ju80zwg7uit"--"-high-0ju80zwg7ujs";"+round-0ju80zwg7uon"[label="+round"];"-high-0ju80zwg7ujs"--"+round-0ju80zwg7uon";"+tense-0ju80zwg7uph"[label="+tense"];"+round-0ju80zwg7uon"--"+tense-0ju80zwg7uph";"+front-0ju80zwg7uq9"[label="+front"];"+tense-0ju80zwg7uph"--"+front-0ju80zwg7uq9";"/ø/-0ju80zwg7ur2"[label="/ø/"];"+front-0ju80zwg7uq9"--"/ø/-0ju80zwg7ur2";"-front-0ju80zwg7uqk"[label="-front"];"+tense-0ju80zwg7uph"--"-front-0ju80zwg7uqk";"/o/-0ju80zwg7urs"[label="/o/"];"-front-0ju80zwg7uqk"--"/o/-0ju80zwg7urs";"-tense-0ju80zwg7upp"[label="-tense"];"+round-0ju80zwg7uon"--"-tense-0ju80zwg7upp";"+low-0ju80zwg7usp"[label="+low"];"-tense-0ju80zwg7upp"--"+low-0ju80zwg7usp";"/œ/-0ju80zwg7uth"[label="/œ/"];"+low-0ju80zwg7usp"--"/œ/-0ju80zwg7uth";"-low-0ju80zwg7usz"[label="-low"];"-tense-0ju80zwg7upp"--"-low-0ju80zwg7usz";"/ɔ/-0ju80zwg7uu6"[label="/ɔ/"];"-low-0ju80zwg7usz"--"/ɔ/-0ju80zwg7uu6";"-round-0ju80zwg7uoy"[label="-round"];"-high-0ju80zwg7ujs"--"-round-0ju80zwg7uoy";"+tense-0ju80zwg7uv2"[label="+tense"];"-round-0ju80zwg7uoy"--"+tense-0ju80zwg7uv2";"/e/-0ju80zwg7uvv"[label="/e/"];"+tense-0ju80zwg7uv2"--"/e/-0ju80zwg7uvv";"-tense-0ju80zwg7uvd"[label="-tense"];"-round-0ju80zwg7uoy"--"-tense-0ju80zwg7uvd";"+low-0ju80zwg7uwl"[label="+low"];"-tense-0ju80zwg7uvd"--"+low-0ju80zwg7uwl";"/ɑ/-0ju80zwg7uxc"[label="/ɑ/"];"+low-0ju80zwg7uwl"--"/ɑ/-0ju80zwg7uxc";"-low-0ju80zwg7uwv"[label="-low"];"-tense-0ju80zwg7uvd"--"-low-0ju80zwg7uwv";"/ɛ/-0ju80zwg7uy0"[label="/ɛ/"];"-low-0ju80zwg7uwv"--"/ɛ/-0ju80zwg7uy0";}
 #+end_src
 
-#+html: <ImgFigure src="/img/eittlandic/vowel-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Eittlandic Vowels Featural Tree</ImgFigure>
+#+html: <ImgFigure src="/img/eittlandic/vowel-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Featural tree of Eittlandic vowels</ImgFigure>
 
-- a {{{phon(ɑ)}}} ::
-- á {{{phon(ɛ̀)}}} ::
-- æ {{{phon(ɛ)}}} ::
-- e {{{phon(e)}}} ::
-- é {{{phon(ɛ̀)}}} ::
-- i {{{phon(i)}}} ::
-- í {{{phon(è)}}} ::
-- o {{{phon(o)}}} ::
-- ó {{{phon(ɔ̀)}}} ::
-- u {{{phon(u)}}} ::
-- ú {{{phon(ò)}}} ::
-- y {{{phon(y)}}} ::
-- ý {{{phon(ø̀)}}} ::
+Here is a quick guide regarding the pronunciation of these vowels:
+- a {{{phon(ɑ)}}} :: as in General American English “hot” with a high tone
+- á {{{phon(ɛ̀)}}} :: as in General American English “bed” with a low tone
+- æ {{{phon(ɛ)}}} :: as in General American English “bed” with a high tone
+- e {{{phon(e)}}} :: as in French “été” or General American English “may”
+  with a high tone
+- é {{{phon(ɛ̀)}}} :: see {{{phon(æ)}}}
+- i {{{phon(i)}}} :: as in English “free” with a high tone
+- í {{{phon(è)}}} :: as in French “été” or General American English “may”
+  with a low tone
+- o {{{phon(o)}}} :: as in French “beau” or Cockney English “yawn” with a
+  high tone
+- ó {{{phon(ɔ̀)}}} :: as in General American English “thought” with a low
+  tone
+- u {{{phon(u)}}} :: as in French “mou” or General American English “boot”
+  with a high tone
+- ú {{{phon(ò)}}} :: as in French “beau” or Cockney English “yawn” with a
+  low tone
+- y {{{phon(y)}}} :: as in French “lune” with a high tone
+- ý {{{phon(ø̀)}}} :: as in French “deux” with a low tone
+- œ/ǿ {{{phon(œ)}}} :: as in French “neuf” with a low tone
+- ei {{{phon(ɑɪ)}}} :: as in English “I”
+- au {{{phon(ɔʊ)}}} :: similar to Canadian “ow” or in General American
+  English “bow”, but more open
+- ey {{{phon(œʏ)}}} :: as if it were “œy” but more open
+
+Eittlandic also has a second vowel inventory dedicated to unstressed
+vowels. While the one described above describes all vowels found in
+stressed positions, the unstressed inventory is much lighter.
+
+#+name: tab:vow:unstressed
+#+caption: Unstressed Vowels in Eittlandic
+|  <r> |  <c>  | <c>  |
+|      | front | back |
+|------+-------+------|
+| -low |  i/e  | u/o  |
+| +low |  (œ)  |  a   |
+
+#+name: vow-unstressed-dot-gen
+#+header: :var vowels=vowels-unstressed-featural-list
+#+begin_src emacs-lisp :wrap "src dot :file eittlandic/vowel-unstressed-feature-tree.png :results none :eval no-export"
+(conlanging-graphviz-feature-tree vowels :label "vowels")
+#+end_src
+
+#+RESULTS[3d73fac1ce2ba93b214df135c8a1c8d7058b8a58]: vow-unstressed-dot-gen
+#+begin_src dot :file eittlandic/vowel-unstressed-feature-tree.png :results none :eval no-export
+graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jyo0gw23vjp"[label="vowels"];"+low-0jyo0gw23vk7"[label="+low"];"vowels-0jyo0gw23vjp"--"+low-0jyo0gw23vk7";"+round-0jyo0gw23vkx"[label="+round"];"+low-0jyo0gw23vk7"--"+round-0jyo0gw23vkx";"/œ/-0jyo0gw23vli"[label="/œ/"];"+round-0jyo0gw23vkx"--"/œ/-0jyo0gw23vli";"-round-0jyo0gw23vl5"[label="-round"];"+low-0jyo0gw23vk7"--"-round-0jyo0gw23vl5";"/ɑ/-0jyo0gw23vm8"[label="/ɑ/"];"-round-0jyo0gw23vl5"--"/ɑ/-0jyo0gw23vm8";"-low-0jyo0gw23vkf"[label="-low"];"vowels-0jyo0gw23vjp"--"-low-0jyo0gw23vkf";"+front-0jyo0gw23vms"[label="+front"];"-low-0jyo0gw23vkf"--"+front-0jyo0gw23vms";"+high-0jyo0gw23vnb"[label="+high"];"+front-0jyo0gw23vms"--"+high-0jyo0gw23vnb";"/i/-0jyo0gw23vnv"[label="/i/"];"+high-0jyo0gw23vnb"--"/i/-0jyo0gw23vnv";"-high-0jyo0gw23vnj"[label="-high"];"+front-0jyo0gw23vms"--"-high-0jyo0gw23vnj";"/e/-0jyo0gw23vob"[label="/e/"];"-high-0jyo0gw23vnj"--"/e/-0jyo0gw23vob";"-front-0jyo0gw23vmz"[label="-front"];"-low-0jyo0gw23vkf"--"-front-0jyo0gw23vmz";"+high-0jyo0gw23vot"[label="+high"];"-front-0jyo0gw23vmz"--"+high-0jyo0gw23vot";"/u/-0jyo0gw23vpd"[label="/u/"];"+high-0jyo0gw23vot"--"/u/-0jyo0gw23vpd";"-high-0jyo0gw23vp0"[label="-high"];"-front-0jyo0gw23vmz"--"-high-0jyo0gw23vp0";"/o/-0jyo0gw23vpt"[label="/o/"];"-high-0jyo0gw23vp0"--"/o/-0jyo0gw23vpt";}
+#+end_src
+
+#+html: <ImgFigure src="/img/eittlandic/vowel-unstressed-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Featural tree of unstressed Eittlandic vowels</ImgFigure>
+
+As shown in the table above, «i» and «e», «u» and «o», and «a» and
+{{{phon(œ)}}} are considered as allophones in unstressed positions. Their
+pronunciation is based on the vowel harmony spread forward by the
+preceding stressed vowel.
+
+Regarding the first two pairs, in case a vowel is not preceded by a
+stressed vowel, then the first one will spread its vowel harmony
+backward. Vowel harmony follows the /±high/ feature of stressed vowels,
+meaning a stressed vowel with a /+high/ feature will be always followed
+by either {{{phon(e)}}} or {{{phon(o)}}}.
+
+The unstressed vowel «a» on the other hand follows the same vowel
+harmony principles following the /±round/ phonological feature, morphing
+into {{{phon(œ)}}} if the stressed vowel influencing it is rounded.
+
+When writing in Standard Eittlandic, the vowel written in unstressed
+position will follow its pronunciation, but when written in other
+dialects, it may follow the historical spelling. The grapheme of
+unstressed «a» becomes «œ» only in Standard Eittlandic, otherwise it
+won’t change in other dialects.
+
+Note the features borne by the diphthongs:
+- ei :: /+high -round/
+- au :: /-high +round/, same as «ó»
+- ey :: same as «ei»
+
+#+html: ::: tip Example
+- djúplig :: {{{phon(dʒòpleɣ)}}}, the {{{phon(o)}}} morphed the unstressed {{{phon(i)}}} into an {{{phon(e)}}}
+- pengvin :: {{{phon(peŋβen)}}}, the {{{phon(e)}}} morphed the unstressed {{{phon(i)}}} into an {{{phon(e)}}}
+- øfund :: {{{phon(øvond)}}}, the {{{phon(ø)}}} morphed the unstressed {{{phon(u)}}} into an {{{phon(o)}}}
+- vótnum :: {{{phon(βɔ̀tnom)}}}, the {{{phon(ɔ̀)}}} morphed the unstressed {{{phon(u)}}} into an {{{phon(o)}}}
+- ofan :: {{{phon(ovœn)}}}, the {{{phon(o)}}} morphed the unstressed {{{phon(ɑ)}}} into an {{{phon(œ)}}}
+- bókar :: {{{phon(bɔ̀kœr)}}}, the {{{phon(ɔ̀)}}} morphed the unstressed {{{phon(ɑ)}}} into an {{{phon(œ)}}}
+#+html: :::
+
+#+html: ::: warning But
+- fiskum :: {{{phon(fiskum)}}}
+- feðar :: {{{phon(feðar)}}}
+#+html: :::
 
 *** Private Data                                                :noexport:
 #+name: vowels-featural-list
@@ -405,6 +477,15 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju80zw
    ("tense"
     "/e/"
     ("low" "/ɑ/" "/ɛ/"))))
+#+end_src
+
+#+name: vowels-unstressed-featural-list
+#+begin_src emacs-lisp
+'("low"
+  ("round" "/œ/" "/ɑ/")
+  ("front"
+   ("high" "/i/" "/e/")
+   ("high" "/u/" "/o/")))
 #+end_src
 
 ** Consonant Inventory
@@ -438,14 +519,40 @@ with their own accent. These three main dialects are Eastern
 Eittlandic spoken in the majority Kingdom of Hylfjaltr, Western
 Eittlandic spoken in the majority of the Kingdom of Ðeberget, and
 Southern Eittlandic spoken on the southern parts of the island,
-regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]). Three
-main elements of their respective accent were presented above in [[file:./phonology.md#*r > ʁ (Eastern Eittlandic)][the
-Eastern uvularization of «r»]], [[file:./phonology.md#*VN / _ » Ṽ\[-tense\] ! V\[+high\] (Southern Eittlandic)][the Southern nasalization of vowels]]
-and [[file:/phonology.md#vu-»-ə-diphthongs-western-eittlandic][the Western weakening of unstressed vowels]].
+regardess of the legal kingdom (see the map shown in [[file:./country.md#culture][Culture]]). These
+dialects are further divided into other dialects, such as the dialect
+spoken around Hylfjaltr differing from the dialect spoken in the
+neighbour town of Tvinnár, or the dialect spoken in Ðeberget differing
+from the dialect spoken in the nearby city of Kóparvall.
 
-Some regional variation can be also found in these dialects, although
-less significant and less consistantly than the changes mentioned
-above. As such, we can find in some rural parts of the Eastern
+Additional minor dialect exist, as Northeastern or Northwestern
+Eittlandic do exist, but most of these are considered as endengered as
+they are spoken mostly by older folk. Interestingly, younger
+Eittlanders living in Northern Eittland are beginning to speak a new
+dialect commonly referred to as /Teveseittlandsk/ (“TV Eittlandic”) or
+/Internetseittlandsk/ (/Internet’s Eittlandic/). While it may have some
+regional variation regarding its vocabulary, its grammar and
+pronunciation tend to merge both Western and Eastern Eittlandic into a
+common dialect resembling in some aspects urban Eittlandic.
+
+*** Western Eittlandic
+**** V^{U} > ə ! diphthongs
+Recently, Western Eittlandic evolved a weakening of all of its
+unstressed vowels that are not diphthongs, transforming them into
+schwas. It is only documented in casual speech but almost never in
+formal speech.
+
+#+html: ::: tip Example
+- Standard Eittlandic /ádreif/ (spray) {{{phon(ɛ̀drɑɪv)}}} > Western Casual
+  Eittlandic {{{phon(ɛ̀drɑɪv)}}}
+- Standard Eittlandic /einlægr/ (/sincere/) {{{phon(ɑɪnlæɡr)}}} > Western Casual
+  Eittlandic {{{phon(ɑɪnləɡr)}}}
+#+html: :::
+
+*** Eastern Eittlandic
+**** Great Vowel Shift variation
+When the [[file:./phonology.md#great-vowel-shift][Great Vowel Shift]] happened, not all regions were affected the
+same. As such, we can find in some rural parts of the Eastern
 Eittlandic dialect area high vowels slightly more open than their
 equivalent in Standard Eittlandic, as shown in table below.
 #+name: vow:accent:east
@@ -457,5 +564,63 @@ equivalent in Standard Eittlandic, as shown in table below.
 |         {{{phon(y)}}}          |       {{{phon(ʏ)}}}        |
 |         {{{phon(u)}}}          |       {{{phon(ʊ)}}}       |
 
-On the other hand, Southern Eittlandic tends to front its {{{phon(ɑ)}}} into
-{{{phon(a)}}} after nasal consonants and glides and into {{{phon(ɐ)}}} otherwise.
+*** Southeastern Eittlandic
+**** rg > ʁ
+Some time after the [[file:./phonology.md#great-vowel-shift][Great Vowel Shift]], the phonemes {{{phon(r)}}} and
+{{{phon(g)}}} began assimilating with one another, with an initial evolution
+as {{{phon(ɣɡ)}}} which eventually led to a pronunciation of «rg» as
+{{{phon(ʁ)}}}. For instance, the word /myrgun/, pronounced {{{phon(myrɡun)}}} in
+Standard Eittlandic, is prononced as {{{phon(mʏʁːʊn)}}} in Southeastern
+Eittlandic.
+
+**** Ø > ʁ / V#_V
+A recent evolution in Southern Eittlandic seems to highlight a
+tendency for rhoticism in this dialect, as a prothesis of {{{phon(ʁ)}}}
+appears to occur at the beginning of words beginning with vowels,
+especially between words ending and beginning with a vowel.
+
+#+html: ::: tip Example
+- Sentence :: Ek em frá Auðfrýriboll
+- Translation :: I am from Auðfrýriboll
+- Standard Eittlandic :: {{{phon(ek em frɛ̀ ɔʊðfrø̀ribolː)}}}
+- Southeastern Eittlandic :: {{{phon(ek em frɛ̀ ʁɔʊðfrø̀ribolː)}}}
+#+html: :::
+
+*** Southern Eittlandic
+**** ɑ > a / {C[+nas],C[-cons]}_ and ɑ > ɐ
+Southern Eittlandic tends to front its {{{phon(ɑ)}}} into {{{phon(a)}}} after
+nasal consonants and glides and into {{{phon(ɐ)}}} otherwise.
+
+**** VN / _ > Ṽ[-tense] ! V[+high] (Southern Eittlandic)
+When preceding a nasal, any vowel that is not high as determined by
+the vowel tree in [[*Vowel Inventory][Vowel Inventory]] gets nasalized when preceding a
+nasal consonant and loses its tenseness if it has any. Hence, the
+pronunciation of the «a» in /Eittland/ is {{{phon(ã)}}}. However, Old Norse
+/runa/ (rune) {{{phon(runɑ)}}} becomes /run/ (letter, character, rune) {{{phon(run)}}}
+without any nasalization.
+
+Note this evolution is mostly proeminent in the southern regions of
+Eittland and the city of Hundraðskip. It is less often documented in
+Eastern Eittland and almost undocumented in Western Eittland. It is
+more often documented in casual conversation buch rarer in formal
+conversation, especially when the majority of the speakers in a group
+are not southerners.
+
+*** Urban Eittlandic
+
+**** ɣ > h (Urban Eittlandic)
+Since around the middle of the 20th century, urban Eittlandic started
+leniting any {{{phon(ɣ)}}} into a {{{phon(h)}}}.
+
+#+html: ::: tip Example
+Standard Eittlandic /djúplig/ {{{phon(dʒòpliɣ)}}} > urban Eittlandic
+  {{{phon(dʒòplih)}}}
+#+html: :::
+
+In urban areas North of Ðeberget, word-final {{{phon(h)}}} resulting from
+this evolution tends to get completely dropped since around the 90s.
+
+#+html: ::: tip Example
+Standard Eittlandic /djúplig/ {{{phon(dʒòpliɣ)}}} > urban Eittlandic
+{{{phon(dʒòplih)}}} > Northwestern Urban Eittlandic {{{phon(dʒòpli)}}}
+#+html: :::
