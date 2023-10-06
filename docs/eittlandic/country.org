@@ -476,33 +476,55 @@ Eittlandic ports played an important part in bringing US warships and
 war material to Europe, especially in the months leading up to D-Day
 and the different landings in the Mediteranean Sea.
 
-**** Eittland-Iceland Alliance
+**** Eittland-Iceland Alliance (1948 - present)
 When the war ended in Europe and Iceland gained its independence, a
-referendum was held in both Eittland and Iceland regarding the
-potential unification of the two countries, as both were already close
-to one another both geographically and culturally. This however never
-came to pass, as it failed both in Iceland with 54% of the voters
-answering “no”, while 64% of Eittlandic voters also answered “no”.
+referendum was held in both Eittland and Iceland on January 10th 1946
+regarding the potential unification of the two countries, as both were
+already close to one another both geographically and culturally. This
+however never came to pass. In Iceland, 54% of voters voted against
+the unification, while 64% of Eittlandic voters also answered “no”.
 
-The two countries still entered a close alliance, Iceland relying on
-Eittland for military protection while an economic alliance was made
-between both of them, inspiring the Schengen Area some decades later.
-It was thus possible for citizens of both countries to move freely
-between Iceland and Eittland and live in either country as any of its
-citizens would while goods could also be freely exchanged. Thus, in
-1965, Páll Jónsson became the firts Icelandic citizen elected to
-public office as the Town Master of Eldheim in Western Eittland.
+The two countries still entered a close alliance in February 1948,
+Iceland relying on Eittland for military protection while an economic
+alliance was made between both of them. While it evolved in the
+following year inspired by the organisations that preceeded the
+European Union, some of its aspects later inspired the creation of the
+Schengen Area some decades later. Iceland and Eittland integrated each
+other’s economy tightly, while their industries interacted with one
+another without any restrictions due to borders or customs. The
+distinction in nationality also became largly irrelevant between the
+two countries: only a few select governmental positions are still
+reserved to the citizens of their birth country, generally linked to
+high military ranks or secret services. It was thus possible for
+citizens of both countries to move freely between Iceland and Eittland
+and live in either country as any of its citizens would while goods
+could also be freely exchanged.
+
+Thus, in 1965, Páll Jónsson became the firts Icelandic citizen elected
+to public office as the Town Master of Eldheim in Western Eittland. In
+May 1982, Bárður Márusson became the first Icelandic citizen to be
+elected to the House of the People, while Valgeir Þórinnson became the
+first Eittlandic citizen to be elected to the Icelandic parliament in
+April 1983.
 
 **** Computer Sciences Pioneering
 Out of personal interest, the then Co-King of Ðeberget Ragnarr
-Sigurðsbróðr asked the Dean of the Royal University of Eittland to
-open as quickly as possible a lab focused on the development of
-computers and computer sciences. This accompanied a new law raising
-the annual budget allocated to universities in Eittland to 9% of the
-nation’s GDP. As the first lab grew in size and became more and more
-proeminent internationally, even becoming one of the leading
-laboratories along with MIT, Bell Labs and CERN, numerous other
-laboratories both public and private appeared in Eittland.
+Sigurðsbróðr asked the Dean of the Royal University of Eittland
+(/Konunglig Eittlandsuniversitat/) to open as quickly as possible a lab
+focused on the development of computers and computer sciences. While
+the Co-King holds no power and is purely a ceremonial title, the Dean
+obliged and founded the first Eittlandic computer science laboratory,
+the /Konunglig Eittlandsuniversitatitsvétalsráðuneyt/ (litt. “Royal
+Eittland’s University’s Computer Department”), or /Vétalsráðuneyt/ for
+short. This accompanied a new law raising the annual budget allocated
+to universities in Eittland to 9% of the nation’s GDP. As the first
+lab grew in size and became more and more proeminent internationally,
+even becoming one of the leading laboratories along with MIT, Bell
+Labs and CERN, numerous other laboratories both public and private
+appeared in Eittland. Nowadays, the /Vétalsráðuneyt/ is still regarded
+as one of the top research laboratories and university department in
+Eittland, and the /Konunglig Eittlandsuniversitat/ often ranks in the
+top five universities in the world regarding computer science.
 
 What is now known as the Internet is born of a mix of ARPANET, the
 American standard, and Skruggmál, the Eittlandic standard. Eittland

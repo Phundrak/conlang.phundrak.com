@@ -62,7 +62,13 @@ forms of the word /dag(r)/, /dag/ and /dag(a)/. The former is pronounced
 {{{phon(daɣ)}}} while the latter is pronounced {{{phon(daj)}}}. They can also
 represent grammatical cases which are no longer used in Standard
 Eittlandic, such as /dag(r)/ shown above which doesn’t exist as /dagr/ in
-Standard Eittlandic, only as /dag/.
+Standard Eittlandic, only as /dag/. The underlying vowel also reappears
+when the word is used in its definite form. For instance, /dagr/ becomes
+/dagann/ due to the underlying «a» in its accusative form /dag(a)/ while
+/fiskr/ becomes /fiskinn/ (the «i» is added when no other vowel can
+replace it). To symbolize which definite article is used with nouns,
+it is indicated between parenthesis in the accusative case, preceeded
+by a dash, as in /dag(a-n)/.
 
 ** A
 
@@ -143,7 +149,7 @@ sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][
 ** Đ
 
 ** E
-*** edd(a)
+*** edd(a-t)
 wf. {{{phon(e:d)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
@@ -237,24 +243,28 @@ f. {{{phon(jøv)}}}
 1. gift, present
 
 ** H
-*** heils(a)
-f. {{{phon(hɑ:ɪls)}}}
+*** heils(a-t)
+wn.f. {{{phon(hɑ:ɪls)}}}
 
 1. health
+
 *** hjól
 n. {{{phon(çɔl)}}}
 
 1. wheel
+
 *** hlóð
 n. {{{phon(l̥ɔð)}}}
 
 1. hearth
 2. living room
-*** hneis(a)
-f. {{{phon(n̥ɑ:ɪs)}}}
+
+*** hneis(a-t)
+wn.f. {{{phon(n̥ɑ:ɪs)}}}
 
 1. shame, disgrace
 2. social isolation
+
 *** hneising
 n. {{{phon(n̥ɑɪsinɡ)}}}
 
@@ -265,6 +275,7 @@ n. {{{phon(n̥ɑɪsinɡ)}}}
 v. {{{phon(ɲ̥ɔ̀ːs)}}}
 
 1. to sneeze
+
 *** hrifs
 n. {{{phon(r̥ivs)}}}
 
@@ -291,17 +302,61 @@ n. {{{phon(kɔp)}}}
 1. commerce
 2. bargain, barter
 
+*** konung
+sn.m. {{{phon(ˈkonoŋ)}}}
+
+1. king
+
+*** konunɡliɡ
+{{{phon(konoŋleɣ)}}}, from [[file:./dictionary.md#konung][konung]] and suffix /-lig/.
+
+1. adv. royaly
+2. adj. royal
+
 ** L
 
 ** M
 *** myrɡun
-m. {{{phon(myrɡun)}}}
+m. {{{phon(ˈmyrɡun)}}}
 
 1. morning, aurora
 
+*** metr(o)
+wn.n. {{{phon(metr)}}}, from French “métro”
+
+1. subway, underground
+
+- definitive form: /metrot/
+
+See also [[file:./dictionary.md#undirland][undirland]]
+
 ** N
+*** ná
+adv. {{{phon(nɛ̀)}}}
+
+1. now
+   #+html: ::: tip Example
+   Ná kom ek frá universitatit.
+
+   I come from the university now.
+   #+html: :::
+2. intensifier, used at the end of sentences
+   #+html: ::: tip Example
+   Ek kom frá universitatit ná!
+
+   - I come from the university (you know)
+   or
+   - (I’ll have you know) I come from the university!
+   #+html: :::
+3. progressive marker when placed right after the verb
+   #+html: ::: tip Example
+   Ek kom ná frá universitatit.
+
+   I’m coming from the university.
+   #+html: :::
+
 *** noregsúlf
-m. {{{phon(norejsòlv)}}}
+m. {{{phon(ˈnorejsˌòlv)}}}
 
 1. wolf, litt. Norway’s wolf.
 
@@ -314,7 +369,7 @@ m. {{{phon(norejsòlv)}}}
 
 ** Ó
 *** óglaðr / óglœðr
-adj. {{{phon(ɔ̀ɡʲœðr̩)}}}
+adj. {{{phon(ˈɔ̀ɡʲœðr̩)}}}
 
 1. very sad, depressed, miserable
 
@@ -322,14 +377,14 @@ adj. {{{phon(ɔ̀ɡʲœðr̩)}}}
 
 ** Œ
 *** Œgir / Œger
-m. {{{phon(œjer)}}}
+m. {{{phon(ˈœjer)}}}
 
 1. A mythical beast residing in the forests of the western
 Eittlandic fjords.
 
 ** P
 *** pengvin / pengven
-n. {{{phon(peŋβen)}}}
+n. {{{phon(ˈpeŋβen)}}}
 
 1. penguin
 
@@ -338,6 +393,11 @@ From English *penguin*
 ** Q
 
 ** R
+*** ráðuneyt
+wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}
+
+1. Ministry
+2. department
 
 ** S
 *** sitj(a)
@@ -365,7 +425,7 @@ m. {{{phon(sɲɔ̀r)}}}
 1. snow
 
 *** styrsamhald
-n. {{{phon(ʃtyrsamhald)}}}
+n. {{{phon(ˈʃtyrˌsamhald)}}}
 
 1. military batallion
 2. mitilary unit, group
@@ -374,12 +434,41 @@ From Old Norse *styrr* (stir, battle) and *samhald* (a holding together,
 unity).
 
 ** T
+*** tal(a)
+wn.f. {{{phon(tal)}}}
+
+1. numbers
+
+*** tren
+wn.n. {{{phon(tren)}}}
+
+1. train
 
 ** Þ
 
 ** U
+
+*** undir
+adj. {{{phon(undir)}}}
+
+1. under, underneath
+
+Can only be used with accusative or dative
+
+*** undirland
+wn.n. {{{phon(ˈundirˌland)}}}, calque of English “underground”
+
+1. underground, subway
+
+See also [[file:./dictionary.md#metr-o][metr(o)]]
+
+*** universitat
+wn.n. {{{phon(oneˈβersetat)}}}
+
+1. university
+
 *** uppá
-prep. {{{phon(upɸə̀)}}}
+prep. {{{phon(ˈupɸə̀)}}}
 
 1. upon
 
@@ -391,9 +480,20 @@ m. {{{phon(òlv)}}}
 
 ** V
 *** veisheit
-f. {{{phon(βɑɪshɑɪt)}}}
+wn.f. {{{phon(ˈβɑɪshɑɪt)}}}
 
 1. knowledge or wisdom. From German /Weisheit/. See also /vizka/
+
+*** vél
+sc.f.
+
+1. machine, craft
+
+*** vétal
+wn.f. {{{phon(ˈβɛ̀tal)}}}
+
+1. computer
+
 *** visk(a)
 f. {{{phon(βiːʃk)}}}
 

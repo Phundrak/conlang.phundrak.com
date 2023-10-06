@@ -19,13 +19,15 @@ fusional aspect Old Eittlandic once had. Its grammar now greatly relies
 on its syntax as well as on grammatical particules rather than on its
 morphology. Let’s take the following sentence as an example.
 
-- Barn etar fisk
+#+html: ::: tip Example
+Barn etar fisk
 
-  barn et-ar fisk
+barn et-ar fisk
 
-  child.nom eat-3sg fish.acc
+child.nom eat-3sg fish.acc
 
-  A child is eating a fish
+A child is eating a fish
+#+html: :::
 
 In this sentence, the word order helps us understand the child is the
 subject of the sentence while its subject is /fisk/, although we have no
@@ -33,6 +35,7 @@ information on their number; the sentence could also very well mean
 /children are eating fishes/. Unlike in Old Eittlandic where we could
 have the following sentences.
 
+#+html: ::: tip Example
 - Barn etar fiska
 
   barn et-ar fiska
@@ -47,29 +50,35 @@ have the following sentences.
   fish-pl.acc eat-3sg child.nom
 
   A child is eating fishes
+#+html: :::
 
 Both have the same meaning as the Eittlandic sentence. However, the
 near-complete (or even complete in Standard Eittlandic) loss of case
 marking makes the sentence /fisk barn etar/ much more gruesome.
 
-- Fisk etar barn
+#+html: ::: tip Example
+Fisk etar barn
 
-  fisk et-ar barn
+fisk et-ar barn
 
-  fish.nom eat-3sg barn.acc
+fish.nom eat-3sg barn.acc
 
-  A fish is eating a child
+A fish is eating a child
+#+html: :::
 
 Eittlandic is a V-2 language, meaning in most cases, finite verbs are
 in second position in their clause and may be in first position
-interrogative clauses and dependent clauses, as shown below.
-- Han talð mér þat kom han hér í gær
+interrogative and dependent clauses, as shown below.
 
-  han talð mér þat kom han hér í=gær
+#+html: ::: tip Example
+Han talð mér þat kom han hér í gær
 
-  3sg.m.nom tell-3sg.pret 1sg.dat that come.3sg.pret 3sg.m.nom here yesterday
+han talð mér þat kom han hér í=gær
 
-  He told me he came here yesterday
+3sg.m.nom tell-3sg.pret 1sg.dat that come.3sg.pret 3sg.m.nom here yesterday
+
+He told me he came here yesterday
+#+html: :::
 
 Loss of case marking also affected adjectives which share most of
 their declensions with nouns. The parts where Eittlandic retains its
@@ -77,3 +86,15 @@ fusional aspect is with verbs, where loss of its words’ final vowel
 had much less impact, as we could see in /barn fisk etar/. In this case,
 /etar/ is the third-person singular declension of the verb /et/, a weak
 verb.
+
+Eittlandic, as most other germanic languages, tend to compound words
+together in order to create new words. The name of the country itself,
+/Eittland/, is a good example: the word /eitt/ (neutral of /einn/) used to
+mean /lonely/ in Old Eittlandic, while /land/ has the same meaning as in
+English, therefore creating a word and place name meaning “lonely
+land”. Another common example is the word for “wolf”, /noregsúlf/. While
+this word is a compound of /Noreg/ (“Norway”) and /úlf/ (“dog-wolf”), the
+word uses an «s» in order to create a relationship between the two
+words, defining /úlf/ with /Noreg/. The litteral translation of /noregsúlf/
+is therefore /Noway’s wolf-dog/, though this took on the meaning of
+simply “wolf” as Norwegian wolf-dogs are not called /noregsúlf/ at all.
