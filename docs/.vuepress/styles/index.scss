@@ -172,3 +172,23 @@ html.dark {
   // code blocks vars
   --code-hl-bg-color: var(--nord2);
 }
+
+.page table {
+  border-color: var(--nord3);
+  border-top: none;
+  display: inline-block;
+
+  tbody {
+    border-color: var(--c-bg-dark);
+    border-width: 3px;
+  }
+
+  tr {
+    background-color: var(--c-bg);
+    transition: background-color var(--t-color);
+
+    &:nth-child(2n) {
+      background-color: var(--c-bg-light) !important;
+    }
+  }
+}
