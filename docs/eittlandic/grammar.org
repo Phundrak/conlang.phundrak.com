@@ -12,21 +12,80 @@
 
 **** Countables and Uncountables                                      :noexport:
 **** Proper Nouns                                                     :noexport:
-*** Pronouns and Anaphoric Clitics                                    :noexport:
+*** Pronouns and Anaphoric Clitics
 # - Does the language have free pronouns and/or anaphoric clitics?
 #   (These are distinct from grammatical agreement.)
 # - Give a chart of the free pronouns and/or anaphoric clitics.
+
 **** Personal Pronouns
+
+|            | 1s  | 2s  | 1p  | 2s  |
+|------------+-----+-----+-----+-----|
+| Nominative | ek  | þú  | vér | ér  |
+| Accusative | mik | þik | oss | yðr |
+| Dative     | mín | þín | vár | yðr |
+| Genitive   | mér | þér | oss | yðr |
+#+begin_center
+First and second person pronouns in Eittlandic
+#+end_center
+
+The only notable change in written form from their Early Old Norse
+version is the regularization of the genitive plural second person
+/yðar/ into /yðr/. Otherwise, most changes only happened regarding their
+phonology as explained in [[file:./phonology.md#evolution-from-early-old-norse-to-eittlandic][the evolution from Early Old Norse to
+Eittlandic]].
+
+|                     | Masculine | Feminine | Neuter |
+|---------------------+-----------+----------+--------|
+| Singular Nominative | hann      | han      | þat    |
+| Singular Accusative | han       | han      | þat    |
+| Singular Dative     | hans      | hennar   | þass   |
+| Singular Genitive   | hanum     | henn     | því    |
+|---------------------+-----------+----------+--------|
+| Plural Nominative   | þeir      | þér      | þau    |
+| Plural Accusative   | þá        | þér      | þau    |
+| Plural Dative       | þeir      | þeir     | þeir   |
+| Plural Genitive     | þeim      | þeim     | þeim   |
+#+begin_center
+Third person pronouns in Eittlandic
+#+end_center
+
+Here we also have few changes from the Early Old Norse pronouns for
+the third persons, singular and plural.
+
 **** Demonstrative Pronouns
 **** Possessive Pronouns
-*** Verbs                                                             :noexport:
+Possessive pronouns in Eittlandic simply are the genitive form of the
+personal pronouns shown [[file:./grammar.md#personal-pronouns][above]]. The pronoun agrees with the owner in
+person and number, and in gender when the third person is used, as in
+English. They have two different usage.
+
+The first and more formal usage, inherited from Old Norse, is to
+precede the noun phrase owned by the owner with the genitive pronoun.
+For instance, /mín katt/ means /my cat/ while /þeim katt/ means /their cat/
+(as shown in [[file:./grammar.md#case-marking][Case Marking]], we have no way to know if /katt/, a strong
+common word, is singular or plural accusative).
+
+The second and more casual way to express possession is using the
+definite form of a word and placing the possessive pronoun after it.
+We can adapt the previous examples of /my cat/ and /their cat/ as /kattin
+mín/ and /kattin þeim/.
+
+While these two forms provide a difference in tone, the second form is
+more limited as it only allows single word noun phrases to be the
+possessed element while the first allows more complex noun phrases.
+The sentence /mín kattrinn komand frá heim/ (/my cat coming from home/)
+would need to be modified in order to fit the second structure, such
+as /kattrinn mín, hvar komr frá heim/ (/my cat, who is coming from home/).
+
+*** Verbs
 # - What are the distributional properties of verbs?
 # - What are the structural properties of verbs?
 # - What are the major subclasses of verbs?
 # - Describe the order of various verbal operators within the verbal
 # - word or verb phrase.
-# - Give charts of th
-# - tense/aspect/mode, etc. Indicate major allomorphic variants.
+# - Give charts of the tense/aspect/mode, etc. Indicate major
+#    allomorphic variants.
 # - Are directional and/or locational notions expressed in the verb or
 # - verb phrase at all?
 #   - Is this operation obligatory, i.e. does one member of the
@@ -39,10 +98,172 @@
 #     or lexically? Are there any exceptions to the general case?
 #   - Where in the verb phrase or verbal word is this operation likely
 #     to appear? Can it occur in more than one place?
-**** Verbal Structure
-**** Verbal Derivations
+Eittlandic, as most if not all North Germanic language, is a V2
+language. This implies that in most cases, the verb in sentences will
+come at the second position, possibly moving its subject right between
+the verb itself and the rest of the verb phrase. The only exception to
+this are questions and the use of imperative. More on that later.
+
+Since Early Old Norse, Eittlandic evolved its verb both towards
+simplification on one hand, making the verb endings a lot more regular
+and predictable, and complexification with the addition of new moods
+and tenses.
+
+**** Verbal Structure                                              :noexport:
+
+**** Verbal Derivations                                            :noexport:
+
 **** Verbal Inflexions
-*** Modifiers
+Verbs in Eittlandic agree with their subject in person and number,
+though it lost a lot of its diversity Old Norse had. It also varies
+depending on the tense, mood, and aspect of the verbal sentence. The
+examples are given using the verbs /far(a)/ (/to go/, a former strong
+verb), and /berja/ (/to beat/, a former weak verb).
+
+|  <c>   |   |                    |                     |                                 |
+| person |   | Indicative Present | Subjunctive Present | Indicative and Subjunctive Past |
+|--------+---+--------------------+---------------------+---------------------------------|
+|   1s   |   | -r                 | -ir                 | -t                              |
+|   2s   |   | -r                 | -ir                 | -t                              |
+|   3s   |   | -r                 | -ir                 | -t                              |
+|   1p   |   | -um                | -im                 | -um                             |
+|   2p   |   | -ið                | -ið                 | -uð                             |
+|   3p   |   | -ið                | -ið                 | -uð                             |
+#+begin_center
+/Typical Verb Inflexion/
+#+end_center
+
+| person |   | far   | berja  |
+|--------+---+-------+--------|
+| 1s     |   | ferr  | berjar |
+| 2s     |   | ferr  | berjar |
+| 3s     |   | ferr  | berjar |
+| 1p     |   | farum | berjum |
+| 2p     |   | farið | berið  |
+| 3p     |   | farið | berið  |
+#+begin_center
+Indicative present inflexion of /far(a)/ and /berja/
+#+end_center
+
+Note that the final vowel of /berja/ gets replaced with the vowel from
+the inflexion, and the final /j/ also disappears when it is immediately
+followed by an /i/.
+
+Present subjunctive has similar declensions to present indicative.
+
+| person |   | far   | berja |
+|--------+---+-------+-------|
+| 1s     |   | ferir | berir |
+| 2s     |   | ferir | berir |
+| 3s     |   | ferir | berir |
+| 1p     |   | farim | berim |
+| 2p     |   | farið | berið |
+| 3p     |   | farið | berið |
+#+begin_center
+Subjunctive present inflexion of /far(a)/ and /berja/
+#+end_center
+
+We can see again how the /ja/ at the end of infinitive /berja/ got
+replaced by the ending of subjunctive present verbs.
+
+The past declension is simpler as there is no difference between
+indicative and subjunctive past.
+
+| person |   | far   | berja  |
+|--------+---+-------+--------|
+| 1s     |   | fert  | berjat |
+| 2s     |   | fert  | berjat |
+| 3s     |   | fert  | berjat |
+| 1p     |   | farum | berjum |
+| 2p     |   | faruð | berjuð |
+| 3p     |   | faruð | berjuð |
+#+begin_center
+Indicative and subjunctive past inflexion of /far(a)/ and /berja/
+#+end_center
+
+The infinitive and imperative merged due to the final vowel loss,
+making /far/ and /berja/ not only the infinitive form of /to go/ and /to
+beat/, but also their imperative form. Present and past participles are
+on the other hand made by appending /-and/ and /-it/ respectively.
+
+| infinitive / imperative | far    | berja   |
+| present participle      | farand | berjand |
+| past participle         | farit  | berit   |
+
+When it comes to the passive voice, inherited from the /-sk/ form in Old
+Norse, its declension is a lot more regular. However, we’ll see the
+remaining difference between strong and weak verbs.
+
+|  <c>   |   |          |             |
+| person |   | Strong   | Weak        |
+|--------+---+----------+-------------|
+|   1s   |   | -umk     | -umk        |
+|   2s   |   | -(a/i)sk | -(ð/d/t)isk |
+|   3s   |   | -(a/i)sk | -(ð/d/t)isk |
+|   1p   |   | -umk     | -umk        |
+|   2p   |   | -(a/i)sk | -(ð/d/t)isk |
+|   3p   |   | -(a/i)sk | -(ð/d/t)isk |
+#+begin_center
+/Strong and Weak Verb Inflexion for the Indicative Present and Past in Passive Voice/
+#+end_center
+
+| person |   | far    | berja     |
+|--------+---+--------+-----------|
+| 1s     |   | ferumk | berjumk   |
+| 2s     |   | ferisk | berjaðisk |
+| 3s     |   | ferisk | berjaðisk |
+| 1p     |   | farask | berjaðisk |
+| 2p     |   | farask | berjaðisk |
+| 3p     |   | farask | berjaðisk |
+
+There is only one minor difference for the subjunctive mood: both the
+first person singular and plural change to /-imk/ instead of /-umk/.
+Imperative, on the other hand, only works with the second person in
+the present tense by appending an /-sk/ at the end of the infinitive of
+the verb.
+
+Due to this uniformisation of the passive voice in Eittlandic,
+Eittlanders began using the verbs /ver(a)/ and /hav(a)/ (respectively /to
+be/ and /to have/) as auxilliaries preceeding the verb in order to convey
+the subject, tense, and mood agreement. The verb /ver(a)/ is most often
+used in active verbs, while the verb /hav(a)/ is generally used with
+stative verbs. While all verbs have a default auxilliary, such as
+/ver(a)/ for a verb like /et(a)/ (/to eat/), the speaker may choose to use
+the other auxilliary in order to increase or decrease the agency of
+the semantic agent (not the syntactic agent), even if it is not
+present in the sentence.
+#+html: ::: tip Example
+- Ek var brennumk mik
+  | ek     | var           | brenn-umk   | mik    |
+  | 1s.NOM | be.1s.IND.PST | burn-1s.PAS | 1s.ACC |
+  /I burnt myself/
+- Ek hav brennumk mik
+  | ek     | hav             | brenn-umk   | mik    |
+  | 1s.NOM | have.1s.IND.PST | burn-1s.PAS | 1s.ACC |
+  /I got burnt/
+#+html: :::
+
+The verbs /var(a)/ and /hav(a)/ are irregular verbs that do not follow the
+same inflexion rules. For a list of their inflexion, see their
+dictionary entry ([[file:./dictionary.md#ver-a][ver(a)]] and [[file:./dictionary.md#hav-a][hav(a)]]).
+
+The passive voice inherits from the Old Norse mediopassive voice. It
+is often used to promote a semantic patient to a syntactic agent and
+to demote a semantic agent to a syntactic oblique, sometimes even
+completely removing it from the sentence.
+
+#+html: ::: tip Example
+- Maðrinn dragt fiskin frá vatnin
+  | maðr-inn        | drag-t       | fisk-in      | frá  | vatn-in       |
+  | man.NOM-DEF.NOM | drag-IND.PST | fish-DEF.ACC | from | water-DEF.DAT |
+  The man fished the fish from the water
+- Fiskinn var dragask frá vatnin
+  | Fiskr-inn        | var           | drag-ask     | frá  | vatn-in       |
+  | fish.NOM-DEF.NOM | be.3s.IND.PST | drag-STG.PAS | from | water-DEF.DAT |
+  The fish was fished from the water
+#+html: :::
+
+*** Modifiers                                                      :noexport:
 # - If you posit a morphosyntactic category of adjectives, give
 #   evidence for not grouping theseforms with the verbs or nouns. What
 #   characterizes a form as being an adjective in this language?
@@ -58,7 +279,7 @@
 #   class, ...)?
 **** Descriptive Adjectives                                           :noexport:
 **** Non-Numeral Quantifiers                                          :noexport:
-**** Numerals
+**** Numerals                                                      :noexport:
 
 *** Adverbs                                                           :noexport:
 # - What characterikes a form as being an adverb in this language? If
@@ -72,26 +293,26 @@
 #   complement-taking (matrix) verbs?
 *** Adpositions                                                       :noexport:
 *** Grammatical Particules                                            :noexport:
-** Constituants Order Typology                                    :noexport:
-*** Constituants Order in Main Clauses
+** Constituants Order Typology
+*** Constituants Order in Main Clauses                             :noexport:
 # - What is the neutral order of free elements in the unit?
 # - Are there variations?
 # - How do the variant orders function?
 # - Specific to the main clause constituent order: What is the
 #   pragmatically neutral order of constituents (A/S, P, and V) in
 #   basic clauses of the language?
-*** Constituants Order in Nominal Clauses
+*** Constituants Order in Nominal Clauses :noexport:
 # - Describe the order(s) of elements in the noun phrase.
-*** Constituants Order in Verbal Clauses
+*** Constituants Order in Verbal Clauses                           :noexport:
 # - Where do auxliari
 #   verb?
 # - Where do verb-phrase adverbs occur with respect to the verb and
 #   auxiliaries?
-*** Adpositional Phrases
+*** Adpositional Phrases                                           :noexport:
 # - Is the language dominantly prepositional or post-positional? Give
 #   examples.
 # - Do many adpositions come from nouns or verbs?
-*** Comparatives
+*** Comparatives                                                   :noexport:
 # - Does the language have one or more grammaticalized comparative
 #   constructions? If so, what is the order of the standard, the
 #   marker and the quality by which an item is compared to the
@@ -100,6 +321,100 @@
 # - In yes/no questions, if there is a question particle, where does
 #   it occur?
 # - In information qu
+Questions in Eittlandic are formed by inverting the syntactic subject
+with its verb in a normal sentence. For example, the sentence /han komr
+í dag með faðin hans/ (/he’s coming today with his father/) becomes a
+question when inverting /han/ and /komr/.
+
+**** Yes/No questions
+Yes/no questions are generally answered by /já/ or /nei/ (/yes/ or /no/
+respectively), sometimes with a repeat of the core of the sentence to
+confirm the anwser.
+
+#+html: ::: tip Example
+- Komr han í dag með faðin hans?
+
+  Is he coming today with his father?
+
+- Nei, han komr eig
+
+  No, he’s not coming
+or
+- Já, han komr
+
+  Yes, he’s coming
+#+html: :::
+
+The interjections /já/ and /nei/ are often ambiguous when replying to a
+question employing a negative verb and are often avoided; Eittlanders
+will prefer to reply with part of or the entirety of the question with
+either a negative marker or not to confirm or deny the assumption of
+the question.
+
+#+html: ::: tip Example
+- Komr han eig í dag?
+
+  Is he not coming today?
+
+- Han komr eig
+
+  He’s not coming
+or
+- Han komr
+#+html: :::
+
+Another strategy, a lot more common when replying to negative
+questions, is to reply using counter-factual interjection /eng/ meaning
+/yes/, while speakers will consider a simple /nei/ as an approbation of
+the assumption of the question.
+
+#+html: ::: tip Example
+- Komr han eig í dag?
+
+  Is he not coming today?
+
+- Nei (han komr eig)
+
+  No (he’s not coming)
+or
+- Áng (han komr)
+
+  Yes he is coming
+#+html: :::
+
+Similarly, when a question with a positive assumption is asked,
+Eittlandic speakers can answer with a counter-factual /náng/ to insist
+on its erroneous nature.
+
+#+html: ::: tip Example
+- Komr han eig í dag?
+
+  Is he not coming today?
+
+- Náng (han komr eig)
+
+  Of course not (he’s not coming)
+#+html: :::
+
+Some yes/no questions are sometimes asked in a very reduced form,
+without a full verbal sentence and only consisting of a noun phrase.
+Think of questions like /Coffe?/ or /Another cookie?/ in English. Such
+questions in Eittlandic require the final word /vit/.
+
+#+html: ::: tip Example
+- Té ell kafé vit?
+
+  Tea or coffe?
+- Té, þakk.
+
+  Tea, please/thanks.
+#+html: :::
+
+**** General questions
+General questions that are not yes/no questions will most of the time
+begin with a question word such as /hvar/ (/who/), the equivalent of WH
+words in English.
+
 ** Structure of a Nominal Group
 *** Composed Words                                               :noexport:
 # - Is there noun-noun compounding that results in a noun (e.g.
@@ -165,12 +480,12 @@ simplified to the table following it.
 |---+------------+------------------+-----------------+---------------+----------------|
 |   | Sing. Nom. | heim-r           | tíð             | skip          | tím-i          |
 |   |       Acc. | heim             | tíð             | skip          | tím-a          |
-|   |       Gen. | heim-s           | tíð-ar          | skip-s        | tím-a          |
 |   |       Dat. | heim-i           | tíð             | skip-i        | tím-a          |
+|   |       Gen. | heim-s           | tíð-ar          | skip-s        | tím-a          |
 |   | Plur. Nom. | heim-ar          | tíð-ir          | skip          | tím-ar         |
 |   |       Acc. | heim-a           | tíð-ir          | skip          | tím-a          |
-|   |       Gen. | heim-a           | tíð-a           | skip-a        | tím-a          |
 |   |       Dat. | heim-um          | tíð-um          | skip-um       | tím-um         |
+|   |       Gen. | heim-a           | tíð-a           | skip-a        | tím-a          |
 
 #+name: tbl:eittlandic-example-noun-inflexions
 #+caption: Declensions for strong and weak nouns in Modern Eittlandic
@@ -179,12 +494,12 @@ simplified to the table following it.
 |---+------------+---------------+---------------+------------|
 |   | Sing. Nom. | heim-r        | skip          | tím        |
 |   |       Acc. | heim          | skip          | tím        |
-|   |       Gen. | heim-ar       | skip-s        | tím-s      |
 |   |       Dat. | heim          | skip          | tím        |
+|   |       Gen. | heim-ar       | skip-s        | tím-s      |
 |   | Plur. Nom. | heim-r        | skip          | tím-r      |
 |   |       Acc. | heim          | skip          | tím        |
-|   |       Gen. | heim-ar       | skip-s        | tím-s      |
 |   |       Dat. | heim-um       | skip-um       | tím-um     |
+|   |       Gen. | heim-ar       | skip-s        | tím-s      |
 
 As you can see, a good amount of declensions disappeared from nouns,
 with only four marked cases for strong common nouns and two for strong
@@ -360,17 +675,14 @@ declensions in this dialect.
 In case a strong noun is used with a strong adjective, both will agree
 in number and gender.
 
-+ Examples:
-  - hvítr hund
-
-    white.m.sg.acc dog.m.sg.acc
-
-    white dog
-  - langir tungir
-
-    long.f.pl.acc tongues.f.pl.acc
-
-    long tongues
+#+html: ::: tip Example
+- hvítr hund
+  | white.m.sg.acc | dog.m.sg.acc |
+  white dog
+- langir tungir
+  | long.f.pl.acc | tongues.f.pl.acc |
+  long tongues
+#+html: :::
 
 *** Diminution and Augmentation                                    :noexport:
 # - Does the language employ diminutive and/or augmentative operators

@@ -20,6 +20,7 @@ some abbreviations you should keep in mind:
 - imp :: imperative
 - ind :: indicative
 - interr :: interrogative
+- iv :: irregular verb
 - m :: masculine
 - ME :: Middle Eittlandic
 - n :: neuter
@@ -28,7 +29,9 @@ some abbreviations you should keep in mind:
 - Nor :: Norwegian (Nynork if no dialect is specified)
 - num :: numeral
 - OE :: Old Eittlandic
+- OI :: Old Icelandic
 - ON :: Old Norse
+- pas :: passive
 - pl :: plural
 - prep :: preposition
 - pret :: preterite
@@ -36,6 +39,7 @@ some abbreviations you should keep in mind:
 - sc :: strong common
 - sg :: singular
 - sn :: strong neuter
+- stg :: strong
 - sv :: strong verb
 - Swe :: Swedish
 - wk :: weak
@@ -71,10 +75,23 @@ it is indicated between parenthesis in the accusative case, preceeded
 by a dash, as in /dag(a-n)/.
 
 ** A
+*** ikkí
+interj. {{{phon(iχe)}}}
+
+1. How cold! Brr!
+
+From an unkwnown Greenlandic language, compare with modern Greenlandic /ikkii/.
 
 ** Á
+*** áng
+interj. {{{phon(ɛŋ)}}}
 
-** Æ
+1. positive counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
+
+This word does not have a clear origin, however it is supposed it was
+borrowed early on from an Eskaleut language that may have been spoken
+by the island’s initial inhabitants. Compare modern-day Aleut /aang/ and
+Proto-Eskimoan /*aa/ or /*ii/.
 
 ** B
 *** bræðr
@@ -118,7 +135,6 @@ sf. {{{phon(bø̀k)}}}
 See [[file:dictionary.md#bok(r)][/bók/]]
 
 ** C
-
 ** D
 *** djúp
 adj. {{{phon(dʒòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
@@ -145,8 +161,6 @@ sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][
 |   | Acc. | dótt     | dœtt   |
 |   | Gen. | dóttr    | dœtr   |
 |   | Dat. | dótt     | dœttum |
-
-** Đ
 
 ** E
 *** edd(a-t)
@@ -178,8 +192,13 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 |   | Gen. | eittlands |
 |   | Dat. | eittland  |
 
-** É
+*** ell
+{{{phon(elː)}}}, from ON [[https://en.wiktionary.org/wiki/ella#Old_Norse][ella]]
 
+1. (adv.) else, or, otherwise
+2. (conj.) or
+
+** É
 ** F
 *** fað
 m. {{{phon(fað)}}}, from ON [[https://old-norse.net/html/f.php#fa%C3%B0ir][faðir]]
@@ -233,37 +252,68 @@ n. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][ga
 1. a quarrel
 2. a heated debate /(informal)/
 
-*** gegn
-adv. {{{phon(jeɡn̩)}}}
-
-1. against, opposing
-*** gjøf
-f. {{{phon(jøv)}}}
+*** gef
+f. {{{phon(jev)}}}, from Early Old Norse [[https://en.wiktionary.org/wiki/gj%C7%ABf#Old_Norse][gef]]
 
 1. gift, present
 
+*** gegn
+adv. {{{phon(jeɡn̩)}}}, from ON [[https://en.wiktionary.org/wiki/gegn#Old_Norse][gegn]]
+
+1. against, opposing
+
 ** H
+*** hav(a)
+iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][hafa]]
+
+1. to have
+2. stative auxilliary
+
+**** Inflexions
+- infinitive :: hav
+- imperative :: hav (except 2p /haft/)
+- imperative passive voice :: hafsk (except 1p /havumsk/)
+- present participle :: havand
+- past participle :: hafr
+
+|    | Indicative Present | Subjunctive Present | Indicative Past | Subjunctive Past |
+|----+--------------------+---------------------+-----------------+------------------|
+| 1s | hav                | hav                 | haft            | haft             |
+| 2s | havir              | havir               | haftir          | haftir           |
+| 3s | havir              | hav                 | haft            | haft             |
+| 1p | havum              | havim               | haft            | haft             |
+| 2p | haft               | haft                | haftuð          | haftið           |
+| 3p | hav                | hav                 | haft            | haft             |
+
+Note that there is no difference between singular and plural when using hav(a) in the passive voice.
+|   | Indicative  Present | Subjunctive Present | Indicative Past | Subjunctive Past |
+|---+---------------------+---------------------+-----------------+------------------|
+| 1 | havumk              | havumk              | havumk          | heðumk           |
+| 2 | hafsk               | havisk              | havisk          | heðisk           |
+| 3 | hafsk               | havisk              | havisk          | heðisk           |
+
 *** heils(a-t)
-wn.f. {{{phon(hɑ:ɪls)}}}
+wn.f. {{{phon(hɑ:ɪls)}}}, from ON [[https://en.wiktionary.org/wiki/heilsa#Old_Norse][heilsa]]
 
 1. health
 
 *** hjól
-n. {{{phon(çɔl)}}}
+n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
 
 1. wheel
 
 *** hlóð
-n. {{{phon(l̥ɔð)}}}
+n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C3%B0][hlóð]]
 
 1. hearth
 2. living room
 
 *** hneis(a-t)
-wn.f. {{{phon(n̥ɑ:ɪs)}}}
+wn.f. {{{phon(n̥ɑ:ɪs)}}}, from ON [[https://old-norse.net/html/h.php#hneisa][hneisa]]
 
-1. shame, disgrace
-2. social isolation
+1. shame, disgrace, fear
+2. reclusion (out of shame or out of fear)
+3. social isolation
 
 *** hneising
 n. {{{phon(n̥ɑɪsinɡ)}}}
@@ -272,38 +322,59 @@ n. {{{phon(n̥ɑɪsinɡ)}}}
 2. (modern) shut-in, hikikomori
 
 *** hnjós(a)
-v. {{{phon(ɲ̥ɔ̀ːs)}}}
+v. {{{phon(ɲ̥ɔ̀ːs)}}}, from ON [[https://old-norse.net/html/h.php#hnj%C3%B3sa][hnjósa]]
 
 1. to sneeze
 
 *** hrifs
-n. {{{phon(r̥ivs)}}}
+n. {{{phon(r̥ivs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
 
 1. assault, mugging
+
+*** hvar
+pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
+
+1. who
+
 *** hvat
-adv. {{{phon(ʍɑt)}}}
+adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
 
 1. what
 *** hví
-adv. {{{phon(ʍè)}}}
+adv. {{{phon(ʍè)}}}, from ON [[https://en.wiktionary.org/wiki/hv%C3%AD#Old_Norse][hví]]
 
 1. why
 
 ** I
-
 ** Í
-
 ** J
+*** já
+{{{phon(jɛ)}}}, from ON [[https://en.wiktionary.org/wiki/j%C3%A1#Old_Norse][já]]
+
+1. (adv) yes
+2. (interj) yes (as an exclamation of joy)
 
 ** K
-*** kaup
-n. {{{phon(kɔp)}}}
+*** kaup(a)
+n. {{{phon(kɔp)}}}, from ON [[https://en.wiktionary.org/wiki/kaupa#Old_Norse][kaupa]]
 
 1. commerce
 2. bargain, barter
 
-*** konung
-sn.m. {{{phon(ˈkonoŋ)}}}
+*** kék
+adj. {{{phon(kɛk)}}}
+
+1. gray (hair colour)
+
+Probably from a Greenlandic dialect, compare to West Greenlandic /qeeq/
+
+*** kom(a)
+sv. {{{phon(kom)}}}, from ON [[https://en.wiktionary.org/wiki/koma#Old_Norse][koma]]
+
+1. to come
+
+*** konungr
+sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
 
 1. king
 
@@ -314,10 +385,14 @@ sn.m. {{{phon(ˈkonoŋ)}}}
 2. adj. royal
 
 ** L
+*** land
+n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse][land]]
+
+1. land
 
 ** M
-*** myrɡun
-m. {{{phon(ˈmyrɡun)}}}
+*** myrɡunn
+m. {{{phon(ˈmyrɡunː)}}}, from ON [[https://en.wiktionary.org/wiki/myrginn#Old_Norse][myrgunn]]
 
 1. morning, aurora
 
@@ -332,17 +407,17 @@ See also [[file:./dictionary.md#undirland][undirland]]
 
 ** N
 *** ná
-adv. {{{phon(nɛ̀)}}}
+adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Norse][ná]]
 
 1. now
    #+html: ::: tip Example
-   Ná kom ek frá universitatit.
+   Ná kom ek frá universitetit.
 
    I come from the university now.
    #+html: :::
 2. intensifier, used at the end of sentences
    #+html: ::: tip Example
-   Ek kom frá universitatit ná!
+   Ek kom frá universitetit ná!
 
    - I come from the university (you know)
    or
@@ -350,31 +425,187 @@ adv. {{{phon(nɛ̀)}}}
    #+html: :::
 3. progressive marker when placed right after the verb
    #+html: ::: tip Example
-   Ek kom ná frá universitatit.
+   Ek kom ná frá universitetit.
 
    I’m coming from the university.
    #+html: :::
 
-*** noregsúlf
-m. {{{phon(ˈnorejsˌòlv)}}}
+*** náng
+interj. {{{phon(nɛŋ)}}}
+
+1. negative counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
+
+This word does not have a clear origin, however it is supposed it was
+borrowed early on from an Eskaleut language that may have been spoken
+by the island’s initial inhabitants. Compare Aleut /nangaa/ and
+Proto-Eskimoan /*nanka/, and Western Greenlandic /naagga/.
+
+*** nei
+{{{phon(nɑɪ)}}}, from ON [[https://en.wiktionary.org/wiki/nei#Old_Norse][nei]]
+
+1. (adv.) no
+2. (interj) no, as an exclamation of panic, regret
+
+*** norvegsúlf(r)
+m. {{{phon(ˈnorβejsˌòlv)}}}, from ON /Noregs/ (genitive of ON [[https://old-norse.net/html/n.php#noregr][Noregr]]) and ON
+[[https://en.wiktionary.org/wiki/ulfr#Old_Norse][úlfr]]
 
 1. wolf, litt. Norway’s wolf.
 
-   Wolves do not naturally live in Eittland. Their only relatives
-   introduced to the island were dogs and wolf-dogs, and the latter
-   inherited the simpler /úlfr/ term. Noun composed by Old Norse /noregs/
-   (genitive of /Noregr/, /Norway/) and /úlfr/.
+Wolves do not naturally live in Eittland. Their only relatives
+introduced to the island were dogs and wolf-dogs, and the latter
+inherited the simpler /úlfr/ term. Noun composed by Old Norse /noregs/
+(genitive of /Noregr/, /Norway/) and /úlfr/.
 
 ** O
-
 ** Ó
-*** óglaðr / óglœðr
-adj. {{{phon(ˈɔ̀ɡʲœðr̩)}}}
+*** óglað(r)
+adj. {{{phon(ˈɔ̀ɡʲœð)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3gla%C3%B0r][óglaðr]]
 
 1. very sad, depressed, miserable
 
-** Ø
+** P
+*** pengvin
+n. {{{phon(ˈpeŋβen)}}}, from French [[https://en.wiktionary.org/wiki/pingouin#French][pingouin]] through Danish [[https://en.wiktionary.org/wiki/pingvin#Danish][pingvin]]
 
+1. penguin
+
+** R
+*** ráðuneyt(i)
+wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}, from OI [[https://old-norse.net/html/r.php#r%C3%A1%C3%B0uneyti][ráðuneyti]]
+
+1. Ministry
+2. department
+
+** S
+*** sitj(a)
+v. {{{phon(siːtʃ)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
+
+1. to sit
+2. to represent (politics)
+
+*** sjá
+v. {{{phon(ʃɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse][sjá]]
+
+1. to see
+2. to understand
+
+*** skilj(a)
+v. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_Norse][skilja]]
+
+1. to differenciate
+2. to segregate, to separate
+3. to understand a difference
+
+*** snjór
+m. {{{phon(sɲɔ̀r)}}}, from ON [[https://en.wiktionary.org/wiki/snj%C3%B3r#Old_Norse][snjór]]
+
+1. snow
+
+*** styrsamhald(i)
+n. {{{phon(ˈʃtyrˌsamhald)}}}, from Old Norse [[https://old-norse.net/html/s.php#styrr][styrr]] (stir, battle) and
+[[https://old-norse.net/html/s.php#samheldi][samhaldi]] (a holding together, unity).
+
+1. military batallion
+2. mitilary unit, group
+
+** T
+*** tal(a)
+wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][tala]]
+
+1. numbers
+
+*** tren
+wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#English][train]]
+
+1. train
+
+** U
+*** undir
+adj. {{{phon(undir)}}}, from ON [[https://en.wiktionary.org/wiki/undir#Old_Norse][undir]]
+
+1. under, underneath
+
+Can only be used with accusative or dative
+
+*** undirland
+wn.n. {{{phon(ˈundirˌland)}}}, calque of English “underground” using [[file:./dictionary.md#undir][undir]] and [[file:./dictionary.md#land][land]]
+
+1. underground, subway
+
+See also [[file:./dictionary.md#metr-o][metr(o)]]
+
+*** universitet
+wn.n. {{{phon(oneˈβersetet)}}}, from German [[https://en.wiktionary.org/wiki/Universit%C3%A4t#German][Universität]]
+
+1. university
+
+*** uppá
+prep. {{{phon(ˈuɸə̀)}}}, from ON [[https://old-norse.net/html/u.php#upp%C3%A1][uppá]]
+
+1. upon
+
+** Ú
+*** úlf(r)
+m. {{{phon(òlv)}}}, from ON [[https://en.wiktionary.org/wiki/ulfr][úlfr]]
+
+1. wolf-dog. See also /noregsúlfr/.
+
+** V
+*** veisheit
+wn.f. {{{phon(ˈβɑɪshɑɪt)}}}, from German [[https://en.wiktionary.org/wiki/Weisheit#German][Weisheit]], see also [[file:./dictionary.md#visk-a][visk(a)]]
+
+1. knowledge or wisdom
+2. insight
+
+*** ver(a)
+iv. {{{phon(βer)}}}, from ON [[https://en.wiktionary.org/wiki/vera#Old_Norse][vera]]
+
+1. to be
+2. active auxilliary
+
+**** Inflexions
+- infinitive :: ver
+- imperative :: ver
+- present participle :: verand
+- past participle :: vert
+
+|    | Indicative Present | Subjunctive Present | Indicative Past | Subjunctive Past |
+|----+--------------------+---------------------+-----------------+------------------|
+| 1s | em                 | sé                  | var             | vár              |
+| 2s | ert                | sér                 | vart            | vár              |
+| 3s | er                 | sé                  | var             | vár              |
+| 1p | er                 | sé                  | var             | vár              |
+| 2p | eruð               | séð                 | varð            | várið            |
+| 3p | er                 | sé                  | var             | vár              |
+
+*** vél
+sc.f. {{{phon(βɛl)}}}, from ON [[https://en.wiktionary.org/wiki/v%C3%A9l#Old_Norse][vél]]
+
+1. machine, craft
+
+*** vétal(a)
+wn.f. {{{phon(ˈβɛ̀tal)}}}, portemanteau of [[file:./dictionary.md#vel][vél]] and [[file:./dictionary.md#tal-a][tal(a)]]
+
+1. computer
+
+*** vit
+interj. {{{phon(βit)}}}
+
+1. question marker, see [[file:./grammar.md#yes-no-questions][yes/no questions]], probably from a Greenlandic
+   dialect, see [[https://en.wikipedia.org/wiki/Greenlandic_language#Indicative_and_interrogative_moods][Greenlandic interrogative moods]].
+
+*** visk(a)
+f. {{{phon(βiʃk)}}}, from ON [[https://old-norse.net/html/v.php#vizka][vizka]]
+
+1. practical knowledge or wisdom, acquired from experience
+
+See [[file:./dictionary.md#veisheit][veisheit]] for a more general term for /wisdow/
+
+** Y
+** Ý
+** Z
+** Ø
 ** Œ
 *** Œgir / Œger
 m. {{{phon(ˈœjer)}}}
@@ -382,126 +613,5 @@ m. {{{phon(ˈœjer)}}}
 1. A mythical beast residing in the forests of the western
 Eittlandic fjords.
 
-** P
-*** pengvin / pengven
-n. {{{phon(ˈpeŋβen)}}}
-
-1. penguin
-
-From English *penguin*
-
-** Q
-
-** R
-*** ráðuneyt
-wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}
-
-1. Ministry
-2. department
-
-** S
-*** sitj(a)
-v. {{{phon(siːtʃ)}}}
-
-1. to sit
-2. to represent (politics)
-
-*** sjá
-v. {{{phon(ʃɛ̀)}}}
-
-1. to see
-2. to understand
-
-*** skilj(a)
-v. {{{phon(ʃkiːʎ)}}}
-
-1. to differenciate
-2. to segregate, to separate
-3. to understand a difference
-
-*** snjór
-m. {{{phon(sɲɔ̀r)}}}
-
-1. snow
-
-*** styrsamhald
-n. {{{phon(ˈʃtyrˌsamhald)}}}
-
-1. military batallion
-2. mitilary unit, group
-
-From Old Norse *styrr* (stir, battle) and *samhald* (a holding together,
-unity).
-
-** T
-*** tal(a)
-wn.f. {{{phon(tal)}}}
-
-1. numbers
-
-*** tren
-wn.n. {{{phon(tren)}}}
-
-1. train
-
+** Đ
 ** Þ
-
-** U
-
-*** undir
-adj. {{{phon(undir)}}}
-
-1. under, underneath
-
-Can only be used with accusative or dative
-
-*** undirland
-wn.n. {{{phon(ˈundirˌland)}}}, calque of English “underground”
-
-1. underground, subway
-
-See also [[file:./dictionary.md#metr-o][metr(o)]]
-
-*** universitat
-wn.n. {{{phon(oneˈβersetat)}}}
-
-1. university
-
-*** uppá
-prep. {{{phon(ˈupɸə̀)}}}
-
-1. upon
-
-** Ú
-*** úlf
-m. {{{phon(òlv)}}}
-
-1. wolf-dog. See also /noregsúlfr/.
-
-** V
-*** veisheit
-wn.f. {{{phon(ˈβɑɪshɑɪt)}}}
-
-1. knowledge or wisdom. From German /Weisheit/. See also /vizka/
-
-*** vél
-sc.f.
-
-1. machine, craft
-
-*** vétal
-wn.f. {{{phon(ˈβɛ̀tal)}}}
-
-1. computer
-
-*** visk(a)
-f. {{{phon(βiːʃk)}}}
-
-1. practical knowledge or wisdom, acquired from experience
-See /veisheit/ for a more general term for /wisdow/
-
-** Y
-
-** Ý
-
-** Z

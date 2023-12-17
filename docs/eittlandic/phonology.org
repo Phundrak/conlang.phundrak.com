@@ -317,8 +317,19 @@ when written in Standard Eittlandic due to the spelling dropping the
 final vowels affected here.
 
 #+html: ::: tip Example
-Middle Eittlandic (to understand, to distinguish) {{{phon(ʃkiʎə)}}} > Late
-Middle Eittlandic {{{phon(ʃkiːʎ)}}}
+Middle Eittlandic (to understand, to distinguish) {{{phon(ʃkiʎə)}}} > Modern
+Eittlandic {{{phon(ʃkiːʎ)}}}
+#+html: :::
+
+*** C[+plos +fric] > C[-plos]
+During the late 19th century to early 20th century, Eittlandic lost
+its affricate consonants as they morphed into simple fricatives.
+Therefore, some Middle Eittlandic {{{phon(pː)}}} became in Modern
+Eittlandic {{{phon(ɸ)}}} through {{{phon(pɸ)}}}.
+
+#+html: ::: tip Example
+Old Norse /uppá/ (/upon/) {{{phon(upːɑː)}}} > Late Middle Eittlandic {{{phon(upɸə)}}}
+> Modern Eittlandic {{{phon(uɸə)}}}
 #+html: :::
 
 *** t / _C > ʔ ! _ʃ

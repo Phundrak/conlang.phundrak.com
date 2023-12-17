@@ -402,17 +402,17 @@ commerce between Europe and Northern America with its two major ports,
 Kóparvall and Tvinnár.
 
 **** Women’s right to vote
-On August 22nd 1902, a billed written by the House of the People led
-by the Labourer’s Party is ratified by the High King. It gives women
-the right to vote in any election open to the Eittlandic people. On
-March 15th 1915, a second law written by the Labourer’s Party is
-ratified by the High King, giving women the right to be elected at the
-House of the People while noblewomen got the right to inherit the
-title of Jarl, making them eligible to the House of the Land. Quickly
-after, Kari Niallsdóttr became the first woman ever elected to the
-House of the People during the general election of September 1905,
-while Ása Sigríðsdóttr became the first woman to enter the House of
-the Land in 1934.
+On August 22nd 1902, a bill written by the House of the People led by
+the Labourer’s Party is ratified by the High King. It gives women the
+right to vote in any election open to the Eittlandic people. On March
+15th 1915, a second law written by the Labourer’s Party is ratified by
+the High King, giving women the right to be elected at the House of
+the People while noblewomen got the right to inherit the title of
+Jarl, making them eligible to the House of the Land. Quickly after,
+Kari Niallsdóttr became the first woman ever elected to the House of
+the People during the general election of September 1905, while Ása
+Sigríðsdóttr became the first woman to enter the House of the Land
+in 1934.
 
 **** World War One
 When World War I started, Eittland stated their neutrality regarding
@@ -510,11 +510,11 @@ April 1983.
 **** Computer Sciences Pioneering
 Out of personal interest, the then Co-King of Ðeberget Ragnarr
 Sigurðsbróðr asked the Dean of the Royal University of Eittland
-(/Konunglig Eittlandsuniversitat/) to open as quickly as possible a lab
+(/Konunglig Eittlandsuniversitet/) to open as quickly as possible a lab
 focused on the development of computers and computer sciences. While
 the Co-King holds no power and is purely a ceremonial title, the Dean
 obliged and founded the first Eittlandic computer science laboratory,
-the /Konunglig Eittlandsuniversitatitsvétalsráðuneyt/ (litt. “Royal
+the /Konunglig Eittlandsuniversitetitsvétalsráðuneyt/ (litt. “Royal
 Eittland’s University’s Computer Department”), or /Vétalsráðuneyt/ for
 short. This accompanied a new law raising the annual budget allocated
 to universities in Eittland to 9% of the nation’s GDP. As the first
@@ -523,7 +523,7 @@ even becoming one of the leading laboratories along with MIT, Bell
 Labs and CERN, numerous other laboratories both public and private
 appeared in Eittland. Nowadays, the /Vétalsráðuneyt/ is still regarded
 as one of the top research laboratories and university department in
-Eittland, and the /Konunglig Eittlandsuniversitat/ often ranks in the
+Eittland, and the /Konunglig Eittlandsuniversitet/ often ranks in the
 top five universities in the world regarding computer science.
 
 What is now known as the Internet is born of a mix of ARPANET, the
