@@ -75,13 +75,6 @@ it is indicated between parenthesis in the accusative case, preceeded
 by a dash, as in /dag(a-n)/.
 
 ** A
-*** ikkí
-interj. {{{phon(iχe)}}}
-
-1. How cold! Brr!
-
-From an unkwnown Greenlandic language, compare with modern Greenlandic /ikkii/.
-
 ** Á
 *** áng
 interj. {{{phon(ɛŋ)}}}
@@ -137,20 +130,20 @@ See [[file:dictionary.md#bok(r)][/bók/]]
 ** C
 ** D
 *** djúp
-adj. {{{phon(dʒòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
+adj. {{{phon(ʒːòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
 1. deep
 2. profound (figuratively)
 
-*** djúplig / djúpleg
-adv. {{{phon(dʒòpleɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
+*** djúplig
+adv. {{{phon(ʒːòpleɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
 ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
 1. deeply
 2. inherently
 
 *** dótt
-sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
+sf. {{{phon(dɔʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
 
@@ -164,7 +157,7 @@ sf. {{{phon(dɔtʃ)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][
 
 ** E
 *** edd(a-t)
-wf. {{{phon(e:d)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
+wf. {{{phon(e:ðː)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
 2. female ancestor, beyond the grandmother
@@ -346,6 +339,13 @@ adv. {{{phon(ʍè)}}}, from ON [[https://en.wiktionary.org/wiki/hv%C3%AD#Old_No
 1. why
 
 ** I
+*** ikkí
+interj. {{{phon(ixːə)}}}
+
+1. How cold! Brr!
+
+From an unkwnown Greenlandic language, compare with modern Greenlandic /ikkii/.
+
 ** Í
 ** J
 *** já
@@ -479,7 +479,7 @@ wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}, from OI [[https://old-norse.net/html/r.php
 
 ** S
 *** sitj(a)
-v. {{{phon(siːtʃ)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
+v. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
 
 1. to sit
 2. to represent (politics)
@@ -541,7 +541,7 @@ wn.n. {{{phon(oneˈβersetet)}}}, from German [[https://en.wiktionary.org/wiki/U
 1. university
 
 *** uppá
-prep. {{{phon(ˈuɸə̀)}}}, from ON [[https://old-norse.net/html/u.php#upp%C3%A1][uppá]]
+prep. {{{phon(ˈuɸːə̀)}}}, from ON [[https://old-norse.net/html/u.php#upp%C3%A1][uppá]]
 
 1. upon
 
@@ -607,7 +607,7 @@ See [[file:./dictionary.md#veisheit][veisheit]] for a more general term for /wis
 ** Z
 ** Ø
 ** Œ
-*** Œgir / Œger
+*** Œgir
 m. {{{phon(ˈœjer)}}}
 
 1. A mythical beast residing in the forests of the western

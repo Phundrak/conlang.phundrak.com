@@ -321,15 +321,15 @@ Middle Eittlandic (to understand, to distinguish) {{{phon(ʃkiʎə)}}} > Modern
 Eittlandic {{{phon(ʃkiːʎ)}}}
 #+html: :::
 
-*** C[+plos +fric] > C[-plos]
+*** C[+plos +fric] > C[-plos +long]
 During the late 19th century to early 20th century, Eittlandic lost
 its affricate consonants as they morphed into simple fricatives.
 Therefore, some Middle Eittlandic {{{phon(pː)}}} became in Modern
-Eittlandic {{{phon(ɸ)}}} through {{{phon(pɸ)}}}.
+Eittlandic {{{phon(ɸː)}}} through {{{phon(pɸ)}}}.
 
 #+html: ::: tip Example
 Old Norse /uppá/ (/upon/) {{{phon(upːɑː)}}} > Late Middle Eittlandic {{{phon(upɸə)}}}
-> Modern Eittlandic {{{phon(uɸə)}}}
+> Modern Eittlandic {{{phon(uɸːə)}}}
 #+html: :::
 
 *** t / _C > ʔ ! _ʃ
