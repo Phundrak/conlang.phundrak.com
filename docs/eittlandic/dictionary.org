@@ -327,7 +327,7 @@ n. {{{phon(r̥ivs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
 *** hvar
 pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
 
-1. who
+1. where
 
 *** hvat
 adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
@@ -373,7 +373,7 @@ sv. {{{phon(kom)}}}, from ON [[https://en.wiktionary.org/wiki/koma#Old_Norse][ko
 
 1. to come
 
-*** konungr
+*** konung
 sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
 
 1. king

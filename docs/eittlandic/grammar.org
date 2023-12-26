@@ -322,9 +322,81 @@ completely removing it from the sentence.
 #   it occur?
 # - In information qu
 Questions in Eittlandic are formed by inverting the syntactic subject
-with its verb in a normal sentence. For example, the sentence /han komr
-í dag með faðin hans/ (/he’s coming today with his father/) becomes a
-question when inverting /han/ and /komr/.
+with its verb in a normal sentence. For example, the sentence /hann
+komr í dag með faðin hans/ (/he’s coming today with his father/) becomes
+a question when inverting /hann/ and /komr/. This is generally regarded as
+a formal way of forming questions.
+
+A more formal way of creating a question is by suffixing /-vit/ at the
+end of a verb without any change to the word order of the sentence. If
+there is any declension at the end of the verb, /-vit/ will bear it
+instead of the stem of the verb itself. It is somewhat similar to
+asking a question in English by simply raising the sentence’s tone.
+
+#+html: ::: tip Example
+- Hann komr í dag með faðin hans
+
+  | hann     | kom-r           | í dag | með  | fað-in         | hans     |
+  | 3s.m.NOM | come-s.PRES.IND | today | with | father.ACC-DEF | 3s.m.GEN |
+
+  He’s coming with his father today.
+- Komr han í dag með faðin hans?
+
+  | kom-r           | hann     | í dag | með  | fað-in         | hans     |
+  | come-s.PRES.IND | 3s.m.NOM | today | with | father.ACC-DEF | 3s.m.GEN |
+
+  Is he coming with his father today?
+- Han komvitr í dag með maðin hans?
+
+  | hann     | kom-vit-r         | í dag | með  | fað-in         | hans     |
+  | 3s.m.NOM | come-Q-s.PRES.IND | today | with | father.ACC-DEF | 3s.m.GEN |
+
+  He’s coming with his father today?
+#+html: :::
+
+The verbs /ver(a)/ and /hav(a)/ both cannot use this construction.
+Instead, Eittlandic speakers may instead simply add /vit/ as a
+standalone word at the end of the question.
+
+#+html: ::: tip Example
+- Hann er konung.
+
+  | hann     | er             | konung   |
+  | 3s.m.NOM | be.3s.PRES.IND | king.ACC |
+
+  He is the king.
+- Er hann konung?
+
+  | er             | hann     | konung   |
+  | be.3s.PRES.IND | 3s.m.NOM | king.ACC |
+
+  Is he the king?
+- Hann er konung vit?
+
+  | hann     | er             | konung | vit |
+  | 3s.m.NOM | be.3s.PRES.IND | king   | Q   |
+
+  He is the king?
+#+html: :::
+
+This also applies to general questions as shown below, where the
+question word takes the place of either the syntactic patient or
+syntactic dative of the verb.
+
+#+html: ::: tip Example
+- Ná hvar ert þú?
+
+  | ná  | hvar  | ert            | þú     |
+  | now | where | be.2s.PRES.IND | 2s.NOM |
+
+  Where are you now?
+- Ná þú ert hver vit?
+
+  | ná  | þú     | ert            | hvar  | vit |
+  | now | 2s.NOM | be.2s.PRES.IND | where | Q   |
+
+  You are where now?
+#+html: :::
 
 **** Yes/No questions
 Yes/no questions are generally answered by /já/ or /nei/ (/yes/ or /no/
