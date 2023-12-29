@@ -8,6 +8,7 @@ some abbreviations you should keep in mind:
 - adv :: adverb
 - art :: article
 - aux :: auxiliary
+- c :: common
 - comp :: comparative
 - conj :: conjunction
 - Dan :: Danish
@@ -22,6 +23,7 @@ some abbreviations you should keep in mind:
 - interr :: interrogative
 - iv :: irregular verb
 - m :: masculine
+- mass :: mass noun
 - ME :: Middle Eittlandic
 - n :: neuter
 - neg :: negative
@@ -75,6 +77,18 @@ it is indicated between parenthesis in the accusative case, preceeded
 by a dash, as in /dag(a-n)/.
 
 ** A
+*** aug(a)
+wn.n. {{{phon(ɔ̀j)}}}
+
+1. eye
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | aug   | augat   | aug   | augatr  |
+| Acc. | aug   | augat   | aug   | augat   |
+| Dat. | aug   | augat   | augum | augatum |
+| Gen. | augas | augats  | augas | augat   |
+
 ** Á
 *** áng
 interj. {{{phon(ɛŋ)}}}
@@ -87,12 +101,25 @@ by the island’s initial inhabitants. Compare modern-day Aleut /aang/ and
 Proto-Eskimoan /*aa/ or /*ii/.
 
 ** B
-*** bræðr
+*** borð
+sn.n. {{{phon(borð)}}}
+
+1. table
+2. large plank
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | borð  | borðit  | borðr  | borðitr  |
+| Acc. | borð  | borðit  | borð   | borðit   |
+| Dat. | borð  | borðit  | borðum | borðitum |
+| Gen. | borðs | borðits | borðs  | borðit   |
+
+*** bræð
 sm. {{{phon(brɛð)}}}
 
 See [[file:dictionary.md#broð][/bróð/]]
 
-*** bróð
+*** bróð(i)
 sm. {{{phon(brɔ̀ð)}}} , from ON [[https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir][bróðir]]
 
 1. brother, plural /bræð/
@@ -101,26 +128,24 @@ Re-analysis of ON /bródir/ decomposed into /bróð/ + /-ir/ by popular
 etymology. Same goes for its former plural /bræðir/ which got
 re-analyzed into /bræð/ + /-ir/.
 
-| / |  <r> |          |        |
-|   |      | Singular | Plural |
-|---+------+----------+--------|
-|   | Nom. | bróðr    | bræðr  |
-|   | Acc. | bróð     | bræð   |
-|   | Gen. | bróðir   | bræðir |
-|   | Dat. | bróð     | bræðum |
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | bróðr  | bróðinn | bræðr  | bræðinn  |
+| Acc. | bróð   | bróðin  | bræð   | bræðin   |
+| Dat. | bróðir | bróðin  | bræðir | bræðinum |
+| Gen. | bróð   | bróðins | bræðum | bræðin   |
 
-*** bók
+*** bók(a)
 sf. {{{phon(bɔ̀k)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%B3k2][bók]]
 
 1. book, plural /bøk/
 
-| / |  <r> |          |        |
-|   |      | Singular | Plural |
-|---+------+----------+--------|
-|   | Nom. | bókr     | bøkr   |
-|   | Acc. | bók      | bøk    |
-|   | Gen. | bókar    | bøkar  |
-|   | Dat. | bók      | bøkum  |
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | bókr  | bókann  | bøkr  | bøkann  |
+| Acc. | bók   | bókan   | bøk   | bøkan   |
+| Dat. | bókar | bókan   | bøkar | bøkanum |
+| Gen. | bók   | bókans  | bøkum | bøkan   |
 
 *** bøk
 sf. {{{phon(bø̀k)}}}
@@ -142,33 +167,31 @@ ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 1. deeply
 2. inherently
 
-*** dótt
-sf. {{{phon(dɔʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
+*** dótt(i)
+sn.f. {{{phon(dɔʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
 
-| / |  <r> |          |        |
-|   |      | Singular | Plural |
-|---+------+----------+--------|
-|   | Nom. | dóttr    | dœttr  |
-|   | Acc. | dótt     | dœtt   |
-|   | Gen. | dóttr    | dœtr   |
-|   | Dat. | dótt     | dœttum |
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | dóttr  | dóttinn | dœttr  | dœttinn  |
+| Acc. | dótt   | dóttin  | dœtt   | dœttin   |
+| Dat. | dótt   | dóttin  | dœttum | dœttinum |
+| Gen. | dóttar | dóttins | dœttar | dœttin   |
 
 ** E
-*** edd(a-t)
+*** edd(a)
 wf. {{{phon(e:ðː)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
 2. female ancestor, beyond the grandmother
 
-| / |  <r> |          |        |
-|   |      | Singular | Plural |
-|---+------+----------+--------|
-|   | Nom. | edd      | eddr   |
-|   | Acc. | edd      | edd    |
-|   | Gen. | eddas    | eddas  |
-|   | Dat. | edd      | eddam  |
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | edd   | eddann  | eddr  | eddann  |
+| Acc. | edd   | eddan   | edd   | eddan   |
+| Dat. | eddas | eddan   | eddam | eddanum |
+| Gen. | eddas | eddans  | eddas | eddan   |
 
 *** Eittland
 wn. {{{phon(ɑɪʔlɑnd)}}}, from OE neutral /einn/ (/alone/, /lonely/), itself from
@@ -177,15 +200,14 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 1. High Kingdom of Eittland
 2. island of Eittland
 
-| / |  <r> |           |
-|   |      | Singular  |
-|---+------+-----------|
-|   | Nom. | eittland  |
-|   | Acc. | eittland  |
-|   | Gen. | eittlands |
-|   | Dat. | eittland  |
+|      | Sg.       |
+|------+-----------|
+| Nom. | Eittland  |
+| Acc. | Eittland  |
+| Gen. | Eittlands |
+| Dat. | Eittland  |
 
-*** ell
+*** ell(a)
 {{{phon(elː)}}}, from ON [[https://en.wiktionary.org/wiki/ella#Old_Norse][ella]]
 
 1. (adv.) else, or, otherwise
@@ -193,8 +215,8 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 
 ** É
 ** F
-*** fað
-m. {{{phon(fað)}}}, from ON [[https://old-norse.net/html/f.php#fa%C3%B0ir][faðir]]
+*** fað(i)
+sn.m. {{{phon(fað)}}}, from ON [[https://old-norse.net/html/f.php#fa%C3%B0ir][faðir]]
 
 1. father, plural /feð/
 
@@ -202,12 +224,12 @@ Re-analysis of sg. /fadir/ and pl. /feðir/ as /fað/ and /feð/ respectively,
 each appended with a grammatical /-r/ or /-ir/ (which later got reduced to
 /-r/).
 
-|      | Singular | Plural |
-|------+----------+--------|
-| Nom. | faðr     | feðr   |
-| Acc. | fað      | feð    |
-| Gen. | faðar    | feðar  |
-| Dat. | fað      | feðum  |
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | faðr  | faðinn  | feðr  | feðinn  |
+| Acc. | fað   | faðin   | feð   | feðin   |
+| Dat. | fað   | faðin   | feðum | feðinum |
+| Gen. | faðar | faðins  | feðar | feðin   |
 
 *** feð
 sm. {{{phon(feð)}}}
@@ -215,7 +237,7 @@ sm. {{{phon(feð)}}}
 See [[file:dictionary.md#fað][/fað/]]
 
 *** fé
-wn. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
+sn.n.mass. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
 
 1. wealth
 
@@ -223,32 +245,46 @@ wn. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]]
 |------+----------+--------|
 | Nom. | fé       | fé     |
 | Acc. | fé       | fé     |
-| Gen. | fés      | fés    |
 | Dat. | fé       | fém    |
+| Gen. | fés      | fés    |
 
 *** fisk
-sm. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr]]
+sn.m. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr]]
 
 1. fish
 
-|      | Singular | Plural |
-|------+----------+--------|
-| Nom. | fiskr    | fiskr  |
-| Acc. | fisk     | fisk   |
-| Gen. | fiskar   | fiskar |
-| Dat. | fisk     | fiskum |
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | fiskr  | fiskinn | fiskr  | fiskinn  |
+| Acc. | fisk   | fiskin  | fisk   | fiskin   |
+| Dat. | fisk   | fiskin  | fiskum | fiskinum |
+| Gen. | fiskar | fiskins | fiskar | fiskin   |
 
 ** G
 *** gauð
-n. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
+wn.f. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
 
 1. a quarrel
 2. a heated debate /(informal)/
 
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | gauð  | gauðit  | gauðr  | gauðitr  |
+| Acc. | gauð  | gauðit  | gauð   | gauðit   |
+| Dat. | gauð  | gauðit  | gauðum | gauðitum |
+| Gen. | gauðs | gauðits | gauðs  | gauðit   |
+
 *** gef
-f. {{{phon(jev)}}}, from Early Old Norse [[https://en.wiktionary.org/wiki/gj%C7%ABf#Old_Norse][gef]]
+sn.f. {{{phon(jev)}}}, from Early Old Norse [[https://en.wiktionary.org/wiki/gj%C7%ABf#Old_Norse][gef]]
 
 1. gift, present
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | gefr  | gefinn  | gefr  | gefinn  |
+| Acc. | gef   | gefin   | gef   | gefin   |
+| Dat. | gef   | gefin   | gefum | gefinum |
+| Gen. | gefar | gefins  | gefar | gefin   |
 
 *** gegn
 adv. {{{phon(jeɡn̩)}}}, from ON [[https://en.wiktionary.org/wiki/gegn#Old_Norse][gegn]]
@@ -285,34 +321,69 @@ Note that there is no difference between singular and plural when using hav(a) i
 | 2 | hafsk               | havisk              | havisk          | heðisk           |
 | 3 | hafsk               | havisk              | havisk          | heðisk           |
 
-*** heils(a-t)
+*** heils(a)
 wn.f. {{{phon(hɑ:ɪls)}}}, from ON [[https://en.wiktionary.org/wiki/heilsa#Old_Norse][heilsa]]
 
 1. health
 
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | heils   | heilsat  | heilsr  | heilsatr  |
+| Acc. | heils   | heilsat  | heils   | heilsat   |
+| Dat. | heils   | heilsat  | heilsum | heilsatum |
+| Gen. | heilsas | heilsats | heilsas | heilsat   |
+
 *** hjól
-n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
+sn.n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
 
 1. wheel
 
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | hjól  | hjólit  | hjól   | hjólitr  |
+| Acc. | hjól  | hjólit  | hjól   | hjólit   |
+| Dat. | hjól  | hjólit  | hjólum | hjólitum |
+| Gen. | hjóls | hjólits | hjóls  | hjólit   |
+
 *** hlóð
-n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C3%B0][hlóð]]
+wn.n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C3%B0][hlóð]]
 
 1. hearth
 2. living room
 
-*** hneis(a-t)
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | hlóð  | hlóðit  | hlóðr  | hlóðitr  |
+| Acc. | hlóð  | hlóðit  | hlóð   | hlóðit   |
+| Dat. | hlóð  | hlóðit  | hlóðum | hlóðitum |
+| Gen. | hlóðs | hlóðits | hlóðs  | hlóðits  |
+
+*** hneis(a)
 wn.f. {{{phon(n̥ɑ:ɪs)}}}, from ON [[https://old-norse.net/html/h.php#hneisa][hneisa]]
 
 1. shame, disgrace, fear
 2. reclusion (out of shame or out of fear)
 3. social isolation
 
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | hneis   | hneisit  | hneisr  | hneisitr  |
+| Acc. | hneis   | hneisit  | hneis   | hneisit   |
+| Dat. | hneis   | hneisit  | hneisum | hneisitum |
+| Gen. | hneisas | hneisits | hneisas | hneisits  |
+
 *** hneising
-n. {{{phon(n̥ɑɪsinɡ)}}}
+wn.n. {{{phon(n̥ɑɪsinɡ)}}}
 
 1. hermit
 2. (modern) shut-in, hikikomori
+
+|      | Sg.       | Def.Sg.     | Pl.        | Def.Pl.      |
+|------+-----------+-------------+------------+--------------|
+| Nom. | hneising  | hneisingit  | hneisingr  | hneisingitr  |
+| Acc. | hneising  | hneisingit  | hneising   | hneisingit   |
+| Dat. | hneising  | hneisingit  | hneisingum | hneisingitum |
+| Gen. | hneisings | hneisingits | hneisings  | hneisingit   |
 
 *** hnjós(a)
 v. {{{phon(ɲ̥ɔ̀ːs)}}}, from ON [[https://old-norse.net/html/h.php#hnj%C3%B3sa][hnjósa]]
@@ -333,6 +404,7 @@ pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse]
 adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
 
 1. what
+
 *** hví
 adv. {{{phon(ʍè)}}}, from ON [[https://en.wiktionary.org/wiki/hv%C3%AD#Old_Norse][hví]]
 
@@ -344,7 +416,8 @@ interj. {{{phon(ixːə)}}}
 
 1. How cold! Brr!
 
-From an unkwnown Greenlandic language, compare with modern Greenlandic /ikkii/.
+From an unkwnown Greenlandic language, compare with modern Greenlandic
+/ikkii/.
 
 ** Í
 ** J
@@ -386,9 +459,16 @@ sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old
 
 ** L
 *** land
-n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse][land]]
+sn.n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse][land]]
 
 1. land
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | land  | landit  | land   | landitr  |
+| Acc. | land  | landit  | land   | landit   |
+| Dat. | land  | landit  | landum | landitum |
+| Gen. | lands | landits | lands  | landit   |
 
 ** M
 *** myrɡunn
@@ -401,7 +481,12 @@ wn.n. {{{phon(metr)}}}, from French “métro”
 
 1. subway, underground
 
-- definitive form: /metrot/
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | metr   | metrot  | metror | metrotr  |
+| Acc. | metr   | metrot  | metr   | metrot   |
+| Dat. | metr   | metrot  | metrum | metrotum |
+| Gen. | metros | metrots | metros | metrot   |
 
 See also [[file:./dictionary.md#undirland][undirland]]
 
@@ -459,7 +544,7 @@ inherited the simpler /úlfr/ term. Noun composed by Old Norse /noregs/
 
 ** O
 ** Ó
-*** óglað(r)
+*** óglað
 adj. {{{phon(ˈɔ̀ɡʲœð)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3gla%C3%B0r][óglaðr]]
 
 1. very sad, depressed, miserable
@@ -524,12 +609,22 @@ wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#Engl
 *** undir
 adj. {{{phon(undir)}}}, from ON [[https://en.wiktionary.org/wiki/undir#Old_Norse][undir]]
 
-1. under, underneath
+1. under, underneath, below
 
-Can only be used with accusative or dative
+Can only be used with accusative or dative.
+
+#+html: ::: tip Example
+Bókinn er undir borðitum.
+
+| bók-inn           | er              | undir | borð-itum          |
+| book-DEF.NOM.SG.C | be.3sg.PRES.IND | under | table-DEF.DAT.SG.N |
+
+The book is under the table
+#+html: :::
 
 *** undirland
-wn.n. {{{phon(ˈundirˌland)}}}, calque of English “underground” using [[file:./dictionary.md#undir][undir]] and [[file:./dictionary.md#land][land]]
+sn.n. {{{phon(ˈundirˌland)}}}, calque of English “underground” using [[file:./dictionary.md#undir][undir]]
+and [[file:./dictionary.md#land][land]]
 
 1. underground, subway
 
@@ -615,3 +710,11 @@ Eittlandic fjords.
 
 ** Đ
 ** Þ
+* Notes                                                            :noexport:
+
+||Sg.|Def.Sg.|Pl.|Def.Pl.|
+|-
+|Nom.
+|Acc.
+|Dat.
+|Gen.

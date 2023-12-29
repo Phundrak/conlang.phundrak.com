@@ -53,7 +53,42 @@ Third person pronouns in Eittlandic
 Here we also have few changes from the Early Old Norse pronouns for
 the third persons, singular and plural.
 
+An additional set of pronouns contains reflexive pronouns. This one is
+relatively small, as it does not agree in person, number, or
+gender.However, it still agrees in case. Note that there is no
+nominative reflexive pronoun in Eittlandic.
+| Nominative | -   |
+| Accusative | sik |
+| Dative     | sér |
+| Genitive   | sín |
+
 **** Demonstrative Pronouns
+During its evolution from Old Eittlandic, the Eittlandic language lost
+one set of demonstrative pronouns, the one containing /sé/ in Old
+Eittlandic and Old Norse, in favour of the sets containing /hinn/ and
+/þessi/. Thus, we have these two sets in Eittlandic.
+
+|        | Masculine | Feminine | Neuter |
+|--------+-----------+----------+--------|
+| Sg Nom | hinn      | hinn     | hitt   |
+| Sg Acc | hin       | hin      | hitt   |
+| Sg Dat | hinum     | hin      | hin    |
+| Sg Gen | hins      | hins     | hins   |
+|--------+-----------+----------+--------|
+| Pl Nom | hiner     | hiner    | hin    |
+| Pl Acc | hin       | hiner    | hin    |
+| Pl Dat | hinum     | hinum    | hinum  |
+| Pl Gen | hinn      | hinn     | hinn   |
+
+It is interesting to see that this set of pronouns retained some
+differences between their masculine and feminine form, which has
+become quite rare in Modern Eittlandic. These are used in a similar
+way as “that” or “those” in English, designating elements or things
+that are judged as distant by the speaker from themselves.
+
+On the other hand, the following pronouns containing /þess/ relate to
+the words “this” and “these” in English.
+
 **** Possessive Pronouns
 Possessive pronouns in Eittlandic simply are the genitive form of the
 personal pronouns shown [[file:./grammar.md#personal-pronouns][above]]. The pronoun agrees with the owner in
@@ -680,12 +715,12 @@ and weak nouns together.
 |---+------------+---------------+------------------------------|
 |   | Sing. Nom. | -(i)nn        | -(i)t                        |
 |   |       Acc. | -(i)n         | -(i)t                        |
-|   |       Gen. | -(i)ns        | -(i)ts                       |
 |   |       Dat. | -(i)n         | -(i)t                        |
+|   |       Gen. | -(i)ns        | -(i)ts                       |
 |   | Plur. Nom. | -(i)nn        | -(i)tr                       |
 |   |       Acc. | -(i)n         | -(i)t                        |
-|   |       Gen. | -(i)n         | -(i)t                        |
 |   |       Dat. | -(i)num       | -(i)tum                      |
+|   |       Gen. | -(i)n         | -(i)t                        |
 
 The initial /i/ is only used when using the definite articles as a
 suffix would cause a consonant cluster forbidden by Eittlandic
@@ -837,3 +872,52 @@ in number and gender.
 *** Dative Shift
 *** Dative Interest
 *** External Possession
+* Notes                                                            :noexport:
+** Grammaticalization in Germanic Languages
+:PROPERTIES:
+:CAPTURED: [2021-01-02 sam. 14:32]
+:END:
+*** Nordic Languages
+**** Danish
+- *Reflexive* /-s/ (reflexive suffix) > *passive* (passive marker)
+- *sit* /sidde/ (sit) > *continuous* /sidde + og/ (coordinating conjunction, ’and’) + head verb -> progressive aspect
+
+**** Faroese
+- *demonstrative* > *conjunction*
+- *locative* > *a-possessive*
+
+**** Icelandic
+- *back* (body part) /bak/ > *after* /bak(i)/
+- *back* (body part) /bak/ > *behind* /(að) bak(i)/
+- *circle* /hringur/ > *around* /kring/
+- *environs* (vinicity) /(um)hverfi/ > *around* (spatial) /umhverfis/
+- *keep* /halda/ (to hold) > *continuous* /halda áfram að + INF/ (to continue to)
+- *man* /maður/ (man) > *indefinite pronoun* /maður/ (someone)
+
+**** Norwegian
+- *dative* > *a-possessive*
+- *intensive-refl* /selv/ > *even*
+
+**** Swedish
+- *house* /hus/ (house) > *locative* /hos/ (at, next to)
+- *keep* /hålla på att/ (hold) > *continuous*
+- *simile* /liksom/ (like, as) > *quotative* /liksom/ (nonverbatim quotative)
+
+** Word order:
+Postpositional:
+- AdjN
+- NRel
+- DemN
+- NumN and NNum
+- PossN and NPoss (mín katt & katten mín)
+- GenN
+
+** Genitive
+In the genitive noun phrase, the genetive part is declined at the
+genitive case, which cannot have a relative proposition. The noun
+phrase that characterizes the genitive is in the nominative case.
+
+Example:
+- My black and white cat’s big green eyes
+
+  Mín svar
