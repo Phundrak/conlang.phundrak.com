@@ -4,9 +4,9 @@
 * Zikãti
 Zikãti ({{{phon(d̻͡zikãti)}}}) is an agglutinative language I am currently
 working on as an experiment. It doesn’t have any worldbuilding around
-it yet and may never have. I’m mostly experimenting with vocabulary
-generation with a language relying heavily on affixes modifying the
-meaning of a root word.
+it yet, and it may never have any. I’m mostly experimenting with
+vocabulary generation with a language relying heavily on affixes
+modifying the meaning of a root word.
 
 ** Phonology
 *** Consonants
@@ -294,6 +294,14 @@ I remembered I have to cook
 - TR :: transitive verb
 
 ** Vocabulary
+Words in this vocabulary list are grouped based on their primary root
+which are themselves sorted in alphabetic order. But other than that,
+there is no particular order by which words are sorted, other than
+when I came up with them.
+
+Other than the root itself, their meaning is pretty open to
+interpretation. The meaning I give here is my own vision, but other
+translations could also work.
 
 *** banzi - hand
 - banzi (n.) :: hand
