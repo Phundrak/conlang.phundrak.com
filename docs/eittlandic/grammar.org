@@ -23,8 +23,8 @@
 |------------+-----+-----+-----+-----|
 | Nominative | ek  | þú  | vér | ér  |
 | Accusative | mik | þik | oss | yðr |
-| Dative     | mín | þín | vár | yðr |
-| Genitive   | mér | þér | oss | yðr |
+| Dative     | mér | þér | oss | yðr |
+| Genitive   | mín | þín | vár | yðr |
 #+begin_center
 First and second person pronouns in Eittlandic
 #+end_center
@@ -39,13 +39,13 @@ Eittlandic]].
 |---------------------+-----------+----------+--------|
 | Singular Nominative | hann      | han      | þat    |
 | Singular Accusative | han       | han      | þat    |
-| Singular Dative     | hans      | hennar   | þass   |
-| Singular Genitive   | hanum     | henn     | því    |
+| Singular Dative     | hanum     | henn     | því    |
+| Singular Genitive   | hans      | hennar   | þass   |
 |---------------------+-----------+----------+--------|
 | Plural Nominative   | þeir      | þér      | þau    |
 | Plural Accusative   | þá        | þér      | þau    |
-| Plural Dative       | þeir      | þeir     | þeir   |
-| Plural Genitive     | þeim      | þeim     | þeim   |
+| Plural Dative       | þeim      | þeim     | þeim   |
+| Plural Genitive     | þeir      | þeir     | þeir   |
 #+begin_center
 Third person pronouns in Eittlandic
 #+end_center
@@ -647,12 +647,12 @@ feminine /hafn/ (/harbour/, /haven/).
 |------------+--------+--------|
 | Sing. Nom. | himnn  | hafnn  |
 |       Acc. | himn   | hafn   |
-|       Gen. | himnar | hafnar |
 |       Dat. | himn   | hafn   |
+|       Gen. | himnar | hafnar |
 | Plur. Nom. | himnn  | hafnn  |
 |       Acc. | himn   | hafn   |
-|       Gen. | himnar | hafnar |
 |       Dat. | himnum | hafnum |
+|       Gen. | himnar | hafnar |
 
 During the last five centuries, the root of the word got regularized
 so that only one or two forms are allowed. Due to umlaut or ablaut, it
@@ -667,13 +667,13 @@ words are marked as irregular in the dictionary.
  |            | kettle (m.) | foot (m.) | book (f.) | water (n.) |
  |------------+-------------+-----------+-----------+------------|
  | Sing. Nom. | ketll       | fótr      | bók       | vatn       |
- |       Gen. | ketl        | fót       | bók       | vatn       |
- |       Acc. | ketlar      | fótar     | bókar     | vatn       |
+ |       Acc. | ketl        | fót       | bók       | vatn       |
  |       Dat. | ketl        | fót       | bók       | vatn       |
+ |       Gen. | ketlar      | fótar     | bókar     | vatn       |
  | Plur. Nom. | katll       | fœtr      | bœkr      | vótnn      |
  |       Acc. | katl        | fœt       | bœkr      | vótn       |
- |       Gen. | katl        | fœt       | bœk       | vótn       |
  |       Dat. | katlum      | fótum     | bókum     | vótnum     |
+ |       Gen. | katl        | fœt       | bœk       | vótn       |
 
 *** Articles and Demonstratives
 # - Do noun phrases have articles?
@@ -699,8 +699,8 @@ numerals have declensions as discussed in [[file:word-structure-and-classes.md#n
 |------+-----------+----------+--------|
 | Nom. | einn      | ein      | eit    |
 | Acc. | ein       | ein      | eit    |
-| Dat. | ein       | einn     | eits   |
-| Gen. | einn      | ein      | eit    |
+| Dat. | einn      | ein      | eit    |
+| Gen. | ein       | einn     | eits   |
 
 **** Definite articles
 As in other scandinavian languages, definite articles in Eittlandic
