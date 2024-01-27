@@ -1,5 +1,8 @@
-import { defineUserConfig, defaultTheme } from 'vuepress';
-import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension';
+import { defaultTheme } from '@vuepress/theme-default';
+import { defineUserConfig } from 'vuepress';
+import { viteBundler } from '@vuepress/bundler-vite';
+import { searchProPlugin } from 'vuepress-plugin-search-pro';
+
 import head from './head';
 
 export default defineUserConfig({
@@ -15,7 +18,12 @@ export default defineUserConfig({
       level: [1, 2, 3, 4, 5],
     },
   },
-  plugins: [removeHtmlExtensionPlugin()],
+  plugins: [
+    searchProPlugin({
+      indexContent: true,
+    }),
+  ],
+  bundler: viteBundler({}),
   theme: defaultTheme({
     sidebarDepth: 5,
     repo: 'https://labs.phundrak.com/phundrak/conlang.phundrak.com',

@@ -3,16 +3,12 @@ interface SimplifiedHeader {
   content: [any];
 }
 
-const matomoTrackingCode = `var _paq = window._paq = window._paq || [];
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-  var u="https://matomo.phundrak.com/";
-  _paq.push(['setTrackerUrl', u+'matomo.php']);
-  _paq.push(['setSiteId', '4']);
-  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-})();`;
+const matomoTrackingCode = `<script async
+        src="https://umami.phundrak.com/script.js"
+        data-website-id="dda1ea7b-086e-49b0-9cab-517314212ac5"
+        data-do-not-track="true"
+>
+</script>`;
 
 const simplifiedHead = [
   {
