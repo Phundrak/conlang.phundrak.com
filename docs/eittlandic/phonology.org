@@ -368,7 +368,7 @@ tone is not listed in the table.
 |-----------+-----------|
 |    ei     | {{{phon(ɑɪ)}}}  |
 |    au     | {{{phon(ɔʊ)}}}  |
-|    ey     |  {{{phon(œʏ)}}}  |
+|    ey     | {{{phon(œʏ)}}}  |
 
 #+name: vow-dot-gen
 #+header: :var vowels=vowels-featural-list
@@ -572,7 +572,7 @@ equivalent in Standard Eittlandic, as shown in table below.
 | Rural Eastern Eittlandic | Standard Eittlandic |
 |--------------------------+---------------------|
 |         {{{phon(i)}}}          |       {{{phon(ɪ)}}}       |
-|         {{{phon(y)}}}          |       {{{phon(ʏ)}}}        |
+|         {{{phon(y)}}}          |       {{{phon(ʏ)}}}       |
 |         {{{phon(u)}}}          |       {{{phon(ʊ)}}}       |
 
 *** Southeastern Eittlandic

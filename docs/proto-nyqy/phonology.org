@@ -146,18 +146,18 @@ in the table below.
 #+caption: Possible Pronunciations of the Proto-Ñyqy Consonants
 | Main Grapheme | Dorsal Phoneme | Non-Dorsal Phoneme | Alternate Grapheme |
 |---------------+----------------+--------------------+--------------------|
-| ñ             | {{{phon(*ɴ)}}}       | {{{phon(*ɦ̃)}}}            | ḿ                  |
+| ñ             | {{{phon(*ɴ)}}}       | {{{phon(*ɦ̃)}}}           | ḿ                 |
 | q             | {{{phon(*q)}}}       | {{{phon(*ħ)}}}           | ħ, h_{1}              |
 | g             | {{{phon(*ɢ)}}}       | {{{phon(*ʕ)}}}           | ȟ, h_{2}              |
-| c             | {{{phon(*c)}}}       | {{{phon(*t͡ʃ)}}}         | ł                  |
-| j             | {{{phon(*ɟ)}}}        | {{{phon(*d͡ʒ)}}}         | ʒ                  |
+| c             | {{{phon(*c)}}}       | {{{phon(*t͡ʃ)}}}        | ł                  |
+| j             | {{{phon(*ɟ)}}}       | {{{phon(*d͡ʒ)}}}        | ʒ                  |
 | w             | {{{phon(*w)}}}       | {{{phon(*v)}}}           | l                  |
-| m             | {{{phon(*ŋ͡m)}}}     | {{{phon(*m)}}}           | r, r_{1}              |
+| m             | {{{phon(*ŋ͡m)}}}    | {{{phon(*m)}}}           | r, r_{1}              |
 | p             | {{{phon(*χ)}}}       | {{{phon(*p)}}}           | xh, r_{2}             |
-| b             | {{{phon(*g͡b)}}}     | {{{phon(*b)}}}           | rh, r_{3}             |
+| b             | {{{phon(*g͡b)}}}    | {{{phon(*b)}}}           | rh, r_{3}             |
 | n             | {{{phon(*ɳ)}}}       | {{{phon(*n)}}}           | y                  |
 | s             | {{{phon(*ç)}}}       | {{{phon(*s)}}}           | x, r_{4}              |
-| z             | {{{phon(*ʝ)}}}        | {{{phon(*z)}}}           | ɣ, r_{5}              |
+| z             | {{{phon(*ʝ)}}}       | {{{phon(*z)}}}           | ɣ, r_{5}              |
 For each of these consonants, the letter chosen represents what we
 suppose was the most common or the default pronunciation of the
 consonant represented. In the table are also included alternate
@@ -285,8 +285,8 @@ above in [[file:phonology.md#syllable-structure][Syllable Structure]].
 
 #+name: table:word-consonantal-dorsal-alternation
 #+caption: Different Possible Pronunciation of Proto-Ñyqy Words
-| Word            | Dorsal-Initial        | Dorsal-Final        |
-|-----------------+-----------------------+---------------------|
+| Word            | Dorsal-Initial         | Dorsal-Final        |
+|-----------------+------------------------+---------------------|
 | {{{recon(pœwec)}}}    | {{{phon(*pɤwɛt͡ʃ)}}}        | {{{phon(*pɤvɛc)}}}        |
-| {{{recon(zebec)}}}    | {{{phon(*zɛg͡bɛt͡ʃ)}}}      | {{{phon(*ʝɛbɛc)}}}         |
+| {{{recon(zebec)}}}    | {{{phon(*zɛg͡bɛt͡ʃ)}}}      | {{{phon(*ʝɛbɛc)}}}        |
 | {{{recon(ñocm noc)}}} | {{{phon(*ɴɔt͡ʃŋ͡m ə ɦɔc)}}} | {{{phon(*ɦɔcm ə ɴot͡ʃ)}}} |

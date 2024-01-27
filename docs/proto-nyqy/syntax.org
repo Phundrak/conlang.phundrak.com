@@ -39,9 +39,9 @@ the persons you would find in a typical language, as shown below.
 #+caption: Proto-Ñyqy pronouns
 | Person | Pronoun   |
 |--------+-----------|
-| 1      | {{{recon(qy)}}} |
-| 2      | {{{recon(bú)}}} |
-| 3      | {{{recon(zø)}}} |
+|      1 | {{{recon(qy)}}} |
+|      2 | {{{recon(bú)}}} |
+|      3 | {{{recon(zø)}}} |
 
 It appears Proto-Ñyqy pronouns did not have any morphological rule to
 make them agree in number and due to the apparent lack of gender
