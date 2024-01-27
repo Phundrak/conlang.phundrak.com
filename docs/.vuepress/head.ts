@@ -3,14 +3,18 @@ interface SimplifiedHeader {
   content: [any];
 }
 
-const matomoTrackingCode = `<script async
-        src="https://umami.phundrak.com/script.js"
-        data-website-id="dda1ea7b-086e-49b0-9cab-517314212ac5"
-        data-do-not-track="true"
->
-</script>`;
-
 const simplifiedHead = [
+  {
+    tag: 'script',
+    content: [
+      {
+        async: true,
+        src: 'https://umami.phundrak.com/script.js',
+        'data-website-id': '67166941-8c83-4a19-bc8c-139e44b7f7aa',
+        'data-do-not-track': 'true',
+      },
+    ],
+  },
   {
     tag: 'meta',
     content: [
@@ -136,6 +140,5 @@ head.push([
   { rel: 'me', href: 'https://mastodon.phundrak.com/@phundrak' },
   'Mastodon',
 ]);
-head.push(['script', {}, matomoTrackingCode]);
 
 export default head;
