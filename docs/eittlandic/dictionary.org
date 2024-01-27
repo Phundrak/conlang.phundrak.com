@@ -345,6 +345,30 @@ sn.n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_
 | Dat. | hjól  | hjólit  | hjólum | hjólitum |
 | Gen. | hjóls | hjólits | hjóls  | hjólit   |
 
+*** hler(a)
+v. {{{phon(ɬer)}}}, from ON [[https://old-norse.net/html/h.php#hlera][hlera]]
+
+1. to hear
+2. to eaves-drop (accidentaly)
+
+- infinitive :: hler
+- imperative :: hler
+- imperative passive voice :: hlerask (except 1p /hlerumk/)
+- present participle :: hlerand
+- past participle :: hlerit
+
+|  <c>   |   |                    |                     |        |          |
+| person |   | Indicative Present | Subjunctive Present | Past   | Passive  |
+|--------+---+--------------------+---------------------+--------+----------|
+|   1s   |   | hlerr              | hlerir              | hlert  | hlerumk  |
+|   2s   |   | hlerr              | hlerir              | hlert  | hlerdisk |
+|   3s   |   | hlerr              | hlerir              | hlert  | hlerdisk |
+|   1p   |   | hlerum             | hlerim              | hlerum | hlerumk  |
+|   2p   |   | hlerið             | hlerið              | hleruð | hlerdisk |
+|   3p   |   | hlerið             | hlerið              | hleruð | hlerdisk |
+
+Its secondary argument is always a secondary noun phrase if there is one.
+
 *** hlóð
 wn.n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C3%B0][hlóð]]
 
@@ -357,6 +381,39 @@ wn.n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C
 | Acc. | hlóð  | hlóðit  | hlóð   | hlóðit   |
 | Dat. | hlóð  | hlóðit  | hlóðum | hlóðitum |
 | Gen. | hlóðs | hlóðits | hlóðs  | hlóðits  |
+
+*** hlust(a)
+v. {{{phon(ɬuʃt)}}}, from ON [[https://old-norse.net/html/h.php#hlusta][hlusta]]
+
+1. to listen to
+
+- infinitive :: hlust
+- imperative :: hlust
+- imperative passive voice :: hlustask (except 1p /hlustumk/)
+- present participle :: hlustand
+- past participle :: hlustit
+
+|  <c>   |   |                    |                     |         |          |
+| person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
+|--------+---+--------------------+---------------------+---------+----------|
+|   1s   |   | hlustr             | hlustir             | hlustat | hlustumk |
+|   2s   |   | hlustr             | hlustir             | hlustat | hlustisk |
+|   3s   |   | hlustr             | hlustir             | hlustat | hlustisk |
+|   1p   |   | hlustum            | hlustim             | hlustum | hlustumk |
+|   2p   |   | hlustið            | hlustið             | hlustuð | hlustisk |
+|   3p   |   | hlustið            | hlustið             | hlustuð | hlustisk |
+
+Its secondary argument is always a secondary noun phrase if there is one.
+
+#+html: ::: tip Example
+1. Han hlustr henn
+
+   He’s listening to her
+
+2. Vér hlustum eigi
+
+   We did not listen
+#+html: :::
 
 *** hneis(a)
 wn.f. {{{phon(n̥ɑ:ɪs)}}}, from ON [[https://old-norse.net/html/h.php#hneisa][hneisa]]
@@ -712,9 +769,9 @@ Eittlandic fjords.
 ** Þ
 * Notes                                                            :noexport:
 
-||Sg.|Def.Sg.|Pl.|Def.Pl.|
-|-
-|Nom.
-|Acc.
-|Dat.
-|Gen.
+|      | Sg. | Def.Sg. | Pl. | Def.Pl. |
+|------+-----+---------+-----+---------|
+| Nom. |     |         |     |         |
+| Acc. |     |         |     |         |
+| Dat. |     |         |     |         |
+| Gen. |     |         |     |         |
