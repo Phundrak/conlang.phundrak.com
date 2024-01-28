@@ -1,0 +1,211 @@
+#+title: Names and Places
+#+setupfile: ../headers
+* Names and Places
+** Names
+*** A
+**** Arvid I Geirson
+Titles:
+- King of Western Eittland (1398)
+- High King of Western Eittland (1398)
+
+*** Á
+**** Áleifr I Ásmundson
+Son of [[file:./names-and-places.md#asmundr-ulfsonn][Ásmundr Úlfsonn]].
+
+Titles:
+- Second King of Eittland (935 - 936)
+- First King of Western Eittland (936)
+- First High King of Eittland (936)
+
+**** Ásgeirr I Biœrgson
+Titles:
+- King of Western Eittland (? - 1398)
+- High-King of Eittland (? - 1398)
+
+**** Ása Sigríðsdóttr
+First woman to be enter the House of the Land.
+
+Titles:
+- Woman of the Land (1934 - 1963)
+
+**** Ásmundr Úlfsonn
+Titles:
+- First King of Eittland (915 - 935)
+
+
+*** B
+**** Bárður Márusson
+First Icelandic citizen to be elected to the House of the People.
+
+Titles:
+- Man of the People (1982 - 2002)
+
+*** E
+**** Eirikr IV Ásgeirsbróðr
+Brother of [[file:./names-and-places.md#asgeirr-i-biœrgson][Ásgeirr I Biœrgson]]
+
+Titles:
+- Co-King of Eastern Eittland (? - 1398)
+
+**** Eyvindr III Hallþórsbróðr
+Known for founding the first raðuneyt in Eastern Eittland in 1283.
+Brother of [[file:./names-and-places.md#hallþorr-v-gunhildson][Hallþórr V Gunhildson]].
+
+Titles:
+- Co-King of Eastern Eittland (? - ?)
+- Co-King of Western Eittland (? - ?)
+
+**** Eríkr V
+Titles:
+- King of Eastern Eittland (? - 1977)
+- Acting High Queen of Eittland (1987 - 1989)
+- King of Western Eittland (1977 - 1989)
+- High King of Eittland (1977 - 1989)
+
+*** H
+**** Hallþórr V Gunhildson
+First king to create a raðuneyt in Eittland in 1278.
+
+Titles:
+- King of Eastern Eittland (? - ?)
+- King of Western Eittland (? - ?)
+- High King of Eittland (? - ?)
+
+**** Harald III
+Brother of [[file:./names-and-places.md#erikr-v][Eríkr V]].
+
+Titles:
+- Co-King of Eastern Eittland (? - 1987)
+- Acting King of Western Eittland (1987 - 1989)
+
+**** Havardr I Arvidsbróðr
+Brother of [[file:./names-and-places.md#arvid-i-geirson][Arvid I Geirson]]
+
+Titles:
+- Co-King of Eastern Eittland (1398)
+*** K
+**** Kari Nialsdóttr
+First woman to be elected to the House of the People.
+
+Titles:
+- Woman of the People (1905 - 1927 and 1935 - 1956)
+*** N
+**** Njall III Eríksdóttir
+Current High Queen of Eittland. Daughter of [[file:./names-and-places.md#erikr-v][Eríkr V]].
+
+Titles:
+- Queen of Eastern Eittland (1987 - 2003)
+- Queen of Western Eittland (2003 - present)
+- High Queen of Eittland (2003 - present)
+
+*** Ó
+**** Ólafr V
+Known for the /Last Royal Decree/ in 1826, see [[file:./country.md#constitutional-monarchy][Constitutional Monarchy]].
+
+Titles:
+- King of Eastern Eittland (? - ?)
+- King of Western Eittland (? - ?)
+- High King for Eittland (? - ?)
+
+*** P
+**** Páll Jónsson
+First Icelander to get elected as Town Master in Eittland.
+
+Titles:
+- Town Master of EldHeim (1965 - 1980)
+
+*** R
+**** Ragnarr Sigurðsbróðr
+Known for being the driving force ehind the creation of the
+/Vétalsráðuneyt/.
+
+Titles:
+- Co-King of Western Eittland
+
+*** S
+**** Steingrímr I Áleifsbróðr
+Son of [[file:./names-and-places.md#asmundr-ulfsonn][Ásmundr Úlfsonn]], brother of [[file:./names-and-places.md#aleifr-i-asmundson][Áleifr I Ásmundson]].
+
+Titles:
+- First Co-King of Eastern Eittland (936)
+- First Co-King of Western Eittland
+
+*** V
+**** Valgeir Þórinnson
+First Eittlander to be elected to the Icelandic parliament.
+
+Titles:
+- Member of the Icelandic parliament (1983 - 1997)
+
+** Places
+*** B
+**** Britensfjallváll
+litt. /Britain’s fire plains/
+
+Place where British troops landed during the 1775 Anglo-Eittlandic
+war. Formerly known as [[file:./names-and-places.md#eldryksvall][Eldryksváll]].
+
+*** E
+**** Eldøy
+litt. /Fire Island/
+
+Outdated name for Eittland and Iceland
+
+**** Eldfjall
+litt. /Fire Mountain/
+
+General central region of Eittland where most active volcanoes are
+
+**** Eldryksváll
+litt /fire dust plain/
+
+Old name of [[file:./names-and-places.md#britensfjallvall][Britensfjallváll]]
+
+*** F
+**** Fjallheim
+litt. /mountain home/.
+
+Northwestern peninsula of Eittland
+
+*** H
+**** Hylfjaltr
+Etymology uncertain.
+
+Capital of Western Eittland.
+
+*** K
+**** Kóparváll
+litt. /young seals plains/
+
+Major commercial in the same bay as Đeberget, south east of the
+capital, in Western Eittland
+
+*** T
+**** Tvinnár
+Unclear etymology, popular etymology of /twin years/
+
+Major commercial east of Hylfjaltr in Eastern Eittland.
+
+*** V
+**** Vátrsteinn
+litt /wet stone/
+
+Port city in the Eastern Eittlandic exclave in Southwestern Eittland.
+
+**** Vestrferðaróss
+litt. /wet fjord’s mouth/
+
+Eastern Eittlandic port town, east of the [[file:./names-and-places.md#britensfjallvall][Britensfjallváll]] where
+British troops landed in 1775.
+
+**** Vestrheim
+litt. /West Home/
+
+City in Eastern Eitttland, first settlement in the country. Its
+inhabinants are called /Vestrheiming/ (pl. /Vestreimingjar/)
+
+*** Ð
+**** Ðeberget
+Etymology uncertain.
+
+Capital of Eastern Eittland.

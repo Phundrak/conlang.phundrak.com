@@ -54,9 +54,9 @@ Here we also have few changes from the Early Old Norse pronouns for
 the third persons, singular and plural.
 
 An additional set of pronouns contains reflexive pronouns. This one is
-relatively small, as it does not agree in person, number, or
-gender.However, it still agrees in case. Note that there is no
-nominative reflexive pronoun in Eittlandic.
+relatively small, as it does not agree in person, number, or gender.
+However, it still agrees in case. Note that there is no nominative
+reflexive pronoun in Eittlandic.
 | Nominative | -   |
 | Accusative | sik |
 | Dative     | sér |
@@ -82,9 +82,9 @@ Eittlandic and Old Norse, in favour of the sets containing /hinn/ and
 
 It is interesting to see that this set of pronouns retained some
 differences between their masculine and feminine form, which has
-become quite rare in Modern Eittlandic. These are used in a similar
-way as “that” or “those” in English, designating elements or things
-that are judged as distant by the speaker from themselves.
+become quite rare in Modern Eittlandic. These are used similarly to
+“that” or “those” in English, designating elements or things that are
+judged as distant by the speaker from themselves.
 
 On the other hand, the following pronouns containing /þess/ relate to
 the words “this” and “these” in English.
@@ -93,25 +93,38 @@ the words “this” and “these” in English.
 Possessive pronouns in Eittlandic simply are the genitive form of the
 personal pronouns shown [[file:./grammar.md#personal-pronouns][above]]. The pronoun agrees with the owner in
 person and number, and in gender when the third person is used, as in
-English. They have two different usage.
+English.
 
-The first and more formal usage, inherited from Old Norse, is to
-precede the noun phrase owned by the owner with the genitive pronoun.
-For instance, /mín katt/ means /my cat/ while /þeim katt/ means /their cat/
-(as shown in [[file:./grammar.md#case-marking][Case Marking]], we have no way to know if /katt/, a strong
-common word, is singular or plural accusative).
+They generally replace a whole nominative proposition, such as with
+the example below.
 
-The second and more casual way to express possession is using the
-definite form of a word and placing the possessive pronoun after it.
-We can adapt the previous examples of /my cat/ and /their cat/ as /kattin
-mín/ and /kattin þeim/.
+#+html: ::: tip Example
+– Havir þú historiabøk?
+– Ek haft gleymt mín
+#+html: :::
 
-While these two forms provide a difference in tone, the second form is
-more limited as it only allows single word noun phrases to be the
-possessed element while the first allows more complex noun phrases.
-The sentence /mín kattrinn komand frá heim/ (/my cat coming from home/)
-would need to be modified in order to fit the second structure, such
-as /kattrinn mín, hvar komr frá heim/ (/my cat, who is coming from home/).
+You can compare them to English possessive pronouns like /mine/, /yours/,
+or /theirs/.
+
+# That’s possessive adjectives, move it in the right header
+
+# The first and more formal usage, inherited from Old Norse, is to
+# precede the noun phrase owned by the owner with the genitive pronoun.
+# For instance, /mín katt/ means /my cat/ while /þeim katt/ means /their cat/
+# (as shown in [[file:./grammar.md#case-marking][Case Marking]], we have no way to know if /katt/, a strong
+# common word, is singular or plural accusative).
+
+# The second and more casual way to express possession is using the
+# definite form of a word and placing the possessive pronoun after it.
+# We can adapt the previous examples of /my cat/ and /their cat/ as /kattin
+# mín/ and /kattin þeim/.
+
+# While these two forms provide a difference in tone, the second form is
+# more limited as it only allows single word noun phrases to be the
+# possessed element while the first allows more complex noun phrases.
+# The sentence /mín kattrinn komand frá heim/ (/my cat coming from home/)
+# would need to be modified in order to fit the second structure, such
+# as /kattrinn mín, hvar komr frá heim/ (/my cat, who is coming from home/).
 
 *** Verbs
 # - What are the distributional properties of verbs?
@@ -247,26 +260,27 @@ remaining difference between strong and weak verbs.
 | 1s     |   | ferumk | berjumk   |
 | 2s     |   | ferisk | berjaðisk |
 | 3s     |   | ferisk | berjaðisk |
-| 1p     |   | farask | berjaðisk |
+| 1p     |   | farumk | berjumk   |
 | 2p     |   | farask | berjaðisk |
 | 3p     |   | farask | berjaðisk |
 
 There is only one minor difference for the subjunctive mood: both the
-first person singular and plural change to /-imk/ instead of /-umk/.
+first-person singular and plural change to /-imk/ instead of /-umk/.
 Imperative, on the other hand, only works with the second person in
 the present tense by appending an /-sk/ at the end of the infinitive of
 the verb.
 
 Due to this uniformisation of the passive voice in Eittlandic,
 Eittlanders began using the verbs /ver(a)/ and /hav(a)/ (respectively /to
-be/ and /to have/) as auxilliaries preceeding the verb in order to convey
+be/ and /to have/) as auxiliaries preceding the verb in order to convey
 the subject, tense, and mood agreement. The verb /ver(a)/ is most often
 used in active verbs, while the verb /hav(a)/ is generally used with
-stative verbs. While all verbs have a default auxilliary, such as
+stative verbs. While all verbs have a default auxiliary, such as
 /ver(a)/ for a verb like /et(a)/ (/to eat/), the speaker may choose to use
-the other auxilliary in order to increase or decrease the agency of
-the semantic agent (not the syntactic agent), even if it is not
-present in the sentence.
+the other auxiliary in order to increase or decrease the agency of the
+semantic agent (not the syntactic agent), even if it is not present in
+the sentence.
+
 #+html: ::: tip Example
 - Ek var brennumk mik
   | ek     | var           | brenn-umk   | mik    |
@@ -300,7 +314,7 @@ completely removing it from the sentence.
 
 *** Modifiers                                                      :noexport:
 # - If you posit a morphosyntactic category of adjectives, give
-#   evidence for not grouping theseforms with the verbs or nouns. What
+#   evidence for not grouping these forms with the verbs or nouns. What
 #   characterizes a form as being an adjective in this language?
 # - How can you characterize semantically the class of concepts coded
 #   by this formal category?
@@ -313,7 +327,10 @@ completely removing it from the sentence.
 # - Do numerals agree with their head nouns (number, case, noun
 #   class, ...)?
 **** Descriptive Adjectives                                           :noexport:
-**** Non-Numeral Quantifiers                                          :noexport:
+Similarly to verbs, adjectives in Eittlandic underwent
+
+**** Possessive Adjectives
+**** Non-Numeral Quantifiers                                       :noexport:
 **** Numerals                                                      :noexport:
 
 *** Adverbs                                                           :noexport:
@@ -436,7 +453,7 @@ syntactic dative of the verb.
 **** Yes/No questions
 Yes/no questions are generally answered by /já/ or /nei/ (/yes/ or /no/
 respectively), sometimes with a repeat of the core of the sentence to
-confirm the anwser.
+confirm the reply.
 
 #+html: ::: tip Example
 - Komr han í dag með faðin hans?
@@ -505,7 +522,7 @@ on its erroneous nature.
 
 Some yes/no questions are sometimes asked in a very reduced form,
 without a full verbal sentence and only consisting of a noun phrase.
-Think of questions like /Coffe?/ or /Another cookie?/ in English. Such
+Think of questions like /Coffee?/ or /Another cookie?/ in English. Such
 questions in Eittlandic require the final word /vit/.
 
 #+html: ::: tip Example
@@ -614,26 +631,51 @@ neuter and weak nouns. The declension system completely merged weak
 nouns which are no longer distinguished by gender. Strong masculine
 and strong feminine also got merged into strong common.
 
-Declensions are no longer productive in almost all Modern Eittlandic
-dialects. They are still mostly used in formal and written speech, but
-they are less and less used in less formal circumstances and in oral
-speech. The Royal Academy for Literature, which authored Standard
-Eittlandic, even recommends not using grammatical cases when using
-this dialect as they are reduntand with other syntactic strategies.
-While the recommendation is mostly followed, speakers still tend to
-use the singular genetive declension oraly. Younger folks at the time
-of writing even tend to regularize it as /-ar/ for strong neuter and
-weak nouns.
+We end up with the following declension system in Eittlandic.
+
+#+name: tbl:eittlandic-noun-inflexion
+#+caption: Eittlandic noun inflexion
+| / |        <r> |               |               |            |
+|   |            | Strong Common | Strong Neuter | Weak Nouns |
+|---+------------+---------------+---------------+------------|
+|   | Sing. Nom. | -r            |               |            |
+|   |       Acc. |               |               |            |
+|   |       Dat. |               |               |            |
+|   |       Gen. | -(a)r         | -s            | -s         |
+|   | Plur. Nom. | -r            |               | -r         |
+|   |       Acc. |               |               |            |
+|   |       Dat. | -um           | -um           | -um        |
+|   |       Gen. | -(a)r         | -s            | -s         |
+
+The /-ar/ ending drops the /a/ when an underlying ending vowel is present
+in a word, as with /dótt/ (daughter) becoming /dóttir/ in its genitive
+form. In some regions of Eittland, such as in the area of Vátrsteinn,
+a strong neuter / weak noun merger is in effect, where strong neuter
+merged into weak nouns. In the area of Hvítvall in North Western
+Eastern Eittland, a complete merger between the three types of nouns
+happened around the 1850s, where everything is declined as a weak
+noun.
+
+Nethertheless, declensions are no longer productive in most Modern
+Eittlandic dialects. They are still mostly used in formal and written
+speech, but they are less and less frequently used in less formal
+circumstances and in oral speech. The Royal Academy for Literature,
+which authored the Standard Eittlandic, even recommends not using
+grammatical cases when using this dialect as they are seen as
+reduntand with other syntactic strategies. While the recommendation is
+mostly followed, speakers still tend to use the singular genetive
+declension oraly. Younger folks at the time of writing even tend to
+regularize it as /-ar/ for strong neuter and weak nouns.
 
 One exception to declensions no longer being productive is in and
 around the Hylfjaltr Kingdom exclave in southern Eittland where
-speakers of its local dialect tend instead to favor strong nouns for
+speakers of its local dialect tend instead to favour strong nouns for
 newer terms. Hence, while most dialects agree on “internet” (pl.nom
 /internetr/, pl.dat /internetum/) being a weak noun, this dialect treats
 it as either a strong feminine (sg.gen /internetar/, pl.nom&acc
 /internetr/, pl.dat /internetum/) or a strong neuter (sg.gen /internets/,
 pl.dat /internetum/) --- the difference is due to subdivisions in said
-dialect, mainly between rural and urban areas favoring the former and
+dialect, mainly between rural and urban areas favouring the former and
 the latter respectively.
 
 There are some regular exceptions to the declension system. The first
@@ -703,7 +745,7 @@ numerals have declensions as discussed in [[file:word-structure-and-classes.md#n
 | Gen. | ein       | einn     | eits   |
 
 **** Definite articles
-As in other scandinavian languages, definite articles in Eittlandic
+As in other Scandinavian languages, definite articles in Eittlandic
 act as suffixes to the noun and fully replace its declension as it has
 case marking itself. The full declension table of definite articles
 can be found in the table below. As we can see, the definite articles
@@ -772,12 +814,12 @@ Modern Eittlandic nouns and adjectives.
 Due to the presence of declensions with strong nouns and adjectives,
 its pronouns, and to a certain degree different articles, it can still
 be said Eittlandic is a gendered language, although it doesn’t hold
-much importance in its grammar anymore. Since strong nouns aren’t
-productive anymore and weak nouns lost all obvious gender differences,
-we can even consider gender as not productive anymore in Eittlandic
-and bound to eventually disappear. In fact, the loss of gender is even
-stronger in Standard Eittlandic due to the theoretical absence of
-declensions in this dialect.
+much importance in its grammar any more. Since strong nouns aren’t
+productive any more and weak nouns lost all obvious gender
+differences, we can even consider gender as not productive any more in
+Eittlandic and bound to eventually disappear. In fact, the loss of
+gender is even stronger in Standard Eittlandic due to the theoretical
+absence of declensions in this dialect.
 
 In case a strong noun is used with a strong adjective, both will agree
 in number and gender.
@@ -815,7 +857,7 @@ in number and gender.
 # - How are predicate adjective formed? (Include a separate section on
 #   predicate adjectives only if they are structurally distinct from
 #   predicate nominals.)
-*** Locative Predicat
+*** Locative Predicates
 # - How are locational clauses (or predicate locatives) formed?
 *** Existential Predicates
 # - How are existential clauses formed? (Give examples in different

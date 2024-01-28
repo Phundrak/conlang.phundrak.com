@@ -38,26 +38,12 @@ export default defineUserConfig({
         link: '/eittlandic/',
         collapsible: true,
         children: [
-          {
-            text: 'The Country',
-            link: '/eittlandic/country',
-          },
-          {
-            text: 'Linguistic Typology',
-            link: '/eittlandic/typology',
-          },
-          {
-            text: 'Phonology',
-            link: '/eittlandic/phonology',
-          },
-          {
-            text: 'Grammar',
-            link: '/eittlandic/grammar',
-          },
-          {
-            text: 'Dictionary',
-            link: '/eittlandic/dictionary',
-          },
+          '/eittlandic/country',
+          '/eittlandic/typology',
+          '/eittlandic/phonology',
+          '/eittlandic/grammar',
+          '/eittlandic/names-and-places',
+          '/eittlandic/dictionary',
         ],
       },
       {
@@ -65,30 +51,12 @@ export default defineUserConfig({
         link: '/proto-nyqy/',
         collapsible: true,
         children: [
-          {
-            text: 'Introduction',
-            link: '/proto-nyqy/introduction',
-          },
-          {
-            text: 'Culture and People',
-            link: '/proto-nyqy/culture-and-people',
-          },
-          {
-            text: 'Linguistic Typology',
-            link: '/proto-nyqy/typology',
-          },
-          {
-            text: 'Phonology',
-            link: '/proto-nyqy/phonology',
-          },
-          {
-            text: 'Syntax',
-            link: '/proto-nyqy/syntax',
-          },
-          {
-            text: 'Dictionary',
-            link: '/proto-nyqy/dictionary',
-          },
+          '/proto-nyqy/introduction',
+          '/proto-nyqy/culture-and-people',
+          '/proto-nyqy/typology',
+          '/proto-nyqy/phonology',
+          '/proto-nyqy/syntax',
+          '/proto-nyqy/dictionary',
         ],
       },
       '/zikãti',

@@ -15,6 +15,7 @@ some abbreviations you should keep in mind:
 - dat :: dative
 - def :: definite
 - Eng :: English
+- EON :: Early Old Norse
 - f :: feminine
 - gen :: genitive
 - Ger :: German
@@ -54,12 +55,16 @@ be added, for instance /f.adj./ for a feminine adjective.
 
 All words are indexed by their spelling as determined by Standard
 Eittlandic, which roughly corresponds to the accusative of other
-dialects. Each noun has its declension presented to the reader as a
-guide to how it might generally look in dialects other than Standard
-Eittlandic, however variations may exist from one dialect to another.
-For instance, while most Eittlandic dialects lost the /ru/ part of the
-dat.pl. declention, going from /férum/ to /fém/, some dialects in East
-Northern Eittland still retain the former form.
+dialects.
+
+All words are indexed by a standardized traditional spelling, with
+occasionally their Standard Eittlandic spelling following it (e.g.
+/gleym(a) - gløym/). Each noun has its declension presented to the
+reader as a guide to how it might generally look in dialects other
+than Standard Eittlandic, however variations may exist from one
+dialect to another. For instance, while most Eittlandic dialects lost
+the /ru/ part of the dat.pl. declention, going from /férum/ to /fém/, some
+dialects in East Northern Eittland still retain the former form.
 
 Letters in parenthesis are no longer used when writing Eittlandic but
 are still underlying vowels that can still affect the pronunciation of
@@ -77,7 +82,7 @@ it is indicated between parenthesis in the accusative case, preceeded
 by a dash, as in /dag(a-n)/.
 
 ** A
-*** aug(a)
+*** aug(a) - ój
 wn.n. {{{phon(ɔ̀j)}}}
 
 1. eye
@@ -90,7 +95,7 @@ wn.n. {{{phon(ɔ̀j)}}}
 | Gen. | augas | augats  | augas | augat   |
 
 ** Á
-*** áng
+*** áng - éng
 interj. {{{phon(ɛŋ)}}}
 
 1. positive counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
@@ -114,7 +119,19 @@ sn.n. {{{phon(borð)}}}
 | Dat. | borð  | borðit  | borðum | borðitum |
 | Gen. | borðs | borðits | borðs  | borðit   |
 
-*** bræð
+*** borg
+sn.f  {{{phon(borg)}}}, from ON [[https://old-norse.net/html/b.php#borg-I][borg]]
+
+1. city
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | borgr  | borginn | borgr  | borginn  |
+| Acc. | borg   | borgin  | borg   | borgin   |
+| Dat. | borg   | borgin  | borgum | borginum |
+| Gen. | borgar | borgins | borgar | borgin   |
+
+*** bræð - bréð
 sm. {{{phon(brɛð)}}}
 
 See [[file:dictionary.md#broð][/bróð/]]
@@ -154,13 +171,13 @@ See [[file:dictionary.md#bok(r)][/bók/]]
 
 ** C
 ** D
-*** djúp
+*** djúp - djóp
 adj. {{{phon(ʒːòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
 1. deep
 2. profound (figuratively)
 
-*** djúplig
+*** djúplig - djópleg
 adv. {{{phon(ʒːòpleɣ)}}}, from OE djúpr (see [[file:dictionary.md#djúp][djúp]]) with OE suffix /-ligr/ (see
 ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
@@ -177,7 +194,7 @@ sn.f. {{{phon(dɔʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3tti
 | Nom. | dóttr  | dóttinn | dœttr  | dœttinn  |
 | Acc. | dótt   | dóttin  | dœtt   | dœttin   |
 | Dat. | dótt   | dóttin  | dœttum | dœttinum |
-| Gen. | dóttar | dóttins | dœttar | dœttin   |
+| Gen. | dóttir | dóttins | dœttar | dœttin   |
 
 ** E
 *** edd(a)
@@ -231,10 +248,36 @@ each appended with a grammatical /-r/ or /-ir/ (which later got reduced to
 | Dat. | fað   | faðin   | feðum | feðinum |
 | Gen. | faðar | faðins  | feðar | feðin   |
 
+*** far(a)
+iv. {{{phon(far)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
+
+1. to go
+
+- infinitive :: far
+- imperative :: far
+- imperative passive voice :: farsk
+- present participle :: farand
+- past participle :: farit
+
+|  <c>   |   |                    |                     |       |         |
+| person |   | Indicative Present | Subjunctive Present | Past  | Passive |
+|--------+---+--------------------+---------------------+-------+---------|
+|   1s   |   | ferr               | ferir               | fert  | ferumk  |
+|   2s   |   | ferr               | ferir               | fert  | ferisk  |
+|   3s   |   | ferr               | ferir               | fert  | ferisk  |
+|   1p   |   | farum              | farim               | farum | farumk  |
+|   2p   |   | farið              | farið               | faruð | farask  |
+|   3p   |   | farið              | farið               | faruð | farask  |
+
 *** feð
 sm. {{{phon(feð)}}}
 
 See [[file:dictionary.md#fað][/fað/]]
+
+*** ferð
+sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C3%B0r][ferðr]]
+
+1. fjord, bay
 
 *** fé
 sn.n.mass. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]] (cattle)
@@ -261,7 +304,7 @@ sn.m. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr
 | Gen. | fiskar | fiskins | fiskar | fiskin   |
 
 ** G
-*** gauð
+*** gauð - jauð
 wn.f. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
 
 1. a quarrel
@@ -274,7 +317,7 @@ wn.f. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0]
 | Dat. | gauð  | gauðit  | gauðum | gauðitum |
 | Gen. | gauðs | gauðits | gauðs  | gauðit   |
 
-*** gef
+*** gef - jev
 sn.f. {{{phon(jev)}}}, from Early Old Norse [[https://en.wiktionary.org/wiki/gj%C7%ABf#Old_Norse][gef]]
 
 1. gift, present
@@ -286,10 +329,49 @@ sn.f. {{{phon(jev)}}}, from Early Old Norse [[https://en.wiktionary.org/wiki/gj%
 | Dat. | gef   | gefin   | gefum | gefinum |
 | Gen. | gefar | gefins  | gefar | gefin   |
 
-*** gegn
+*** gegn - jegn
 adv. {{{phon(jeɡn̩)}}}, from ON [[https://en.wiktionary.org/wiki/gegn#Old_Norse][gegn]]
 
 1. against, opposing
+
+*** gleym(a) / gløym
+v. {{{phon(ɡløʏm)}}}, from ON [[https://old-norse.net/html/g.php#gleyma][gleyma]]
+
+1. to forget
+
+- infinitive :: gleym
+- imperative :: gleym
+- imperative passive voice :: gleymsk
+- present participle :: gleymand
+- past participle :: gleymit
+
+|  <c>   |   |                    |                     |         |          |
+| person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
+|--------+---+--------------------+---------------------+---------+----------|
+|   1s   |   | gleymr             | gleymir             | gleymt  | gleymumk |
+|   2s   |   | gleymr             | gleymir             | gleymt  | gleymask |
+|   3s   |   | gleymr             | gleymir             | gleymt  | gleymask |
+|   1p   |   | gleymum            | gleymir             | gleymum | gleymumk |
+|   2p   |   | gleymið            | gleymið             | gleymuð | gleymask |
+|   3p   |   | gleymið            | gleymið             | gleymuð | gleymask |
+
+The verb /gleym/ takes a dative instead of an accusative.
+
+#+html: ::: tip Example
+1. Ek gleymr opt lykillinum
+
+   | ek     | gleym-r        | opt   | lykill-inum         |
+   | 1s.NOM | forget-1s.PRES | often | key-pl.DAT.ART.DEF. |
+
+   I often forget the keys
+
+2. Hann haft gleymt at far til borgin
+
+   | hann     | haft        | gleymt        | at     | far    | til | borg-in            |
+   | 3s.m.NOM | have.3s.PST | forget.3s.PST | to.DAT | go.INF | to  | city-def.art.s.DAT |
+
+   He forgot to go to the city.
+#+html:
 
 ** H
 *** hav(a)
@@ -314,7 +396,8 @@ iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][h
 | 2p | haft               | haft                | haftuð          | haftið           |
 | 3p | hav                | hav                 | haft            | haft             |
 
-Note that there is no difference between singular and plural when using hav(a) in the passive voice.
+Note that there is no difference between singular and plural when
+using hav(a) in the passive voice.
 |   | Indicative  Present | Subjunctive Present | Indicative Past | Subjunctive Past |
 |---+---------------------+---------------------+-----------------+------------------|
 | 1 | havumk              | havumk              | havumk          | heðumk           |
@@ -332,6 +415,11 @@ wn.f. {{{phon(hɑ:ɪls)}}}, from ON [[https://en.wiktionary.org/wiki/heilsa#Old_
 | Acc. | heils   | heilsat  | heils   | heilsat   |
 | Dat. | heils   | heilsat  | heilsum | heilsatum |
 | Gen. | heilsas | heilsats | heilsas | heilsat   |
+
+*** historja
+wn.f. {{{phon(heʃtˈorjə)}}}, from Latin [[https://en.wiktionary.org/wiki/historia#Latin][historia]]
+
+1. history
 
 *** hjól
 sn.n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
@@ -357,15 +445,15 @@ v. {{{phon(ɬer)}}}, from ON [[https://old-norse.net/html/h.php#hlera][hlera]]
 - present participle :: hlerand
 - past participle :: hlerit
 
-|  <c>   |   |                    |                     |        |          |
-| person |   | Indicative Present | Subjunctive Present | Past   | Passive  |
-|--------+---+--------------------+---------------------+--------+----------|
-|   1s   |   | hlerr              | hlerir              | hlert  | hlerumk  |
-|   2s   |   | hlerr              | hlerir              | hlert  | hlerdisk |
-|   3s   |   | hlerr              | hlerir              | hlert  | hlerdisk |
-|   1p   |   | hlerum             | hlerim              | hlerum | hlerumk  |
-|   2p   |   | hlerið             | hlerið              | hleruð | hlerdisk |
-|   3p   |   | hlerið             | hlerið              | hleruð | hlerdisk |
+|  <c>   |   |                    |                     |        |         |
+| person |   | Indicative Present | Subjunctive Present | Past   | Passive |
+|--------+---+--------------------+---------------------+--------+---------|
+|   1s   |   | hlerr              | hlerir              | hlert  | hlerumk |
+|   2s   |   | hlerr              | hlerir              | hlert  | hlerask |
+|   3s   |   | hlerr              | hlerir              | hlert  | hlerask |
+|   1p   |   | hlerum             | hlerim              | hlerum | hlerumk |
+|   2p   |   | hlerið             | hlerið              | hleruð | hlerask |
+|   3p   |   | hlerið             | hlerið              | hleruð | hlerask |
 
 Its secondary argument is always a secondary noun phrase if there is one.
 
@@ -397,11 +485,11 @@ v. {{{phon(ɬuʃt)}}}, from ON [[https://old-norse.net/html/h.php#hlusta][hlusta
 | person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
 |--------+---+--------------------+---------------------+---------+----------|
 |   1s   |   | hlustr             | hlustir             | hlustat | hlustumk |
-|   2s   |   | hlustr             | hlustir             | hlustat | hlustisk |
-|   3s   |   | hlustr             | hlustir             | hlustat | hlustisk |
+|   2s   |   | hlustr             | hlustir             | hlustat | hlustask |
+|   3s   |   | hlustr             | hlustir             | hlustat | hlustask |
 |   1p   |   | hlustum            | hlustim             | hlustum | hlustumk |
-|   2p   |   | hlustið            | hlustið             | hlustuð | hlustisk |
-|   3p   |   | hlustið            | hlustið             | hlustuð | hlustisk |
+|   2p   |   | hlustið            | hlustið             | hlustuð | hlustask |
+|   3p   |   | hlustið            | hlustið             | hlustuð | hlustask |
 
 Its secondary argument is always a secondary noun phrase if there is one.
 
@@ -447,7 +535,7 @@ v. {{{phon(ɲ̥ɔ̀ːs)}}}, from ON [[https://old-norse.net/html/h.php#hnj%C3%B3
 
 1. to sneeze
 
-*** hrifs
+*** hrifs - hrivs
 n. {{{phon(r̥ivs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
 
 1. assault, mugging
@@ -462,10 +550,15 @@ adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse]
 
 1. what
 
-*** hví
+*** hví - hve
 adv. {{{phon(ʍè)}}}, from ON [[https://en.wiktionary.org/wiki/hv%C3%AD#Old_Norse][hví]]
 
 1. why
+
+*** hvít
+adj. {{{phon(ʍɛ̀t)}}}, from ON [[https://old-norse.net/html/h.php#hv%C3%ADtr][hvítr]]
+
+1. white
 
 ** I
 *** ikkí
@@ -478,14 +571,14 @@ From an unkwnown Greenlandic language, compare with modern Greenlandic
 
 ** Í
 ** J
-*** já
-{{{phon(jɛ)}}}, from ON [[https://en.wiktionary.org/wiki/j%C3%A1#Old_Norse][já]]
+*** já - jé
+{{{phon(jɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/j%C3%A1#Old_Norse][já]]
 
 1. (adv) yes
 2. (interj) yes (as an exclamation of joy)
 
 ** K
-*** kaup(a)
+*** kaup(a) - kóp
 n. {{{phon(kɔp)}}}, from ON [[https://en.wiktionary.org/wiki/kaupa#Old_Norse][kaupa]]
 
 1. commerce
@@ -503,12 +596,12 @@ sv. {{{phon(kom)}}}, from ON [[https://en.wiktionary.org/wiki/koma#Old_Norse][ko
 
 1. to come
 
-*** konung
+*** Konung - Kononɡ
 sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
 
 1. king
 
-*** konunɡliɡ
+*** konunɡliɡ - konongleg
 {{{phon(konoŋleɣ)}}}, from [[file:./dictionary.md#konung][konung]] and suffix /-lig/.
 
 1. adv. royaly
@@ -527,12 +620,20 @@ sn.n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse]
 | Dat. | land  | landit  | landum | landitum |
 | Gen. | lands | landits | lands  | landit   |
 
+*** lykil
+wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lykill]]
+
+1. key (to a keyhole, to a lock,…)
+2. musical key
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | lykil  | lykilit  | lykill  | lykilitr  |
+| Acc. | lykil  | lykilit  | lykil   | lykilit   |
+| Dat. | lykil  | lykilit  | lykilum | lykilitum |
+| Gen. | lykils | lykilits | lykils  | lykilit   |
+
 ** M
-*** myrɡunn
-m. {{{phon(ˈmyrɡunː)}}}, from ON [[https://en.wiktionary.org/wiki/myrginn#Old_Norse][myrgunn]]
-
-1. morning, aurora
-
 *** metr(o)
 wn.n. {{{phon(metr)}}}, from French “métro”
 
@@ -547,8 +648,30 @@ wn.n. {{{phon(metr)}}}, from French “métro”
 
 See also [[file:./dictionary.md#undirland][undirland]]
 
+*** með
+adv. {{{phon(með)}}}
+
+1. with
+2. prefix with, co-smth. See
+
+*** Meðkonung
+sn.m. {{{phon(meðˈkonoŋ)}}}, see [[file:./dictionary.md#með][með]] and [[file:./dictionary.md#konung-kononɡ][konung - kononɡ]]
+
+1. Co-King
+
+*** mið
+adj. {{{phon(mið)}}}, from ON [[https://old-norse.net/html/m.php#mi%C3%B0r][miðr]]
+
+1. middle (physically and temporaly)
+2. midways
+
+*** myrɡunn
+m. {{{phon(ˈmyrɡunː)}}}, from ON [[https://en.wiktionary.org/wiki/myrginn#Old_Norse][myrgunn]]
+
+1. morning, aurora
+
 ** N
-*** ná
+*** ná - né
 adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Norse][ná]]
 
 1. now
@@ -572,7 +695,7 @@ adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Nor
    I’m coming from the university.
    #+html: :::
 
-*** náng
+*** náng - néng
 interj. {{{phon(nɛŋ)}}}
 
 1. negative counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
@@ -588,7 +711,7 @@ Proto-Eskimoan /*nanka/, and Western Greenlandic /naagga/.
 1. (adv.) no
 2. (interj) no, as an exclamation of panic, regret
 
-*** norvegsúlf(r)
+*** norvegsúlf(r) - norvejsólv
 m. {{{phon(ˈnorβejsˌòlv)}}}, from ON /Noregs/ (genitive of ON [[https://old-norse.net/html/n.php#noregr][Noregr]]) and ON
 [[https://en.wiktionary.org/wiki/ulfr#Old_Norse][úlfr]]
 
@@ -600,20 +723,30 @@ inherited the simpler /úlfr/ term. Noun composed by Old Norse /noregs/
 (genitive of /Noregr/, /Norway/) and /úlfr/.
 
 ** O
+*** opt - oft
+adv. {{{phon(oɸt)}}}, from ON [[https://old-norse.net/html/o.php#opt][opt]]
+
+1. often
+
 ** Ó
-*** óglað
+*** óglað - ógjœð
 adj. {{{phon(ˈɔ̀ɡʲœð)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3gla%C3%B0r][óglaðr]]
 
 1. very sad, depressed, miserable
+*** óss
+sn.m. {{{phon(ɔ̀sː)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3ss][óss]]
+
+1. river mouth
+2. fjord mouth
 
 ** P
-*** pengvin
+*** pengvin - pengven
 n. {{{phon(ˈpeŋβen)}}}, from French [[https://en.wiktionary.org/wiki/pingouin#French][pingouin]] through Danish [[https://en.wiktionary.org/wiki/pingvin#Danish][pingvin]]
 
 1. penguin
 
 ** R
-*** ráðuneyt(i)
+*** ráðuneyt(i) - réðoneyt
 wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}, from OI [[https://old-norse.net/html/r.php#r%C3%A1%C3%B0uneyti][ráðuneyti]]
 
 1. Ministry
@@ -626,13 +759,13 @@ v. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Nors
 1. to sit
 2. to represent (politics)
 
-*** sjá
+*** sjá - sjé
 v. {{{phon(ʃɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse][sjá]]
 
 1. to see
 2. to understand
 
-*** skilj(a)
+*** skilj(a) - skij
 v. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_Norse][skilja]]
 
 1. to differenciate
@@ -687,18 +820,18 @@ and [[file:./dictionary.md#land][land]]
 
 See also [[file:./dictionary.md#metr-o][metr(o)]]
 
-*** universitet
+*** universitet - oneversetet
 wn.n. {{{phon(oneˈβersetet)}}}, from German [[https://en.wiktionary.org/wiki/Universit%C3%A4t#German][Universität]]
 
 1. university
 
-*** uppá
+*** uppá - offá
 prep. {{{phon(ˈuɸːə̀)}}}, from ON [[https://old-norse.net/html/u.php#upp%C3%A1][uppá]]
 
 1. upon
 
 ** Ú
-*** úlf(r)
+*** úlf(r) - olv
 m. {{{phon(òlv)}}}, from ON [[https://en.wiktionary.org/wiki/ulfr][úlfr]]
 
 1. wolf-dog. See also /noregsúlfr/.
@@ -731,6 +864,11 @@ iv. {{{phon(βer)}}}, from ON [[https://en.wiktionary.org/wiki/vera#Old_Norse][v
 | 2p | eruð               | séð                 | varð            | várið            |
 | 3p | er                 | sé                  | var             | vár              |
 
+*** vest
+adv. {{{phon(βeʃt)}}}, from ON [[https://old-norse.net/html/v.php#vestr][vestr]]
+
+1. West, westward
+
 *** vél
 sc.f. {{{phon(βɛl)}}}, from ON [[https://en.wiktionary.org/wiki/v%C3%A9l#Old_Norse][vél]]
 
@@ -759,7 +897,7 @@ See [[file:./dictionary.md#veisheit][veisheit]] for a more general term for /wis
 ** Z
 ** Ø
 ** Œ
-*** Œgir
+*** Œgir - Œjer
 m. {{{phon(ˈœjer)}}}
 
 1. A mythical beast residing in the forests of the western
@@ -775,3 +913,13 @@ Eittlandic fjords.
 | Acc. |     |         |     |         |
 | Dat. |     |         |     |         |
 | Gen. |     |         |     |         |
+
+|  <c>   |   |                    |                     |      |         |
+| person |   | Indicative Present | Subjunctive Present | Past | Passive |
+|--------+---+--------------------+---------------------+------+---------|
+|   1s   |   |                    |                     |      |         |
+|   2s   |   |                    |                     |      |         |
+|   3s   |   |                    |                     |      |         |
+|   1p   |   |                    |                     |      |         |
+|   2p   |   |                    |                     |      |         |
+|   3p   |   |                    |                     |      |         |
