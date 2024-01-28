@@ -19,7 +19,7 @@ jobs:
           version: 29.1
       - name: "Export org to md"
         run: emacs -Q --script export.el
-      - run: yarn docs:build
+      - run: yarn build
       - name: "Deploy"
         uses: appleboy/scp-action@v0.1.7
         with:
