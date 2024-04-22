@@ -19,15 +19,14 @@
 
 **** Personal Pronouns
 
-|            | 1s  | 2s  | 1p  | 2s  |
-|------------+-----+-----+-----+-----|
-| Nominative | ek  | þú  | vér | ér  |
-| Accusative | mik | þik | oss | yðr |
-| Dative     | mér | þér | oss | yðr |
-| Genitive   | mín | þín | vár | yðr |
-#+begin_center
-First and second person pronouns in Eittlandic
-#+end_center
+#+name: 1-2-personal-pronouns-table
+#+caption: First and second person pronouns in Eittlandic
+|     | 1s  | 2s  | 1p  | 2s  |
+|-----+-----+-----+-----+-----|
+| Nom | ek  | þú  | vér | ér  |
+| Acc | mik | þik | oss | yðr |
+| Dat | mér | þér | oss | yðr |
+| Gen | mín | þín | vár | yðr |
 
 The only notable change in written form from their Early Old Norse
 version is the regularization of the genitive plural second person
@@ -35,20 +34,19 @@ version is the regularization of the genitive plural second person
 phonology as explained in [[file:./phonology.md#evolution-from-early-old-norse-to-eittlandic][the evolution from Early Old Norse to
 Eittlandic]].
 
-|                     | Masculine | Feminine | Neuter |
-|---------------------+-----------+----------+--------|
-| Singular Nominative | hann      | han      | þat    |
-| Singular Accusative | han       | han      | þat    |
-| Singular Dative     | hanum     | henn     | því    |
-| Singular Genitive   | hans      | hennar   | þass   |
-|---------------------+-----------+----------+--------|
-| Plural Nominative   | þeir      | þér      | þau    |
-| Plural Accusative   | þá        | þér      | þau    |
-| Plural Dative       | þeim      | þeim     | þeim   |
-| Plural Genitive     | þeir      | þeir     | þeir   |
-#+begin_center
-Third person pronouns in Eittlandic
-#+end_center
+#+name: 3-personal-pronouns-table
+#+caption: Third person pronouns in Eittlandic
+|        | Masculine | Feminine | Neuter |
+|--------+-----------+----------+--------|
+| Sg Nom | hann      | han      | þat    |
+| Sg Acc | han       | han      | þat    |
+| Sg Dat | hanum     | henn     | því    |
+| Sg Gen | hans      | hennar   | þass   |
+|--------+-----------+----------+--------|
+| Pl Nom | þeir      | þér      | þau    |
+| Pl Acc | þá        | þér      | þau    |
+| Pl Dat | þeim      | þeim     | þeim   |
+| Pl Gen | þeir      | þeir     | þeir   |
 
 Here we also have few changes from the Early Old Norse pronouns for
 the third persons, singular and plural.
@@ -57,10 +55,10 @@ An additional set of pronouns contains reflexive pronouns. This one is
 relatively small, as it does not agree in person, number, or gender.
 However, it still agrees in case. Note that there is no nominative
 reflexive pronoun in Eittlandic.
-| Nominative | -   |
-| Accusative | sik |
-| Dative     | sér |
-| Genitive   | sín |
+| Nom | -   |
+| Acc | sik |
+| Dat | sér |
+| Gen | sín |
 
 **** Demonstrative Pronouns
 During its evolution from Old Eittlandic, the Eittlandic language lost
@@ -168,19 +166,20 @@ depending on the tense, mood, and aspect of the verbal sentence. The
 examples are given using the verbs /far(a)/ (/to go/, a former strong
 verb), and /berja/ (/to beat/, a former weak verb).
 
-|  <c>   |   |                    |                     |                                 |
-| person |   | Indicative Present | Subjunctive Present | Indicative and Subjunctive Past |
-|--------+---+--------------------+---------------------+---------------------------------|
-|   1s   |   | -r                 | -ir                 | -t                              |
-|   2s   |   | -r                 | -ir                 | -t                              |
-|   3s   |   | -r                 | -ir                 | -t                              |
-|   1p   |   | -um                | -im                 | -um                             |
-|   2p   |   | -ið                | -ið                 | -uð                             |
-|   3p   |   | -ið                | -ið                 | -uð                             |
-#+begin_center
-/Typical Verb Inflexion/
-#+end_center
+#+name: verb-inflexion-table
+#+caption: Typical Verb Inflexion
+|  <c>   |   |            |             |                     |
+| person |   | Ind. Pres. | Subj. Pres. | Ind. and Subj. Past |
+|--------+---+------------+-------------+---------------------|
+|   1s   |   | -r         | -ir         | -t                  |
+|   2s   |   | -r         | -ir         | -t                  |
+|   3s   |   | -r         | -ir         | -t                  |
+|   1p   |   | -um        | -im         | -um                 |
+|   2p   |   | -ið        | -ið         | -uð                 |
+|   3p   |   | -ið        | -ið         | -uð                 |
 
+#+name: verb-inflexion-ind-example
+#+caption: Indicative present inflexion of /far(a)/ and /berja/
 | person |   | far   | berja  |
 |--------+---+-------+--------|
 | 1s     |   | ferr  | berjar |
@@ -189,9 +188,6 @@ verb), and /berja/ (/to beat/, a former weak verb).
 | 1p     |   | farum | berjum |
 | 2p     |   | farið | berið  |
 | 3p     |   | farið | berið  |
-#+begin_center
-Indicative present inflexion of /far(a)/ and /berja/
-#+end_center
 
 Note that the final vowel of /berja/ gets replaced with the vowel from
 the inflexion, and the final /j/ also disappears when it is immediately
@@ -199,6 +195,8 @@ followed by an /i/.
 
 Present subjunctive has similar declensions to present indicative.
 
+#+verb-inflexion-subj-example
+#+caption: Subjunctive present inflexion of /far(a)/ and /berja/
 | person |   | far   | berja |
 |--------+---+-------+-------|
 | 1s     |   | ferir | berir |
@@ -207,9 +205,6 @@ Present subjunctive has similar declensions to present indicative.
 | 1p     |   | farim | berim |
 | 2p     |   | farið | berið |
 | 3p     |   | farið | berið |
-#+begin_center
-Subjunctive present inflexion of /far(a)/ and /berja/
-#+end_center
 
 We can see again how the /ja/ at the end of infinitive /berja/ got
 replaced by the ending of subjunctive present verbs.
@@ -217,6 +212,8 @@ replaced by the ending of subjunctive present verbs.
 The past declension is simpler as there is no difference between
 indicative and subjunctive past.
 
+#+name: verb-inflexion-past-example
+#+caption: Indicative and subjunctive past inflexion of /far(a)/ and /berja/
 | person |   | far   | berja  |
 |--------+---+-------+--------|
 | 1s     |   | fert  | berjat |
@@ -225,9 +222,6 @@ indicative and subjunctive past.
 | 1p     |   | farum | berjum |
 | 2p     |   | faruð | berjuð |
 | 3p     |   | faruð | berjuð |
-#+begin_center
-Indicative and subjunctive past inflexion of /far(a)/ and /berja/
-#+end_center
 
 The infinitive and imperative merged due to the final vowel loss,
 making /far/ and /berja/ not only the infinitive form of /to go/ and /to
@@ -242,6 +236,8 @@ When it comes to the passive voice, inherited from the /-sk/ form in Old
 Norse, its declension is a lot more regular. However, we’ll see the
 remaining difference between strong and weak verbs.
 
+#+name: passive-declension-table
+#+caption: Strong and Weak Verb Inflexion for the Indicative Present and Past in Passive Voice
 |  <c>   |   |          |             |
 | person |   | Strong   | Weak        |
 |--------+---+----------+-------------|
@@ -251,10 +247,9 @@ remaining difference between strong and weak verbs.
 |   1p   |   | -umk     | -umk        |
 |   2p   |   | -(a/i)sk | -(ð/d/t)isk |
 |   3p   |   | -(a/i)sk | -(ð/d/t)isk |
-#+begin_center
-/Strong and Weak Verb Inflexion for the Indicative Present and Past in Passive Voice/
-#+end_center
 
+#+name: passive-example-table
+#+caption: Example of passive with /far/ and /berja/
 | person |   | far    | berja     |
 |--------+---+--------+-----------|
 | 1s     |   | ferumk | berjumk   |
