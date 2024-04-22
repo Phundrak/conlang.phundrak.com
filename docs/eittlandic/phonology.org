@@ -143,7 +143,7 @@ conversion table given by the table below.
 | Early Old Norse | Eittlandic |
 |-----------------+------------|
 | {{{phon(dj)}}}        | {{{phon(dʒ)}}}   |
-| {{{phon(gj)}}}        | {{{phon(jː)}}}   |
+| {{{phon(gj)}}}        | {{{phon(j)}}}    |
 | {{{phon(nj)}}}        | {{{phon(ɲ)}}}    |
 | {{{phon(sj)}}}        | {{{phon(ʃ)}}}    |
 | {{{phon(tj)}}}        | {{{phon(tʃ)}}}   |
@@ -434,10 +434,10 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0jyo0gw
 
 #+html: <ImgFigure src="/img/eittlandic/vowel-unstressed-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Featural tree of unstressed Eittlandic vowels</ImgFigure>
 
-As shown in the table above, «i» and «e», «u» and «o», and «a» and
-{{{phon(œ)}}} are considered as allophones in unstressed positions. Their
-pronunciation is based on the vowel harmony spread forward by the
-preceding stressed vowel.
+As shown in the table above, {{{phon(i)}}} and {{{phon(e)}}}, {{{phon(u)}}} and {{{phon(o)}}},
+and {{{phon(a)}}} and {{{phon(œ)}}} are considered as allophones in unstressed
+positions. Their pronunciation is based on the vowel harmony spread
+forward by the preceding stressed vowel.
 
 Regarding the first two pairs, in case a vowel is not preceded by a
 stressed vowel, then the first one will spread its vowel harmony
