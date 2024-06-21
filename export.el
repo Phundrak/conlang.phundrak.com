@@ -13,6 +13,7 @@
 
 (setq org-confirm-babel-evaluate nil
       org-html-validation-link nil
+      org-html-table-default-attributes '(:border "2" :cellspacing "0" :cellpadding "6" :rules "groups" :frame "void")
       make-backup-files nil)
 
 (defvar project-root
