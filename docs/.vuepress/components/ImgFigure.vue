@@ -1,6 +1,8 @@
 <template>
-  <img :alt="alt" :src="src" />
-  <figcaption><slot></slot></figcaption>
+  <figure>
+    <img :alt="alt" :src="src" />
+    <figcaption><slot></slot></figcaption>
+  </figure>
 </template>
 
 <script setup lang="ts">
