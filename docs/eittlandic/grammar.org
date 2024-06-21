@@ -21,7 +21,7 @@
 
 #+name: 1-2-personal-pronouns-table
 #+caption: First and second person pronouns in Eittlandic
-|     | 1s  | 2s  | 1p  | 2s  |
+|     | 1s  | 2s  | 1p  | 2p  |
 |-----+-----+-----+-----+-----|
 | Nom | ek  | þú  | vér | ér  |
 | Acc | mik | þik | oss | yðr |
@@ -129,11 +129,11 @@ or /theirs/.
 # - What are the structural properties of verbs?
 # - What are the major subclasses of verbs?
 # - Describe the order of various verbal operators within the verbal
-# - word or verb phrase.
+#   word or verb phrase.
 # - Give charts of the tense/aspect/mode, etc. Indicate major
-#    allomorphic variants.
+#   allomorphic variants.
 # - Are directional and/or locational notions expressed in the verb or
-# - verb phrase at all?
+#   verb phrase at all?
 #   - Is this operation obligatory, i.e. does one member of the
 #     paradigm have to occur in every finite verb or verb phrase?
 #   - Is it productiv
@@ -155,16 +155,339 @@ simplification on one hand, making the verb endings a lot more regular
 and predictable, and complexification with the addition of new moods
 and tenses.
 
+**** Infinitive
+The infinitive form of verbs in Eittlandic is generally used when the
+verbal phrase it is part of is treated as the object of another
+phrase, similarly to how infinitive works in other Nordic languages or
+English. For instance, “he likes to eat” translates to “hann líkar
+eta” ({{{phon(hanː lèkar̩ et)}}}), where “eta” is the object of the verbs
+“líkar”. This form is the one given in the dictionary and undergoes no
+inflexion.
+
+**** Imperative
+The imperative has the same form as the infinitive in Eittlandic. The
+evolution of the Eittlandic language made it lose the second singular
+and plural distinction, leaving the same form for both. Eittlandic
+verbs also evolved in such a way most, if not all, of them have the
+same form as their infinitive counterpart.
+
+#+html: ::: tip Example
+- Et matin þín
+
+  Eat your food!
+
+  | et      | mat-inn      | þín    |
+  | eat.IMP | food-DEF.ACC | 2s.GEN |
+
+- Et matin yðr
+
+  Eat your food!
+
+  | et      | mat-inn      | yðr    |
+  | eat.IMP | food-DEF.ACC | 2p.GEN |
+#+html: :::
+
+**** Participles
+Formation of participles is relatively simple in Eittlandic is pretty
+simple, as it simply adds /-and/ and /-it/ to the verbal root of the verb
+in order to form the present participle and the past participle
+respectively.
+
+#+name: verb-participle-declension
+#+caption: Formation of Eittlandic Participles
+| Present Participle | -and  |
+| Past Participle    | -it   |
+
+**** Indicative
+Indicative the only non-irrealis mood available in Eittlandic. It is
+used to express events or facts that are happening or happened with
+certainty from the speaker’s point of view. This mood only exists for
+the present, progressive, preterit, and perfect tenses. Other tenses,
+such as future, exist in other moods as explained below.
+
+The first two basic tenses are the present and past tenses. The
+present tense in Eittlandic is relatively similar to the English
+present tense, as it can describe what the speaker perceives as
+general truths, habitual facts, events that are happening at the same
+time as the time of speech, or current facts. It can also indicate
+events when the English language would use the progressive mood
+instead. Eittlandic does have a progressive mood of its own, though
+slightly different, see [[file:./grammar.md#progressive][below]]. Lastly, it can also express near future
+when other clues are available in the discourse.
+
+#+html: ::: tip Example
+- Í Eittland, vér snakk eittlandsk.
+
+  In Eittland, we speak Eittlandic.
+#+html: :::
+
+Here is how the typical verb is inflected in the indicative mood:
+
+#+name: verb-indicative-inflexion-table
+#+caption: Typical Verb Inflexion in the Indicative Mood
+|  <c>   |   |            |           |
+| person |   | Ind. Pres. | Ind. Past |
+|--------+---+------------+-----------|
+|   1s   |   | -(V)r      | -t        |
+|   2s   |   | -(V)r      | -t        |
+|   3s   |   | -(V)r      | -t        |
+|   1p   |   | -um        | -um       |
+|   2p   |   | -ið        | -uð       |
+|   3p   |   | -ið        | -uð       |
+
+An important feature to note is /-(V)r/ makes the underlying final vowel
+of a verb appear, while it is otherwise lost in all other contexts.
+For instance, the verb /lík/ becomes /líkar/ when in singular indicative
+present, but /líkt/ when in singular indicative past.
+
+Here are the indicative present declensions of the verbs /far(a)/ (/to
+go/, a strong verb), and /berja/ (/to beat/, a weak verb):
+
+#+name: verb-inflexion-ind-example
+#+caption: Indicative present inflexion of /far(a)/ and /berja/
+| person |   | far   | berja  |
+|--------+---+-------+--------|
+| 1s     |   | ferar | berjar |
+| 2s     |   | ferar | berjar |
+| 3s     |   | ferar | berjar |
+| 1p     |   | farum | berjum |
+| 2p     |   | farið | berið  |
+| 3p     |   | farið | berið  |
+
+Note that the final vowel of /berja/ gets replaced with the vowel from
+the inflexion, and the final /j/ also disappears when it is immediately
+followed by an /i/.
+
+**** Subjunctive
+The subjunctive is the default irrealis mood of Eittlandic. Like the indicative mood, it has two tenses, present and past, in which verbs get inflexions. Below is the table showing how verbs typically inflect in the subjunctive mood:
+
+#+name: verb-subjunctive-inflexion-table
+#+caption: Typical Verb Inflexion in the Subjunctive Mood
+|  <c>   |   |             |            |
+| person |   | Subj. Pres. | Subj. Past |
+|--------+---+-------------+------------|
+|   1s   |   | -ir         | -t         |
+|   2s   |   | -ir         | -t         |
+|   3s   |   | -ir         | -t         |
+|   1p   |   | -im         | -um        |
+|   2p   |   | -ið         | -uð        |
+|   3p   |   | -ið         | -uð        |
+
+As you can see, the subjunctive past form of verbs is identical to
+their indicative past form, as shown below.
+
+#+name: verb-inflexion-past-example
+#+caption: Indicative and Subjunctive Past Inflexion of /far(a)/ and /berja/
+| person |   | far   | berja  |
+|--------+---+-------+--------|
+| 1s     |   | fert  | berjat |
+| 2s     |   | fert  | berjat |
+| 3s     |   | fert  | berjat |
+| 1p     |   | farum | berjum |
+| 2p     |   | faruð | berjuð |
+| 3p     |   | faruð | berjuð |
+
+**** Perfect
+The perfect aspect in Eittlandic is relatively similar to the modern
+past form of the language. It also uses the verbs /ver/ and /hav/ before
+the verb, which both agree in number, tense, and mood instead of the
+main verb which appears in its participle form. The present participle
+is used when the event relates to the present or the future, while the
+past participle is used when the event relates to a time in the past.
+
+ It also uses the verbs /ver/ and /hav/ before
+the verb, which both agree in number, tense, and mood instead of the
+main verb. The latter, on the other hand, appears in its participle
+form, present or past depending on whether the action is happening or
+will happen, or if it happened in the past.
+
+#+html: ::: tip Example
+- Hann haft sovin, þá kunn hann kom
+
+  He had slept, thus he could come
+
+  | han-n   | haft            | sov-in         | þá   | kunn           | han-n   | kom  |
+  | 3sm.NOM | have.3s.PST.IND | sleep-PST.PART | thus | can.3s.PST.IND | 3sm.NOM | come |
+
+- Ér havum lesit bókan í dag
+
+  We have read the book today
+
+  | ér     | hav-um           | les-and        | bók-an       | í dag |
+  | 1p.NOM | have-1p.PRES.IND | read-PRES.PART | book-DEF.ART | today |
+#+html: :::
+
+**** Future                                                        :noexport:
+
+**** Passive
+The passive voice, inherited from the /-sk/ form in Old Norse, has some
+more regular declension than the other moods. However, this is the
+last declension where we can still see the remains of the distinction
+between strong and weak verbs inherited from Old Norse.
+
+#+name: passive-declension-table
+#+caption: Strong and Weak Verb Inflexion for the Indicative Present and Past in Passive Voice
+|  <c>   |   |          |             |
+| person |   | Strong   | Weak        |
+|--------+---+----------+-------------|
+|   1s   |   | -umk     | -umk        |
+|   2s   |   | -(a/i)sk | -(ð/d/t)isk |
+|   3s   |   | -(a/i)sk | -(ð/d/t)isk |
+|   1p   |   | -umk     | -umk        |
+|   2p   |   | -(a/i)sk | -(ð/d/t)isk |
+|   3p   |   | -(a/i)sk | -(ð/d/t)isk |
+
+#+name: passive-example-table
+#+caption: Example of passive with /far/ and /berja/
+| person |   | far    | berja     |
+|--------+---+--------+-----------|
+| 1s     |   | ferumk | berjumk   |
+| 2s     |   | ferisk | berjaðisk |
+| 3s     |   | ferisk | berjaðisk |
+| 1p     |   | farumk | berjumk   |
+| 2p     |   | farask | berjaðisk |
+| 3p     |   | farask | berjaðisk |
+
+Due to this uniformization of the passive voice in Eittlandic,
+Eittlanders began using the verbs /ver(a)/ and /hav(a)/ (respectively /to
+be/ and /to have/) as auxiliaries preceding the verb in order to convey
+the subject, tense, and mood agreement. The verb /ver(a)/ is most often
+used in active verbs, while the verb /hav(a)/ is generally used with
+stative verbs. While all verbs have a default auxiliary, such as
+/ver(a)/ for a verb like /et(a)/ (/to eat/), the speaker may choose to use
+the other auxiliary in order to increase or decrease the agency of the
+semantic agent (not the syntactic agent), even if it is not present in
+the sentence.
+
+#+html: ::: tip Example
+- Ek var brennumk mik
+  | ek     | var           | brenn-umk   | mik    |
+  | 1s.NOM | be.1s.IND.PST | burn-1s.PAS | 1s.ACC |
+  /I burnt myself/
+- Ek hav brennumk mik
+  | ek     | hav             | brenn-umk   | mik    |
+  | 1s.NOM | have.1s.IND.PST | burn-1s.PAS | 1s.ACC |
+  /I got burnt/
+#+html: :::
+
+**** Progressive
+The progressive mood is generally used to express an ongoing action at
+the time of speech. Note that its usage is a bit different from
+English, as Eittlandic progressive is rarer in spoken Eittlandic and
+even rarer in written Eittlandic. It is generally used to disambiguate
+a sentence that could be either indicative or progressive, but is
+usually omitted when the speaker feels like the progressive mood
+should be obvious enough.
+
+To mark the progressive, the word /ná/ is placed just after the verb,
+without any other word between them.
+
+#+html: ::: tip Example
+- Ér kannum hléð vit? Nei, ek etar.
+
+  Can we talk? Nah, I’m eating
+
+  | ér     | kann-um         | hléð | vit |
+  | 1P.NOM | can-1P.PRES.IND | talk | Q   |
+
+  | nei | ek     | et-ar           |
+  | no  | 1S.NOM | eat-1S.PRES.IND |
+
+- Hvat gerar þú í Sunsdag? Ek les bøk, nem hlustar ná ek tonlist.
+
+  What do you do on Sundays? I read books, but (right now) I’m
+  listening to music
+
+  | hvat     | ger-ar         | þú     | í  | Sunsdag       |
+  | what.NOM | do-2s.PRES.IND | 2s.NOM | on | Sunday.PL.DAT |
+
+  | ek     | les              | bøk         |
+  | 1s.NOM | read.1s.PRES.IND | book.PL.ACC |
+
+  | nem | hlust-ar           | ná   | ek     | tonlist   |
+  | but | listen-1s.PRES.IND | PROG | 1s.NOM | music.ACC |
+#+html: :::
+
+**** Conditional
+The conditional mood allows speakers of Eittlandic to speak about
+conditional events while marking them as such. This translates into
+several strategies.
+
+The first strategy adds /-(u)sk(a)-/ between the verb root and its
+indicative declension. It marks conditionals the speakers estimates to
+be unlikely.
+
+#+html: ::: tip Example
+Ef þú gefuskar mér ein fisk, ér ét þat
+
+If you somehow give me a fish, we’ll eat it
+#+html: :::
+
+**** Causative                                                     :noexport:
+
+**** Jussive
+The jussive is percieved as a more subtle, more formal form of the
+[[file:./grammar.md#imperative][imperative]]. It is formed by adding /-(i)l/ at the end of the verbal
+root.
+
+#+html: ::: tip Example
+Etal matin þín
+
+Please eat your food.
+
+| eta-l   | mat-inn      | þín    |
+| eat-JUS | food-DEF.ACC | 2s.GEN |
+#+html: :::
+
+**** Optative                                                      :noexport:
+
+**** Dubitative
+The dubitative mood in Eittlandic is a mood used by the speaker to
+express doubt or uncertainty. It is formed by inserting /-(a)kki/
+between the verbal root and the indicative declension. It translates
+to this declension table:
+
+#+name: verb-dubitative-inflexion-table
+#+caption: Typical Verb Inflexion
+|  <c>   |   |            |           |
+| person |   | Ind. Pres. | Ind. Past |
+|--------+---+------------+-----------|
+|   1s   |   | -(a)kkir   | -(a)kkit  |
+|   2s   |   | -(a)kkir   | -(a)kkit  |
+|   3s   |   | -(a)kkir   | -(a)kkit  |
+|   1p   |   | -(a)kkim   | -(a)kkum  |
+|   2p   |   | -(a)kkið   | -(a)kkuð  |
+|   3p   |   | -(a)kkið   | -(a)kkuð  |
+
+#+html: ::: tip Example
+Hann kømakkir í dag
+
+He might not come today
+
+| Hann    | køm-akkir        | í dag |
+| 3sm.NOM | come-3s.DUB.PRES | today |
+#+html: :::
+
+*** Verbs                                                          :noexport:
+Eittlandic, as most if not all North Germanic language, is a V2
+language. This implies that in most cases, the verb in sentences will
+come at the second position, possibly moving its subject right between
+the verb itself and the rest of the verb phrase. The only exception to
+this are questions and the use of imperative. More on that later.
+
+Since Early Old Norse, Eittlandic evolved its verb both towards
+simplification on one hand, making the verb endings a lot more regular
+and predictable, and complexification with the addition of new moods
+and tenses.
+
 **** Verbal Structure                                              :noexport:
-
 **** Verbal Derivations                                            :noexport:
-
 **** Verbal Inflexions
 Verbs in Eittlandic agree with their subject in person and number,
 though it lost a lot of its diversity Old Norse had. It also varies
 depending on the tense, mood, and aspect of the verbal sentence. The
-examples are given using the verbs /far(a)/ (/to go/, a former strong
-verb), and /berja/ (/to beat/, a former weak verb).
+examples are given using the verbs /far(a)/ (/to go/, a strong verb), and
+/berja/ (/to beat/, a weak verb).
 
 #+name: verb-inflexion-table
 #+caption: Typical Verb Inflexion
@@ -265,7 +588,7 @@ Imperative, on the other hand, only works with the second person in
 the present tense by appending an /-sk/ at the end of the infinitive of
 the verb.
 
-Due to this uniformisation of the passive voice in Eittlandic,
+Due to this uniformization of the passive voice in Eittlandic,
 Eittlanders began using the verbs /ver(a)/ and /hav(a)/ (respectively /to
 be/ and /to have/) as auxiliaries preceding the verb in order to convey
 the subject, tense, and mood agreement. The verb /ver(a)/ is most often
@@ -563,7 +886,7 @@ words in English.
 # - If so, what are the cases? (The functions of the cases will be
 #   elaborated in lat
 **** Cases in Modern Eittlandic
-Although seldom visible, as described in [[file:./syntax.md#case-marking][Case Marking]], cases still
+Although seldom visible, as described in [[file:grammar.md#case-marking][Case Marking]], cases still
 remain part of the Eittlandic grammar, expressed through its syntax
 rather than explicit marking on its nouns and adjectives. Four
 different grammatical cases exist in this language: the *nominative*,
@@ -730,7 +1053,7 @@ an article must accompany it, except for indefinite plural nouns.
 The indefinite article is /einn/, the same term as /one/ in Eittlandic. It
 agrees in declension with its noun, though it is to be noted its
 declension is irregular, as seen in table below. Similarly, other
-numerals have declensions as discussed in [[file:word-structure-and-classes.md#numerals][Word Classes: Numerals]].
+numerals have declensions as discussed in [[file:grammar.md#numerals][Word Classes: Numerals]].
 #+name: tbl:declension-einn
 |      | Masculine | Feminine | Neuter |
 |------+-----------+----------+--------|
@@ -769,13 +1092,13 @@ with strong masculine or feminine words (or as established before,
 strong common) or with strong neuter and weak nouns.
 
 The use of definite articles with nouns is further discussed in
-[[file:./syntax.md#definiteness][Definiteness]].
+[[file:grammar.md#definiteness][Definiteness]].
 
 *** Definiteness
 Definiteness in Eittlandic serves multiple purposes. Its most obvious
 one is to distinguish between an indefinite and a definite entity, as
 in English /a dog/ or /the dog/, respectively /einn hundr/ and /hundinn/, as
-discussed in [[file:./syntax.md#articles-and-demonstratives][Articles and Demonstratives]].
+discussed in [[file:grammar.md#articles-and-demonstratives][Articles and Demonstratives]].
 
 However, definiteness is also necessary with suffixed possessives and
 demonstrative.
@@ -802,7 +1125,7 @@ Eittlandic inherited from Old Norse a gender system divided into three
 genders: male, female, and neuter. Although the number of elements
 marking it declined during its evolution, Eittlandic still marks
 gender in its strong nouns, adjectives, pronouns, and to a certain
-degree in its articles. However, as mentioned in [[file:./syntax.md#case-marking][Case Marking]], case
+degree in its articles. However, as mentioned in [[file:grammar.md#case-marking][Case Marking]], case
 marking and by extensions gender marking is slowly disappearing in
 Modern Eittlandic nouns and adjectives.
 
