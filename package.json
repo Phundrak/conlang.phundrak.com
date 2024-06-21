@@ -1,23 +1,25 @@
 {
   "name": "conlang.phundrak.com",
   "version": "1.0.0",
-  "description": "",
+  "description": "P'hundrak's conlanging website",
   "main": "index.js",
+  "repository": "https://labs.phundrak.com/phundrak/conlang.phundrak.com",
+  "author": "Lucien Cartier-Tilet <lucien@phundrak.com>",
+  "license": "AGPL-3.0",
+  "private": true,
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.13",
+    "@vuepress/plugin-umami-analytics": "^2.0.0-rc.36",
+    "@vuepress/theme-default": "^2.0.0-rc.36",
+    "vuepress": "2.0.0-rc.13",
+    "vuepress-plugin-search-pro": "^2.0.0-rc.43"
+  },
+  "dependencies": {
+    "less": "^4.2.0",
+    "nord": "^0.2.1"
+  },
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://labs.phundrak.com/phundrak/conlang.phundrak.com"
-  },
-  "author": "Lucien Cartier-Tilet <lucien@phundrak.com>",
-  "license": "AGPL-3.0",
-  "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.2",
-    "@vuepress/theme-default": "2.0.0-rc.2",
-    "vuepress": "2.0.0-rc.2",
-    "vuepress-plugin-search-pro": "^2.0.0-rc.15"
-  },
-  "packageManager": "yarn@4.0.2"
+  }
 }
