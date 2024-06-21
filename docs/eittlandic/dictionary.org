@@ -194,6 +194,26 @@ See [[file:dictionary.md#bok(r)][/bók/]]
 
 ** C
 ** D
+*** dag
+sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
+
+1. natural day
+2. day (unit of time), 24 hours
+3. í dag: today
+4. week day
+
+|      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------------------+---------+-------+---------|
+| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
+| Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
+| Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
+| Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
+
+Due to the phonological evolution of Eittlandic, the pronunciaton of
+the final «g» of /dag/ ends up differing even if the written form does
+not. As such, a guide is included in the declension table to help
+students remember how these different forms are pronounced.
+
 *** djúp
 adj. {{{phon(ʒːòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
@@ -272,6 +292,16 @@ wn.f. {{{phon(e:ðː)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]
 | Dat. | eddas | eddan   | eddam | eddanum |
 | Gen. | eddas | eddans  | eddas | eddan   |
 
+*** ef
+adv. {{{phon(ef)}}}, from ON [[https://old-norse.net/html/e.php#ef-B][ef]]
+
+1. if, in case, in case that
+
+Always followed by a conditional verbal phrase or a noun if speakers
+can infer the verbal phrase from it.
+
+
+
 *** Eittland
 sn.n. {{{phon(ɑɪʔlɑnd)}}}, from OE neutral /einn/ (/alone/, /lonely/), itself from
 ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.net/html/l.php#land][land]]
@@ -291,6 +321,41 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 
 1. (adv.) else, or, otherwise
 2. (conj.) or
+
+*** epil
+wn.n. {{{phon(ˈepel)}}}, from ON [[https://old-norse.net/html/e.php#epli][epli]]
+
+1. apple
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | epil  | epilit  | epill  | epilitr  |
+| Acc. | epil  | epilit  | epil   | epilit   |
+| Dat. | epil  | epilit  | epilum | epilitum |
+| Gen. | epils | epilits | epils  | epilit   |
+
+*** et(a)
+iv. {{{phon(et)}}}, from ON [[https://old-norse.net/html/e.php#eta][eta]]
+
+1. to eat
+2. to consume
+3. to burn fuel (generally fire)
+
+- infinitive :: et
+- imperative :: et
+- imperative passive voice :: etask
+- present participle :: etand
+- past participle :: etat
+
+|  <c>   |   |            |             |      |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past | Passive |
+|--------+---+------------+-------------+------+---------|
+|   1s   |   | etar       | etir        | át   | etumk   |
+|   2s   |   | etar       | etir        | át   | esk     |
+|   3s   |   | etar       | etir        | át   | esk     |
+|   1p   |   | etum       | etim        | átum | etimk   |
+|   2p   |   | etið       | etið        | átuð | etisk   |
+|   3p   |   | etið       | etið        | átuð | etisk   |
 
 ** É
 ** F
@@ -324,9 +389,9 @@ iv. {{{phon(far)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
 |  <c>   |   |                    |                     |       |         |
 | person |   | Indicative Present | Subjunctive Present | Past  | Passive |
 |--------+---+--------------------+---------------------+-------+---------|
-|   1s   |   | ferr               | ferir               | fert  | ferumk  |
-|   2s   |   | ferr               | ferir               | fert  | ferisk  |
-|   3s   |   | ferr               | ferir               | fert  | ferisk  |
+|   1s   |   | ferar              | ferir               | fert  | ferumk  |
+|   2s   |   | ferar              | ferir               | fert  | ferisk  |
+|   3s   |   | ferar              | ferir               | fert  | ferisk  |
 |   1p   |   | farum              | farim               | farum | farumk  |
 |   2p   |   | farið              | farið               | faruð | farask  |
 |   3p   |   | farið              | farið               | faruð | farask  |
@@ -365,6 +430,14 @@ sn.m. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr
 | Dat. | fisk   | fiskin  | fiskum | fiskinum |
 | Gen. | fiskar | fiskins | fiskar | fiskin   |
 
+*** Frídag
+sn.m. {{{phon(frèdaɣ)}}}, from EON [[https://old-norse.net/html/f.php#frj%C3%A1dagr][fríadagr]]
+
+1. Friday, sixth day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
+
 *** fylgj(a)
 wv. {{{phon(fyʎ)}}}, from ON [[https://old-norse.net/html/f.php#fylgja2][fylgja]]
 
@@ -375,7 +448,7 @@ wv. {{{phon(fyʎ)}}}, from ON [[https://old-norse.net/html/f.php#fylgja2][fylgja
 - imperative :: fylgja {{{phon(fyʎ)}}}
 - imperative passive voice :: fylgjask
 - present participle :: fylgjand
-- past pariciple :: fylgjat
+- past participle :: fylgjat
 
 |  <c>   |   |                    |                     |         |          |
 | person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
@@ -414,9 +487,9 @@ Alternative form: *jauð*
 |  <c>   |   |            |             |        |          |
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
 |--------+---+------------+-------------+--------+----------|
-|   1s   |   | gauðr      | gauðir      | gauðt  | gauðumk  |
-|   2s   |   | gauðr      | gauðir      | gauðt  | gauððisk |
-|   3s   |   | gauðr      | gauðir      | gauðt  | gauððisk |
+|   1s   |   | gauðar     | gauðir      | gauðt  | gauðumk  |
+|   2s   |   | gauðar     | gauðir      | gauðt  | gauððisk |
+|   3s   |   | gauðar     | gauðir      | gauðt  | gauððisk |
 |   1p   |   | gauðum     | gauðim      | gauðum | gauðumk  |
 |   2p   |   | gauðið     | gauðið      | gauðuð | gauððisk |
 |   3p   |   | gauðið     | gauðið      | gauðuð | gauððisk |
@@ -442,6 +515,31 @@ adv. {{{phon(jeɡn̩)}}}, from ON [[https://en.wiktionary.org/wiki/gegn#Old_Nors
 
 Alternative form: *jegn*
 
+*** ger(a)
+iv. {{{phon(jer)}}}, from ON [[https://old-norse.net/html/g.php#g%C3%B6ra][göra]]
+
+1. to do, to make
+2. to act
+
+Unlike its English counterpart /to do/, the Eittlandic verb /ger(a)/ is
+not a modal verb.
+
+- infinitive :: ger
+- imperative :: ger
+- imperative passive voice :: gerask
+- present participle :: gerand
+- past participle :: gerð
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | ger        | ger         | gerð   | gerumk  |
+|   2s   |   | gerar      | gerir       | gerðir | gerisk  |
+|   3s   |   | gerar      | ger         | gerðir | gerisk  |
+|   1p   |   | gerum      | gerim       | gerðum | gerumk  |
+|   2p   |   | gerið      | gerið       | gerðuð | gerisk  |
+|   3p   |   | ger        | ger         | gerð   | gerisk  |
+
 *** gleym(a)
 sv. {{{phon(ɡløʏm)}}}, from ON [[https://old-norse.net/html/g.php#gleyma][gleyma]]
 
@@ -458,9 +556,9 @@ Alternative form: *gløym*
 |  <c>   |   |                    |                     |         |          |
 | person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
 |--------+---+--------------------+---------------------+---------+----------|
-|   1s   |   | gleymr             | gleymir             | gleymt  | gleymumk |
-|   2s   |   | gleymr             | gleymir             | gleymt  | gleymask |
-|   3s   |   | gleymr             | gleymir             | gleymt  | gleymask |
+|   1s   |   | gleymar            | gleymir             | gleymt  | gleymumk |
+|   2s   |   | gleymar            | gleymir             | gleymt  | gleymask |
+|   3s   |   | gleymar            | gleymir             | gleymt  | gleymask |
 |   1p   |   | gleymum            | gleymir             | gleymum | gleymumk |
 |   2p   |   | gleymið            | gleymið             | gleymuð | gleymask |
 |   3p   |   | gleymið            | gleymið             | gleymuð | gleymask |
@@ -470,18 +568,30 @@ The verb /gleym/ takes a dative instead of an accusative.
 #+html: ::: tip Example
 1. Ek gleymr opt lykillinum
 
-   | ek     | gleym-r        | opt   | lykill-inum         |
-   | 1s.NOM | forget-1s.PRES | often | key-pl.DAT.ART.DEF. |
+   | ek     | gleym-r        | opt   | lykill-inum     |
+   | 1s.NOM | forget-1s.PRES | often | key-pl.DAT.DEF. |
 
    I often forget the keys
 
 2. Hann haft gleymt at far til borgin
 
-   | hann     | haft        | gleymt        | at     | far    | til | borg-in            |
-   | 3s.m.NOM | have.3s.PST | forget.3s.PST | to.DAT | go.INF | to  | city-def.art.s.DAT |
+   | hann     | haft        | gleymt        | at     | far    | til | borg-in         |
+   | 3s.m.NOM | have.3s.PST | forget.3s.PST | to.DAT | go.INF | to  | city-sg.DAT.DEF |
 
    He forgot to go to the city.
-#+html:
+#+html: :::
+
+*** goð
+sn.n. {{{phon(joð)}}}, from ON [[https://old-norse.net/html/g.php#go%C3%B0-A-IV-2][goð]]
+
+1. monotheistic God, mainly Christian, but also Jewish and Muslim
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | goð  | goðit   | goð   | goðitr  |
+| Acc. | goð  | goðit   | goð   | goðit   |
+| Dat. | goð  | goðit   | goðum | goðitum |
+| Gen. | goðs | goðits  | goðs  | goðit   |
 
 *** grað(a)
 wn.n. {{{phon(ɡrað)}}}, from Latin [[https://en.wiktionary.org/wiki/gradus#Latin][gradus]]
@@ -507,7 +617,6 @@ iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][h
 1. to have
 2. stative auxilliary
 
-**** Inflexions
 - infinitive :: hav
 - imperative :: hav (except 2p /haft/)
 - imperative passive voice :: hafsk (except 1p /havumsk/)
@@ -601,14 +710,17 @@ sv. {{{phon(ɬer)}}}, from ON [[https://old-norse.net/html/h.php#hlera][hlera]]
 |  <c>   |   |                    |                     |        |         |
 | person |   | Indicative Present | Subjunctive Present | Past   | Passive |
 |--------+---+--------------------+---------------------+--------+---------|
-|   1s   |   | hlerr              | hlerir              | hlert  | hlerumk |
-|   2s   |   | hlerr              | hlerir              | hlert  | hlerask |
-|   3s   |   | hlerr              | hlerir              | hlert  | hlerask |
+|   1s   |   | hlerar             | hlerir              | hlert  | hlerumk |
+|   2s   |   | hlerar             | hlerir              | hlert  | hlerask |
+|   3s   |   | hlerar             | hlerir              | hlert  | hlerask |
 |   1p   |   | hlerum             | hlerim              | hlerum | hlerumk |
 |   2p   |   | hlerið             | hlerið              | hleruð | hlerask |
 |   3p   |   | hlerið             | hlerið              | hleruð | hlerask |
 
-Its secondary argument is always a secondary noun phrase if there is one.
+Its secondary argument is always a secondary noun phrase following /tíl/
+if there is one. If the secondary argument only is a noun, it will
+bear the dative case if the speaker’s dialect uses cases. See
+[[file:./dictionary.md#hlust-a][hlust(a)]].
 
 *** hleð
 sn.n. {{{phon(ɬeð)}}}, from EON /hleða/, see ON [[https://old-norse.net/html/h.php#hlj%C3%B3%C3%B0][hljóð]]
@@ -634,17 +746,17 @@ sv. {{{phon(ɬeð)}}}, from [[file:./dictionary.md#hleð][hleð]]
 - imperative :: hleð
 - imperative passive voice :: hleðsk
 - present participle :: hleðand
-- past pariciple :: hleðat
+- past participle :: hleðat
 
 |  <c>   |   |            |             |        |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
 |--------+---+------------+-------------+--------+---------|
-|   1s   |   | hleðr      | hleðir      | hleðt  | hleðumk |
-|   2s   |   | hleðr      | hleðir      | hleðt  | hleðsk  |
-|   3s   |   | hleðr      | hleðir      | hleðt  | hleðsk  |
+|   1s   |   | hleðar     | hleðir      | hleðt  | hleðumk |
+|   2s   |   | hleðar     | hleðir      | hleðt  | hleðask |
+|   3s   |   | hleðar     | hleðir      | hleðt  | hleðask |
 |   1p   |   | hleðum     | hleðim      | hleðum | hleðumk |
-|   2p   |   | hleðið     | hleðið      | hleðuð | hleðsk  |
-|   3p   |   | hleðið     | hleðið      | hleðuð | hleðsk  |
+|   2p   |   | hleðið     | hleðið      | hleðuð | hleðask |
+|   3p   |   | hleðið     | hleðið      | hleðuð | hleðask |
 
 *** hlóð
 wn.n. {{{phon(l̥ɔð)}}}, from ON [[https://old-norse.net/html/h.php#hl%C3%B3%C3%B0][hlóð]]
@@ -670,24 +782,30 @@ wv. {{{phon(ɬuʃt)}}}, from ON [[https://old-norse.net/html/h.php#hlusta][hlust
 - present participle :: hlustand
 - past participle :: hlustit
 
-|  <c>   |   |                    |                     |         |          |
-| person |   | Indicative Present | Subjunctive Present | Past    | Passive  |
-|--------+---+--------------------+---------------------+---------+----------|
-|   1s   |   | hlustr             | hlustir             | hlustat | hlustumk |
-|   2s   |   | hlustr             | hlustir             | hlustat | hlustask |
-|   3s   |   | hlustr             | hlustir             | hlustat | hlustask |
-|   1p   |   | hlustum            | hlustim             | hlustum | hlustumk |
-|   2p   |   | hlustið            | hlustið             | hlustuð | hlustask |
-|   3p   |   | hlustið            | hlustið             | hlustuð | hlustask |
+|  <c>   |   |                    |                     |         |           |
+| person |   | Indicative Present | Subjunctive Present | Past    | Passive   |
+|--------+---+--------------------+---------------------+---------+-----------|
+|   1s   |   | hlustar            | hlustir             | hlustat | hlustumk  |
+|   2s   |   | hlustar            | hlustir             | hlustat | hlusttask |
+|   3s   |   | hlustar            | hlustir             | hlustat | hlusttask |
+|   1p   |   | hlustum            | hlustim             | hlustum | hlustumk  |
+|   2p   |   | hlustið            | hlustið             | hlustuð | hlusttask |
+|   3p   |   | hlustið            | hlustið             | hlustuð | hlusttask |
 
-Its secondary argument is always a secondary noun phrase if there is one.
+Its secondary argument is always a secondary noun phrase following /tíl/
+if there is one. If the secondary argument only is a noun, it will
+bear the dative case if the speaker’s dialect uses cases. See
 
 #+html: ::: tip Example
 1. Han hlustr henn
 
    He’s listening to her
 
-2. Vér hlustum eigi
+2. Hlustr þú til hvat sagjar ek?
+
+   Are you listening to what I am saying?
+
+3. Vér hlustum eigi
 
    We did not listen
 #+html: :::
@@ -728,14 +846,14 @@ sv. {{{phon(ɲ̥ɔ̀ːs)}}}, from ON [[https://old-norse.net/html/h.php#hnj%C3%B
 - imperative :: hnjós
 - imperative passive voice :: hnjósask
 - present participle :: hnjósand
-- past pariciple :: hnjósit
+- past participle :: hnjósit
 
 |  <c>   |   |            |             |         |          |
 | person |   | Ind. Pres. | Subj. Pres. | Past    | Passive  |
 |--------+---+------------+-------------+---------+----------|
-|   1s   |   | hnjósr     | hnjósir     | hnjóst  | hnjósumk |
-|   2s   |   | hnjósr     | hnjósir     | hnjóst  | hnjósask |
-|   3s   |   | hnjósr     | hnjósir     | hnjóst  | hnjósask |
+|   1s   |   | hnjósar    | hnjósir     | hnjóst  | hnjósumk |
+|   2s   |   | hnjósar    | hnjósir     | hnjóst  | hnjósask |
+|   3s   |   | hnjósar    | hnjósir     | hnjóst  | hnjósask |
 |   1p   |   | hnjósum    | hnjósim     | hnjósum | hnjósumk |
 |   2p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
 |   3p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
@@ -771,11 +889,11 @@ sv. {{{phon(huj)}}}
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
 |   1s   |   | hugar      | hugir       | hugat | hugumk  |
-|   2s   |   | hugar      | hugir       | hugat | hugisk  |
-|   3s   |   | hugar      | hugir       | hugat | hugisk  |
+|   2s   |   | hugar      | hugir       | hugat | hugask  |
+|   3s   |   | hugar      | hugir       | hugat | hugask  |
 |   1p   |   | hugum      | hugim       | hugum | hugumk  |
-|   2p   |   | hugið      | hugið       | huguð | hugisk  |
-|   3p   |   | hugið      | hugið       | huguð | hugisk  |
+|   2p   |   | hugið      | hugið       | huguð | hugask  |
+|   3p   |   | hugið      | hugið       | huguð | hugask  |
 
 *** hugaleið(a)
 wv. {{{phon(ˌhujœˈlɑːɪð)}}}, from [[file:./dictionary.md#hug-a][hug(a)]] and [[file:./dictionary.md#leið-a][leið(a)]]
@@ -792,9 +910,9 @@ wv. {{{phon(ˌhujœˈlɑːɪð)}}}, from [[file:./dictionary.md#hug-a][hug(a)]] 
 |  <c>   |   |            |             |            |              |
 | person |   | Ind Pres   | Subj. Pres. | Past       | Pass.        |
 |--------+---+------------+-------------+------------+--------------|
-|   1s   |   | hugaleiðr  | hugaleiðir  | hugaleiðt  | hugaleiðumk  |
-|   2s   |   | hugaleiðr  | hugaleiðir  | hugaleiðt  | hugaleiððisk |
-|   3s   |   | hugaleiðr  | hugaleiðir  | hugaleiðt  | hugaleiððisk |
+|   1s   |   | hugaleiðar | hugaleiðir  | hugaleiðt  | hugaleiðumk  |
+|   2s   |   | hugaleiðar | hugaleiðir  | hugaleiðt  | hugaleiððisk |
+|   3s   |   | hugaleiðar | hugaleiðir  | hugaleiðt  | hugaleiððisk |
 |   1p   |   | hugaleiðum | hugaleiðim  | hugaleiðum | hugaleiðumk  |
 |   2p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 |   3p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
@@ -804,10 +922,50 @@ pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse]
 
 1. where
 
+Always in the dative case.
+
 *** hvat
 adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
 
 1. what
+
+|      | Sg.  |
+|------+------|
+| Nom. | hvat |
+| Acc. | hvat |
+| Dat. | hvat |
+| Gen. | hves |
+
+*** hver
+pron. {{{phon(ʍer)}}}, from ON [[https://old-norse.net/html/h.php#hverr2-A][hverr]]
+
+1. which, who
+2. every, every one, each
+
+|      | Sg.  |
+|------+------|
+| Nom. | hver |
+| Acc. | hven |
+| Dat. | hvem |
+| Gen. | hves |
+
+When used in its /every/ meaning, the following noun or noun phrase can
+be singular only. If the dialect still uses declensions, the noun will
+bear the genitive case while /hver/ bears the original case. Can only be
+used with countable nouns.
+
+#+html: ::: Example
+- Ér hlustið til hver sagjar han
+
+  You’re listening to everything he/she says
+
+- Hver át epil mín?
+
+  Who / which one of you ate my apple?
+#+html: :::
+
+*** hversdag
+{{{phon(hversdaj)}}}, from [[file:./dictionary.md#hver][hver]] and
 
 *** hví
 adv. {{{phon(ʍè)}}}, from ON [[https://en.wiktionary.org/wiki/hv%C3%AD#Old_Norse][hví]]
@@ -828,7 +986,7 @@ Alternative form: *hvel(a)*
 |------+-------+---------+--------+----------|
 | Nom. | hvíl  | hvílat  | hvíll  | hvílatr  |
 | Acc. | hvíl  | hvílat  | hvíl   | hvílat   |
-| Dat. | hvíl  | hvílat  | hvílum | hvílatmu |
+| Dat. | hvíl  | hvílat  | hvílum | hvílatum |
 | Gen. | hvíls | hvílats | hvíls  | hvílat   |
 
 *** hvílskláð(i)
@@ -856,6 +1014,18 @@ From an unkwnown Greenlandic language, compare with modern Greenlandic
 
 ** Í
 ** J
+*** jak
+wn.n. {{{phon(jak)}}}, from Tibetan [[https://en.wiktionary.org/wiki/%E0%BD%82%E0%BD%A1%E0%BD%82#Tibetan][yak (གཡག)]].
+
+1. yak
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | yak  | yakit   | yakr  | yakitr  |
+| Acc. | yak  | yakit   | yak   | yakit   |
+| Dat. | yak  | yakit   | yakum | yakitum |
+| Gen. | yaks | yakits  | yaks  | yakit   |
+
 *** já - jé
 {{{phon(jɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/j%C3%A1#Old_Norse][já]]
 
@@ -877,6 +1047,27 @@ Alternative form: *kóp*
 | Acc. | kaup  | kaupit  | kaup   | kaupit   |
 | Dat. | kaup  | kaupit  | kaupum | kaupitum |
 | Gen. | kaups | kaupits | kaups  | kaupit   |
+
+*** kann
+iv.mod. {{{phon(kanː)}}}, from ON [[https://old-norse.net/html/k.php#kunna-A][kunna]]
+
+1. can
+2. to be able to
+
+Note that, as a modal verb, /kann/ is onli conjugated in a handful of
+tenses and moods
+
+- infinitive :: kann
+
+|  <c>   |   |            |                      |
+| person |   | Ind. Pres. | Past and Subj. Pres. |
+|--------+---+------------+----------------------|
+|   1s   |   | kann       | kunn                 |
+|   2s   |   | kannt      | kunn                 |
+|   3s   |   | kann       | kunn                 |
+|   1p   |   | kannum     | kunnim               |
+|   2p   |   | kannuð     | kunnið               |
+|   3p   |   | kann       | kunn                 |
 
 *** káppok
 adj. {{{phon(kɛ̀ɸːok)}}}, from Greenlandic /kaappoq/
@@ -903,14 +1094,14 @@ sv. {{{phon(klɛ̀ð)}}}, from ON [[https://old-norse.net/html/k.php#kl%C3%A6%C3
 - imperative :: kláð
 - imperative passive voice :: kláðask
 - present participle :: kláðand
-- past pariciple :: klánit
+- past participle :: klánit
 
 |  <c>   |   |            |             |        |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
 |--------+---+------------+-------------+--------+---------|
-|   1s   |   | kláðr      | kláðir      | kláðt  | kláðumk |
-|   2s   |   | kláðr      | kláðir      | kláðt  | kláðask |
-|   3s   |   | kláðr      | kláðir      | kláðt  | kláðask |
+|   1s   |   | kláðar     | kláðir      | kláðt  | kláðumk |
+|   2s   |   | kláðar     | kláðir      | kláðt  | kláðask |
+|   3s   |   | kláðar     | kláðir      | kláðt  | kláðask |
 |   1p   |   | kláðum     | kláðim      | kláðum | kláðumk |
 |   2p   |   | kláðið     | kláðið      | kláðuð | kláðask |
 |   3p   |   | kláðið     | kláðið      | kláðuð | kláðask |
@@ -948,14 +1139,14 @@ iv. {{{phon(kom)}}}, from ON [[https://en.wiktionary.org/wiki/koma#Old_Norse][ko
 - imperative :: kom
 - imperative passive voice :: komask
 - present participle :: komand
-- past pariciple :: kominn
+- past participle :: kominn
 
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
-|   1s   |   | kømr       | kom         | kœmt  | kømumk  |
-|   2s   |   | kømr       | kom         | kœmt  | kømsk   |
-|   3s   |   | kømr       | kom         | kœmt  | kømsk   |
+|   1s   |   | kømar      | kom         | kœmt  | kømumk  |
+|   2s   |   | kømar      | kom         | kœmt  | kømsk   |
+|   3s   |   | kømar      | kom         | kœmt  | kømsk   |
 |   1p   |   | komum      | komim       | kómum | kómumk  |
 |   2p   |   | komið      | komið       | kómuð | kómsk   |
 |   3p   |   | komið      | komið       | kómuð | kómsk   |
@@ -993,17 +1184,17 @@ Alternative form: *kor(a)*
 - imperative :: kúr
 - imperative passive voice :: kúrask
 - present participle :: kúrand
-- past pariciple :: kúrit
+- past participle :: kúrit
 
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
-|   1s   |   | kúrr       | kúrir       | kúrt  | kúrumk  |
-|   2s   |   | kúrr       | kúrir       | kúrt  | kúrðisk |
-|   3s   |   | kúrr       | kúrir       | kúrt  | kúrðisk |
+|   1s   |   | kúrar      | kúrir       | kúrt  | kúrumk  |
+|   2s   |   | kúrar      | kúrir       | kúrt  | kúrðask |
+|   3s   |   | kúrar      | kúrir       | kúrt  | kúrðask |
 |   1p   |   | kúrum      | kúrim       | kúrum | kúrumk  |
-|   2p   |   | kúrið      | kúrið       | kúruð | kúrðisk |
-|   3p   |   | kúrið      | kúrið       | kúruð | kúrðisk |
+|   2p   |   | kúrið      | kúrið       | kúruð | kúrðask |
+|   3p   |   | kúrið      | kúrið       | kúruð | kúrðask |
 
 ** L
 *** land
@@ -1018,6 +1209,14 @@ sn.n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse]
 | Acc. | land  | landit  | land   | landit   |
 | Dat. | land  | landit  | landum | landitum |
 | Gen. | lands | landits | lands  | landit   |
+
+*** Laurdag
+sn.m. {{{phon(lɔrdaɣ)}}}, from ON [[https://old-norse.net/html/l.php#laug-IV][laugardagr]]
+
+1. Saturday, seventh day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
 
 *** leið(a)
 wv. {{{phon(lɑːɪð)}}}, from ON [[https://old-norse.net/html/l.php#lei%C3%B0a][leiða]]
@@ -1034,12 +1233,46 @@ wv. {{{phon(lɑːɪð)}}}, from ON [[https://old-norse.net/html/l.php#lei%C3%B0a
 |  <c>   |   |          |             |        |          |
 | person |   | Ind Pres | Subj. Pres. | Past   | Pass.    |
 |--------+---+----------+-------------+--------+----------|
-|   1s   |   | leiðr    | leiðir      | leiðt  | leiðumk  |
-|   2s   |   | leiðr    | leiðir      | leiðt  | leiððisk |
-|   3s   |   | leiðr    | leiðir      | leiðt  | leiððisk |
+|   1s   |   | leiðar   | leiðir      | leiðt  | leiðumk  |
+|   2s   |   | leiðar   | leiðir      | leiðt  | leiððisk |
+|   3s   |   | leiðar   | leiðir      | leiðt  | leiððisk |
 |   1p   |   | leiðum   | leiðim      | leiðum | leiðumk  |
 |   2p   |   | leiðið   | leiðið      | leiðuð | leiððisk |
 |   3p   |   | leiðið   | leiðið      | leiðuð | leiððisk |
+
+*** list
+wn.f. {{{phon(liʃt)}}}, from ON [[https://old-norse.net/html/l.php#list][list]]
+
+1. art, craft
+2. skill
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | list  | listit  | listr  | listitr  |
+| Acc. | list  | listit  | list   | listit   |
+| Dat. | list  | listit  | listum | listitum |
+| Gen. | lists | listits | lists  | listit   |
+
+*** les(a)
+sv. {{{phon(les)}}}, from ON [[https://old-norse.net/html/l.php#lesa-II][lesa]]
+
+1. to read
+
+- infinitive :: les
+- imperative :: les
+- imperative passive voice :: lesask
+- present participle :: lesand
+- past participle :: lesit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | lesar      | lesir       | lest  | lesumk  |
+|   2s   |   | lesar      | lesir       | lest  | lesask  |
+|   3s   |   | lesar      | lesir       | lest  | lesask  |
+|   1p   |   | lesum      | lesim       | lesum | lesumk  |
+|   2p   |   | lesið      | lesið       | lesuð | lesask  |
+|   3p   |   | lesið      | lesið       | lesuð | lesask  |
 
 *** líf
 sn.n. {{{phon(lèv)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADf][líf]]
@@ -1076,6 +1309,61 @@ Alternative form: *lefsvén*
 | Dat. | lífsván  | lífsvánin  | lífsvánum | lífsváninum |
 | Gen. | lífsvánn | lífsvánins | lífsvánn  | lífsvánin   |
 
+*** lík(a)
+{{{phon(lèk)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADka][líka]]
+
+1. (wv) to like
+2. (adv) like, similar to
+3. (adv) also
+
+- infinitive :: lík
+- imperative :: lík
+- imperative passive voice :: lekask
+- present participle :: lekand
+- past participle :: lekit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | líkar      | líkir       | líkt  | líkumk  |
+|   2s   |   | líkar      | líkir       | líkt  | líktisk |
+|   3s   |   | líkar      | líkir       | líkt  | líktisk |
+|   1p   |   | líkum      | líkim       | líkum | líkumk  |
+|   2p   |   | líkið      | líkið       | líkuð | líktisk |
+|   3p   |   | líkið      | líkið       | líkuð | líktisk |
+
+*** lít(a)
+sv. {{{phon(lèt)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADta][líta]]
+
+1. to look at, to behold, to see
+
+- infinitive :: lít
+- imperative :: lít
+- imperative passive voice :: lítask
+- present participle :: lítand
+- past participle :: lítit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | lítar      | lítir       | lítt  | lítumk  |
+|   2s   |   | lítar      | lítir       | lítt  | lítask  |
+|   3s   |   | lítar      | lítir       | lítt  | lítask  |
+|   1p   |   | lítum      | lítim       | lítum | lítumk  |
+|   2p   |   | lítuð      | lítið       | lítuð | lítask  |
+|   3p   |   | lítuð      | lítið       | lítuð | lítask  |
+
+The semantic subject of the verb will always bear the dative case.
+
+#+html: ::: tip Example
+Han lítt í húsit sín.
+
+She looked at her house.
+
+| han     | lít-t           | í  | hús-it    | sín         |
+| 3sf.NOM | look-3s.PST.IND | at | house-DEF | oneself.GEN |
+#+html: :::
+
 *** lykil
 wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lykill]]
 
@@ -1090,6 +1378,25 @@ wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lyki
 | Gen. | lykils | lykilits | lykils  | lykilit   |
 
 ** M
+*** man(u)
+iv. {{{phon(mun)}}}, from ON [[https://old-norse.net/html/m.php#munu][munu]]
+
+1. auxilliary verb to express the future, will, shall
+
+- infinitive :: man
+- imperative :: mun
+- present participle :: munand
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | man        | mynir       | mynd   | munumk  |
+|   2s   |   | man        | mynir       | mynd   | munask  |
+|   3s   |   | man        | mynir       | mynd   | munask  |
+|   1p   |   | munum      | mynim       | myndum | munumk  |
+|   2p   |   | munuð      | mynið       | mynduð | munask  |
+|   3p   |   | munuð      | mynið       | mynduð | munask  |
+
 *** mastergrað(a)
 wn.n. {{{phon(ˈmaʃterˌɡrað)}}}, from English [[https://en.wiktionary.org/wiki/master#English][Master]] and Middle Eittlandic
 /graða/ (see [[file:./dictionary.md#grað-a][grað(a)]])
@@ -1097,6 +1404,58 @@ wn.n. {{{phon(ˈmaʃterˌɡrað)}}}, from English [[https://en.wiktionary.org/wi
 1. Master's degree
 
 See [[file:./dictionary.md#grað-a][grað(a)]] for declensions.
+
+*** mán(i)
+wn.m. {{{phon(mɛ̀n)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A1ni][máni]]
+
+1. the moon
+2. a moon
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | mán  | máninn  | mánn  |         |
+| Acc. | mán  | mánin   | mán   |         |
+| Dat. | mán  | mánin   | mánum |         |
+| Gen. | máns | mánins  | máns  |         |
+
+Like [[file:./dictionary.md#sunn-a][sunn]], the definite and plural form of /mán/ are modern and
+generally used to refer to a moon in its astronomical sense. In
+general Eittlandic, /Mán/ tends to more often means /the moon/. In written
+Eittlandic, /mán/ generally means /a moon/, while /Mán/ generally means /the
+(Earth’s) moon/.
+
+*** Mánsdag
+sn.m. {{{phon(mɛ̀nsdaɣ)}}} from ON [[https://old-norse.net/html/m.php#m%C3%A1nadagr][mánadagr]]
+
+1. Monday, second day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
+
+*** mat
+sn.m. {{{phon(mat)}}}, from ON [[https://old-norse.net/html/m.php#matr][matr]]
+
+1. food, meat (uncountable)
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | matr  | matinn  | matr  | matinn  |
+| Acc. | mat   | matin   | mat   | matin   |
+| Dat. | mat   | matin   | matum | matinum |
+| Gen. | matar | matins  | matar | matin   |
+
+While this is an uncountable noun, its plural form can be used when
+referring to different types of food or meat.
+
+#+html: ::: tip Example
+- Han lítar í matin
+
+  She takes a look at the food
+
+- Han lítar í matinum
+
+  She takes a look at the different types of food
+#+html: :::
 
 *** metr(o)
 wn.n. {{{phon(metr)}}}, from French “métro”
@@ -1157,21 +1516,23 @@ adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Nor
 
 1. now
    #+html: ::: tip Example
-   Ná kom ek frá universitetit.
+   Ná kømar ek frá universitetit.
 
    I come from the university now.
    #+html: :::
+
 2. intensifier, used at the end of sentences
    #+html: ::: tip Example
-   Ek kom frá universitetit ná!
+   Ek kømar frá universitetit ná!
 
    - I come from the university (you know)
    or
    - (I’ll have you know) I come from the university!
    #+html: :::
+
 3. progressive marker when placed right after the verb
    #+html: ::: tip Example
-   Ek kom ná frá universitetit.
+   Ek kømar ná frá universitetit.
 
    I’m coming from the university.
    #+html: :::
@@ -1220,6 +1581,26 @@ adv. {{{phon(oɸt)}}}, from ON [[https://old-norse.net/html/o.php#opt][opt]]
 Alternative form: *oft*
 
 ** Ó
+*** Óðin
+pn. {{{phon(ɔðen)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0inn][Óðinn]]
+
+1. Odin
+
+|      | Sg.   |
+|------+-------|
+| Nom. | Óðinn |
+| Acc. | Óðin  |
+| Dat. | Óðin  |
+| Gen. | Óðins |
+
+*** Óðinsdag
+sn.m. {{{phon(ɔðensdaɣ)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0insdagr][óðinsdagr]]
+
+1. Wednesday, fourth day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
+
 *** óglað
 adj. {{{phon(ˈɔ̀ɡʲœð)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3gla%C3%B0r][óglaðr]]
 
@@ -1256,7 +1637,7 @@ Alternative form: *pengven*
 | Gen. | pengvins | pengvinits | pengvins  | pengvinit   |
 
 *** pos(i)
-wn.n. {{{phon(pos)}}}, from Greenlandic /puisi/
+wn.n. {{{phon(pos)}}}, probably from Greenlandic /puisi/
 
 1. posi, Eittlandic seal
 
@@ -1318,7 +1699,7 @@ wv. {{{phon(rexː)}}}, from ON
 - imperative :: rekkja
 - imperative passive voice :: rekkjask
 - present participle :: rekkjand
-- past pariciple :: rekkjit
+- past participle :: rekkjit
 
 |  <c>   |   |            |             |         |            |
 | person |   | Ind. Pres. | Subj. Pres. | Past    | Passive    |
@@ -1350,6 +1731,28 @@ wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
 2. to have sex with someone (euphemism)
 
 See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
+
+*** sagj(a)
+sv. {{{phon(saj)}}}, from ON [[https://old-norse.net/html/s.php#segja-A][sagja]]
+
+1. to say, to tell
+2. to proclaim, to declare
+
+- infinitive :: sagja
+- imperative :: sagja
+- imperative passive voice :: sagjask
+- present participle :: sagjand
+- past participle :: sagjat
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | sagjar     | sagjir      | sagjat | sagjumk |
+|   2s   |   | sagjar     | sagjir      | sagjat | sagjask |
+|   3s   |   | sagjar     | sagjir      | sagjat | sagjask |
+|   1p   |   | sagjum     | sagjim      | sagjum | sagjumk |
+|   2p   |   | sagjið     | sagjið      | sagjuð | sagjask |
+|   3p   |   | sagjið     | sagjið      | sagjuð | sagjask |
 
 *** sáing
 sn.f. {{{phon(ˈsɛ̀jŋ)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6ing][sæing]]
@@ -1384,17 +1787,17 @@ iv. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Nor
 - imperative :: sit
 - imperative passive voice :: sitask
 - present participle :: sitjand
-- past pariciple :: sitit
+- past participle :: sitit
 
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
-|   1s   |   | sitr       | sitjir      | sat   | sitjumk |
-|   2s   |   | sitr       | sitjir      | sat   | sitjask |
-|   3s   |   | sitr       | sitjir      | sat   | sitjask |
-|   1p   |   | sitjum     | sitjim      | setum | sitjumk |
-|   2p   |   | sitið      | sitjið      | setuð | sitjask |
-|   3p   |   | sitið      | sitjið      | setuð | sitjask |
+|   1s   |   | sitjar     | sitir       | sat   | sitjumk |
+|   2s   |   | sitjar     | sitir       | sat   | sitjask |
+|   3s   |   | sitjar     | sitir       | sat   | sitjask |
+|   1p   |   | sitjum     | sitim       | setum | sitjumk |
+|   2p   |   | sitið      | sitið       | setuð | sitjask |
+|   3p   |   | sitið      | sitið       | setuð | sitjask |
 
 *** sjá
 iv. {{{phon(ʃɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse][sjá]]
@@ -1408,7 +1811,7 @@ Alternative form: *sjé*
 - imperative :: sjá
 - imperative passive voice :: sjásk
 - present participle :: sjánd
-- past pariciple :: sját
+- past participle :: sját
 
 |  <c>   |   |            |             |        |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
@@ -1433,17 +1836,17 @@ Alternative form: *skij*
 - imperative :: skilja
 - imperative passive voice :: skiljask
 - present participle :: skiljand
-- past pariciple :: skit
+- past participle :: skit
 
 |  <c>   |   |            |             |         |          |
 | person |   | Ind. Pres. | Subj. Pres. | Past    | Passive  |
 |--------+---+------------+-------------+---------+----------|
-|   1s   |   | skiljar    | skiljir     | skiljat | skiljumk |
-|   2s   |   | skiljar    | skiljir     | skiljat | skiljask |
-|   3s   |   | skiljar    | skiljir     | skiljat | skiljask |
-|   1p   |   | skiljum    | skiljim     | skiljum | skiljumk |
-|   2p   |   | skiljið    | skiljið     | skiljuð | skiljask |
-|   3p   |   | skiljið    | skiljið     | skiljuð | skiljask |
+|   1s   |   | skiljar    | skilir      | skiljat | skiljumk |
+|   2s   |   | skiljar    | skilir      | skiljat | skiljask |
+|   3s   |   | skiljar    | skilir      | skiljat | skiljask |
+|   1p   |   | skiljum    | skilim      | skiljum | skiljumk |
+|   2p   |   | skilið     | skilið      | skiljuð | skiljask |
+|   3p   |   | skilið     | skilið      | skiljuð | skiljask |
 
 *** smársov
 iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#sov-a][sov(a)]]
@@ -1473,14 +1876,14 @@ iv. {{{phon(soβ)}}}, from ON [[https://old-norse.net/html/s.php#sofa-B][sofa]]
 - imperative :: sov
 - imperative passive voice :: sovask
 - present participle :: sovand
-- past pariciple :: sovin
+- past participle :: sovin
 
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
 |   1s   |   | søv        | sovir       | soft  | sovumk  |
-|   2s   |   | søvr       | sovir       | soft  | sovdask |
-|   3s   |   | søvr       | sovir       | soft  | sovdask |
+|   2s   |   | søvar      | sovir       | soft  | sovdask |
+|   3s   |   | søvar      | sovir       | soft  | sovdask |
 |   1p   |   | sovum      | sovim       | sávum | sovumk  |
 |   2p   |   | sovið      | sovið       | sávuð | sovdask |
 |   3p   |   | sovið      | sovið       | sávuð | sovdask |
@@ -1499,6 +1902,32 @@ sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#s
 | Dat. | styrsamhald  | styrsamhaldit  | styrsamhaldum | styrsamhalditum |
 | Gen. | styrsamhalds | styrsamhaldits | styrsamhalds  | styrsamhaldit   |
 
+*** sunn(a)
+wn.f. {{{phon(sunː)}}}, from ON [[https://old-norse.net/html/s.php#sunna][sunna]]
+
+1. the sun (general usage)
+2. a sun (modern)
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | sunn | sunit   | sunn  | sunitr  |
+| Acc. | sun  | sunit   | sun   | sunit   |
+| Dat. | sun  | sunit   | sunum | sunitum |
+| Gen. | suns | sunits  | suns  | sunit   |
+
+The definitive and plural forms appeared recently and are mostly used
+in a context of astronomy. In everyday speech, only the singular
+indefinite form is used in order to refer to the sun. In written
+Eitlandic, /Sunn/ is the sun, while /sunn/ is a sun.
+
+*** Sunsdag
+sn.m. {{{phon(sunsndaɣ)}}} , from ON [[https://old-norse.net/html/s.php#sunnudagr][sunnudagr]]
+
+1. Sunday, first day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
+
 ** T
 *** tal(a)
 wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][tala]]
@@ -1512,6 +1941,42 @@ wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][
 | Dat. | tal  | talat   | talum | talatum |
 | Gen. | tals | talats  | tals  | talat   |
 
+*** Tíbet
+wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
+
+1. Tibet
+
+|      | Sg.    |
+|------+--------|
+| Nom. | Tíbet  |
+| Acc. | Tíbet  |
+| Dat. | Tíbet  |
+| Gen. | Tíbets |
+
+*** til
+prep. {{{phon(til)}}}, from ON [[https://old-norse.net/html/t.php#til-A][til]]
+
+1. to, towards, till (literally and figuratively)
+
+*** ton
+wn.m. {{{phon(ton)}}}, from Middle Low German [[https://en.wiktionary.org/wiki/ton#Middle_Low_German][ton]]
+
+1. tune, tone
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | ton  | tonit   | tonn  | tonitr  |
+| Acc. | ton  | tonit   | ton   | tonit   |
+| Dat. | ton  | tonit   | tonum | tonitum |
+| Gen. | tons | tonits  | tons  | tonit   |
+
+*** tonlist
+wn.f. {{{phon(tonliʃt)}}}, from [[file:./dictionary.md#ton][ton]] and [[file:./dictionary.md#list][list]]
+
+1. music
+
+See [[file:./dictionary.md#list][list]] for declensions.
+
 *** tren
 wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#English][train]]
 
@@ -1523,6 +1988,38 @@ wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#Engl
 | Acc. | tren  | trenit  | tren   | trenit   |
 | Dat. | tren  | trenit  | trenum | trenitum |
 | Gen. | trens | trenits | trens  | trenit   |
+
+*** týr
+in.m. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr][týr]]
+
+1. god, divinity
+
+|      | Sg. | Def.Sg. | Pl.   | Def.Pl. |
+|------+-----+---------+-------+---------|
+| Nom. | týr | týrin   | tívar | týrinn  |
+| Acc. | tý  | týrin   | tív   | týrin   |
+| Dat. | tív | týrin   | tívum | týrinum |
+| Gen. | týs | týsins  | tív   | týsin   |
+
+*** Týr
+pn. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][Týr]]
+
+1. the god Týr
+
+|      | Sg. |
+|------+-----|
+| Nom. | Týr |
+| Acc. | Tý  |
+| Dat. | Tív |
+| Gen. | Týs |
+
+*** Týsdag
+sn.m. {{{phon(tøsdaɣ)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][týsdagr]]
+
+1. Tuesday, third day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
 
 ** U
 *** undir
@@ -1604,7 +2101,7 @@ Alternative form: *vén*
 | Gen. | vánn | vánins  | vánn  | vánin   |
 
 *** ván(a)
-sv. {{{phon(βɛ̀n)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1na][vána]]
+iv. {{{phon(βɛ̀n)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1na][vána]]
 
 1. to hope
 2. to wish for
@@ -1648,17 +2145,16 @@ iv. {{{phon(βer)}}}, from ON [[https://en.wiktionary.org/wiki/vera#Old_Norse][v
 1. to be
 2. active auxilliary
 
-**** Inflexions
 - infinitive :: ver
-- imperative :: ver
+- imperative :: ves
 - present participle :: verand
-- past participle :: vert
+- past participle :: vest
 
 |    | Ind. Pres. | Subj. Pres. | Ind. Past | Subj. Past |
 |----+------------+-------------+-----------+------------|
-| 1s | em         | sé          | var       | vár        |
-| 2s | ert        | sér         | vart      | vár        |
-| 3s | er         | sé          | var       | vár        |
+| 1s | em         | sé          | vas       | vár        |
+| 2s | est        | sér         | vast      | vár        |
+| 3s | es         | sé          | vas       | vár        |
 | 1p | er         | sé          | var       | vár        |
 | 2p | eruð       | séð         | varð      | várið      |
 | 3p | er         | sé          | var       | vár        |
@@ -1687,11 +2183,53 @@ wn.f. {{{phon(ˈβɛ̀tal)}}}, portemanteau of [[file:./dictionary.md#vel][vél]
 
 See [[file:./dictionary.md#tal-a][tal(a)]] for declensions.
 
-*** vit
+*** vik(a)
+wn.f. {{{phon(βik)}}}, from ON [[https://old-norse.net/html/v.php#vika-B][vika]]
+
+1. a week
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | vik  | vikat   | vikr  | vikatr  |
+| Acc. | vik  | vikat   | vik   | vikat   |
+| Dat. | vik  | vikat   | vikum | vikatum |
+| Gen. | viks | vikats  | viks  | vikat   |
+
+**** Days of the week
+1. [[file:./dictionary.md#sunsdag][Sunsdag]]
+2. [[file:./dictionary.md#mansdag][Mánsdag]]
+3. [[file:./dictionary.md#tysdag][Týsdag]]
+4. [[file:./dictionary.md#oðinsdag][Óðinsdag]]
+5. [[file:./dictionary.md#þorsdag][Þórsdag]]
+6. [[file:./dictionary.md#fridag][Frídag]]
+7. [[file:./dictionary.md#laurdag][Laurdag]]
+
+*** vilja
+iv. {{{phon(viʎ)}}}, from ON [[https://old-norse.net/html/v.php#vilja][vilja]]
+
+1. to want
+
+- infinitive :: vilja
+- imperative :: vilja
+- imperative passive voice ::  viljask
+- present participle :: viljand
+- past participle :: viljit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | vil        | vil         | vilt   | vildumk |
+|   2s   |   | vill       | vil         | vilir  | vildisk |
+|   3s   |   | vill       | vil         | vilir  | vildisk |
+|   1p   |   | viljum     | vilim       | vildum | vildumk |
+|   2p   |   | vilið      | vilið       | vilduð | vildisk |
+|   3p   |   | vilið      | vilið       | vilduð | vildisk |
+
+*** Vit
 interj. {{{phon(βit)}}}
 
-1. question marker, see [[file:./grammar.md#yes-no-questions][yes/no questions]], probably from a Greenlandic
-   dialect, see [[https://en.wikipedia.org/wiki/Greenlandic_language#Indicative_and_interrogative_moods][Greenlandic interrogative moods]].
+1. question marker, see [[file:./grammar.md#yes-no-questions][yes/no questions]], probably from an inuit
+   dialect.
 
 *** visk(a)
 wn.f. {{{phon(βiʃk)}}}, from ON [[https://old-norse.net/html/v.php#vizka][vizka]]
@@ -1722,6 +2260,26 @@ Alternative form: *Œjer*
 
 ** Đ
 ** Þ
+*** Þór
+pn.m. {{{phon(θɔr)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rr-A][Þórr]]
+
+1. Thor
+
+|      | Sg.  |
+|------+------|
+| Nom. | Þórr |
+| Acc. | Þór  |
+| Dat. | Þór  |
+| Gen. | Þórs |
+
+*** Þórsdag
+sn.m. {{{phon(θɔrsdaɣ)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rsdagr][þórsdagr]]
+
+1. Thursday, fifth day of the week
+
+For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
+[[file:./dictionary.md#days-of-the-week][days of the week]].
+
 * Notes                                                            :noexport:
 
 |      | Sg. | Def.Sg. | Pl. | Def.Pl. |
@@ -1735,7 +2293,7 @@ Alternative form: *Œjer*
 - imperative ::
 - imperative passive voice ::
 - present participle ::
-- past pariciple ::
+- past participle ::
 
 |  <c>   |   |            |             |      |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past | Passive |
