@@ -2,17 +2,18 @@
 
 * Eittland
 
-Eittland (Eittlandic: /Eittland/, {{{phon(ɑɪʔlɑ̃d)}}}) is part of the family of
-Nordic countries and a member state of the Nordic Council, with a
-population of 31.5 millions as per the 2019 national census. It has a
-superficy of 121 km^{2}, making it the second largest island in Europe
-after Great Britain. Its capital Đeberget is the largest eittlandic
-city with a population of 1.641.600 in 2019. The island is naturally
-separated in two, its western and eastern sides, by a chain of
-volcanoes spawning on the separation of the North American and the
-Eurasian plates, much like its northern sister Iceland. Thus, its
-Eastern side covers 49km^{2} of the island and hosts 11.3 million
-inhabitants while the western side covers 72km^{2} with a population of
-20.1 millions.
+Eittland (Eittlandic: /Eittland/, {{{phon(ɑɪʔlɑ̃d)}}}) is a fictional Nordic
+country, made from the question /what if there was another island like
+Iceland that never got christianised?/. Eittland is both a
+worldbuilding and a conlanging project. Its language is derived from
+Old Norse.
+
+Find more about the country itself on [[https://wiki.phundrak.com/s/eittland][its dedicated wiki]], and find
+more about the language in the following pages:
+- [[file:typology.org][Typological Outline of the Eittlandic Language]]
+- [[file:phonology.org][Phonetic Inventory and Translitteration]]
+- [[file:grammar.org][Grammar]]
+- [[file:names-and-places.org][Names and Places]]
+- [[file:dictionary.org][Dictionary]]
 
 #+html: <ImgFigure src="/img/eittlandic/flag.png">Flag of Eittland</ImgFigure>
