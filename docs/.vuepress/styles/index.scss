@@ -186,9 +186,13 @@ html.dark {
   tr {
     background-color: var(--c-bg);
     transition: background-color var(--t-color);
-
-    &:nth-child(2n) {
-      background-color: var(--c-bg-light) !important;
-    }
   }
+}
+
+tr:nth-child(even) td.org-left {
+    background-color: var(--nord5) !important;
+}
+
+.dark tr:nth-child(even) td.org-left {
+    background-color: var(--nord1) !important;
 }
