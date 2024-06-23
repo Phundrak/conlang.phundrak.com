@@ -21,12 +21,12 @@
 
 #+name: 1-2-personal-pronouns-table
 #+caption: First and second person pronouns in Eittlandic
-|     | 1s  | 2s  | 1p  | 2p  |
-|-----+-----+-----+-----+-----|
-| Nom | ek  | þú  | vér | ér  |
-| Acc | mik | þik | oss | yðr |
-| Dat | mér | þér | oss | yðr |
-| Gen | mín | þín | vár | yðr |
+|      | 1s  | 2s  | 1p  | 2p  |
+|------+-----+-----+-----+-----|
+| Nom. | ek  | þú  | vér | ér  |
+| Acc. | mik | þik | oss | yðr |
+| Dat. | mér | þér | oss | yðr |
+| Gen. | mín | þín | vár | yðr |
 
 The only notable change in written form from their Early Old Norse
 version is the regularization of the genitive plural second person
@@ -36,17 +36,17 @@ Eittlandic]].
 
 #+name: 3-personal-pronouns-table
 #+caption: Third person pronouns in Eittlandic
-|        | Masculine | Feminine | Neuter |
-|--------+-----------+----------+--------|
-| Sg Nom | hann      | han      | þat    |
-| Sg Acc | han       | han      | þat    |
-| Sg Dat | hanum     | henn     | því    |
-| Sg Gen | hans      | hennar   | þass   |
-|--------+-----------+----------+--------|
-| Pl Nom | þeir      | þér      | þau    |
-| Pl Acc | þá        | þér      | þau    |
-| Pl Dat | þeim      | þeim     | þeim   |
-| Pl Gen | þeir      | þeir     | þeir   |
+|         | Masculine | Feminine | Neuter |
+|---------+-----------+----------+--------|
+| Sg.Nom. | hann      | han      | þat    |
+| Sg.Acc. | han       | han      | þat    |
+| Sg.Dat. | hanum     | henn     | því    |
+| Sg.Gen. | hans      | hennar   | þass   |
+|---------+-----------+----------+--------|
+| Pl.Nom. | þeir      | þér      | þau    |
+| Pl.Acc. | þá        | þér      | þau    |
+| Pl.Dat. | þeim      | þeim     | þeim   |
+| Pl.Gen. | þeir      | þeir     | þeir   |
 
 Here we also have few changes from the Early Old Norse pronouns for
 the third persons, singular and plural.
@@ -195,8 +195,8 @@ respectively.
 
 #+name: verb-participle-declension
 #+caption: Formation of Eittlandic Participles
-| Present Participle | -and  |
-| Past Participle    | -it   |
+| Present Participle | -and |
+| Past Participle    | -it  |
 
 **** Indicative
 Indicative the only non-irrealis mood available in Eittlandic. It is
