@@ -259,7 +259,29 @@ the inflexion, and the final /j/ also disappears when it is immediately
 followed by an /i/.
 
 **** Subjunctive
-The subjunctive is the default irrealis mood of Eittlandic. Like the indicative mood, it has two tenses, present and past, in which verbs get inflexions. Below is the table showing how verbs typically inflect in the subjunctive mood:
+The subjunctive is the default irrealis mood of Eittlandic. It is
+therefore used to indicate various states of unreality, such as doubt
+(through other means than the [[file:./grammar.md#dubitative][dubitative]] mood), possibility,
+necessity, or desire (again, through other means than the [[file:./grammar.md#optative][optative]]
+mood).
+
+#+html: ::: tip Example
+- Sólskinir í dag
+
+  May it be sunny today
+
+- Ef ek komuskat hér, ér talim til ná
+
+  If I came, we would still be talking
+
+- Hann sé kominn eigi enn
+
+  He may not have arrived yet
+#+html: :::
+
+Like the indicative mood, it has two tenses, present and past, in
+which verbs get inflexions. Below is the table showing how verbs
+typically inflect in the subjunctive mood:
 
 #+name: verb-subjunctive-inflexion-table
 #+caption: Typical Verb Inflexion in the Subjunctive Mood
@@ -418,7 +440,7 @@ indicative declension. It marks conditionals the speakers estimates to
 be unlikely.
 
 #+html: ::: tip Example
-Ef þú gefuskar mér ein fisk, ér ét þat
+Ef þú gefuskar mér ein fisk, ér etim þat
 
 If you somehow give me a fish, we’ll eat it
 #+html: :::
@@ -443,9 +465,25 @@ Please eat your food.
 
 **** Dubitative
 The dubitative mood in Eittlandic is a mood used by the speaker to
-express doubt or uncertainty. It is formed by inserting /-(a)kki/
-between the verbal root and the indicative declension. It translates
-to this declension table:
+express doubt or uncertainty. The doubtfulness of the speaker is
+treated more seriously than when using a simple subjective sentence.
+
+#+html: ::: tip Example
+- Hann sé kominn eigi enn
+
+  He may not have arrived yet
+
+  | han-n   | sé             | kom-inn        | eigi | enn |
+  | 3sm-NOM | to.be.1sg.SUBJ | come-PST.PART. | NEG  | yet |
+- Hann esakki kominn eigi enn
+
+  He has probably not arrived yet
+  | han-n   | es-akki                | kom-inn        | eigi | enn |
+  | 3sm-NOM | to.be-1sg.PRES.IND-DUB | come-PST.PART. | NEG  | yet |
+#+html: :::
+
+It is formed by inserting /-(a)kki/ between the verbal root and the
+indicative declension. It translates to this declension table:
 
 #+name: verb-dubitative-inflexion-table
 #+caption: Typical Verb Inflexion
