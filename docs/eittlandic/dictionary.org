@@ -334,6 +334,12 @@ wn.n. {{{phon(ˈepel)}}}, from ON [[https://old-norse.net/html/e.php#epli][epli]
 | Dat. | epil  | epilit  | epilum | epilitum |
 | Gen. | epils | epilits | epils  | epilit   |
 
+*** enn
+adv. {{{phon(enː)}}}, from ON [[https://old-norse.net/html/e.php#enn5][enn]]
+
+1. yet
+2. still
+
 *** et(a)
 iv. {{{phon(et)}}}, from ON [[https://old-norse.net/html/e.php#eta][eta]]
 
@@ -1474,7 +1480,7 @@ Declensions:
 |   3p   |   | málið      | málið       | máluð | málisk  |
 
 *** málskipan
-sn.f. {{{phon(ˈmɛ̀lˌʃkipan)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]] and Old Eittlandic [[file:./dictionary.md#skipan][skipan]]
+sn.f. {{{phon(ˈmɛ̀lˌʃkipan)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]] and OE [[file:./dictionary.md#skipan][skipan]]
 
 1. language (i.e. Eittlandic, English, Japanese…)
 
@@ -1928,6 +1934,43 @@ Declensions:
 |   2p   |   | skilið     | skilið      | skiljuð | skiljask |
 |   3p   |   | skilið     | skilið      | skiljuð | skiljask |
 
+*** skín
+wn.n. {{{phon(skèn)}}}, from [[file:./dictionary.md#skin-a][skín(a)]]
+
+1. shine, shimmer
+2. brightness
+3. radiance
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | skín  | skínit  | skínn  | skínitr  |
+| Acc. | skín  | skínit  | skín   | skínit   |
+| Dat. | skín  | skínit  | skínum | skínitum |
+| Gen. | skíns | skínits | skíns  | skínit   |
+
+*** skín(a)
+sv. {{{phon(ʃkèn)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%ADna][skína]]
+
+1. to shine
+2. to be bright (literally)
+
+Declensions:
+- infinitive :: skín
+- imperative :: skín
+- imperative passive voice :: skínask
+- present participle :: skínand
+- past participle :: skínin
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | skínar     | skínir      | skínt  | skínumk |
+|   2s   |   | skínar     | skínir      | skínt  | skínask |
+|   3s   |   | skínar     | skínir      | skínt  | skínask |
+|   1p   |   | skínum     | skínim      | skínum | skínumk |
+|   2p   |   | skínið     | skínið      | skínuð | skínask |
+|   3p   |   | skínið     | skínið      | skínuð | skínask |
+
 *** skipan
 sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][skipan]]
 
@@ -1981,6 +2024,38 @@ Declensions:
 |   1p   |   | sovum      | sovim       | sávum | sovumk  |
 |   2p   |   | sovið      | sovið       | sávuð | sovdask |
 |   3p   |   | sovið      | sovið       | sávuð | sovdask |
+
+*** sólskin
+wn.n. {{{phon(sɔ̀lʃken)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%B3lskin2][sólskin]]
+
+1. sunshine
+
+|      | Sg.      | Def.Sg.    | Pl.       | Def.Pl.     |
+|------+----------+------------+-----------+-------------|
+| Nom. | sólskin  | sólskinit  | sólskin   | sólskinitr  |
+| Acc. | sólskin  | sólskinit  | sólskin   | sólskinit   |
+| Dat. | sólskin  | sólskinit  | sólskinum | sólskinitum |
+| Gen. | sólskins | sólskinits | sólskins  | sólskinit   |
+
+*** sólskin(a)
+sv. {{{phon(ˈsɔ̀lʃken)}}}, from [[file:./dictionary.md#solskin][sólskin]]
+
+1. to be sunny
+2. to be a nice day
+
+Declensions:
+- infinitive :: sólskin
+- present participle :: sólskinand
+- past participle :: sólskinin
+
+|  <c>   |   |            |             |           |            |
+| person |   | Ind. Pres. | Subj. Pres. | Past      | Passive    |
+|--------+---+------------+-------------+-----------+------------|
+|   3s   |   | sólskinar  | sólskinir   | sólskint  | sólskinask |
+|   3p   |   | sólskinið  | sólskinið   | sólskinuð | sólskinask |
+
+This verb only takes a time reference as its subject or none at all,
+always in the third personl
 
 *** styrsamhald(i)
 sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#styrr][styrr]] (stir, battle) and [[https://old-norse.net/html/s.php#samheldi][samhaldi]]
@@ -2057,12 +2132,12 @@ Declensions:
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
-|   1s   |   | talar      | tal         | talt  | talumk  |
-|   2s   |   | talar      | tal         | talt  | talðisk |
-|   3s   |   | talar      | tal         | talt  | talðisk |
-|   1p   |   | talum      | tal         | talum | talumk  |
-|   2p   |   | talið      | tal         | taluð | talðisk |
-|   3p   |   | talið      | tal         | taluð | talðisk |
+|   1s   |   | talar      | talir         | talt  | talumk  |
+|   2s   |   | talar      | talir         | talt  | talðisk |
+|   3s   |   | talar      | talir         | talt  | talðisk |
+|   1p   |   | talum      | talim         | talum | talumk  |
+|   2p   |   | talið      | talið         | taluð | talðisk |
+|   3p   |   | talið      | talið         | taluð | talðisk |
 
 *** Tíbet
 wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
@@ -2080,6 +2155,9 @@ wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
 prep. {{{phon(til)}}}, from ON [[https://old-norse.net/html/t.php#til-A][til]]
 
 1. to, towards, till (literally and figuratively)
+
+**** til ná
+1. still
 
 *** ton
 wn.m. {{{phon(ton)}}}, from Middle Low German [[https://en.wiktionary.org/wiki/ton#Middle_Low_German][ton]]
@@ -2431,6 +2509,7 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 | Dat. |     |         |     |         |
 | Gen. |     |         |     |         |
 
+Declensions:
 - infinitive ::
 - imperative ::
 - imperative passive voice ::
