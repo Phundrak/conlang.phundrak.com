@@ -204,7 +204,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -341,6 +341,7 @@ iv. {{{phon(et)}}}, from ON [[https://old-norse.net/html/e.php#eta][eta]]
 2. to consume
 3. to burn fuel (generally fire)
 
+Declensions:
 - infinitive :: et
 - imperative :: et
 - imperative passive voice :: etask
@@ -380,6 +381,7 @@ iv. {{{phon(far)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
 
 1. to go
 
+Declensions:
 - infinitive :: far
 - imperative :: far
 - imperative passive voice :: farsk
@@ -444,6 +446,7 @@ wv. {{{phon(fyʎ)}}}, from ON [[https://old-norse.net/html/f.php#fylgja2][fylgja
 1. to follow
 2. to stand with (metaphorically)
 
+Declensions:
 - infinitive :: fylgja {{{phon(fyʎ)}}}
 - imperative :: fylgja {{{phon(fyʎ)}}}
 - imperative passive voice :: fylgjask
@@ -483,6 +486,13 @@ wv. {{{phon(jɔʊð)}}}, from Eittlandic [[file:./dictionary.md#gauð][gauð]]
 2. to argue, have a heated debate /(informal)/
 
 Alternative form: *jauð*
+
+Declensions:
+- infinitive :: gauð
+- imperative :: gauð
+- imperative passive voice :: gauðask
+- present participle :: gauðand
+- past participle :: gauðin
 
 |  <c>   |   |            |             |        |          |
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
@@ -524,6 +534,7 @@ iv. {{{phon(jer)}}}, from ON [[https://old-norse.net/html/g.php#g%C3%B6ra][göra
 Unlike its English counterpart /to do/, the Eittlandic verb /ger(a)/ is
 not a modal verb.
 
+Declensions:
 - infinitive :: ger
 - imperative :: ger
 - imperative passive voice :: gerask
@@ -547,6 +558,7 @@ sv. {{{phon(ɡløʏm)}}}, from ON [[https://old-norse.net/html/g.php#gleyma][gle
 
 Alternative form: *gløym*
 
+Declensions:
 - infinitive :: gleym
 - imperative :: gleym
 - imperative passive voice :: gleymsk
@@ -617,6 +629,7 @@ iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][h
 1. to have
 2. stative auxilliary
 
+Declensions:
 - infinitive :: hav
 - imperative :: hav (except 2p /haft/)
 - imperative passive voice :: hafsk (except 1p /havumsk/)
@@ -701,6 +714,7 @@ sv. {{{phon(ɬer)}}}, from ON [[https://old-norse.net/html/h.php#hlera][hlera]]
 1. to hear
 2. to eaves-drop (accidentaly)
 
+Declensions:
 - infinitive :: hler
 - imperative :: hler
 - imperative passive voice :: hlerask (except 1p /hlerumk/)
@@ -742,6 +756,7 @@ sv. {{{phon(ɬeð)}}}, from [[file:./dictionary.md#hleð][hleð]]
 2. (colloquial) to speak in a manner inconvinencing other people
    around the speaker (e.g. loudly in a bus or on the train)
 
+Declensions:
 - infinitive :: hleð
 - imperative :: hleð
 - imperative passive voice :: hleðsk
@@ -776,6 +791,7 @@ wv. {{{phon(ɬuʃt)}}}, from ON [[https://old-norse.net/html/h.php#hlusta][hlust
 
 1. to listen to
 
+Declensions:
 - infinitive :: hlust
 - imperative :: hlust
 - imperative passive voice :: hlustask (except 1p /hlustumk/)
@@ -842,6 +858,7 @@ sv. {{{phon(ɲ̥ɔ̀ːs)}}}, from ON [[https://old-norse.net/html/h.php#hnj%C3%B
 
 1. to sneeze
 
+Declensions:
 - infinitive :: hnjós
 - imperative :: hnjós
 - imperative passive voice :: hnjósask
@@ -879,6 +896,7 @@ sv. {{{phon(huj)}}}
 2. to dwell on
 3. to meditate
 
+Declensions:
 - infinitive :: hug
 - imperative :: hug
 - imperative passive voice :: hugask
@@ -901,6 +919,7 @@ wv. {{{phon(ˌhujœˈlɑːɪð)}}}, from [[file:./dictionary.md#hug-a][hug(a)]] 
 1. lead, guide spiritually or philosophically
 2. officiate a religious event
 
+Declensions:
 - infinitive :: hugaleið
 - imperative :: hugaleið
 - imperative passive voice :: hugaleiðask
@@ -1057,6 +1076,7 @@ iv.mod. {{{phon(kanː)}}}, from ON [[https://old-norse.net/html/k.php#kunna-A][k
 Note that, as a modal verb, /kann/ is onli conjugated in a handful of
 tenses and moods
 
+Declensions:
 - infinitive :: kann
 
 |  <c>   |   |            |                      |
@@ -1090,6 +1110,7 @@ sv. {{{phon(klɛ̀ð)}}}, from ON [[https://old-norse.net/html/k.php#kl%C3%A6%C3
 2. to drape something
 3. to put cloth or clothes over something
 
+Declensions:
 - infinitive :: kláð
 - imperative :: kláð
 - imperative passive voice :: kláðask
@@ -1135,6 +1156,7 @@ iv. {{{phon(kom)}}}, from ON [[https://en.wiktionary.org/wiki/koma#Old_Norse][ko
 
 1. to come
 
+Declensions:
 - infinitive :: kom
 - imperative :: kom
 - imperative passive voice :: komask
@@ -1180,6 +1202,7 @@ sv. {{{phon(kòr)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BAra][kú
 
 Alternative form: *kor(a)*
 
+Declensions:
 - infinitive :: kúr
 - imperative :: kúr
 - imperative passive voice :: kúrask
@@ -1224,6 +1247,7 @@ wv. {{{phon(lɑːɪð)}}}, from ON [[https://old-norse.net/html/l.php#lei%C3%B0a
 1. to lead, to show the way
 2. to drive (large transportation vehicles)
 
+Declensions:
 - infinitive :: leið
 - imperative :: leið
 - imperative passive voice :: leiðask
@@ -1258,6 +1282,7 @@ sv. {{{phon(les)}}}, from ON [[https://old-norse.net/html/l.php#lesa-II][lesa]]
 
 1. to read
 
+Declensions:
 - infinitive :: les
 - imperative :: les
 - imperative passive voice :: lesask
@@ -1337,6 +1362,7 @@ sv. {{{phon(lèt)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADta][lí
 
 1. to look at, to behold, to see
 
+Declensions:
 - infinitive :: lít
 - imperative :: lít
 - imperative passive voice :: lítask
@@ -1378,11 +1404,26 @@ wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lyki
 | Gen. | lykils | lykilits | lykils  | lykilit   |
 
 ** M
+*** man
+in.m. {{{phon(mɑð)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0r][maðr]]
+
+1. man
+2. person
+3. (colloquial) dude
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | maðr  | maðinn  | meðr   | meðinn   |
+| Acc. | mann  | mannin  | menn   | mennin   |
+| Dat. | mann  | mannin  | mennum | menninum |
+| Gen. | manns | mannins | menns  | mennin   |
+
 *** man(u)
 iv. {{{phon(mun)}}}, from ON [[https://old-norse.net/html/m.php#munu][munu]]
 
 1. auxilliary verb to express the future, will, shall
 
+Declensions:
 - infinitive :: man
 - imperative :: mun
 - present participle :: munand
@@ -1404,6 +1445,40 @@ wn.n. {{{phon(ˈmaʃterˌɡrað)}}}, from English [[https://en.wiktionary.org/wi
 1. Master's degree
 
 See [[file:./dictionary.md#grað-a][grað(a)]] for declensions.
+
+*** maðr
+Nominative of [[file:./dictionary.md#man][man]]
+
+*** mál(a)
+wv. {{{phon(mɛ̀l)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]]
+
+1. to measure
+2. to determine a size or a quantity
+3. to estimate
+
+Declensions:
+- infinitive :: mæl
+- imperative :: mæl
+- imperative passive voice :: málask
+- present participle :: máland
+- past participle :: málin
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | málar      | málir       | mált  | málumk  |
+|   2s   |   | málar      | málir       | mált  | málisk  |
+|   3s   |   | málar      | málir       | mált  | málisk  |
+|   1p   |   | málum      | málim       | málum | málumk  |
+|   2p   |   | málið      | málið       | máluð | málisk  |
+|   3p   |   | málið      | málið       | máluð | málisk  |
+
+*** málskipan
+sn.f. {{{phon(ˈmɛ̀lˌʃkipan)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]] and Old Eittlandic [[file:./dictionary.md#skipan][skipan]]
+
+1. language (i.e. Eittlandic, English, Japanese…)
+
+For its declensions, see [[file:./dictionary.md#skipan][skipan]].
 
 *** mán(i)
 wn.m. {{{phon(mɛ̀n)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A1ni][máni]]
@@ -1695,6 +1770,7 @@ wv. {{{phon(rexː)}}}, from ON
 
 1. to nap in a bed
 
+Declensions:
 - infinitive :: rekkja
 - imperative :: rekkja
 - imperative passive voice :: rekkjask
@@ -1738,6 +1814,7 @@ sv. {{{phon(saj)}}}, from ON [[https://old-norse.net/html/s.php#segja-A][sagja]]
 1. to say, to tell
 2. to proclaim, to declare
 
+Declensions:
 - infinitive :: sagja
 - imperative :: sagja
 - imperative passive voice :: sagjask
@@ -1783,6 +1860,7 @@ iv. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Nor
 1. to sit
 2. to represent (politics)
 
+Declensions:
 - infinitive :: sit
 - imperative :: sit
 - imperative passive voice :: sitask
@@ -1807,6 +1885,7 @@ iv. {{{phon(ʃɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/sj%C3%A1#Old_No
 
 Alternative form: *sjé*
 
+Declensions:
 - infinitive :: sjá
 - imperative :: sjá
 - imperative passive voice :: sjásk
@@ -1832,6 +1911,7 @@ sv. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_No
 
 Alternative form: *skij*
 
+Declensions:
 - infinitive :: skilja
 - imperative :: skilja
 - imperative passive voice :: skiljask
@@ -1847,6 +1927,19 @@ Alternative form: *skij*
 |   1p   |   | skiljum    | skilim      | skiljum | skiljumk |
 |   2p   |   | skilið     | skilið      | skiljuð | skiljask |
 |   3p   |   | skilið     | skilið      | skiljuð | skiljask |
+
+*** skipan
+sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][skipan]]
+
+1. arrangement, order, organisation (of things)
+2. item box, for organising belongings
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | skipanr  | skipaninn | skipann  | skipaninn  |
+| Acc. | skipan   | skipanin  | skipan   | skipanin   |
+| Dat. | skipan   | skipanin  | skipanum | skipaninum |
+| Gen. | skipanar | skipanins | skipanar | skipanin   |
 
 *** smársov
 iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#sov-a][sov(a)]]
@@ -1872,6 +1965,7 @@ iv. {{{phon(soβ)}}}, from ON [[https://old-norse.net/html/s.php#sofa-B][sofa]]
 
 1. to sleep
 
+Declensions:
 - infinitive :: sov
 - imperative :: sov
 - imperative passive voice :: sovask
@@ -1930,6 +2024,7 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 
 ** T
 *** tal(a)
+**** Noun
 wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][tala]]
 
 1. number
@@ -1940,6 +2035,34 @@ wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][
 | Acc. | tal  | talat   | tal   | talat   |
 | Dat. | tal  | talat   | talum | talatum |
 | Gen. | tals | talats  | tals  | talat   |
+
+**** Verb
+wv. {{{phon(tal)}}}, from ON [[https://old-norse.net/html/t.php#tala2][tala]]
+
+1. to talk, to speak
+
+   With prepositions:
+   - tal til :: to talk to someone
+   - tal um :: to talk about
+   - tal eftir :: to retract a statement, to go back on one’s words
+   - tal á málskipan :: to speak a language
+
+Declensions:
+- infinitive :: tal
+- imperative :: tal
+- imperative passive voice :: talask
+- present participle :: taland
+- past participle :: talin
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | talar      | tal         | talt  | talumk  |
+|   2s   |   | talar      | tal         | talt  | talðisk |
+|   3s   |   | talar      | tal         | talt  | talðisk |
+|   1p   |   | talum      | tal         | talum | talumk  |
+|   2p   |   | talið      | tal         | taluð | talðisk |
+|   3p   |   | talið      | tal         | taluð | talðisk |
 
 *** Tíbet
 wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
@@ -2022,6 +2145,22 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 ** U
+*** um
+prep. {{{phon(um)}}}, from ON [[https://old-norse.net/html/u.php#um-acc-A][um]]
+
+1. around
+2. about
+3. concerning (something)
+
+#+html: ::: tip Example
+Hann es mannin um talt ek þér
+
+He's the guy I spoke to you about
+
+| han-n   | es             | mann-in | um    | tal-t  | ek           | þér   |
+| 3sm-NOM | to.be.3sg.PRES | 1s.NOM  | about | 2s.DAT | speak-1s.PST | about |
+#+html: :::
+
 *** undir
 adj. {{{phon(undir)}}}, from ON [[https://en.wiktionary.org/wiki/undir#Old_Norse][undir]]
 
@@ -2110,6 +2249,7 @@ Uses a dative for its second argument.
 
 Alternative form: *vén(a)*
 
+Declensions:
 - infinitive :: ván
 - imperative :: ván
 - imperative passive voice :: vánask
@@ -2145,6 +2285,7 @@ iv. {{{phon(βer)}}}, from ON [[https://en.wiktionary.org/wiki/vera#Old_Norse][v
 1. to be
 2. active auxilliary
 
+Declensions:
 - infinitive :: ver
 - imperative :: ves
 - present participle :: verand
@@ -2209,6 +2350,7 @@ iv. {{{phon(viʎ)}}}, from ON [[https://old-norse.net/html/v.php#vilja][vilja]]
 
 1. to want
 
+Declensions:
 - infinitive :: vilja
 - imperative :: vilja
 - imperative passive voice ::  viljask
