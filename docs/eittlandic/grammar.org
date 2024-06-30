@@ -435,14 +435,36 @@ The conditional mood allows speakers of Eittlandic to speak about
 conditional events while marking them as such. This translates into
 several strategies.
 
-The first strategy adds /-(u)sk(a)-/ between the verb root and its
+The first strategy adds /-(u)þ(a)-/ between the verb root and its
 indicative declension. It marks conditionals the speakers estimates to
 be unlikely.
 
 #+html: ::: tip Example
-Ef þú gefuskar mér ein fisk, ér etim þat
+Ef þú gefuþar mér ein fisk, vér etim þat
 
 If you somehow give me a fish, we’ll eat it
+#+html: :::
+
+The second strategy, which is the default strategy and holds a neutral
+stance towards how likely the hypothetical situation is, uses the verb
+/skal(a)/ as an auxilliary in the conditional mood.
+
+#+html: ::: tip Example
+Ef þú skaluþ gef mér ein fisk, vér etim þat
+
+If you give me a fish, we’ll eat it
+#+html: :::
+
+The third stategy, which indicates some confidence by the speaker that
+the situation is likely, is to use the verb /man(u)/ the same way as
+/skal(a)/ is used in the second strategy. This strategy is also
+sometimes used to express a softer future, though one that still might
+not happen.
+
+#+html: ::: tip Example
+Ef þú manuþ gef mér ein fisk, vér etim þat
+
+If you give me a fish, we’ll eat it / When you’ll give me a fish, we’ll eat it
 #+html: :::
 
 **** Causative                                                     :noexport:
@@ -462,6 +484,28 @@ Please eat your food.
 #+html: :::
 
 **** Optative                                                      :noexport:
+The optative mood serves to express wishes. There are two main
+strategies to express the optative mood in Eittlandic.
+
+The first one is a syntactic construction using the verb /vilja/ with a
+nominal phrase or verbal phrase with a verb in the infinitive mood
+being the wished element. It denotes a wish rather than a want.
+
+#+html: ::: tip Example
+Ek vil far.
+
+I wish I could go.
+#+html: :::
+
+The second strategy is a morphological mood of the verb formed by
+inserting -(i)nn(i)- between the verb root and its subjunctive
+declension.
+
+#+html: ::: tip Example
+Ek ferinnir.
+
+I want to go.
+#+html: :::
 
 **** Dubitative
 The dubitative mood in Eittlandic is a mood used by the speaker to
