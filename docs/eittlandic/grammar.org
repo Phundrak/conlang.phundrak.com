@@ -270,7 +270,7 @@ mood).
 
   May it be sunny today
 
-- Ef ek komuskat hér, ér talim til ná
+- Ef ek komuskat hér, vér talim til ná
 
   If I came, we would still be talking
 
@@ -331,11 +331,11 @@ will happen, or if it happened in the past.
   | han-n   | haft            | sov-in         | þá   | kunn           | han-n   | kom  |
   | 3sm.NOM | have.3s.PST.IND | sleep-PST.PART | thus | can.3s.PST.IND | 3sm.NOM | come |
 
-- Ér havum lesit bókan í dag
+- Vér havum lesit bókan í dag
 
   We have read the book today
 
-  | ér     | hav-um           | les-and        | bók-an       | í dag |
+  | vér    | hav-um           | les-and        | bók-an       | í dag |
   | 1p.NOM | have-1p.PRES.IND | read-PRES.PART | book-DEF.ART | today |
 #+html: :::
 
@@ -405,11 +405,11 @@ To mark the progressive, the word /ná/ is placed just after the verb,
 without any other word between them.
 
 #+html: ::: tip Example
-- Ér kannum hléð vit? Nei, ek etar.
+- Vér kannum hléð vit? Nei, ek etar.
 
   Can we talk? Nah, I’m eating
 
-  | ér     | kann-um         | hléð | vit |
+  | vér    | kann-um         | hléð | vit |
   | 1P.NOM | can-1P.PRES.IND | talk | Q   |
 
   | nei | ek     | et-ar           |
