@@ -714,6 +714,19 @@ wn.f. {{{phon(hɑ:ɪls)}}}, from ON [[https://en.wiktionary.org/wiki/heilsa#Old_
 | Dat. | heils   | heilsat  | heilsum | heilsatum |
 | Gen. | heilsas | heilsats | heilsas | heilsat   |
 
+*** her
+wn.m. {{{phon(her)}}}, from Danish /herr/.
+
+1. lord
+2. Sir, title
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | her  | herit   | herr  | heritr  |
+| Acc. | her  | herit   | her   | herit   |
+| Dat. | her  | herit   | herum | heritum |
+| Gen. | hers | herits  | hers  | herit   |
+
 *** historja
 wn.f. {{{phon(heʃtˈorjə)}}}, from Latin [[https://en.wiktionary.org/wiki/historia#Latin][historia]]
 
@@ -918,6 +931,18 @@ Alternative form: *hrivs*
 | Acc. | hrifs | hrifsit  | hrifs   | hrifsit   |
 | Dat. | hrifs | hrifsit  | hrifsum | hrifsitum |
 | Gen. | hrifs | hrifsits | hrifs   | hrifsit   |
+
+*** hring
+sn.m. {{{phon(r̥iŋ)}}}, from ON [[https://old-norse.net/html/h.php#hringr-I][hringr]]
+
+1. ring
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | hringr  | hringinn | hringr  | hringinn  |
+| Acc. | hring   | hringin  | hring   | hringin   |
+| Dat. | hring   | hringin  | hringum | hringinum |
+| Gen. | hringar | hringins | hringar | hringin   |
 
 *** hug(a)
 sv. {{{phon(huj)}}}
@@ -1867,13 +1892,17 @@ wn.n. {{{phon(ˈrekːˌlɛ̀ð)}}}, from [[file:./dictionary.md#rekkja-noun][rek
 | Gen. | rekkláðs  | rekkláðit   |
 
 ** S
-*** samrekkja
-wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
+*** sag(a)
+wn.f. {{{phon(sɑj)}}}, from ON [[https://old-norse.net/html/s.php#saga][saga]]
 
-1. sleep with someone
-2. to have sex with someone (euphemism)
+1. story, tale, legend
 
-See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | sag  | sagat   | sagar | sagatr  |
+| Acc. | sag  | sagat   | sag   | sagat   |
+| Dat. | sag  | sagat   | sagum | sagatum |
+| Gen. | sags | sagats  | sags  | sagats  |
 
 *** sagj(a)
 sv. {{{phon(saj)}}}, from ON [[https://old-norse.net/html/s.php#segja-A][sagja]]
@@ -1897,6 +1926,14 @@ Declensions:
 |   1p   |   | sagjum     | sagjim      | sagjum | sagjumk |
 |   2p   |   | sagjið     | sagjið      | sagjuð | sagjask |
 |   3p   |   | sagjið     | sagjið      | sagjuð | sagjask |
+
+*** samrekkja
+wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
+
+1. sleep with someone
+2. to have sex with someone (euphemism)
+
+See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
 
 *** sáing
 sn.f. {{{phon(ˈsɛ̀jŋ)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6ing][sæing]]
@@ -2000,8 +2037,9 @@ For declensions, see [[file:./dictionary.md#hus][hús]].
 *** skal(a)
 iv. {{{phon(ʃkul)}}}, from ON [[https://old-norse.net/html/s.php#skulu][skulu]]
 
-1. should, irrealis or dubitative modal verb
-2. neutral conditional auxilliary verb, necessarily used in the
+1. should, might
+2. irrealis or dubitative modal verb
+3. neutral conditional auxilliary verb, necessarily used in the
    conditional mood
 
 Declensions:
