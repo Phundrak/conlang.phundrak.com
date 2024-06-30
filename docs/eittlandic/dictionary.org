@@ -334,6 +334,30 @@ wn.n. {{{phon(ˈepel)}}}, from ON [[https://old-norse.net/html/e.php#epli][epli]
 | Dat. | epil  | epilit  | epilum | epilitum |
 | Gen. | epils | epilits | epils  | epilit   |
 
+*** eptir
+prep. {{{phon(eɸter)}}}, from ON [[https://old-norse.net/html/e.php#eptir][eptir]]
+
+1. after
+2. afterwards
+3. according to, based on
+4. in search of, seeking for
+   #+html: ::: tip Example
+   Ek em eptir Konung, kannuð ér sagja mér hvar es hann?
+
+   I’m looking for the King, can you tell me where he is?
+
+   | ek     | em                | eptir | konung |
+   | 1s.NOM | to.be.1s.PRES.IND | after | king  |
+
+   | kann-uð | ér     | sagja   | mér    | hvar  | es                | han-n    |
+   | can-2p  | 2p.NOM | to.tell | 1s.DAT | where | to.be.3s.PRES.IND | 3s.m-NOM |
+   #+html: :::
+
+*** eptirdag
+adv. {{{phon(eɸterdɑj)}}}, from [[file:./dictionary.md#eptir][eptir]] and [[file:./dictionary.md#dag][dag (dative)]]
+
+1. tomorrow
+
 *** enn
 adv. {{{phon(enː)}}}, from ON [[https://old-norse.net/html/e.php#enn5][enn]]
 
@@ -942,6 +966,19 @@ Declensions:
 |   2p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 |   3p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 
+*** hús
+sn.n. {{{phon(hòs)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%BAs][hús]]
+
+1. house
+2. family
+
+|      | Sg. | Def.Sg. | Pl.   | Def.Pl. |
+|------+-----+---------+-------+---------|
+| Nom. | hús | húsit   | hús   | húsitr  |
+| Acc. | hús | húsit   | hús   | húsit   |
+| Dat. | hús | húsit   | húsum | húsitum |
+| Gen. | hús | húsits  | hús   | húsit   |
+
 *** hvar
 pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
 
@@ -1429,20 +1466,44 @@ iv. {{{phon(mun)}}}, from ON [[https://old-norse.net/html/m.php#munu][munu]]
 
 1. auxilliary verb to express the future, will, shall
 
+   #+html: ::: tip Example
+   Vér munum far til sjónvarphúsit ok eptirdag
+
+   We will go to the theatre tomorrow
+   #+html: :::
+2. will, shall, must
+
+   #+html: ::: tip Example
+   Þú man les að bókan.
+
+   You will/must read the book.
+   #+html: :::
+
+3. polite conditional when used in the subjunctive
+
+   #+html: ::: tip Example
+   Ef hann mynir kom
+
+   If he comes
+   #+html: :::
+
+4. likely conditional auxilliary verb, necessarily used in the
+   conditional mood
+
 Declensions:
 - infinitive :: man
 - imperative :: mun
 - present participle :: munand
 
-|  <c>   |   |            |             |        |         |
-| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
-|--------+---+------------+-------------+--------+---------|
-|   1s   |   | man        | mynir       | mynd   | munumk  |
-|   2s   |   | man        | mynir       | mynd   | munask  |
-|   3s   |   | man        | mynir       | mynd   | munask  |
-|   1p   |   | munum      | mynim       | myndum | munumk  |
-|   2p   |   | munuð      | mynið       | mynduð | munask  |
-|   3p   |   | munuð      | mynið       | mynduð | munask  |
+|  <c>   |   |            |             |        |
+| person |   | Ind. Pres. | Subj. Pres. | Past   |
+|--------+---+------------+-------------+--------|
+|   1s   |   | man        | mynir       | mynd   |
+|   2s   |   | man        | mynir       | mynd   |
+|   3s   |   | man        | mynir       | mynd   |
+|   1p   |   | munum      | mynim       | myndum |
+|   2p   |   | munuð      | mynið       | mynduð |
+|   3p   |   | munuð      | mynið       | mynduð |
 
 *** mastergrað(a)
 wn.n. {{{phon(ˈmaʃterˌɡrað)}}}, from English [[https://en.wiktionary.org/wiki/master#English][Master]] and Middle Eittlandic
@@ -1908,6 +1969,57 @@ Declensions:
 |   2p   |   | sjéð       | sjáð        | sjátuð | sjásk   |
 |   3p   |   | sjáð       | sjáð        | sjátuð | sjásk   |
 
+*** sjón
+sn.f. {{{phon(ʃɔ̀n)}}}, from ON [[https://old-norse.net/html/s.php#sj%C3%B3n][sjón]]
+
+1. vision, sighting
+2. spectacle
+3. movie
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | sjónn  | sjóninn | sjónn  | sjóninn  |
+| Acc. | sjón   | sjónin  | sjón   | sjón     |
+| Dat. | sjón   | sjónin  | sjónum | sjóninum |
+| Gen. | sjónar | sjónins | sjónar | sjón     |
+
+*** sjónvarp
+sn.n. {{{phon(ʃɔ̀nβarp)}}}, from [[file:./dictionary.md#sjon][sjón]] and [[file:./dictionary.md#varp][varp]]
+
+1. movie projection
+
+For declensions, see [[file:./dictionary.md#varp][varp]]
+
+*** sjónvarphús
+sn.n. {{{phon(ʃɔ̀nβarphòs)}}}, from [[file:./dictionary.md#sjonvarp][sjónvarp]] and [[file:./dictionary.md#hus][hús]]
+
+1. cinema, theatre
+
+For declensions, see [[file:./dictionary.md#hus][hús]].
+
+*** skal(a)
+iv. {{{phon(ʃkul)}}}, from ON [[https://old-norse.net/html/s.php#skulu][skulu]]
+
+1. should, irrealis or dubitative modal verb
+2. neutral conditional auxilliary verb, necessarily used in the
+   conditional mood
+
+Declensions:
+- infinitive :: skal
+- imperative :: skal
+- present participle :: skaland
+- past participle :: skalit
+
+|  <c>   |   |            |             |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past    |
+|--------+---+------------+-------------+---------|
+|   1s   |   | skal       | skylir      | skyldr  |
+|   2s   |   | skalt      | skylir      | skyldr  |
+|   3s   |   | skal       | skylir      | skyldr  |
+|   1p   |   | skulum     | skylim      | skyldum |
+|   2p   |   | skaluð     | skylið      | skylduð |
+|   3p   |   | skaluð     | skylið      | skylduð |
+
 *** skilj(a)
 sv. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_Norse][skilja]]
 
@@ -1933,6 +2045,19 @@ Declensions:
 |   1p   |   | skiljum    | skilim      | skiljum | skiljumk |
 |   2p   |   | skilið     | skilið      | skiljuð | skiljask |
 |   3p   |   | skilið     | skilið      | skiljuð | skiljask |
+
+*** skipan
+sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][skipan]]
+
+1. arrangement, order, organisation (of things)
+2. item box, for organising belongings
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | skipanr  | skipaninn | skipann  | skipaninn  |
+| Acc. | skipan   | skipanin  | skipan   | skipanin   |
+| Dat. | skipan   | skipanin  | skipanum | skipaninum |
+| Gen. | skipanar | skipanins | skipanar | skipanin   |
 
 *** skín
 wn.n. {{{phon(skèn)}}}, from [[file:./dictionary.md#skin-a][skín(a)]]
@@ -1970,19 +2095,6 @@ Declensions:
 |   1p   |   | skínum     | skínim      | skínum | skínumk |
 |   2p   |   | skínið     | skínið      | skínuð | skínask |
 |   3p   |   | skínið     | skínið      | skínuð | skínask |
-
-*** skipan
-sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][skipan]]
-
-1. arrangement, order, organisation (of things)
-2. item box, for organising belongings
-
-|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
-|------+----------+-----------+----------+------------|
-| Nom. | skipanr  | skipaninn | skipann  | skipaninn  |
-| Acc. | skipan   | skipanin  | skipan   | skipanin   |
-| Dat. | skipan   | skipanin  | skipanum | skipaninum |
-| Gen. | skipanar | skipanins | skipanar | skipanin   |
 
 *** smársov
 iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#sov-a][sov(a)]]
@@ -2132,12 +2244,12 @@ Declensions:
 |  <c>   |   |            |             |       |         |
 | person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
 |--------+---+------------+-------------+-------+---------|
-|   1s   |   | talar      | talir         | talt  | talumk  |
-|   2s   |   | talar      | talir         | talt  | talðisk |
-|   3s   |   | talar      | talir         | talt  | talðisk |
-|   1p   |   | talum      | talim         | talum | talumk  |
-|   2p   |   | talið      | talið         | taluð | talðisk |
-|   3p   |   | talið      | talið         | taluð | talðisk |
+|   1s   |   | talar      | talir       | talt  | talumk  |
+|   2s   |   | talar      | talir       | talt  | talðisk |
+|   3s   |   | talar      | talir       | talt  | talðisk |
+|   1p   |   | talum      | talim       | talum | talumk  |
+|   2p   |   | talið      | talið       | taluð | talðisk |
+|   3p   |   | talið      | talið       | taluð | talðisk |
 
 *** Tíbet
 wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
@@ -2302,6 +2414,20 @@ Alternative form: *olv*
 | Gen. | úlfar | úlfins  | úlfar | úlfin   |
 
 ** V
+*** varp
+sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
+
+1. casting, throwing
+2. projection
+3. /colloquial/ a movie projection
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | varp   | varpit  | varp   | varpitr  |
+| Acc. | varp   | varpit  | varp   | varpit   |
+| Dat. | varp   | varpit  | varpum | varpitum |
+| Gen. | varps  | varpits | varps  | varpit   |
+
 *** ván
 sn.f. {{{phon(βɛ̀n)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1n][ván]]
 
@@ -2378,6 +2504,29 @@ Declensions:
 | 2p | eruð       | séð         | varð      | várið      |
 | 3p | er         | sé          | var       | vár        |
 
+*** verp(a)
+sv. {{{phon(βerp)}}}, from ON [[https://old-norse.net/html/v.php#verpa][verpa]]
+
+1. to throw
+2. to cast (e.g. a movie)
+
+Declensions:
+- infinitive :: verp
+- imperative :: verp
+- imperative passive voice :: verpask
+- present participle :: verpand
+- past participle :: verpit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | verpr      | verpir      | verpt  | verpumk |
+|   2s   |   | verpr      | verpir      | verpt  | verpask |
+|   3s   |   | verpr      | verpir      | verpt  | verpask |
+|   1p   |   | verpum     | verpim      | verpum | verpumk |
+|   2p   |   | verpið     | verpið      | verpuð | verpask |
+|   3p   |   | verpið     | verpið      | verpuð | verpask |
+
 *** vest
 adv. {{{phon(βeʃt)}}}, from ON [[https://old-norse.net/html/v.php#vestr][vestr]]
 
@@ -2426,7 +2575,7 @@ wn.f. {{{phon(βik)}}}, from ON [[https://old-norse.net/html/v.php#vika-B][vika]
 *** vilja
 iv. {{{phon(viʎ)}}}, from ON [[https://old-norse.net/html/v.php#vilja][vilja]]
 
-1. to want
+1. to want, to wish
 
 Declensions:
 - infinitive :: vilja
