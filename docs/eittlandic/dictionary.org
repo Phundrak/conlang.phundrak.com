@@ -84,6 +84,32 @@ added when no other underlying vowel can replace it). The definite
 form of a noun is indicated in its declension table.
 
 ** A
+
+*** alf
+wn.m. {{{phon(ɑlf)}}}
+
+1. power, might
+
+*** Alfshringinssagat
+pn. {{{phon(ˈɑlfsˌr̥iŋinsˌsɑjɑt)}}}
+
+1. The Rings of Power
+
+*** almen
+adj. {{{phon(ɑlmen)}}}
+
+1. general, global
+
+*** annaman
+sn.n. {{{phon(ˈɑnːɑˌmɑn)}}}, from [[file:./dictionary.md#annar][annar]] and [[file:./dictionary.md#man][man]]
+
+1. someone else
+
+*** annar
+{{{phon(ɑnːɑr)}}}
+
+1. other, different
+
 *** aug(a)
 wn.n. {{{phon(ɔ̀j)}}}
 
@@ -140,6 +166,16 @@ sn.n. {{{phon(borð)}}}
 | Dat. | borð  | borðit  | borðum | borðitum |
 | Gen. | borðs | borðits | borðs  | borðit   |
 
+*** boðorð
+sn.m. {{{phon(boðorð)}}}
+
+1. a rule
+
+*** boðorðsman
+sn.m. {{{phon(ˈboðorðˌmɑn)}}}, from [[file:./dictionary.md#boðorð][boðorð]] and [[file:./dictionary.md#man][man]]
+
+1. judge
+
 *** borg
 sn.f  {{{phon(borg)}}}, from ON [[https://old-norse.net/html/b.php#borg-I][borg]]
 
@@ -192,6 +228,11 @@ sn.f. {{{phon(bø̀k)}}}
 
 See [[file:dictionary.md#bok(r)][/bók/]]
 
+*** bú
+wn.m. {{{phon(bò)}}}
+
+1. dweller, neighbour
+
 ** C
 ** D
 *** dag
@@ -204,7 +245,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -301,7 +342,6 @@ Always followed by a conditional verbal phrase or a noun if speakers
 can infer the verbal phrase from it.
 
 
-
 *** Eittland
 sn.n. {{{phon(ɑɪʔlɑnd)}}}, from OE neutral /einn/ (/alone/, /lonely/), itself from
 ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.net/html/l.php#land][land]]
@@ -347,7 +387,7 @@ prep. {{{phon(eɸter)}}}, from ON [[https://old-norse.net/html/e.php#eptir][epti
    I’m looking for the King, can you tell me where he is?
 
    | ek     | em                | eptir | konung |
-   | 1s.NOM | to.be.1s.PRES.IND | after | king  |
+   | 1s.NOM | to.be.1s.PRES.IND | after | king   |
 
    | kann-uð | ér     | sagja   | mér    | hvar  | es                | han-n    |
    | can-2p  | 2p.NOM | to.tell | 1s.DAT | where | to.be.3s.PRES.IND | 3s.m-NOM |
@@ -683,6 +723,11 @@ using hav(a) in the passive voice.
 | 2 | hafsk               | havisk              | havisk          | heðisk           |
 | 3 | hafsk               | havisk              | havisk          | heðisk           |
 
+*** hávn
+sn.f. {{{phon(hɛ̀vn̩)}}}
+
+1. haven, port
+
 *** hávuð
 in.n. {{{phon(hɛ̀βoð)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B6fu%C3%B0-A][hǫfuð]]
 
@@ -943,6 +988,11 @@ sn.m. {{{phon(r̥iŋ)}}}, from ON [[https://old-norse.net/html/h.php#hringr-I][h
 | Acc. | hring   | hringin  | hring   | hringin   |
 | Dat. | hring   | hringin  | hringum | hringinum |
 | Gen. | hringar | hringins | hringar | hringin   |
+
+*** Hringarherinssagat
+pn. {{{phon(ˈr̥iŋarˌherensˌsɑjɑt)}}}
+
+1. /The Lord of the Rings/, litt. /The Story of the Lord of the Ring/
 
 *** hug(a)
 sv. {{{phon(huj)}}}
@@ -1309,6 +1359,38 @@ sn.m. {{{phon(lɔrdaɣ)}}}, from ON [[https://old-norse.net/html/l.php#laug-IV][
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
+*** lág
+sn.n. {{{phon(lɛ̀j)}}}
+
+1. law, plural only
+
+*** lágsman
+sn.m. {{{phon(ˈlɛ̀ɡsˌman)}}}
+
+1. lawyer, attorney
+
+*** mynd
+sn.f. {{{phon(mynd)}}}
+
+1. image, picture
+2. video
+
+*** nakt
+adj. {{{phon(nɑkt)}}}
+
+1. naked
+
+*** leik
+{{{phon(lɑɪk)}}}
+
+1. sn.f. plaything
+2. sn.m. game
+
+*** leik(a)
+sv. {{{phon(lɑɪk)}}}
+
+1. to play
+
 *** leið(a)
 wv. {{{phon(lɑːɪð)}}}, from ON [[https://old-norse.net/html/l.php#lei%C3%B0a][leiða]]
 
@@ -1332,19 +1414,6 @@ Declensions:
 |   2p   |   | leiðið   | leiðið      | leiðuð | leiððisk |
 |   3p   |   | leiðið   | leiðið      | leiðuð | leiððisk |
 
-*** list
-wn.f. {{{phon(liʃt)}}}, from ON [[https://old-norse.net/html/l.php#list][list]]
-
-1. art, craft
-2. skill
-
-|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
-|------+-------+---------+--------+----------|
-| Nom. | list  | listit  | listr  | listitr  |
-| Acc. | list  | listit  | list   | listit   |
-| Dat. | list  | listit  | listum | listitum |
-| Gen. | lists | listits | lists  | listit   |
-
 *** les(a)
 sv. {{{phon(les)}}}, from ON [[https://old-norse.net/html/l.php#lesa-II][lesa]]
 
@@ -1366,6 +1435,30 @@ Declensions:
 |   1p   |   | lesum      | lesim       | lesum | lesumk  |
 |   2p   |   | lesið      | lesið       | lesuð | lesask  |
 |   3p   |   | lesið      | lesið       | lesuð | lesask  |
+
+*** list
+wn.f. {{{phon(liʃt)}}}, from ON [[https://old-norse.net/html/l.php#list][list]]
+
+1. art, craft
+2. skill
+
+|      | Sg.   | Pl.    |
+|------+-------+--------|
+| Nom. | list  | listr  |
+| Acc. | list  | list   |
+| Dat. | list  | listum |
+| Gen. | lists | lists  |
+
+*** list(i)
+sn.f. {{{phon(liʃt)}}}, from ON [[https://old-norse.net/html/l.php#listi][listi]]
+
+ 1. list
+ 2. catalogue
+
+*** listsmið
+sn.m. {{{phon(liʃtsmið)}}}, from [[file:./dictionary.md#list][list]] and [[file:./dictionary.md#smið][-smið]]
+
+1. craftsman, artist
 
 *** líf
 sn.n. {{{phon(lèv)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADf][líf]]
@@ -1747,7 +1840,39 @@ adv. {{{phon(oɸt)}}}, from ON [[https://old-norse.net/html/o.php#opt][opt]]
 
 Alternative form: *oft*
 
+*** orð
+sn.n. {{{phon(orð)}}}
+
+1. word, utterance
+
+*** orðtak
+wn.n. {{{phon(ˈorðˌtɑk)}}}, from [[file:./dictionary.md#orðtak-a][orðtak(a)]]
+
+1. a quote
+
+*** orðtak(a)
+sv. {{{phon(ˈorðˌtɑk)}}}, from [[file:./dictionary.md#orð][orð]] and [[file:./dictionary.md#tak-a][tak(a)]]
+
+1. to quote
+
 ** Ó
+
+*** ó-
+prefix {{{phon(ɔ̀)}}}
+
+Equivalent of English /un…/,  /not smth/
+
+#+html: ::: tip Example
+ótraust
+
+unsafe
+#+html: :::
+
+*** ótraust
+adj. {{{phon(ˌɔ̀ˈtrɔʊʃt)}}}
+
+1. unsafe, not trustworthy
+
 *** Óðin
 pn. {{{phon(ɔðen)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0inn][Óðinn]]
 
@@ -1818,6 +1943,16 @@ Alternative form: *pos(e)*
 | Gen. | poss | posits  | poss  | posit   |
 
 ** R
+*** ráð
+sn.n. {{{phon(rɛ̀ð)}}}
+
+1. advice, counsel
+
+*** ráðspell
+sn.n. {{{phon(ˈrɛ̀ðˌʃpelː)}}}, from [[file:./dictionary.md#rað][ráð]] and [[file:./dictionary.md#spell][spell]]
+
+1. debate
+
 *** ráðuneyt(i)
 wn.m. {{{phon(ˈrɛ̀ðoˌnœʏt)}}}, from OI [[https://old-norse.net/html/r.php#r%C3%A1%C3%B0uneyti][ráðuneyti]]
 
@@ -1891,7 +2026,26 @@ wn.n. {{{phon(ˈrekːˌlɛ̀ð)}}}, from [[file:./dictionary.md#rekkja-noun][rek
 | Dat. | rekkláðum | rekkláðitum |
 | Gen. | rekkláðs  | rekkláðit   |
 
+*** rúm
+sn.n. {{{phon(ròm)}}}
+
+1. room
+2. channel (as in an online app)
+
+*** rúmvin
+sn.m. {{{phon(ˈròmˌβin)}}}, from [[file:./dictionary.md#rum][rúm]] and [[file:./dictionary.md#vin][vin]]
+
+1. roommate
+
 ** S
+
+*** -smið
+suffix {{{phon(smið)}}}
+
+1. -work
+
+Forms strong masculine nouns
+
 *** sag(a)
 wn.f. {{{phon(sɑj)}}}, from ON [[https://old-norse.net/html/s.php#saga][saga]]
 
@@ -2134,6 +2288,16 @@ Declensions:
 |   2p   |   | skínið     | skínið      | skínuð | skínask |
 |   3p   |   | skínið     | skínið      | skínuð | skínask |
 
+*** skít
+sn.n. {{{phon(ʃkèt)}}}
+
+1. /vulgar/ excrement, shit
+
+*** skítráð
+sn.n. {{{phon(ˈʃkètˌrɛ̀ð)}}}, from [[file:./dictionary.md#skit][skít]] and [[file:./dictionary.md#rað][ráð]], calque of English /shitpost/
+
+1. shitpost, meme
+
 *** smársov
 iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#sov-a][sov(a)]]
 
@@ -2207,6 +2371,11 @@ Declensions:
 This verb only takes a time reference as its subject or none at all,
 always in the third personl
 
+*** spell
+sn.n. {{{phon(ʃpelː)}}}
+
+1. speech, saying
+
 *** styrsamhald(i)
 sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#styrr][styrr]] (stir, battle) and [[https://old-norse.net/html/s.php#samheldi][samhaldi]]
 (a holding together, unity).
@@ -2248,6 +2417,12 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 ** T
+*** tak(a)
+sv. {{{phon(tɑk)}}}
+
+1. to take, to seize
+2. to capture (figuratively)
+
 *** tal(a)
 **** Noun
 wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][tala]]
@@ -2289,6 +2464,19 @@ Declensions:
 |   2p   |   | talið      | talið       | taluð | talðisk |
 |   3p   |   | talið      | talið       | taluð | talðisk |
 
+*** tarr(a)
+sv. {{{phon(tɑrː)}}}
+
+1. to spread out
+
+*** til
+prep. {{{phon(til)}}}, from ON [[https://old-norse.net/html/t.php#til-A][til]]
+
+1. to, towards, till (literally and figuratively)
+
+**** til ná
+1. still
+
 *** Tíbet
 wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
 
@@ -2300,14 +2488,6 @@ wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
 | Acc. | Tíbet  |
 | Dat. | Tíbet  |
 | Gen. | Tíbets |
-
-*** til
-prep. {{{phon(til)}}}, from ON [[https://old-norse.net/html/t.php#til-A][til]]
-
-1. to, towards, till (literally and figuratively)
-
-**** til ná
-1. still
 
 *** ton
 wn.m. {{{phon(ton)}}}, from Middle Low German [[https://en.wiktionary.org/wiki/ton#Middle_Low_German][ton]]
@@ -2328,6 +2508,11 @@ wn.f. {{{phon(tonliʃt)}}}, from [[file:./dictionary.md#ton][ton]] and [[file:./
 
 See [[file:./dictionary.md#list][list]] for declensions.
 
+*** traust
+adj. {{{phon(trɔʊʃt)}}}
+
+1. trusty, trustworthy, safe
+
 *** tren
 wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#English][train]]
 
@@ -2339,6 +2524,11 @@ wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#Engl
 | Acc. | tren  | trenit  | tren   | trenit   |
 | Dat. | tren  | trenit  | trenum | trenitum |
 | Gen. | trens | trenits | trens  | trenit   |
+
+*** tung
+wn.f. {{{phon(tuŋ)}}}
+
+1. tongue
 
 *** týr
 in.m. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr][týr]]
@@ -2459,12 +2649,12 @@ sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
 2. projection
 3. /colloquial/ a movie projection
 
-|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
-|------+--------+---------+--------+----------|
-| Nom. | varp   | varpit  | varp   | varpitr  |
-| Acc. | varp   | varpit  | varp   | varpit   |
-| Dat. | varp   | varpit  | varpum | varpitum |
-| Gen. | varps  | varpits | varps  | varpit   |
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | varp  | varpit  | varp   | varpitr  |
+| Acc. | varp  | varpit  | varp   | varpit   |
+| Dat. | varp  | varpit  | varpum | varpitum |
+| Gen. | varps | varpits | varps  | varpit   |
 
 *** ván
 sn.f. {{{phon(βɛ̀n)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1n][ván]]
@@ -2611,7 +2801,7 @@ wn.f. {{{phon(βik)}}}, from ON [[https://old-norse.net/html/v.php#vika-B][vika]
 7. [[file:./dictionary.md#laurdag][Laurdag]]
 
 *** vilja
-iv. {{{phon(viʎ)}}}, from ON [[https://old-norse.net/html/v.php#vilja][vilja]]
+iv. {{{phon(βiʎ)}}}, from ON [[https://old-norse.net/html/v.php#vilja][vilja]]
 
 1. to want, to wish
 
@@ -2632,7 +2822,18 @@ Declensions:
 |   2p   |   | vilið      | vilið       | vilduð | vildisk |
 |   3p   |   | vilið      | vilið       | vilduð | vildisk |
 
-*** Vit
+*** vin
+sn.m. {{{phon(βin)}}}
+
+1. friend
+
+*** vinbú
+wn.m. {{{phon(ˈβinˌbò)}}}
+
+1. pet
+2. roommate (derogatory)
+
+*** vit
 interj. {{{phon(βit)}}}
 
 1. question marker, see [[file:./grammar.md#yes-no-questions][yes/no questions]], probably from an inuit
