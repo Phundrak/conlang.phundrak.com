@@ -576,9 +576,9 @@ examples are given using the verbs /far(a)/ (/to go/, a strong verb), and
 |  <c>   |   |            |             |                     |
 | person |   | Ind. Pres. | Subj. Pres. | Ind. and Subj. Past |
 |--------+---+------------+-------------+---------------------|
-|   1s   |   | -r         | -ir         | -t                  |
-|   2s   |   | -r         | -ir         | -t                  |
-|   3s   |   | -r         | -ir         | -t                  |
+|   1s   |   | -(V)r      | -ir         | -t                  |
+|   2s   |   | -(V)r      | -ir         | -t                  |
+|   3s   |   | -(V)r      | -ir         | -t                  |
 |   1p   |   | -um        | -im         | -um                 |
 |   2p   |   | -ið        | -ið         | -uð                 |
 |   3p   |   | -ið        | -ið         | -uð                 |
@@ -786,21 +786,21 @@ instead of the stem of the verb itself. It is somewhat similar to
 asking a question in English by simply raising the sentence’s tone.
 
 #+html: ::: tip Example
-- Hann komr í dag með faðin hans
+- Hann komar í dag með faðin hans
 
-  | hann     | kom-r           | í dag | með  | fað-in         | hans     |
+  | hann     | kom-ar          | í dag | með  | fað-in         | hans     |
   | 3s.m.NOM | come-s.PRES.IND | today | with | father.ACC-DEF | 3s.m.GEN |
 
   He’s coming with his father today.
-- Komr han í dag með faðin hans?
+- Komar han í dag með faðin hans?
 
-  | kom-r           | hann     | í dag | með  | fað-in         | hans     |
+  | kom-ar          | hann     | í dag | með  | fað-in         | hans     |
   | come-s.PRES.IND | 3s.m.NOM | today | with | father.ACC-DEF | 3s.m.GEN |
 
   Is he coming with his father today?
-- Han komvitr í dag með maðin hans?
+- Han komavitr í dag með maðin hans?
 
-  | hann     | kom-vit-r         | í dag | með  | fað-in         | hans     |
+  | hann     | koma-vit-r        | í dag | með  | fað-in         | hans     |
   | 3s.m.NOM | come-Q-s.PRES.IND | today | with | father.ACC-DEF | 3s.m.GEN |
 
   He’s coming with his father today?
@@ -811,9 +811,9 @@ Instead, Eittlandic speakers may instead simply add /vit/ as a
 standalone word at the end of the question.
 
 #+html: ::: tip Example
-- Hann er konung.
+- Hann es konung.
 
-  | hann     | er             | konung   |
+  | hann     | es             | konung   |
   | 3s.m.NOM | be.3s.PRES.IND | king.ACC |
 
   He is the king.
@@ -836,18 +836,18 @@ question word takes the place of either the syntactic patient or
 syntactic dative of the verb.
 
 #+html: ::: tip Example
-- Ná hvar ert þú?
+- Hvar est þú?
 
-  | ná  | hvar  | ert            | þú     |
-  | now | where | be.2s.PRES.IND | 2s.NOM |
+  | hvar  | est            | þú     |
+  | where | be.2s.PRES.IND | 2s.NOM |
 
-  Where are you now?
-- Ná þú ert hver vit?
+  Where are you?
+- Þú est hver vit?
 
-  | ná  | þú     | ert            | hvar  | vit |
-  | now | 2s.NOM | be.2s.PRES.IND | where | Q   |
+  | þú     | est            | hvar  | vit |
+  | 2s.NOM | be.2s.PRES.IND | where | Q   |
 
-  You are where now?
+  Where are you? / Where you at?
 #+html: :::
 
 **** Yes/No questions
