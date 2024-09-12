@@ -999,31 +999,31 @@ simplified to the table following it.
 
 #+name: tbl:old-norse-noun-inflexions
 #+caption: 1st declension of strong nouns and declensions of masculine weak nouns in Old Norse
-| / |        <r> |                  |                 |               |                |
-|   |            | Strong Masculine | Strong Feminine | Strong Neuter | Weak Masculine |
-|---+------------+------------------+-----------------+---------------+----------------|
-|   | Sing. Nom. | heim-r           | tíð             | skip          | tím-i          |
-|   |       Acc. | heim             | tíð             | skip          | tím-a          |
-|   |       Dat. | heim-i           | tíð             | skip-i        | tím-a          |
-|   |       Gen. | heim-s           | tíð-ar          | skip-s        | tím-a          |
-|   | Plur. Nom. | heim-ar          | tíð-ir          | skip          | tím-ar         |
-|   |       Acc. | heim-a           | tíð-ir          | skip          | tím-a          |
-|   |       Dat. | heim-um          | tíð-um          | skip-um       | tím-um         |
-|   |       Gen. | heim-a           | tíð-a           | skip-a        | tím-a          |
+| / |     <r> |                  |                 |               |                |
+|   |         | Strong Masculine | Strong Feminine | Strong Neuter | Weak Masculine |
+|---+---------+------------------+-----------------+---------------+----------------|
+|   | Sg.Nom. | heim-r           | tíð             | skip          | tím-i          |
+|   |    Acc. | heim             | tíð             | skip          | tím-a          |
+|   |    Dat. | heim-i           | tíð             | skip-i        | tím-a          |
+|   |    Gen. | heim-s           | tíð-ar          | skip-s        | tím-a          |
+|   | Pl.Nom. | heim-ar          | tíð-ir          | skip          | tím-ar         |
+|   |    Acc. | heim-a           | tíð-ir          | skip          | tím-a          |
+|   |    Dat. | heim-um          | tíð-um          | skip-um       | tím-um         |
+|   |    Gen. | heim-a           | tíð-a           | skip-a        | tím-a          |
 
 #+name: tbl:eittlandic-example-noun-inflexions
 #+caption: Declensions for strong and weak nouns in Modern Eittlandic
-| / |        <r> |               |               |            |
-|   |            | Strong Common | Strong Neuter | Weak Nouns |
-|---+------------+---------------+---------------+------------|
-|   | Sing. Nom. | heim-r        | skip          | tím        |
-|   |       Acc. | heim          | skip          | tím        |
-|   |       Dat. | heim          | skip          | tím        |
-|   |       Gen. | heim-ar       | skip-s        | tím-s      |
-|   | Plur. Nom. | heim-r        | skip          | tím-r      |
-|   |       Acc. | heim          | skip          | tím        |
-|   |       Dat. | heim-um       | skip-um       | tím-um     |
-|   |       Gen. | heim-ar       | skip-s        | tím-s      |
+| / |     <r> |               |               |            |
+|   |         | Strong Common | Strong Neuter | Weak Nouns |
+|---+---------+---------------+---------------+------------|
+|   | Sg.Nom. | heim-r        | skip          | tím        |
+|   |    Acc. | heim          | skip          | tím        |
+|   |    Dat. | heim          | skip          | tím        |
+|   |    Gen. | heim-ar       | skip-s        | tím-s      |
+|   | Pl.Nom. | heim-r        | skip          | tím-r      |
+|   |    Acc. | heim          | skip          | tím        |
+|   |    Dat. | heim-um       | skip-um       | tím-um     |
+|   |    Gen. | heim-ar       | skip-s        | tím-s      |
 
 As you can see, a good amount of declensions disappeared from nouns,
 with only four marked cases for strong common nouns and two for strong
@@ -1035,17 +1035,17 @@ We end up with the following declension system in Eittlandic.
 
 #+name: tbl:eittlandic-noun-inflexion
 #+caption: Eittlandic noun inflexion
-| / |        <r> |               |               |            |
-|   |            | Strong Common | Strong Neuter | Weak Nouns |
-|---+------------+---------------+---------------+------------|
-|   | Sing. Nom. | -r            |               |            |
-|   |       Acc. |               |               |            |
-|   |       Dat. |               |               |            |
-|   |       Gen. | -(a)r         | -s            | -s         |
-|   | Plur. Nom. | -r            |               | -r         |
-|   |       Acc. |               |               |            |
-|   |       Dat. | -um           | -um           | -um        |
-|   |       Gen. | -(a)r         | -s            | -s         |
+| / |     <r> |               |               |            |
+|   |         | Strong Common | Strong Neuter | Weak Nouns |
+|---+---------+---------------+---------------+------------|
+|   | Sg.Nom. | -r            |               |            |
+|   |    Acc. |               |               |            |
+|   |    Dat. |               |               |            |
+|   |    Gen. | -(a)r         | -s            | -s         |
+|   | Pl.Nom. | -r            |               | -r         |
+|   |    Acc. |               |               |            |
+|   |    Dat. | -um           | -um           | -um        |
+|   |    Gen. | -(a)r         | -s            | -s         |
 
 The /-ar/ ending drops the /a/ when an underlying ending vowel is present
 in a word, as with /dótt/ (daughter) becoming /dóttir/ in its genitive
@@ -1084,17 +1084,17 @@ a noun ends with an «n» or an «l» respectively, hence the table below
 showing the declensions of strong masculine /himn/ (/heaven/) and strong
 feminine /hafn/ (/harbour/, /haven/).
 #+name: tbl:irregular-noun-declensions
-|        <r> |        |        |
-|            | himn   | hafn   |
-|------------+--------+--------|
-| Sing. Nom. | himnn  | hafnn  |
-|       Acc. | himn   | hafn   |
-|       Dat. | himn   | hafn   |
-|       Gen. | himnar | hafnar |
-| Plur. Nom. | himnn  | hafnn  |
-|       Acc. | himn   | hafn   |
-|       Dat. | himnum | hafnum |
-|       Gen. | himnar | hafnar |
+|     <r> |        |        |
+|         | himn   | hafn   |
+|---------+--------+--------|
+| Sg.Nom. | himnn  | hafnn  |
+|    Acc. | himn   | hafn   |
+|    Dat. | himn   | hafn   |
+|    Gen. | himnar | hafnar |
+| Pl.Nom. | himnn  | hafnn  |
+|    Acc. | himn   | hafn   |
+|    Dat. | himnum | hafnum |
+|    Gen. | himnar | hafnar |
 
 During the last five centuries, the root of the word got regularized
 so that only one or two forms are allowed. Due to umlaut or ablaut, it
@@ -1105,17 +1105,17 @@ time of Old Norse. These changes mainly remains in a few common words.
 The table below gives some examples of such irregularities. These
 words are marked as irregular in the dictionary.
 #+name: tbl:irregularities-root-nouns
- |        <r> |             |           |           |            |
- |            | kettle (m.) | foot (m.) | book (f.) | water (n.) |
- |------------+-------------+-----------+-----------+------------|
- | Sing. Nom. | ketll       | fótr      | bók       | vatn       |
- |       Acc. | ketl        | fót       | bók       | vatn       |
- |       Dat. | ketl        | fót       | bók       | vatn       |
- |       Gen. | ketlar      | fótar     | bókar     | vatn       |
- | Plur. Nom. | katll       | fœtr      | bœkr      | vótnn      |
- |       Acc. | katl        | fœt       | bœkr      | vótn       |
- |       Dat. | katlum      | fótum     | bókum     | vótnum     |
- |       Gen. | katl        | fœt       | bœk       | vótn       |
+ |     <r> |             |           |           |            |
+ |         | kettle (m.) | foot (m.) | book (f.) | water (n.) |
+ |---------+-------------+-----------+-----------+------------|
+ | Sg.Nom. | ketll       | fótr      | bók       | vatn       |
+ |    Acc. | ketl        | fót       | bók       | vatn       |
+ |    Dat. | ketl        | fót       | bók       | vatn       |
+ |    Gen. | ketlar      | fótar     | bókar     | vatn       |
+ | Pl.Nom. | katll       | fœtr      | bœkr      | vótnn      |
+ |    Acc. | katl        | fœt       | bœkr      | vótn       |
+ |    Dat. | katlum      | fótum     | bókum     | vótnum     |
+ |    Gen. | katl        | fœt       | bœk       | vótn       |
 
 *** Articles and Demonstratives
 # - Do noun phrases have articles?
@@ -1151,18 +1151,19 @@ case marking itself. The full declension table of definite articles
 can be found in the table below. As we can see, the definite articles
 underwent an important regularization as well as merging strong neuter
 and weak nouns together.
+
 #+name: tbl:definite-articles
-| / |        <r> |               |                              |
-|   |            | Strong Common | Strong Neuter and Weak Nouns |
-|---+------------+---------------+------------------------------|
-|   | Sing. Nom. | -(i)nn        | -(i)t                        |
-|   |       Acc. | -(i)n         | -(i)t                        |
-|   |       Dat. | -(i)n         | -(i)t                        |
-|   |       Gen. | -(i)ns        | -(i)ts                       |
-|   | Plur. Nom. | -(i)nn        | -(i)tr                       |
-|   |       Acc. | -(i)n         | -(i)t                        |
-|   |       Dat. | -(i)num       | -(i)tum                      |
-|   |       Gen. | -(i)n         | -(i)t                        |
+| / |     <r> |               |                              |
+|   |         | Strong Common | Strong Neuter and Weak Nouns |
+|---+---------+---------------+------------------------------|
+|   | Sg.Nom. | -(i)nn        | -(i)t                        |
+|   |    Acc. | -(i)n         | -(i)t                        |
+|   |    Dat. | -(i)n         | -(i)t                        |
+|   |    Gen. | -(i)ns        | -(i)ts                       |
+|   | Pl.Nom. | -(i)nn        | -(i)tr                       |
+|   |    Acc. | -(i)n         | -(i)t                        |
+|   |    Dat. | -(i)num       | -(i)tum                      |
+|   |    Gen. | -(i)n         | -(i)t                        |
 
 The initial /i/ is only used when using the definite articles as a
 suffix would cause a consonant cluster forbidden by Eittlandic
