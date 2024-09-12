@@ -560,7 +560,28 @@ formal speech.
   Eittlandic {{{phon(ɑɪnləɡr)}}}
 #+html: :::
 
+**** {{{phon(ɔ)}}} and {{{phon(ɑ)}}} merger
+Western Eittlandic is currently going a phonological merge of the
+vowels {{{phon(ɔ)}}} and {{{phon(ɑ)}}} into {{{phon(ɒ)}}}. The vowel {{{phon(ɔ̀)}}} also
+follows this pattern, morphing into {{{phon(ɒ̀)}}}.
+
+**** Great Vowel Shift variation
+While the Great Vowel Shift is happened relatively uniformly in
+Eittland, some regions did not follow the same pattern as what
+happened everywhere else.
+
+The main example is the area around Đeberget where the vowel {{{phon(ɑː)}}}
+evolved not as {{{phon(ɛ̀)}}} but as {{{phon(ɔ̀)}}}.
+
 *** Eastern Eittlandic
+**** {{{phon(y)}}} and {{{phon(u)}}} merger
+In areas around Vestrheim especially, locals tend to merge {{{phon(y)}}}
+into {{{phon(u)}}}.
+
+**** Centralisation of {{{phon(i)}}}
+In the northern rural parts of Eastern Eittland, populations tend to
+centralise {{{phon(i)}}} into {{{phon(ɨ)}}}.
+
 **** Great Vowel Shift variation
 When the [[file:./phonology.md#great-vowel-shift][Great Vowel Shift]] happened, not all regions were affected the
 same. As such, we can find in some rural parts of the Eastern
