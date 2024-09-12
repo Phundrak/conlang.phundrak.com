@@ -712,7 +712,7 @@ completely removing it from the sentence.
   The fish was fished from the water
 #+html: :::
 
-*** Modifiers                                                      :noexport:
+*** Modifiers
 # - If you posit a morphosyntactic category of adjectives, give
 #   evidence for not grouping these forms with the verbs or nouns. What
 #   characterizes a form as being an adjective in this language?
@@ -726,10 +726,162 @@ completely removing it from the sentence.
 #   /many/? Exemplify the system up to this point.
 # - Do numerals agree with their head nouns (number, case, noun
 #   class, ...)?
-**** Descriptive Adjectives                                           :noexport:
-Similarly to verbs, adjectives in Eittlandic underwent
+**** Descriptive Adjectives
+Similarly to verbs, adjectives in Eittlandic underwent a
+simplification since Early Old Norse. They now all inflect the same
+way, as the difference between strong and weak adjectives disappeared
+over the years. It is also worth noting distiction between masculine
+and feminine disappeared, merging into a common gender, while neuter
+remains distinct.
+
+#+name: adjectives-declensions
+#+caption: Declension of adjectives in Eittlandic
+| / |     <r> |        |        |
+|   |         | Common | Neuter |
+|---+---------+--------+--------|
+|   | Sg.Nom. | -r     | -t     |
+|   |    Acc. |        | -t     |
+|   |    Dat. | -um    | -um    |
+|   |    Gen. | -s     | -s     |
+|   | Pl.Nom. | -ar    |        |
+|   |    Acc. |        |        |
+|   |    Dat. | -um    | -um    |
+|   |    Gen. | -ar    | -r     |
+
+If an adjective root ends with an unstressed unrounded vowel, all /-um/
+endings become /-vum/ instead. Otherwise, the consonant is doubled
+before the declension’s vowel if there is one.
+
+#+html: ::: tip Example
+- Meðr er Hindirar, þrírr er Hindurar
+
+  The men are Hindi, three are Hindu
+#+html: :::
+
+The adjectives agree in declension, number, and gender with the noun
+or noun phrase they describe. In terms of word order, they always
+precede the noun or noun phrase, regardles whether the noun is in its
+indefinite or definite form.
+
+#+html: ::: tip Example
+- Latr káttinn kúrar hjá opin dyrin
+
+  The lazy cat naps by the open door
+
+  | lat-r       | kátt-inn       | kúr-ar           | hjá | opin        | dyr-in          |
+  | lazy-SG.NOM | cat-DEF.SG.NOM | nap-3sg.IND.PRES | by  | open.SG.ACC | door-DEF.SG.ACC |
+- Rauðt dyrit ok smár vindaugat er opinn
+
+  The red door and the small windows are open
+
+  | rauð-t       | dyr-it          | ok  | smár           | vindaug-at        | er                 | opin-n        |
+  | red-SG.N.NOM | door-DEF.SG.NOM | and | small.PL.N.NOM | window-DEF.PL.NOM | to.be.3pl.IND.PRES | open-PL.N.ACC |
+#+html: :::
+
+What you will find most often in Eittlandic dictionaries is the
+accusative singular common form of the adjectives, which is its
+unmarked form, while some older or more traditional dictionaries will
+instead use their nominative singular common form.
+
+*Standard Eittlandic* does not use declensions and will always use the
+unmarked adjective root instead. A few dialects do not use adjective
+declensions either, but they are relatively rare, such as the dialects
+found in the Úlfsaug valley in Northeastern Fjallheim.
+
+**** Participal Adjectives
+Taking the root of a verb and adding the declension of definite
+articles creates participal adjectives. For instance, /sov(a)/ (to
+sleep) becomes /sovin/ (sleepy) while /hleð(a)/ (to make noise) becomes
+/hleðin/ (noisy).
+
+#+name: participal-adj-example-sov-sovin
+#+caption: Example of participal adjective using /sov(a)/
+| / |     <r> |         |         |
+|   |         | Common  | Neuter  |
+|---+---------+---------+---------|
+|   | Sg.Nom. | sovinn  | sovit   |
+|   |    Acc. | sovin   | sovit   |
+|   |    Dat. | sovin   | sovit   |
+|   |    Gen. | sovins  | sovits  |
+|   | Pl.Nom. | sovinn  | sovitr  |
+|   |    Acc. | sovin   | sovit   |
+|   |    Dat. | sovinum | sovitum |
+|   |    Gen. | sovin   | sovit   |
+
+#+html: ::: tip Example
+- Þat er eit hleðit bil ná!
+
+  This is one noisy car, isn’t it‽
+#+html: :::
 
 **** Possessive Adjectives
+Similarly to [[file:./grammar.md#possessive-pronouns][possessive pronouns]], possessive adjectives mark ownership
+or relationship from an element with another. However, possessive
+adjectives modify a noun or noun phrase and are not free forms.
+
+Possessive adjectives are very similar to possessive pronouns, their
+base root is the same but possessive adjectives agree with the
+possessed element in person, number, gender, and declension. Agreement
+in number follows both the number of possessor and possessed. Hence,
+/várt/ is a possessive adjectives marking one nominative element being
+possessed by several people in the first person, while /mínar/ is a
+possessive adjective marking several nominative elements being
+possessed by one individual in the first person.
+
+#+name: possessive-adjectives-1-and-2
+#+caption: Possessive adjectives for the first and second person
+| / |     <r> |       |       |       |       |       |       |       |       |
+|   |         | 1s C. | 1s N. | 2s C. | 2s N. | 1p C. | 1p N. | 2p C. | 2p N. |
+|---+---------+-------+-------+-------+-------+-------+-------+-------+-------|
+|   | Sg.Nom. | mínn  | mínt  | þínn  | þínt  | várr  | várt  | yðr   | yðt   |
+|   |    Acc. | mín   | mínt  | þín   | þínt  | vár   | várt  | yð    | yðt   |
+|   |    Dat. | mínum | mínum | þínum | þínum | várum | várum | yðum  | yðum  |
+|   |    Gen. | míns  | míns  | þíns  | þíns  | várs  | várs  | yðs   | yðs   |
+|   | Pl.Nom. | mínar | mín   | þínar | þín   | várar | vár   | yðar  | yð    |
+|   |    Acc. | mín   | mín   | þín   | þín   | vár   | vár   | yð    | yð    |
+|   |    Dat. | mínum | mínum | þínum | þínum | várum | várum | yðum  | yðum  |
+|   |    Gen. | mínar | mínn  | þínar | þínn  | várar | várr  | yðar  | yðr   |
+
+In the third person, gender of the possessor is also followed by the
+possessive adjective when there is a singular possessor. This means
+the gender of the adjectives must also agree both with the gender of
+the possessor and the possessed when the former is singular.
+
+#+name: possessive-adjectives-3
+#+caption: Possessive adjectives for the third person
+| / |     <r> |        |        |        |        |        |        |
+|   |         | 3sc C. | 3sc N. | 3sn C. | 3sn N. | 3p C.  | 3p N.  |
+|---+---------+--------+--------+--------+--------+--------+--------|
+|   | Sg.Nom. | hennar | hent   | þass   | þast   | þeirr  | þeirt  |
+|   |    Acc. | henn   | hent   | þass   | þast   | þeir   | þeirt  |
+|   |    Dat. | hennum | henum  | þasum  | þasum  | þeirum | þeirum |
+|   |    Gen. | hens   | hens   | þass   | þass   | þeirs  | þeirs  |
+|   | Pl.Nom. | hennar | henn   | þasar  | þass   | þeirar | þeir   |
+|   |    Acc. | henn   | henn   | þass   | þass   | þeir   | þeir   |
+|   |    Dat. | hennum | hennum | þasum  | þasum  | þeirum | þeirum |
+|   |    Gen. | hennar | henn   | þasar  | þass   | þeirar | þeirr  |
+
+#+html: ::: tip Examples
+- Hundinn þeirar hlaupið in í parkit
+
+  Their dogs are running in the park (i.e. several people’s dogs)
+
+  | hund-r     | þeir-ar               | hlaup-ið        | in | í   | park-it         |
+  | dog-pl.NOM | 3sc.c.ADJ.POSS-pl.NOM | run-3p.PRES.IND | in | DAT | park-DET.sg.DAT |
+- Ek kent sonin yðum historja
+
+  I taught your son history
+
+  | ek      | ken-t            | son-in         | yð-um          | historja    |
+  | 1sg.NOM | teach-1s.PST.IND | son-DEF.DAT.sg | 2p.POSS-DAT.SG | history.ACC |
+- Mínn káttr es svartr með ein hvít flekk á hennum bjálf, á hennum hóst.
+
+  My cat is black with a white spot on her fur, on her chest.
+
+  | mín-n             | kátt-r     | es           | svart-r      | með  | ein     | hvít      | flekk    | á   | hen-num           | bjálf      | á   | hen-num           | hóst         |
+  | 1sg.POSS-sg.NOM.C | cat-sg.NOM | 3sg.PRES.IND | black-sg.NOM | with | one.ACC | white.ACC | spot.ACC | DAT | 3sg.POSS-sg.DAT.C | fur.sg.ACC | DAT | 3sg.POSS.sg.DAT.C | chest.sg.ACC |
+#+html: :::
+
 **** Non-Numeral Quantifiers                                       :noexport:
 **** Numerals                                                      :noexport:
 
