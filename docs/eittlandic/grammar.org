@@ -748,9 +748,9 @@ remains distinct.
 |   |    Dat. | -um    | -um    |
 |   |    Gen. | -ar    | -r     |
 
-If an adjective root ends with an unstressed unrounded vowel, all /-um/
-endings become /-vum/ instead. Otherwise, the consonant is doubled
-before the declension’s vowel if there is one.
+If an adjective root ends with a rounded vowel, all /-um/ and /-ar/
+endings become /-vum/ or /-var/ instead respectively. Otherwise, the
+consonant is doubled before the declension’s vowel if there is one.
 
 #+html: ::: tip Example
 - Meðr er Hindirar, þrírr er Hindurar
