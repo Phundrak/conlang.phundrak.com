@@ -14,6 +14,7 @@ some abbreviations you should keep in mind:
 - Dan :: Danish
 - dat :: dative
 - def :: definite
+- det :: determiner
 - Eng :: English
 - EON :: Early Old Norse
 - f :: feminine
@@ -95,6 +96,56 @@ wn.m. {{{phon(ɑlf)}}}
 | Acc. | alf  | alfit   | alf   | alfit   |
 | Dat. | alf  | alfit   | alfum | alfitum |
 | Gen. | alfs | alfits  | alfs  | alfit   |
+
+*** all
+{{{phon(ɑlː)}}}, from ON [[https://old-norse.net/html/a.php#allr-A][allr]]
+
+1. indef.pron. all, everyone, everything
+2. adj.
+   1. all, whole or entire entity
+      #+html: ::: tip Example
+      Allt húsit er litit.
+
+      The house is completely painted.
+
+      | all-t        | hús-it        | er             | lit-it                     |
+      | all-sg.n.NOM | house.NOM-DEF | to.be.3sg.pres | to.paint-part.adj.sg.n.NOM |
+      #+html: :::
+   2. all, complete group or set
+
+      #+html: ::: tip Example
+      Allar bátinn er í hávnin.
+
+      All the boats are in the harbour.
+      #+html: :::
+   3. all, full extent or duration
+
+      #+html: ::: tip Example
+      - Allar daginn var sólskinn.
+
+        All the days were sunny.
+
+      - Allr daginn er varmr ná!
+
+        The whole day is warm, isn’t it?
+   4. all, quite, entirely, completely
+
+      #+html: ::: tip Example
+      Þat er allt góðt!
+
+      It’s all good / alright!
+      #+html: :::
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | allr   | allt   |
+| Acc.    | all    | allt   |
+| Dat.    | allum  | allum  |
+| Gen.    | alls   | alls   |
+| Pl.Nom. | allar  | all    |
+| Acc.    | all    | all    |
+| Dat.    | allum  | allum  |
+| Gen.    | allar  | allr   |
 
 *** Alfshringinssagat
 pn. {{{phon(ˈɑlfsˌr̥iŋinsˌsɑjɑt)}}}
@@ -189,6 +240,18 @@ adv. {{{phon(ɛ̀ð)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1%C3%B
 1. before, temporal precedence or higher priority
 
 ** B
+*** bát
+sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][bátr]]
+
+1. boat
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | bátr  | bátinn  | bátr  | bátinn  |
+| Acc. | bát   | bátin   | bát   | bátin   |
+| Dat. | bát   | bátin   | bátum | bátinum |
+| Gen. | bátar | bátins  | bátar | bátin   |
+
 *** bil
 wn.n. {{{phon(βil)}}}, shortened from of [[file:./dictionary.md#automobil][automobil]]
 
@@ -387,6 +450,11 @@ the final «g» of /dag/ ends up differing even if the written form does
 not. As such, a guide is included in the declension table to help
 students remember how these different forms are pronounced.
 
+*** dá-
+prefix {{{phon(ˌdɛ̀)}}}, unknown etymology
+
+1. adjective intensifier, /dáX/ is /very X/
+
 *** djúp
 adj. {{{phon(ʒːòp)}}}, from ON [[https://old-norse.net/html/d.php#dj%C3%BApr][djúpr]]
 
@@ -496,6 +564,14 @@ adv. {{{phon(ef)}}}, from ON [[https://old-norse.net/html/e.php#ef-B][ef]]
 Always followed by a conditional verbal phrase or a noun if speakers
 can infer the verbal phrase from it.
 
+*** ei
+Regional variation of [[file:./dictionary.md#eig][eig]].
+
+*** eig
+adv. {{{phon(ɑɪɣ)}}}, in some regions {{{phon(ɑɪ)}}} and written /ei/, from ON [[https://old-norse.net/html/e.php#eigi][eigi]]
+
+1. not, negative marker of a verb
+
 *** ein(n)
 {{{phon(ɑɪn)}}}, from ON [[https://old-norse.net/html/e.php#einn][einn]]
 
@@ -545,6 +621,18 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 | Dat. | Eittland  |
 | Gen. | Eittlands |
 
+*** eld
+sn.m. {{{phon(eld)}}}, from ON [[https://old-norse.net/html/e.php#eldr2][eldr]]
+
+1. fire
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | eldr  | eldinn  | eldr  | eldinn  |
+| Acc. | eld   | eldin   | eld   | eldin   |
+| Dat. | eld   | eldin   | eldum | eldinum |
+| Gen. | eldar | eldins  | eldar | eldin   |
+
 *** ell(a)
 {{{phon(elː)}}}, from ON [[https://en.wiktionary.org/wiki/ella#Old_Norse][ella]], see also [[file:./dictionary.md#eð][eð]]
 
@@ -556,6 +644,44 @@ conj. {{{phon(en)}}}, from ON [[https://old-norse.net/html/e.php#en2][en]]. See 
 
 1. yet, still
 2. but (general purpose, links phrases as in English)
+
+*** eng(i)
+det. {{{phon(eŋ)}}}, from [[file:./dictionary.md#ein-n][ein(n)]] and [[file:./dictionary.md#i-g][-(i)g]]
+
+1. no, not any
+2. any (after negative or comparative)
+
+For the indefinite pronoun usage, see [[file:grammar.md#indefinite-pronouns][Indefinite pronouns (grammar)]]
+
+#+name: Declension of eng(i)
+#+caption: eng-declension
+| / |     <r> | <      |        |
+|   |         | Common | Neuter |
+|---+---------+--------+--------|
+|   | Sg.Nom. | eng    | ekk    |
+|   |    Acc. | eng    | ekk    |
+|   |    Dat. | engum  | eng    |
+|   |    Gen. | engrar | enks   |
+|   | Pl.Nom. | engar  | eng    |
+|   |    Acc. | eng    | eng    |
+|   |    Dat. | engum  | engum  |
+|   |    Gen. | engr   | engr   |
+
+*** engin
+indef.pron. {{{phon(eŋen)}}}, from ON [[https://old-norse.net/html/e.php#eingi][enginn]]
+
+1. no one, none
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | enginn | ekkert |
+| Acc.    | engin  | ekkert |
+| Dat.    | engum  | eng    |
+| Gen.    | engrar | engrar |
+| Pl.Nom. | engar  | engin  |
+| Acc.    | engar  | engin  |
+| Dat.    | engum  | engum  |
+| Gen.    | engar  | engar  |
 
 *** epil
 wn.n. {{{phon(ˈepel)}}}, from ON [[https://old-norse.net/html/e.php#epli][epli]]
@@ -649,7 +775,7 @@ each appended with a grammatical /-r/ or /-ir/ (which later got reduced to
 *** far(a)
 iv. {{{phon(far)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
 
-1. to go
+1. to go, to travel
 
 Declensions:
 - infinitive :: far
@@ -667,6 +793,25 @@ Declensions:
 |   1p   |   | farum              | farim               | farum | farumk  |
 |   2p   |   | farið              | farið               | faruð | farask  |
 |   3p   |   | farið              | farið               | faruð | farask  |
+
+*** fár
+adj. and indef.pron. {{{phon(fɛ̀r)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A1r3][fár]]
+
+1. few, in small numbers
+
+The pronoun is usually in its plural form while the singular form is
+reserved for the adjective.
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | fárr   | fárt   |
+| Acc.    | fár    | fárt   |
+| Dat.    | fárum  | fárum  |
+| Gen.    | fárs   | fárs   |
+| Pl.Nom. | fárar  | fár    |
+| Acc.    | fár    | fár    |
+| Dat.    | fárum  | fárum  |
+| Gen.    | fárar  | fárr   |
 
 *** feð
 sn.m. {{{phon(feð)}}}
@@ -708,6 +853,18 @@ sn.m. {{{phon(fiʃk)}}}, from ON [[https://old-norse.net/html/f.php#fiskr][fiskr
 | Acc. | fisk   | fiskin  | fisk   | fiskin   |
 | Dat. | fisk   | fiskin  | fiskum | fiskinum |
 | Gen. | fiskar | fiskins | fiskar | fiskin   |
+
+*** fjall
+sn.n. {{{phon(fjɑlː)}}}, from ON [[https://old-norse.net/html/f.php#fjall][fjall]]
+
+1. mountain
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | fjall  | fjallit  | fjall   | fjallitr  |
+| Acc. | fjall  | fjallit  | fjall   | fjallit   |
+| Dat. | fjall  | fjallit  | fjallum | fjallitum |
+| Gen. | fjalls | fjallits | fjalls  | fjallit   |
 
 *** flekk(r)
 sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekkr]]
@@ -911,6 +1068,22 @@ sn.n. {{{phon(joð)}}}, from ON [[https://old-norse.net/html/g.php#go%C3%B0-A-IV
 | Dat. | goð  | goðit   | goðum | goðitum |
 | Gen. | goðs | goðits  | goðs  | goðit   |
 
+*** góð
+adj. {{{phon(jɔ̀ð)}}}, from ON [[https://old-norse.net/html/g.php#g%C3%B3%C3%B0r-1][góðr]]
+
+1. good
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | góðr   | góðt   |
+| Acc.    | góð    | góðt   |
+| Dat.    | góðum  | góðum  |
+| Gen.    | góðs   | góðs   |
+| Pl.Nom. | góðar  | góð    |
+| Acc.    | góð    | góð    |
+| Dat.    | góðum  | góðum  |
+| Gen.    | góðar  | góðr   |
+
 *** grað(a)
 wn.n. {{{phon(ɡrað)}}}, from Latin [[https://en.wiktionary.org/wiki/gradus#Latin][gradus]]
 
@@ -1050,10 +1223,26 @@ adj. {{{phon(hɛ̀s)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6ss][
 | Dat.    | hásum  | hásum  |
 | Gen.    | hásar  | háss   |
 
+*** háv
+adj. {{{phon(hɛ̀f)}}}
+
+1. tall, high
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | hár    | hávt   |
+| Acc.    | háv    | hávt   |
+| Dat.    | hávum  | hávum  |
+| Gen.    | hávs   | hávs   |
+| Pl.Nom. | hávar  | háv    |
+| Acc.    | háv    | háv    |
+| Dat.    | hávum  | hávum  |
+| Gen.    | hávar  | hávr   |
+
 *** hávn
 sn.f. {{{phon(hɛ̀vn̩)}}}
 
-1. haven, port
+1. haven, port, harbour
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
@@ -1477,7 +1666,7 @@ pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse]
 Always in the dative case.
 
 *** hvat
-adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
+interr. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
 
 1. what
 
@@ -1488,8 +1677,13 @@ adv. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse]
 | Dat. | hvat |
 | Gen. | hves |
 
+*** hvenár
+interr. {{{phon(ʍenˈɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#hvenar][hvenær]]
+
+1. when
+
 *** hver
-pron. {{{phon(ʍer)}}}, from ON [[https://old-norse.net/html/h.php#hverr2-A][hverr]]
+interr. and pron. {{{phon(ʍer)}}}, from ON [[https://old-norse.net/html/h.php#hverr2-A][hverr]]
 
 1. which, who
 2. every, every one, each
@@ -1515,6 +1709,11 @@ used with countable nouns.
 
   Who / which one of you ate my apple?
 #+html: :::
+
+*** hvernig
+interr. {{{phon(ˈʍerneɣ)}}}, from ON [[https://old-norse.net/html/h.php#hvernig][hvernig]]
+
+1. how, in what way
 
 *** hversdag
 {{{phon(hversdaj)}}}, from [[file:./dictionary.md#hver][hver]] and [[file:./dictionary.md#dag][dag]]
@@ -1583,6 +1782,11 @@ adj. {{{phon(ʍɛ̀t)}}}, from ON [[https://old-norse.net/html/h.php#hv%C3%ADtr]
 | Gen.    | hvítar | hvítr  |
 
 ** I
+*** -g(i)
+suffix {{{phon(iɣ)}}}, from ON [[https://old-norse.net/html/g.php#-gi][-gi]]
+
+1. negative, no, not
+
 *** ikkí
 interj. {{{phon(ixːə)}}}
 
@@ -1612,11 +1816,11 @@ wn.n. {{{phon(jak)}}}, from Tibetan [[https://en.wiktionary.org/wiki/%E0%BD%82%E
 | Dat. | yak  | yakit   | yakum | yakitum |
 | Gen. | yaks | yakits  | yaks  | yakit   |
 
-*** já - jé
+*** já
 {{{phon(jɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/j%C3%A1#Old_Norse][já]]
 
-1. (adv) yes
-2. (interj) yes (as an exclamation of joy)
+1. adv. yes
+2. interj. yes (as an exclamation of joy)
 
 ** K
 *** kaup
@@ -2077,6 +2281,30 @@ sn.m. {{{phon(liʃtsmið)}}}, from [[file:./dictionary.md#list][list]] and [[fil
 
 For declensions, see [[file:./dictionary.md#smið][-smið]].
 
+*** lit(a)
+wv. {{{phon(lit)}}}, from ON [[https://old-norse.net/html/l.php#lita][lita]]
+
+1. to colour
+2. to paint
+3. to dye
+
+Declensions:
+- infinitive :: lit
+- imperative :: lit
+- imperative passive voice :: litask
+- present participle :: litand
+- past participle :: litit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | litar      | litir       | litt  | litumk  |
+|   2s   |   | litar      | litir       | litt  | littisk |
+|   3s   |   | litar      | litir       | litt  | littisk |
+|   1p   |   | litum      | litim       | litum | litumk  |
+|   2p   |   | litið      | litið       | lituð | littisk |
+|   3p   |   | litið      | litið       | lituð | littisk |
+
 *** líf
 sn.n. {{{phon(lèv)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADf][líf]]
 
@@ -2318,9 +2546,9 @@ wn.m. {{{phon(mɛ̀n)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A1ni][
 | Dat. | mán  | mánin   | mánum |         |
 | Gen. | máns | mánins  | máns  |         |
 
-Like [[file:./dictionary.md#sunn-a][sunn]], the definite and plural form of /mán/ are modern and
-generally used to refer to a moon in its astronomical sense. In
-general Eittlandic, /Mán/ tends to more often means /the moon/. In written
+Like [[file:./dictionary.md#sol][sól]], the definite and plural form of /mán/ are modern and generally
+used to refer to a moon in its astronomical sense. In general
+Eittlandic, /Mán/ tends to more often means /the moon/. In written
 Eittlandic, /mán/ generally means /a moon/, while /Mán/ generally means /the
 (Earth’s) moon/.
 
@@ -2403,6 +2631,22 @@ adj. {{{phon(mið)}}}, from ON [[https://old-norse.net/html/m.php#mi%C3%B0r][mi�
 | Dat.    | miðum  | miðum  |
 | Gen.    | miðar  | miðr   |
 
+*** mjúk
+adj. {{{phon(mjòk)}}}, from ON [[https://old-norse.net/html/m.php#mj%C3%BAkr][mjúkr]]
+
+1. soft, gentle, soothing
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | mjúkr  | mjúkt  |
+| Acc.    | mjúk   | mjúkt  |
+| Dat.    | mjúkum | mjúkum |
+| Gen.    | mjúks  | mjúks  |
+| Pl.Nom. | mjúkar | mjúk   |
+| Acc.    | mjúk   | mjúk   |
+| Dat.    | mjúkum | mjúkum |
+| Gen.    | mjúkar | mjúkr  |
+
 *** mynd
 sn.f. {{{phon(mynd)}}}
 
@@ -2478,6 +2722,36 @@ adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Nor
    #+html: :::
 
 Alternative form: *né*
+
+*** nákkur
+indef.pron. {{{phon(nɛ̀χor)}}}, from EON [[https://old-norse.net/html/n.php#n%C3%B6kkurr][nǫkkur]]
+
+1. anyone, any
+2. some, someone
+
+   #+html: ::: tip Example
+   - Nákkurr kœmt í dag
+
+     Someone came yesterday
+   #+html: :::
+
+See [[file:grammar.md#indefinite-pronouns][Indefinite pronouns (grammar)]] for more information on this
+indefinite pronoun.
+
+#+name: Declensions of the indefinite pronoun /nakk/
+#+caption: nakk-indef-pronoun-declension
+
+| / |     <r> |           |           |          |
+|   |         | Masculine | Feminine  | Neuter   |
+|---+---------+-----------+-----------+----------|
+|   | Sg.Nom. | nákkurr   | nákkur    | nákkut   |
+|   |    Acc. | nákkur    | nákkur    | nákkut   |
+|   |    Dat. | nákkurum  | nákkurr   | nákkur   |
+|   |    Gen. | nákkurs   | nákkurrar | nákkurs  |
+|   |  Pl.Nom | nákkurar  | nákkurar  | nákkur   |
+|   |    Acc. | nákkur    | nákkur    | nákkur   |
+|   |    Dat. | nákkurum  | nákkurum  | nákkurum |
+|   |    Gen. | nákkurs   | nákkurs   | nákkurs  |
 
 *** náng
 interj. {{{phon(nɛŋ)}}}
@@ -2845,6 +3119,28 @@ wn.n. {{{phon(ˈrekːˌlɛ̀ð)}}}, from [[file:./dictionary.md#rekkja-noun][rek
 | Dat. | rekkláðum | rekkláðitum |
 | Gen. | rekkláðs  | rekkláðit   |
 
+*** rít(a)
+sv. {{{phon(rèt)}}}, from ON [[https://old-norse.net/html/r.php#r%C3%ADta-B][ríta]]
+
+1. to write
+
+Declensions:
+- infinitive :: rít
+- imperative :: rít
+- imperative passive voice :: rítask
+- present participle :: rítand
+- past participle :: rítit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | rítar      | rítir       | rítt  | rítumk  |
+|   2s   |   | rítar      | rítir       | rítt  | rítsk   |
+|   3s   |   | rítar      | rítir       | rítt  | rítask  |
+|   1p   |   | rítum      | rítim       | rítum | rítumk  |
+|   2p   |   | rítið      | rítið       | rítuð | rítask  |
+|   3p   |   | rítið      | rítið       | rítuð | rítask  |
+
 *** rúm
 sn.n. {{{phon(ròm)}}}
 
@@ -2916,6 +3212,29 @@ wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
 
 See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
 
+*** sá
+{{{phon(sɛ̀)}}}
+
+1. pron. that
+
+   See also [[file:./dictionary.md#þess-i][þess(i)]]
+2. conj. and adv.: Regional variant of [[file:./dictionary.md#sva][svá]], used mainly in the
+   Ðeberget bay.
+
+#+name: Declension of the pronoun /sá/
+#+caption: sa-pronoun-declension
+| / |     <r> |        |        |
+|   |         | Common | Neuter |
+|---+---------+--------+--------|
+|   | Sg.Nom. | sá     | þat    |
+|   |    Acc. | sann   | þat    |
+|   |    Dat. | þeim   | þí     |
+|   |    Gen. | þess   | þess   |
+|   | Pl.Nom. | þeir   | þau    |
+|   |    Acc. | þá     | þau    |
+|   |    Dat. | þeim   | þeim   |
+|   |    Gen. | þeir   | þeir   |
+
 *** sáing
 sn.f. {{{phon(ˈsɛ̀jŋ)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6ing][sæing]]
 
@@ -2938,6 +3257,49 @@ wn.n. {{{phon(ˈsɛ̀jnˌklɛ̀ð)}}}, from [[file:./dictionary.md#saing][sáing
 Alternative form: *séingkléð*
 
 See [[file:./dictionary.md#klað-a][kláð]] for declensions.
+
+*** sem
+{{{phon(sem)}}}, from ON [[https://old-norse.net/html/s.php#sem][sem]]
+
+1. pron. who, which, that (relative pronoun)
+   #+html: ::: tip Example
+   - Maðinn sem talar er bróðin mín.
+
+     The man who is speaking is my brother.
+   #+html: :::
+2. conj.
+   1. (comparative) how, as, like, in the way that
+
+      Used as a conjunction to introduce a comparative clause
+      #+html: ::: tip Example
+      - Hann svart sem hann vilir.
+
+        He replied the way he wanted.
+
+      - Ek er eig svá hár sem þú.
+
+        I am not as tall as you.
+      #+html: :::
+
+   2. (temporal) when, while
+
+      When used as a conjunction, can introduce a temporal clause
+
+      #+html: ::: tip Example
+      Sem ek vas lesand, ek sovnt.
+
+      While I was reading, I fell asleep.
+      #+html: :::
+
+   3. (causal) since, because
+
+      Introduces a causal clause
+
+      #+html: ::: tip Example
+      Sem ek vas sjúkr, kœmt ek eig.
+
+      Since I was sick, I didn’t come.
+      #+html: :::
 
 *** sitj(a)
 iv. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
@@ -3020,6 +3382,26 @@ sn.n. {{{phon(ʃɔ̀nβarphòs)}}}, from [[file:./dictionary.md#sjonvarp][sjón
 
 For declensions, see [[file:./dictionary.md#hus][hús]].
 
+*** sjúk
+adj. {{{phon(ʃòk)}}}, from ON [[https://old-norse.net/html/s.php#sj%C3%BAkr][sjúkr]]
+
+1. sick, ill, unwell
+2. weak, frail
+3. nauseous
+4. disgusted, repulsed (by something)
+5. mentally unwell
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | sjúkr  | sjúkt  |
+| Acc.    | sjúk   | sjúkt  |
+| Dat.    | sjúkum | sjúkum |
+| Gen.    | sjúks  | sjúks  |
+| Pl.Nom. | sjúkar | sjúk   |
+| Acc.    | sjúk   | sjúk   |
+| Dat.    | sjúkum | sjúkum |
+| Gen.    | sjúkar | sjúkr  |
+
 *** skal(a)
 iv. {{{phon(ʃkul)}}}, from ON [[https://old-norse.net/html/s.php#skulu][skulu]]
 
@@ -3101,7 +3483,7 @@ wn.n. {{{phon(skèn)}}}, from [[file:./dictionary.md#skin-a][skín(a)]]
 sv. {{{phon(ʃkèn)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%ADna][skína]]
 
 1. to shine
-2. to be bright (literally)
+2. to be bright (emitting light)
 
 Declensions:
 - infinitive :: skín
@@ -3233,17 +3615,71 @@ Declensions:
 |   2p   |   | sovið      | sovið       | sávuð | sovdask |
 |   3p   |   | sovið      | sovið       | sávuð | sovdask |
 
+*** sovn(a)
+wv. {{{phon(soβn)}}}, from ON [[https://old-norse.net/html/s.php#sofna][sofna]]
+
+1. to fall asleep
+
+Declensions:
+- infinitive :: sovn
+- imperative :: sovn
+- imperative passive voice :: sovnask
+- present participle :: sovnand
+- past participle :: sovnit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | sovnar     | sovnir      | sovnt  | sovnumk  |
+|   2s   |   | sovnar     | sovnir      | sovnt  | sovndisk |
+|   3s   |   | sovnar     | sovnir      | sovnt  | sovndisk |
+|   1p   |   | sovnum     | sovnim      | sovnum | sovnumk  |
+|   2p   |   | sovnið     | sovnið      | sovnuð | sovndisk |
+|   3p   |   | sovnið     | sovnið      | sovnuð | sovndisk |
+
+*** sól
+sn.f. {{{phon(sɔ̀l)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%B3l-A][sól]]
+
+1. the Sun
+2. a sun, a star (astronomical sense)
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | sól   | sólinn  | sóll  | sólinn  |
+| Acc. | sól   | sólin   | sól   | sólin   |
+| Dat. | sól   | sólin   | sólum | sólinum |
+| Gen. | sólar | sólins  | sólar | sólin   |
+
+See [[file:./dictionary.md#man-i][mán(i)]] for notes regarding the use of the different cases of this
+word.
+
 *** sólskin
-wn.n. {{{phon(sɔ̀lʃken)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%B3lskin2][sólskin]]
+{{{phon(sɔ̀lʃken)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%B3lskin2][sólskin]]
 
-1. sunshine
+1. wn.n. sunshine
+2. adj. sunny
 
+#+name: Noun declension of /sólskin/
+#+caption: solskin-noun-declension
 |      | Sg.      | Def.Sg.    | Pl.       | Def.Pl.     |
 |------+----------+------------+-----------+-------------|
 | Nom. | sólskin  | sólskinit  | sólskin   | sólskinitr  |
 | Acc. | sólskin  | sólskinit  | sólskin   | sólskinit   |
 | Dat. | sólskin  | sólskinit  | sólskinum | sólskinitum |
 | Gen. | sólskins | sólskinits | sólskins  | sólskinit   |
+
+#+name: Adjective declension of /sólskin/
+#+caption: solskin-adj-declension
+|         | Common    | Neuter    |
+|---------+-----------+-----------|
+| Sg.Nom. | sólskinn  | sólskint  |
+| Acc.    | sólskin   | sólskint  |
+| Dat.    | sólskinum | sólskinum |
+| Gen.    | sólskins  | sólskins  |
+| Pl.Nom. | sólskinar | sólskin   |
+| Acc.    | sólskin   | sólskin   |
+| Dat.    | sólskinum | sólskinum |
+| Gen.    | sólskinar | sólskinn  |
 
 *** sólskin(a)
 sv. {{{phon(ˈsɔ̀lʃken)}}}, from [[file:./dictionary.md#solskin][sólskin]]
@@ -3317,6 +3753,28 @@ sn.m. {{{phon(sunsndaɣ)}}} , from ON [[https://old-norse.net/html/s.php#sunnuda
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
+*** svar(a)
+wv. {{{phon(sβar)}}}, from ON [[https://old-norse.net/html/s.php#svara][svara]]
+
+1. to reply, to answer
+
+Declensions:
+- infinitive :: svar
+- imperative :: svar
+- imperative passive voice :: svarask
+- present participle :: svarand
+- past participle :: svarit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | svarar     | svarir      | svart  | svarumk  |
+|   2s   |   | svarar     | svarir      | svart  | svarðisk |
+|   3s   |   | svarar     | svarir      | svart  | svarðisk |
+|   1p   |   | svarum     | svarim      | svarum | svarumk  |
+|   2p   |   | svarið     | svarið      | svaruð | svarðisk |
+|   3p   |   | svarið     | svarið      | svaruð | svarðisk |
+
 *** svart(r)
 adj. {{{phon(sβɑrt)}}}, from ON [[https://old-norse.net/html/s.php#svartr][svartr]]
 
@@ -3334,12 +3792,23 @@ adj. {{{phon(sβɑrt)}}}, from ON [[https://old-norse.net/html/s.php#svartr][sva
 | Gen.    | svartar | svartr  |
 
 *** svá
-conj. {{{phon(sβɛ̀)}}}, from ON [[https://old-norse.net/html/s.php#sv%C3%A1-B][svá]], see also [[file:./dictionary.md#þa][þá]]
+{{{phon(sβɛ̀)}}}, from ON [[https://old-norse.net/html/s.php#sv%C3%A1-B][svá]], see also [[file:./dictionary.md#þa][þá]]
 
-1. thus, therefore, then, consequently
+1. conj. thus, therefore, then, consequently
 
    Used as a way to introduce consequences, generally more explicit
    than with /þá/. /Ef/ is only followed by /svá/, never /þá/.
+
+2. adv. so, thus, thusly, this way
+
+   #+html: ::: tip Example
+   - Ek ger þett svá.
+
+     I do it this way
+   - Han talt svá mjúklig
+
+     She spoke so softly
+   #+html: :::
 
 ** T
 *** tak(a)
@@ -3498,7 +3967,7 @@ wn.n. {{{phon(tren)}}}, from English [[https://en.wiktionary.org/wiki/train#Engl
 *** tung
 wn.f. {{{phon(tuŋ)}}}
 
-1. tongue
+1. tongue (spoken)
 
 |      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
 |------+-------+---------+--------+----------|
@@ -3619,6 +4088,22 @@ Alternative form: *olv*
 | Gen. | úlfar | úlfins  | úlfar | úlfin   |
 
 ** V
+*** varm
+adj. {{{phon(βarm)}}}, from ON [[https://old-norse.net/html/v.php#varmr][varmr]]
+
+1. warm, hot
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | varmr  | varmt  |
+| Acc.    | varm   | varmt  |
+| Dat.    | varmum | varmum |
+| Gen.    | varms  | varms  |
+| Pl.Nom. | varmar | varm   |
+| Acc.    | varm   | varm   |
+| Dat.    | varmum | varmum |
+| Gen.    | varmar | varmr  |
+
 *** varp
 sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
 
@@ -3869,6 +4354,25 @@ See [[file:./dictionary.md#veisheit][veisheit]] for a more general term for /wis
 | Gen. | visks | viskits | visks  | viskit   |
 
 ** Y
+*** ynnlig
+{{{phon(ynːliɣ)}}}, from ON [[https://old-norse.net/html/y.php#ynniliga][ynniliga]]
+
+1. adv. cutely, lovely, adorably
+2. adj. cute, lovely, adorably
+
+#+name: ynnlig-adjective-declension
+#+caption: Declension of /ynnlig/ as an adjective
+|         | Common   | Neuter   |
+|---------+----------+----------|
+| Sg.Nom. | ynnligr  | ynnligt  |
+| Acc.    | ynnlig   | ynnligt  |
+| Dat.    | ynnligum | ynnligum |
+| Gen.    | ynnligs  | ynnligs  |
+| Pl.Nom. | ynnligar | ynnlig   |
+| Acc.    | ynnlig   | ynnlig   |
+| Dat.    | ynnligum | ynnligum |
+| Gen.    | ynnligar | ynnligr  |
+
 ** Ý
 ** Z
 ** Ø
@@ -3887,12 +4391,26 @@ Alternative form: *Œjer*
 conj. {{{phon(θɛ̀)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%A1][þá]]
 
 1. then, temporal continuity or implied consequence
+2. plural accusative form of [[file:./dictionary.md#sa][sá]]
 
 #+html: ::: tip Example
 Hann kœmt heim, þá lokt ok lást dyrin
 
 He came home, then closed and locked the door
 #+html: :::
+
+*** þegar
+{{{phon(θejar)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEegar][þegar]]
+
+1. adv. already, at once
+2. conj. when
+
+*** þess(i)
+pron. {{{phon(θesː)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEessi][þessi]]
+
+1. this
+
+See also [[file:./dictionary.md#sa][sá]]
 
 *** Þór
 pn.m. {{{phon(θɔr)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rr-A][Þórr]]
@@ -3913,6 +4431,11 @@ sn.m. {{{phon(θɔrsdaɣ)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE
 
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
+
+*** því
+adv. {{{phon(θwe)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEv%C3%AD][því]]
+
+1. because
 
 * Notes                                                            :noexport:
 ** Declension templates
