@@ -35,6 +35,10 @@ const simplifiedHead = [
         content: 'Documentation of P’undrak’s constructed languages',
       },
       {
+        name: 'fediverse:creator',
+        content: '@phundrak@phundrak.com',
+      },
+      {
         name: 'twitter:card',
         content: 'summary',
       },
