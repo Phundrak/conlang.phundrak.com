@@ -18,7 +18,6 @@
 # - Give a chart of the free pronouns and/or anaphoric clitics.
 
 **** Personal Pronouns
-
 #+name: 1-2-personal-pronouns-table
 #+caption: First and second person pronouns in Eittlandic
 |      | 1s  | 2s  | 1p  | 2p  |
@@ -31,8 +30,7 @@
 The only notable change in written form from their Early Old Norse
 version is the regularization of the genitive plural second person
 /yðar/ into /yðr/. Otherwise, most changes only happened regarding their
-phonology as explained in [[file:./phonology.md#evolution-from-early-old-norse-to-eittlandic][the evolution from Early Old Norse to
-Eittlandic]].
+phonology as explained in [[file:./phonology.md#evolution-from-early-old-norse-to-eittlandic][the evolution from Early Old Norse to Eittlandic]].
 
 #+name: 3-personal-pronouns-table
 #+caption: Third person pronouns in Eittlandic

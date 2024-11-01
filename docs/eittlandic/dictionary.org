@@ -85,6 +85,19 @@ added when no other underlying vowel can replace it). The definite
 form of a noun is indicated in its declension table.
 
 ** A
+*** af(i)
+wn.m. {{{phon(af)}}}, from ON [[https://old-norse.net/html/a.php#afi][afi]]
+
+1. grand-father
+2. old, elderly man
+
+|      | Sg. | Def.Sg. | Pl.  | Def.Pl. |
+|------+-----+---------+------+---------|
+| Nom. | af  | afit    | afr  | afitr   |
+| Acc. | af  | afit    | af   | afit    |
+| Dat. | af  | afit    | afum | afitum  |
+| Gen. | afs | afits   | afs  | afit    |
+
 *** alf
 wn.m. {{{phon(ɑlf)}}}
 
@@ -185,6 +198,51 @@ sn.n. {{{phon(ˈɑnːɑˌmɑn)}}}, from [[file:./dictionary.md#annar][annar]] an
 
 1. other, different
 
+*** amm(a)
+wn.f. {{{phon(amː)}}}, from ON [[https://old-norse.net/html/a.php#amma][amma]]
+
+1. grand-mother, granny
+2. old, elderly woman
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | amm  | ammat   | amm   | ammatr  |
+| Acc. | amm  | ammat   | amm   | ammat   |
+| Dat. | amm  | ammat   | ammum | ammatum |
+| Gen. | amms | ammats  | amms  | ammat   |
+
+*** aptr
+adv., prep. {{{phon(ɑɸtr̩)}}}, from ON [[https://old-norse.net/html/a.php#aptr-I][aptr]]
+
+1. behind, in or to the rear of, at the back of
+
+   #+html: ::: tip Example
+   Hann standt aptr húsit
+
+   He stood behind the house
+   #+html: :::
+2. after in time or sequence
+
+   #+html: ::: tip Example
+   Ek kœmt hér aptr þér
+
+   I came here after you
+   #+html: :::
+3. supporting or backing someone or something
+
+   #+html: ::: tip Example
+   Ek standar aptr þér
+
+   I stand behind you, i.e. I support you
+   #+html: :::
+4. lagging or falling behind in progress or development
+
+   #+html: ::: tip Example
+   Hann er aptr í nem
+
+   He is behind his studies
+   #+html: :::
+
 *** aug(a)
 wn.n. {{{phon(ɔ̀j)}}}
 
@@ -207,6 +265,18 @@ wn.n. {{{phon(ˈɔtoˌmobel)}}}, from Ancient Greek [[https://en.wiktionary.org/
 See [[file:./dictionary.md#bil][bil]] for declensions.
 
 ** Á
+*** á
+sn.f. {{{phon(ɛ̀)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A13][á]]
+
+1. river
+
+|      | Sg. | Def.Sg. | Pl. | Def.Pl. |
+|------+-----+---------+-----+---------|
+| Nom. | ár  | ánn     | ár  | ánn     |
+| Acc. | á   | án      | á   | án      |
+| Dat. | á   | án      | áum | ánum    |
+| Gen. | ár  | áns     | ár  | án      |
+
 *** ábreið(a)
 wn.f. {{{phon(ɛ̀brɑɪð)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1brei%C3%B0a][ábreiða]]
 
@@ -234,12 +304,36 @@ borrowed early on from an Eskaleut language that may have been spoken
 by the island’s initial inhabitants. Compare modern-day Aleut /aang/ and
 Proto-Eskimoan /*aa/ or /*ii/.
 
+*** ást
+sn.f. {{{phon(ɛ̀ʃt)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1st][ást]]
+
+1. love, affection
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | ástr  | ástinn  | ástr  | ástinn  |
+| Acc. | ást   | ástin   | ást   | ástin   |
+| Dat. | ást   | ástin   | ástum | ástinum |
+| Gen. | ástar | ástins  | ástar | ástin   |
+
 *** áð
 adv. {{{phon(ɛ̀ð)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1%C3%B0r][áðr]]
 
 1. before, temporal precedence or higher priority
 
 ** B
+*** barn
+sn.n. {{{phon(barn)}}}, from ON [[https://old-norse.net/html/b.php#barn][barn]]
+
+1. child
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | barn  | barnit  | barn   | barnitr  |
+| Acc. | barn  | barnit  | barn   | barnit   |
+| Dat. | barn  | barnit  | barnum | barnitum |
+| Gen. | barns | barnits | barns  | barnit   |
+
 *** bát
 sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][bátr]]
 
@@ -251,6 +345,29 @@ sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][
 | Acc. | bát   | bátin   | bát   | bátin   |
 | Dat. | bát   | bátin   | bátum | bátinum |
 | Gen. | bátar | bátins  | bátar | bátin   |
+
+*** ber(a)
+sv. {{{phon(ber)}}}, from ON [[https://old-norse.net/html/b.php#bera3-A][bera]]
+
+1. to transport or convey something from one place to another
+2. to hold and move something
+
+Declensions:
+- infinitive :: ber
+- imperative :: ber
+- imperative passive voice :: berask
+- present participle :: berand
+- past participle :: berit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | berar      | berir       | bert  | berumk  |
+|   2s   |   | berar      | berir       | bert  | bersk   |
+|   3s   |   | berar      | berir       | bert  | berask  |
+|   1p   |   | berum      | berim       | berum | berumk  |
+|   2p   |   | berið      | berið       | beruð | berask  |
+|   3p   |   | berið      | berið       | beruð | berask  |
 
 *** bil
 wn.n. {{{phon(βil)}}}, shortened from of [[file:./dictionary.md#automobil][automobil]]
@@ -419,7 +536,11 @@ See [[file:dictionary.md#bok(r)][/bók/]]
 *** bú
 wn.m. {{{phon(bò)}}}
 
-1. dweller, neighbour
+1. dweller
+2. general meaning of /neighbour/, can also mean someone living in the
+   neighbourhood or in the same general area
+
+See also [[file:./dictionary.md#grann-i][grann(i)]] and [[file:./dictionary.md#nagrann-i][nágrann(i)]]
 
 |      | Sg. | Def.Sg. | Pl.  | Def.Pl. |
 |------+-----+---------+------+---------|
@@ -483,19 +604,19 @@ ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 
 Alternative form: *djópleg*
 
-*** dótt(i)
+*** dótt(u)
 sn.f. {{{phon(dɔ̀ʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
-| Nom. | dóttr  | dóttinn | dœttr  | dœttinn  |
-| Acc. | dótt   | dóttin  | dœtt   | dœttin   |
-| Dat. | dótt   | dóttin  | dœttum | dœttinum |
-| Gen. | dóttir | dóttins | dœttar | dœttin   |
+| Nom. | dóttr  | dóttunn | dóttr  | dóttunn  |
+| Acc. | dótt   | dóttun  | dótt   | dóttun   |
+| Dat. | dótt   | dóttun  | dóttum | dóttunum |
+| Gen. | dóttur | dóttuns | dóttur | dóttun   |
 
-*** dyr(r)
+*** dyr
 sn.f. {{{phon(dyr)}}}, from ON [[https://old-norse.net/html/d.php#dyrr][dyrr]]
 
 1. door
@@ -607,6 +728,26 @@ adv. {{{phon(ɑɪɣ)}}}, in some regions {{{phon(ɑɪ)}}} and written /ei/, from
 |   |    Dat. | einum  | eitum  |
 |   |    Gen. | einar  | eitr   |
 
+*** einnig
+adv. {{{phon(ɑinːiɣ)}}}, from ON [[https://old-norse.net/html/e.php#einnig][einnig]]
+
+1. also, too
+
+   Something is in addition to something that hwas already been said
+2. likewise, similarly
+
+   Something is the same or similar to something that has already been
+   said
+
+   #+html: ::: tip Example
+   Ek málar Fransk, ok hann einnig
+
+   I speak French, and so does he.
+   #+html: :::
+3. moreover, furthermore
+
+   Introduce new but related information
+
 *** Eittland
 sn.n. {{{phon(ɑɪʔlɑnd)}}}, from OE neutral /einn/ (/alone/, /lonely/), itself from
 ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.net/html/l.php#land][land]]
@@ -621,10 +762,75 @@ ON [[https://old-norse.net/html/e.php#einn][einn]], and ON [[https://old-norse.n
 | Dat. | Eittland  |
 | Gen. | Eittlands |
 
+*** ekt(a)
+{{{phon(ekt)}}}, from ON [[https://old-norse.net/html/e.php#ektar-][ektar-]]
+
+1. adj. wedded
+2. wn.n. spouse
+3. wv. to marry
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | ektr   | ektt   |
+| Acc.    | ekt    | ektt   |
+| Dat.    | ektum  | ektum  |
+| Gen.    | ekts   | ekts   |
+| Pl.Nom. | ektar  | ekt    |
+| Acc.    | ekt    | ekt    |
+| Dat.    | ektum  | ektum  |
+| Gen.    | ektar  | ektr   |
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | ekt  | ektat   | ektr  | ektatr  |
+| Acc. | ekt  | ektat   | ekt   | ektat   |
+| Dat. | ekt  | ektat   | ektum | ektatum |
+| Gen. | ekts | ektats  | ekts  | ektat   |
+
+Declensions:
+- infinitive :: ekt
+- imperative :: ekt
+- imperative passive voice :: ektask
+- present participle :: ektand
+- past participle :: ektit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | ektar      | ektir       | ekt   | ektumk  |
+|   2s   |   | ektar      | ektir       | ekt   | ekttisk |
+|   3s   |   | ektar      | ektir       | ekt   | ekttisk |
+|   1p   |   | ektum      | ektim       | ektum | ektumk  |
+|   2p   |   | ektið      | ektið       | ektuð | ekttisk |
+|   3p   |   | ektið      | ektið       | ektuð | ekttisk |
+
+*** ektakon(a)
+sn.f. {{{phon(ˈekt.a.ˌkon)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#kon-a][kon(a)]]
+
+1. wife
+
+For declensions, see [[file:./dictionary.md#kon-a][kon(a)]]
+
+*** ektaman
+sn.m. {{{phon(ˈekt.a.ˌman)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#man][man]]
+
+1. husband
+
+For declensions, see [[file:./dictionary.md#man][man]]
+
 *** eld
 sn.m. {{{phon(eld)}}}, from ON [[https://old-norse.net/html/e.php#eldr2][eldr]]
 
-1. fire
+1. fire, the phenomenon of combustion characterised by the emission of
+   heat and light
+2. passion, intensity, driving force, strong emotion or enthusiasm;
+   intense feeling or desire; a powerful and motivating force
+
+   #+html: ::: tip Example
+   Hann havir eld fyrir verkit hennum
+
+   He has great passion for his project
+   #+html: :::
 
 |      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------+---------+-------+---------|
@@ -866,7 +1072,7 @@ sn.n. {{{phon(fjɑlː)}}}, from ON [[https://old-norse.net/html/f.php#fjall][fja
 | Dat. | fjall  | fjallit  | fjallum | fjallitum |
 | Gen. | fjalls | fjallits | fjalls  | fjallit   |
 
-*** flekk(r)
+*** flekk
 sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekkr]]
 
 1. spot, e.g. of colour
@@ -878,6 +1084,18 @@ sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekk
 | Dat. | flekk   | flekkin  | flekkum | flekkinum |
 | Gen. | flekkar | flekkins | flekkar | flekkin   |
 
+*** foreld
+sn.m. {{{phon(ˈfor.eld)}}}, from ON [[https://old-norse.net/html/f.php#forellri][foreldri]]
+
+1. parent
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | foreldr  | foreldinn | foreldr  | foreldinn  |
+| Acc. | foreld   | foreldin  | foreld   | foreldin   |
+| Dat. | foreld   | foreldin  | foreldum | foreldinum |
+| Gen. | foreldir | foreldins | foreldir | foreldin   |
+
 *** Frídag
 sn.m. {{{phon(frèdaɣ)}}}, from EON [[https://old-norse.net/html/f.php#frj%C3%A1dagr][fríadagr]]
 
@@ -885,6 +1103,18 @@ sn.m. {{{phon(frèdaɣ)}}}, from EON [[https://old-norse.net/html/f.php#frj%C3%
 
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
+
+*** fogl
+sn.m. {{{phon(fogl̩)}}}, from ON [[https://old-norse.net/html/f.php#fugl][fugl]]
+
+1. bird
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | fugl   | fuglinn | fugl   | fuglinn  |
+| Acc. | fugl   | fuglin  | fugl   | fuglin   |
+| Dat. | fugl   | fuglin  | fuglum | fuglinum |
+| Gen. | fuglar | fuglins | fuglar | fuglin   |
 
 *** fylgj(a)
 wv. {{{phon(fyʎ)}}}, from ON [[https://old-norse.net/html/f.php#fylgja2][fylgja]]
@@ -987,6 +1217,20 @@ adv. {{{phon(jeɡn̩)}}}, from ON [[https://en.wiktionary.org/wiki/gegn#Old_Nors
 1. against, opposing
 
 Alternative form: *jegn*
+
+*** geit
+sn.f. {{{phon(jɑɪt)}}}, from ON [[https://old-norse.net/html/g.php#geit][geit]]
+
+1. she-goat
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | geitr  | geitinn | geitr  | geitinn  |
+| Acc. | geit   | geitin  | geit   | geitin   |
+| Dat. | geit   | geitin  | geitum | geitinum |
+| Gen. | geitar | geitins | geitar | geitin   |
+
+See also [[file:./dictionary.md#haf][haf]]
 
 *** ger(a)
 iv. {{{phon(jer)}}}, from ON [[https://old-norse.net/html/g.php#g%C3%B6ra][göra]]
@@ -1101,6 +1345,13 @@ wn.n. {{{phon(ɡrað)}}}, from Latin [[https://en.wiktionary.org/wiki/gradus#Lat
 | Dat. | grað  | graðat  | graðum | graðatum |
 | Gen. | graðs | graðats | graðs  | graðat   |
 
+*** grann(i)
+wn.m. {{{phon(ɡrɑnː)}}}, from ON [[https://old-norse.net/html/g.php#granni][granni]]
+
+1. neighbour, someone who lives nearby
+
+See also [[file:./dictionary.md#bu][bú]]
+
 *** grá
 adj. {{{phon(ɡrɛ̀)}}}, from ON [[https://old-norse.net/html/g.php#gr%C3%A1r][grár]]
 
@@ -1177,6 +1428,41 @@ adj. {{{phon(ɡrœn)}}}, from ON [[https://old-norse.net/html/g.php#gr%C3%A6nn][
 | Gen. | guls | gulits  | guls  | gulit   |
 
 ** H
+*** haf
+sn.m. {{{phon(hɑf)}}}, from ON [[https://old-norse.net/html/h.php#hafr][hafr]]
+
+1. he-goat
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | hafr  | hafinn  | hafr  | hafinn  |
+| Acc. | haf   | hafin   | haf   | hafin   |
+| Dat. | haf   | hafin   | hafum | hafinum |
+| Gen. | hafar | hafins  | hafar | hafin   |
+
+See also [[file:./dictionary.md#geit][geit]]
+
+*** han
+wn.m. {{{phon(hɑn)}}}, from ON [[https://old-norse.net/html/h.php#hani][hani]]
+
+1. a rooster, a cock (animal only)
+2. someone who is excessively proud, boastful, or self-important; a
+   person who likes to show off or brag
+3. a representation of vigilance, alertness, or watchfulness; a symbol
+   of being on guard or assertive
+4. (slightly dated) a representation of masculinity, virility, or male
+   strength; a symbol of male dominance or prowess; used negatively by
+   most native speakers that are not elderly
+5. (dated) someone who is a leader or a dominant figure in a group; a
+   person who likes being in charge of and guiding others
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | han  | hanit   | hanr  | hanitr  |
+| Acc. | han  | hanit   | han   | hanit   |
+| Dat. | han  | hanit   | hanum | hanitum |
+| Gen. | hans | hanits  | hans  | hanit   |
+
 *** hav(a)
 iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][hafa]]
 
@@ -1270,6 +1556,31 @@ wn.f. {{{phon(ˈhɛ̀ðzˌdø̀n)}}}, from [[file:./dictionary.md#havuð][hávu�
 
 See [[file:./dictionary.md#dyn-a][dýn(a)]] for declensions.
 
+*** hef
+sv. {{{phon(hef)}}}, from ON [[https://old-norse.net/html/h.php#hefja-A][hefja]]
+
+1. to heave, lift, raise, move something upward
+2. to elevate or raise the status or importance of something
+3. to remove or alleviate a burden or difficultyu
+4. to enhance or improve something
+
+Declensions:
+- infinitive :: hef
+- imperative :: hef
+- imperative passive voice :: hefjask
+- present participle :: hefjand
+- past participle :: hefit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | hefjar     | hefir       | heft   | hefjumk |
+|   2s   |   | hefjar     | hefir       | heft   | hefsk   |
+|   3s   |   | hefjar     | hefir       | heft   | hefisk  |
+|   1p   |   | hefjum     | hefim       | hefjum | hefjumk |
+|   2p   |   | hefið      | hefið       | hefjuð | hefisk  |
+|   3p   |   | hefið      | hefið       | hefjuð | hefisk  |
+
 *** heim
 {{{phon(hɑɪm)}}}
 
@@ -1309,6 +1620,33 @@ wn.m. {{{phon(her)}}}, from Danish /herr/.
 | Acc. | her  | herit   | her   | herit   |
 | Dat. | her  | herit   | herum | heritum |
 | Gen. | hers | herits  | hers  | herit   |
+
+*** hest
+sn.m. {{{phon(heʃt)}}}, from ON [[https://old-norse.net/html/h.php#hestr][hestr]]
+
+1. horse (generic term)
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | hestr  | hestinn | hestr  | hestinn  |
+| Acc. | hest   | hestin  | hest   | hestin   |
+| Dat. | hest   | hestin  | hestum | hestinum |
+| Gen. | hestar | hestins | hestar | hestin   |
+
+See also [[file:./dictionary.md#hros][hros]]
+
+*** himin
+sn.m. {{{phon(him.in)}}}, from ON [[https://old-norse.net/html/h.php#himinn-note][himinn]]
+
+1. sky (generic term)
+2. Christian heaven
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | himinn  | himininn | himinn  | himininn  |
+| Acc. | himin   | himinin  | himin   | himinin   |
+| Dat. | himin   | himinin  | himinum | himininum |
+| Gen. | himinar | himinins | himinar | himinin   |
 
 *** historja
 wn.f. {{{phon(heʃtˈorjə)}}}, from Latin [[https://en.wiktionary.org/wiki/historia#Latin][historia]]
@@ -1542,7 +1880,7 @@ Declensions:
 |   2p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
 |   3p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
 
-*** hóst(r)
+*** hóst
 sn.m. {{{phon(hɔ̀ʃt)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B3str][hóstr]]
 
 1. lower part of the throat
@@ -1585,6 +1923,21 @@ sn.m. {{{phon(r̥iŋ)}}}, from ON [[https://old-norse.net/html/h.php#hringr-I][h
 pn. {{{phon(ˈr̥iŋarˌherensˌsɑjɑt)}}}
 
 1. /The Lord of the Rings/, litt. /The Story of the Lord of the Ring/
+
+*** hros
+sn.n. {{{phon(r̩os)}}}, from ON [[https://old-norse.net/html/h.php#hross][hross]]
+
+1. horse; archaic, poetic word with a connotation of nobility,
+   strength, or wilderness
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | hros  | hrosit  | hros   | hrositr  |
+| Acc. | hros  | hrosit  | hros   | hrosit   |
+| Dat. | hros  | hrosit  | hrosum | hrositum |
+| Gen. | hross | hrosits | hross  | hrosit   |
+
+See also [[file:./dictionary.md#hest][hest]]
 
 *** hug(a)
 sv. {{{phon(huj)}}}
@@ -1633,7 +1986,7 @@ Declensions:
 |   2p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 |   3p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 
-*** hund(r)
+*** hund
 sn.m. {{{phon(hund)}}}, from ON [[https://old-norse.net/html/h.php#hundr][hundr]]
 
 1. dog
@@ -1795,6 +2148,19 @@ interj. {{{phon(ixːə)}}}
 From an unkwnown Greenlandic language, compare with modern Greenlandic
 /ikkii/.
 
+*** inhald
+wn.n. {{{phon(ˈinhald)}}}, from ON [[https://old-norse.net/html/i.php#innihald][innihald]]
+
+1. written content
+2. web page content
+
+|      | Sg.     | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+---------+-----------+----------+------------|
+| Nom. | inhald  | inhaldit  | inhaldr  | inhalditr  |
+| Acc. | inhald  | inhaldit  | inhald   | inhaldit   |
+| Dat. | inhald  | inhaldit  | inhaldum | inhalditum |
+| Gen. | inhalds | inhaldits | inhalds  | inhaldit   |
+
 *** iþat
 adv. {{{phon(iθat)}}}, from OE /eptir þat/.
 
@@ -1802,7 +2168,31 @@ adv. {{{phon(iθat)}}}, from OE /eptir þat/.
 
    Introduces an unexpected continuation or a contrast
 
+*** Internet
+sn.f. {{{ent.er.ˈet)}}}, from English /Internet/
+
+1. Internet
+
+|      | Sg.        | Def.Sg.     | Pl.        | Def.Pl.      |
+|------+------------+-------------+------------+--------------|
+| Nom. | Internetr  | Internetinn | Internetr  | Internetinn  |
+| Acc. | Internet   | Internetin  | Internet   | Internetin   |
+| Dat. | Internet   | Internetin  | Internetum | Internetinum |
+| Gen. | Internetar | Internetins | Internetar | Internetin   |
+
 ** Í
+*** ís
+sn.m. {{{phon(ès)}}}, from ON [[https://old-norse.net/html/ii.php#%C3%ADss][íss]]
+
+1. ice
+
+|      | Sg.  | Def.Sg. | Pl.  | Def.Pl. |
+|------+------+---------+------+---------|
+| Nom. | íss  | ísinn   | íss  | ísinn   |
+| Acc. | ís   | ísin    | ís   | ísin    |
+| Dat. | ís   | ísin    | ísum | ísinum  |
+| Gen. | ísar | ísins   | ísar | ísin    |
+
 ** J
 *** jak
 wn.n. {{{phon(jak)}}}, from Tibetan [[https://en.wiktionary.org/wiki/%E0%BD%82%E0%BD%A1%E0%BD%82#Tibetan][yak (གཡག)]].
@@ -1940,6 +2330,19 @@ Declensions:
 |   2p   |   | kennið     | kennið      | kennuð | kendisk |
 |   3p   |   | kennið     | kennið      | kennuð | kendisk |
 
+*** ker
+wn.n. {{{phon(ker)}}}, from ON [[https://old-norse.net/html/k.php#ker][ker]]
+
+1. recipient, bassin
+2. vessel
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | ker  | kerit   | kerr  | keritr  |
+| Acc. | ker  | kerit   | ker   | kerit   |
+| Dat. | ker  | kerit   | kerum | keritum |
+| Gen. | kers | kerits  | kers  | kerit   |
+
 *** kék
 adj. {{{phon(kɛk)}}}
 
@@ -2028,6 +2431,19 @@ Declensions:
 |   2p   |   | komið      | komið       | kómuð | kómsk   |
 |   3p   |   | komið      | komið       | kómuð | kómsk   |
 
+*** kon(a)
+sn.f. {{{phon(kon)}}}, from ON [[https://old-norse.net/html/k.php#kona][kona]]
+
+1. woman
+2. wife (colloquial)
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | konr  | konann  | konr  | konann  |
+| Acc. | kon   | konan   | kon   | konan   |
+| Dat. | kon   | konan   | konum | konanum |
+| Gen. | konar | konans  | konar | konan   |
+
 *** Konung
 sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
 
@@ -2062,6 +2478,18 @@ Alternative form:  *kononglej*
 | Acc.    | konunglig   | konunglig   |
 | Dat.    | konungligum | konungligum |
 | Gen.    | konungligar | konungligr  |
+
+*** kú
+sn.f. {{{phon(kò)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BDr][kýr]]
+
+1. cow
+
+|      | Sg.  | Def.Sg. | Pl.  | Def.Pl. |
+|------+------+---------+------+---------|
+| Nom. | kúr  | kúnn    | kúr  | kúnn    |
+| Acc. | kú   | kún     | kú   | kún     |
+| Dat. | kú   | kún     | kúm  | kúnum   |
+| Gen. | kúr  | kúns    | kúr  | kún     |
 
 *** kúr(a)
 sv. {{{phon(kòr)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BAra][kúra]]
@@ -2281,6 +2709,20 @@ sn.m. {{{phon(liʃtsmið)}}}, from [[file:./dictionary.md#list][list]] and [[fil
 
 For declensions, see [[file:./dictionary.md#smið][-smið]].
 
+*** lit
+sn.m. {{{phon(lit)}}}, from ON [[https://old-norse.net/html/l.php#litr][litr]]
+
+1. colour, hue
+2. shade, tint
+3. dye
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | litr  | litinn  | litr  | litinn  |
+| Acc. | lit   | litin   | lit   | litin   |
+| Dat. | lit   | litin   | litum | litinum |
+| Gen. | litar | litins  | litar | litin   |
+
 *** lit(a)
 wv. {{{phon(lit)}}}, from ON [[https://old-norse.net/html/l.php#lita][lita]]
 
@@ -2309,7 +2751,10 @@ Declensions:
 sn.n. {{{phon(lèv)}}}, from ON [[https://old-norse.net/html/l.php#l%C3%ADf][líf]]
 
 1. life
-2. spirit, soul
+2. the period during which something is functional or durable
+3. a way or manner of living
+4. the state or fact of being alive
+5. vitality, energy, or spirit
 
 Alternative form: *lef*
 
@@ -2346,6 +2791,12 @@ Alternative form: *lefsvén*
 1. (wv) to like
 2. (adv) like, similar to
 3. (adv) also
+
+   #+html: ::: tip Example
+   Hann talar á Ensk og líka Fransk.
+
+   He speaks English and also French.
+   #+html: :::
 
 - infinitive :: lík
 - imperative :: lík
@@ -2438,7 +2889,8 @@ in.m. {{{phon(mɑð)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0r][m
 
 1. man
 2. person
-3. interj. (colloquial) dude (indefinite accusative only)
+3. husband (colloquial)
+4. interj. (colloquial) dude (indefinite accusative only)
 
 |      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
 |------+-------+---------+--------+----------|
@@ -2551,6 +3003,14 @@ used to refer to a moon in its astronomical sense. In general
 Eittlandic, /Mán/ tends to more often means /the moon/. In written
 Eittlandic, /mán/ generally means /a moon/, while /Mán/ generally means /the
 (Earth’s) moon/.
+
+*** mánsveg
+sn.m. {{{phon(mɛ̀ns.βeɣ)}}}, from [[file:./dictionary.md#man-i][mán(i)]] and [[file:./dictionary.md#veg][veg]]
+
+1. sky, with a connotation with space (litteraly /moon's way/)
+2. stratosphere
+
+For declensions, see [[file:./dictionary.md#veg][veg]]
 
 *** Mánsdag
 sn.m. {{{phon(mɛ̀nsdaɣ)}}} from ON [[https://old-norse.net/html/m.php#m%C3%A1nadagr][mánadagr]]
@@ -2723,6 +3183,28 @@ adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Nor
 
 Alternative form: *né*
 
+adj. from ON [[https://old-norse.net/html/n.php#n%C3%A6r][nær]]
+
+1. near
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | nár    | nát    |
+| Acc.    | ná     | nát    |
+| Dat.    | námum  | námum  |
+| Gen.    | nás    | nás    |
+| Pl.Nom. | nárar  | ná     |
+| Acc.    | ná     | ná     |
+| Dat.    | námum  | námum  |
+| Gen.    | nárar  | nár    |
+
+*** nágrann(i)
+wn.m. {{{phon(nɛ̀.ɡrɑnː)}}}, from [[file:./dictionary.md#na][ná]] and [[file:./dictionary.md#grann-i][grann(i)]]
+
+1. immediate neighbour, next door or next house over
+
+See also [[file:./dictionary.md#bu][bú]]
+
 *** nákkur
 indef.pron. {{{phon(nɛ̀χor)}}}, from EON [[https://old-norse.net/html/n.php#n%C3%B6kkurr][nǫkkur]]
 
@@ -2776,6 +3258,46 @@ Proto-Eskimoan /*nanka/, and Western Greenlandic /naagga/.
 
 - conj. but (emphasis on counterfactual)
 - adv. expect, save, but
+- wn.n. studies, from [[file:./dictionary.md#nem-a][nem(a)]]
+  1. the act or process of learning or acquiring knowledge, especially
+     through systematic investigation or instruction
+  2. a particular field or subject of academic study
+  3. a collection of academic research or investigations
+
+#+name: nem-noun-decl
+#+caption: Declensions of nem as a noun
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | nem  | nemat   | nemm  | nematr  |
+| Acc. | nem  | nemat   | nem   | nemat   |
+| Dat. | nem  | nemat   | nemum | nematum |
+| Gen. | nems | nemats  | nems  | nemat   |
+
+*** nem(a)
+sv. {{{phon(nem)}}}, from ON [[https://old-norse.net/html/n.php#nema2-A][nema]]
+
+1. to study, to apply oneself to the acquisition of knowledge, as by
+   reading, inverstigation, or practice.
+2. to examine or investigate something closely
+3. to memorize or learn something by heart
+4. to be engaged in academic pursuits
+
+Declensions:
+- infinitive :: nem
+- imperative :: nem
+- imperative passive voice :: nemask
+- present participle :: nemand
+- past participle :: nemit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | nemar      | nemir       | nemt  | nemumk  |
+|   2s   |   | nemar      | nemir       | nemt  | nemsk   |
+|   3s   |   | nemar      | nemir       | nemt  | nemask  |
+|   1p   |   | nemum      | nemim       | nemum | nemumk  |
+|   2p   |   | nemið      | nemið       | nemuð | nemask  |
+|   3p   |   | nemið      | nemið       | nemuð | nemask  |
 
 *** norvegsúlf
 sn.m. {{{phon(ˈnorβejsˌòlv)}}}, from ON /Noregs/ (genitive of ON [[https://old-norse.net/html/n.php#noregr][Noregr]]) and ON
@@ -2791,6 +3313,24 @@ inherited the simpler /úlfr/ term. Noun composed by Old Norse /noregs/
 (genitive of /Noregr/, /Norway/) and /úlfr/.
 
 For declensions, see [[file:./dictionary.md#ulf][úlf]].
+
+*** ný
+adj. {{{phon(nø̀)}}}, from ON [[https://old-norse.net/html/n.php#n%C3%BDr][nýr]]
+
+1. new
+2. recent, new
+3. fresh
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | nýr    | nýt    |
+| Acc.    | ný     | nýt    |
+| Dat.    | nývum  | nývum  |
+| Gen.    | nýs    | nýs    |
+| Pl.Nom. | nývar  | ný     |
+| Acc.    | ný     | ný     |
+| Dat.    | nývum  | nývum  |
+| Gen.    | nývar  | nýr    |
 
 ** O
 *** ok
@@ -2967,6 +3507,13 @@ sn.m. {{{phon(ɔ̀sː)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3ss]
 | Acc. | óss   | óssin   | óss   | óssin   |
 | Dat. | óss   | óssin   | óssum | óssinum |
 | Gen. | óssar | óssinan | óssar | óssin   |
+
+*** óvin
+sn.m. {{{phon(ɔ̀β.en)}}}, from [[file:./dictionary.md#o][ó-]] and [[file:./dictionary.md#vin][vin]]
+
+1. enemy
+
+For declensions, see [[file:./dictionary.md#vin][vin]]
 
 ** P
 *** park
@@ -3212,6 +3759,56 @@ wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
 
 See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
 
+*** sand
+sn.m. {{{phon(sɑnd)}}}, from ON [[https://old-norse.net/html/s.php#sandr][sandr]]
+
+1. sand
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | sandr  | sandinn | sandr  | sandinn  |
+| Acc. | sand   | sandin  | sand   | sandin   |
+| Dat. | sand   | sandin  | sandum | sandinum |
+| Gen. | sandar | sandins | sandar | sandin   |
+
+*** sann
+adj. {{{phon(sɑnː)}}}, from ON [[https://old-norse.net/html/s.php#sannr][sannr]]
+
+1. true
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | sann   | satt  |
+| Acc.    | sann   | satt   |
+| Dat.    | sannum | sannum |
+| Gen.    | sanns  | sanns  |
+| Pl.Nom. | sannar | sann   |
+| Acc.    | sann   | sann   |
+| Dat.    | sannum | sannum |
+| Gen.    | sannar | sannr  |
+
+*** sauð
+sn.m. {{{phon(sɔð)}}}, from ON [[https://old-norse.net/html/s.php#sau%C3%B0r][sauðr]]
+
+1. sheep
+2. a crowd or flock; a large gathering of people, often moving or
+   behaving in a similar manner
+3. a source of comfort or warmth, something that provides comfort,
+   warmth, or a sense of security; a soothing or comforting presence
+
+   #+html: ::: tip Example
+   Han es sauðin í lífit mínt
+
+   She is the sheep in my life; she is a source of comfort and warmth
+   #+html: :::
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | sauðr  | sauðinn | sauðr  | sauðinn  |
+| Acc. | sauð   | sauðin  | sauð   | sauðin   |
+| Dat. | sauð   | sauðin  | sauðum | sauðinum |
+| Gen. | sauðar | sauðins | sauðar | sauðin   |
+
 *** sá
 {{{phon(sɛ̀)}}}
 
@@ -3323,6 +3920,20 @@ Declensions:
 |   1p   |   | sitjum     | sitim       | setum | sitjumk |
 |   2p   |   | sitið      | sitið       | setuð | sitjask |
 |   3p   |   | sitið      | sitið       | setuð | sitjask |
+
+*** síð(a)
+wf.n. {{{phon(sèð)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%AD%C3%B0a][síða]]
+
+1. side (of something)
+2. side, direction
+3. site, location (often figurative)
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | síð  | síðat   | síðr  | síðatr  |
+| Acc. | síð  | síðat   | síð   | síðat   |
+| Dat. | síð  | síðat   | síðum | síðatum |
+| Gen. | síðs | síðats  | síðs  | síðat   |
 
 *** síðan
 adv. {{{phon(sèðɑn)}}}, from ON
@@ -3465,6 +4076,37 @@ sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][sk
 | Dat. | skipan   | skipanin  | skipanum | skipaninum |
 | Gen. | skipanar | skipanins | skipanar | skipanin   |
 
+*** skipt(a)
+sv. {{{phon(ʃkiɸt)}}}, from ON [[https://old-norse.net/html/s.php#skipta][skipta]]
+
+1. to change, to make something different or alter its state
+2. to switch, to toggle, to move from one state or position to
+   another, especially in the context of mechanical or electronic
+   devices
+3. to exchange, to give something and receive something else in return
+4. to shift, to move or transfer something from one place or position
+   to another
+5. to alter, modify, to make adjustments or modifications to something
+6. to replace, to put something new in the place of something old or
+   existing
+
+Declensions:
+- infinitive :: skipt
+- imperative :: skipt
+- imperative passive voice :: skiptask
+- present participle :: skiptand
+- past participle :: skiptit
+
+|  <c>   |   |            |             |         |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past    | Passive  |
+|--------+---+------------+-------------+---------+----------|
+|   1s   |   | skiptar    | skiptir     | skipt   | skiptumk |
+|   2s   |   | skiptar    | skiptir     | skipt   | skiptisk |
+|   3s   |   | skiptar    | skiptir     | skipt   | skiptisk |
+|   1p   |   | skiptum    | skiptim     | skiptum | skiptumk |
+|   2p   |   | skiptið    | skiptið     | skiptuð | skiptisk |
+|   3p   |   | skiptið    | skiptið     | skiptuð | skiptisk |
+
 *** skín
 wn.n. {{{phon(skèn)}}}, from [[file:./dictionary.md#skin-a][skín(a)]]
 
@@ -3521,6 +4163,22 @@ sn.n. {{{phon(ˈʃkètˌrɛ̀ð)}}}, from [[file:./dictionary.md#skit][skít]] 
 
 For declensions, see [[file:./dictionary.md#rað][ráð]].
 
+*** skóg
+sn.m. {{{phon(ʃkɔ̀ɣ)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%B3gr][skógr]]
+
+1. forest, woods, a large area covered chiefly with trees and
+   undergrowth
+2. an intricate, densely connected system or network, reminiscent of
+   the structure of a forest
+3. the Internet (colloquial, definite only)
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | skógr  | skóginn | skógr  | skóginn  |
+| Acc. | skóg   | skógin  | skóg   | skógin   |
+| Dat. | skóg   | skógin  | skógum | skóginum |
+| Gen. | skógar | skógins | skógar | skógin   |
+
 *** smár
 adj. {{{phon(smɛ̀r)}}}, from ON [[https://old-norse.net/html/s.php#sm%C3%A1r-A][smár]]
 
@@ -3557,19 +4215,19 @@ iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#smar][smár]] and [[fil
 
  See [[file:./dictionary.md#sov-a][sov(a)]] for conjugaison.
 
-*** snjór
-sn.m. {{{phon(sɲɔ̀r)}}}, from ON [[https://en.wiktionary.org/wiki/snj%C3%B3r#Old_Norse][snjór]]
+*** snár
+sn.m. {{{phon(snɛ̀r)}}}, from ON [[https://en.wiktionary.org/wiki/snj%C3%B3r#Old_Norse][snjór]]
 
 1. snow
 
-|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
-|------+---------+----------+---------+-----------|
-| Nom. | snjórr  | snjórinn | snjórr  | snjórinn  |
-| Acc. | snjór   | snjórin  | snjór   | snjórin   |
-| Dat. | snjór   | snjórin  | snjórum | snjórinum |
-| Gen. | snjórar | snjórins | snjórar | snjórin   |
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | snárr  | snárinn | snárr  | snárinn  |
+| Acc. | snár   | snárin  | snár   | snárin   |
+| Dat. | snár   | snárin  | snárum | snárinum |
+| Gen. | snárar | snárins | snárar | snárin   |
 
-*** son(n)
+*** son
 sn.m. {{{phon(son)}}}, from ON [[https://old-norse.net/html/s.php#sonr-B][sonr]]
 
 1. son
@@ -3713,6 +4371,76 @@ sn.n. {{{phon(ʃpelː)}}}
 | Dat. | spell  | spellit  | spellum | spellitum |
 | Gen. | spells | spellits | spells  | spellit   |
 
+*** stand(a)
+sv. {{{phon(ʃtɑnd)}}}, from ON [[https://old-norse.net/html/s.php#standa-A][standa]]
+
+1. to stand, to be in an upright position, supported by the feet.
+
+   #+html: ::: tip Example
+   Ek standar hér.
+
+   I stand here.
+   #+html: :::
+2. to remain in a particular position or state
+3. to endure or withstand something
+4. to be situated or located
+
+   #+html: ::: tip Example
+   Húsit standar á háðin
+
+   The house is/stands on the hill
+   #+html: :::
+5. to take a position or stance on an issue
+
+Declensions:
+- infinitive :: stand
+- imperative :: stand
+- imperative passive voice :: standask
+- present participle :: standand
+- past participle :: standit
+
+|  <c>   |   |            |             |         |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past    | Passive  |
+|--------+---+------------+-------------+---------+----------|
+|   1s   |   | standar    | standir     | standt  | standumk |
+|   2s   |   | standar    | standir     | standt  | standsk  |
+|   3s   |   | standar    | standir     | standt  | standisk |
+|   1p   |   | standum    | standim     | standum | standumk |
+|   2p   |   | standið    | standið     | standuð | standisk |
+|   3p   |   | standið    | standið     | standuð | standisk |
+
+*** stein
+sn.m. {{{phon(ʃtɑɪn)}}}, from ON [[https://old-norse.net/html/s.php#steinn][steinn]]
+
+1. stone, a small piece of rock
+2. (metaphor) some thing or someone that is firm, resolute, or
+   reliable; a solid base or support
+
+   #+html: ::: tip Example
+   Hann es steinn í vindin.
+
+   He is a rock in the wind, i.e. he is steadfast, reliable
+   #+html: :::
+3. something that impedes progress or makes a task more difficult
+
+   #+html: ::: tip Example
+   - Þat er stein í vegin mín
+
+     That’s a stone in my path, i.e. it is an obstacle in my progress
+   #+html: :::
+
+*** stern(a)
+wn.f. {{{phon(ʃtern)}}}, from EON [[https://old-norse.net/html/s.php#stjarna][sterna]]
+
+1. star
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | stern  | sternat  | sternn  | sternatr  |
+| Acc. | stern  | sternat  | stern   | sternat   |
+| Dat. | stern  | sternat  | sternum | sternatum |
+| Gen. | sterns | sternats | sterns  | sternat   |
+
 *** styrsamhald(i)
 sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#styrr][styrr]] (stir, battle) and [[https://old-norse.net/html/s.php#samheldi][samhaldi]]
 (a holding together, unity).
@@ -3775,7 +4503,7 @@ Declensions:
 |   2p   |   | svarið     | svarið      | svaruð | svarðisk |
 |   3p   |   | svarið     | svarið      | svaruð | svarðisk |
 
-*** svart(r)
+*** svart
 adj. {{{phon(sβɑrt)}}}, from ON [[https://old-norse.net/html/s.php#svartr][svartr]]
 
 1. black
@@ -3809,6 +4537,38 @@ adj. {{{phon(sβɑrt)}}}, from ON [[https://old-norse.net/html/s.php#svartr][sva
 
      She spoke so softly
    #+html: :::
+
+*** svín
+sn.n. {{{phon(sβèn)}}}, from ON [[https://old-norse.net/html/s.php#sv%C3%ADn][svín]]
+
+1. a pig
+2. someone who is excessively greedy, gluttonous, or self-indulgent; a
+   person who consumes or desires more than they need
+3. someone or something that is dirty, messy, or unkempt; a person or
+   place characterised by disorder or filth
+4. someone who is very stubborn, obstinate, or difficult to persuade;
+   a person who refuses to change their mind or behaviour
+5. a representation of indulgence, excess, or overabundance; a symbol
+   of enjoying something to an extreme degree
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | svín  | svínit  | svín   | svínitr  |
+| Acc. | svín  | svínit  | svín   | svínit   |
+| Dat. | svín  | svínit  | svínum | svínitum |
+| Gen. | svíns | svínits | svíns  | svínit   |
+
+*** syst
+sn.f. {{{phon(syʃt)}}}, from ON [[https://old-norse.net/html/s.php#systir][systir]]
+
+1. sister
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | systr  | systinn | systr  | systinn  |
+| Acc. | syst   | systin  | syst   | systin   |
+| Dat. | syst   | systin  | systum | systinum |
+| Gen. | systir | systins | systir | systin   |
 
 ** T
 *** tak(a)
@@ -4104,6 +4864,44 @@ adj. {{{phon(βarm)}}}, from ON [[https://old-norse.net/html/v.php#varmr][varmr]
 | Dat.    | varmum | varmum |
 | Gen.    | varmar | varmr  |
 
+*** varn(a)
+sv. {{{phon(βɑrn)}}}, from ON [[https://old-norse.net/html/v.php#varna][varna]]
+
+1. warn off
+
+When used as /to warn about smth/, /varn/ uses /að/.
+
+Declensions:
+- infinitive :: varn
+- imperative :: varn
+- imperative passive voice :: varnask
+- present participle :: varnand
+- past participle :: varnit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | varnar     | varnir      | varnt  | varnumk  |
+|   2s   |   | varnar     | varnir      | varnt  | varnðisk |
+|   3s   |   | varnar     | varnir      | varnt  | varnðisk |
+|   1p   |   | varnum     | varnim      | varnum | varnumk  |
+|   2p   |   | varnið     | varnið      | varnuð | varnðisk |
+|   3p   |   | varnið     | varnið      | varnuð | varnðisk |
+
+*** varnað
+sn.m. {{{phon(βɑrnɑð)}}}, from [[file:./dictionary.md#varn-a][varn(a)]]
+
+1. warning, caution
+2. advisory
+3. alert
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | varnaðr  | varnaðinn | varnaðr  | varnaðinn  |
+| Acc. | varnað   | varnaðin  | varnað   | varnaðin   |
+| Dat. | varnað   | varnaðin  | varnaðum | varnaðinum |
+| Gen. | varnaðar | varnaðins | varnaðar | varnaðin   |
+
 *** varp
 sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
 
@@ -4117,6 +4915,42 @@ sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
 | Acc. | varp  | varpit  | varp   | varpit   |
 | Dat. | varp  | varpit  | varpum | varpitum |
 | Gen. | varps | varpits | varps  | varpit   |
+
+*** vatn
+sn.n. {{{phon(βatn̩)}}}, from ON [[https://old-norse.net/html/v.php#vatn-A][vatn]]
+
+1. water
+2. lake
+3. a fluid or adaptable situation
+4. a deep, profound feeling or sensation
+
+   #+html: ::: tip Example
+   Ástinn mínn er djúpt vatn
+
+   My love is deep water, i.e. profound and intense
+   #+html: :::
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | vatn  | vatnit  | vatn   | vatnitr  |
+| Acc. | vatn  | vatnit  | vatn   | vatnit   |
+| Dat. | vatn  | vatnit  | vatnum | vatnitum |
+| Gen. | vatns | vatnits | vatns  | vatnit   |
+
+*** váð
+wn.m. {{{phon(βɛ̀ð)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1%C3%B0i][váði]]
+
+1. danger, peril
+2. hazard, risk
+3. threat, eg. /he is a threat to society/.
+4. warning, caution, eg. /beware of dogs!/
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | váð  | váðit   | váðr  | váðitr  |
+| Acc. | váð  | váðit   | váð   | váðit   |
+| Dat. | váð  | váðit   | váðum | váðitum |
+| Gen. | váðs | váðits  | váðs  | váðit   |
 
 *** ván
 sn.f. {{{phon(βɛ̀n)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A1n][ván]]
@@ -4160,6 +4994,44 @@ Declensions:
 |   2p   |   | vánið        | vánið        | vánuð | vándisk |
 |   3p   |   | vánið        | vánið        | vánuð | vándisk |
 
+*** vef
+sm.n. {{{phon(βef)}}}, from ON [[https://old-norse.net/html/v.php#vefr][vefr]]
+
+1. web (spiders’)
+2. web (textile)
+3. (definite only) the WorldWideWeb, the Internet
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | vefr  | vefinn  | vefr  | vefinn  |
+| Acc. | vef   | vefin   | vef   | vefin   |
+| Dat. | vef   | vefin   | vefum | vefinum |
+| Gen. | vefar | vefins  | vefar | vefin   |
+
+*** vefsíð
+wf.n. {{{phon(ˈβefˌsèð)}}}, from [[file:./dictionary.md#vef][vef]] and [[file:./dictionary.md#sið-a][síð(a)]]
+
+1. website
+
+|      | Sg.     | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+---------+-----------+----------+------------|
+| Nom. | vefsíð  | vefsíðat  | vefsíðr  | vefsíðatr  |
+| Acc. | vefsíð  | vefsíðat  | vefsíð   | vefsíðat   |
+| Dat. | vefsíð  | vefsíðat  | vefsíðum | vefsíðatum |
+| Gen. | vefsíðs | vefsíðats | vefsíðs  | vefsíðat   |
+
+*** veg
+sn.m. {{{phon(βeɣ)}}}, from ON [[https://old-norse.net/html/v.php#vegr][vegr]]
+
+1. path, way
+
+|      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------------------+---------+-------+---------|
+| Nom. | vegr {{{phon(βeɡr̩)}}}   | veginn  | vegr  | veginn  |
+| Acc. | veg {{{phon(βeɣ)}}}     | vegin   | veg   | vegin   |
+| Dat. | veg {{{phon(βej)}}}     | vegin   | vegum | veginum |
+| Gen. | vegar {{{phon(βejɑr)}}} | vegins  | vegar | vegin   |
+
 *** veisheit
 wn.f. {{{phon(ˈβɑɪshɑɪt)}}}, from German [[https://en.wiktionary.org/wiki/Weisheit#German][Weisheit]], see also [[file:./dictionary.md#visk-a][visk(a)]]
 
@@ -4198,6 +5070,24 @@ The distinction between /est/ or /ert/ and /es/ or /er/ is purely based on the
 dialect one speaks. In general, the /est/ and /es/ form is preferred in
 Ðeberget’s region, Fjalheim and other Northern parts of Eittland while
 /ert/ and /er/ is preferred everywhere else.
+
+*** verk
+sn.n. {{{phon(βerk)}}}, from ON [[https://old-norse.net/html/v.php#verk][verk]]
+
+1. work, the activities or tasks performed as part of one’s job or
+   occupation
+2. business, a commercial or industrial enterprise or activity
+3. project, a planned undertaking or endeavour, typically involving a
+   series of tasks or activities aimed at achieving a specific goal
+4. a large or complex task or assignment
+5. a collaborative effort involving multiple participants
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | verk  | verkit  | verk   | verkitr  |
+| Acc. | verk  | verkit  | verk   | verkit   |
+| Dat. | verk  | verkit  | verkum | verkitum |
+| Gen. | verks | verkits | verks  | verkit   |
 
 *** verp(a)
 sv. {{{phon(βerp)}}}, from ON [[https://old-norse.net/html/v.php#verpa][verpa]]
@@ -4312,7 +5202,29 @@ For declensions, see [[file:./dictionary.md#bu][bú]].
 *** vind
 sn.m. {{{phon(βind)}}}, from ON [[https://old-norse.net/html/v.php#vindr2][vindr]]
 
-1. wind
+1. wind, the percepIble natural movement of the air, especially
+   outdoors
+2. something that drives or influences change, progress, or movement;
+   an unpredictable or dynamic force
+
+   #+html: ::: tip Example
+   Hann er vindin aptr nemum mínum
+
+   He is the wind behind my studies, i.e. he is the reason my studies
+   go on
+   #+html: :::
+3. information or news that spreads quickly and widely, often through
+   infomal cannels; rumours or gossips
+
+   #+html: ::: tip Example
+   - Vindinn er sandr eig
+
+     The rumors are not true
+
+   - Han hlert vindin um þat
+
+     She heard the rumours about that
+   #+html: :::
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
@@ -4320,6 +5232,14 @@ sn.m. {{{phon(βind)}}}, from ON [[https://old-norse.net/html/v.php#vindr2][vind
 | Acc. | vind   | vindin  | vind   | vindin   |
 | Dat. | vind   | vindin  | vindum | vindinum |
 | Gen. | vindar | vindins | vindar | vindin   |
+
+*** vindker
+wn.n. {{{phon(ˈβind.ˌker)}}}, from [[file:./dictionary.md#vind][vind]] and [[file:./dictionary.md#ker][ker]]
+
+1. sky, litt /wind bassin/
+2. atmosphere
+
+For declensions, see [[file:./dictionary.md#ker][ker]].
 
 *** vindaug(a)
 wn.n. {{{phon(ˈβindˌɔ̀j)}}}, from [[file:dictionary.md#vind][vind]] and [[file:./dictionary.md#aug-a][aug(a)]]
