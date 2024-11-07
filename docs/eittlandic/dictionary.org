@@ -144,7 +144,7 @@ wn.m. {{{phon(ɑlf)}}}
    4. all, quite, entirely, completely
 
       #+html: ::: tip Example
-      Þat er allt góðt!
+      Svá er allt góðt!
 
       It’s all good / alright!
       #+html: :::
@@ -608,6 +608,8 @@ Alternative form: *djópleg*
 sn.f. {{{phon(dɔ̀ʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
+
+See also [[file:./dictionary.md#panig][panig]]
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
@@ -2484,12 +2486,12 @@ sn.f. {{{phon(kò)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BDr][ký
 
 1. cow
 
-|      | Sg.  | Def.Sg. | Pl.  | Def.Pl. |
-|------+------+---------+------+---------|
-| Nom. | kúr  | kúnn    | kúr  | kúnn    |
-| Acc. | kú   | kún     | kú   | kún     |
-| Dat. | kú   | kún     | kúm  | kúnum   |
-| Gen. | kúr  | kúns    | kúr  | kún     |
+|      | Sg. | Def.Sg. | Pl. | Def.Pl. |
+|------+-----+---------+-----+---------|
+| Nom. | kúr | kúnn    | kúr | kúnn    |
+| Acc. | kú  | kún     | kú  | kún     |
+| Dat. | kú  | kún     | kúm | kúnum   |
+| Gen. | kúr | kúns    | kúr | kún     |
 
 *** kúr(a)
 sv. {{{phon(kòr)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BAra][kúra]]
@@ -3107,6 +3109,21 @@ adj. {{{phon(mjòk)}}}, from ON [[https://old-norse.net/html/m.php#mj%C3%BAkr][
 | Dat.    | mjúkum | mjúkum |
 | Gen.    | mjúkar | mjúkr  |
 
+*** móð
+sn.f. {{{phon(mɔ̀ð)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%B3%C3%B0ir][móðir]], reanalized as /móð/ + /-ir/
+
+1. mother
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | móðr  | móðinn  | mœðr  | mœðinn  |
+| Acc. | móð   | móðin   | mœð   | mœðin   |
+| Dat. | móð   | móðin   | mœðum | mœðinum |
+| Gen. | móðir | móðins  | mœðir | mœðin   |
+
+*** mœð
+See [[file:./dictionary.md#moð][móð]]
+
 *** mynd
 sn.f. {{{phon(mynd)}}}
 
@@ -3516,6 +3533,20 @@ sn.m. {{{phon(ɔ̀β.en)}}}, from [[file:./dictionary.md#o][ó-]] and [[file:./d
 For declensions, see [[file:./dictionary.md#vin][vin]]
 
 ** P
+*** panig
+sn.f. {{{phon(ˈpan.eɣ)}}}, likely from Tunrit. Compare to Greenlandic [[https://en.wiktionary.org/wiki/panik#Greenlandic][panik]]
+
+1. daughter, term of endearment
+
+See also [[file:./dictionary.md#dott-u][dótt(u)]]
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | panikr  | paniginn | panikr  | paniginn  |
+| Acc. | panig   | panigin  | panig   | panigin   |
+| Dat. | panig   | panigin  | panigum | paniginum |
+| Gen. | panigar | panigins | panigar | panigin   |
+
 *** park
 wn.n. {{{phon(pɑrk)}}}, from French /parc/
 
@@ -3778,7 +3809,7 @@ adj. {{{phon(sɑnː)}}}, from ON [[https://old-norse.net/html/s.php#sannr][sannr
 
 |         | Common | Neuter |
 |---------+--------+--------|
-| Sg.Nom. | sann   | satt  |
+| Sg.Nom. | sann   | satt   |
 | Acc.    | sann   | satt   |
 | Dat.    | sannum | sannum |
 | Gen.    | sanns  | sanns  |
@@ -4424,7 +4455,7 @@ sn.m. {{{phon(ʃtɑɪn)}}}, from ON [[https://old-norse.net/html/s.php#steinn][s
 3. something that impedes progress or makes a task more difficult
 
    #+html: ::: tip Example
-   - Þat er stein í vegin mín
+   - Svá er stein í vegin mín
 
      That’s a stone in my path, i.e. it is an obstacle in my progress
    #+html: :::
@@ -5221,7 +5252,7 @@ sn.m. {{{phon(βind)}}}, from ON [[https://old-norse.net/html/v.php#vindr2][vind
 
      The rumors are not true
 
-   - Han hlert vindin um þat
+   - Han hlert vindin um svá
 
      She heard the rumours about that
    #+html: :::
