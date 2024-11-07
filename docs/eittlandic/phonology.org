@@ -339,6 +339,105 @@ When a {{{phon(t)}}} precedes another consonant, it becomes a glottal stop.
 Early Modern Eittlandic /Eittland/ {{{phon(ɑɪtlɑnd)}}} > Modern  Eittlandic {{{phon(ɑɪʔlɑnd)}}}
 #+html: :::
 
+** Spelling and pronunciation
+Eittlandic is written in two different alphabets: Modern Futhark, also
+known as the Eittlandic runes, and the Latin alphabet. Eittland saw
+some use of the Latin alphabet in the 13th and 14th century, but
+documents ceased to be produced with it until the 17th century, when
+immigrants from continental Europe brought this script with them and
+as commerce opened up with European countries again. Until a few
+decades ago, the Modern Futhark alphabet was the most popular alphabet
+in use in Eittland. But since the democratisation of the computer and
+smartphone, usage of the Latin alphabet saw a quick rise in
+popularity. According to some estimates, only 2% of Eittlanders used
+the Latin alphabet more often than the Modern Futhark alphabet in
+1920, while in 2020, 23% of Eittlanders primarily use the Latin
+alphabet.
+
+Most letters are used the same way in Eittlandic as they are in most
+standard European languages, with a few additions that lack in the
+standard Latin alphabet, Just like Icelandic, Eittlandic still uses
+the letters «þ» and «ð» when using the Latin alphabet. These letters
+were already used in Old Norse but nether became deprecated, unlike in
+other Nordic languages such as Swedish or Norwegian, or other Germanic
+languages such as English. They represent the sounds {{{phon(θ)}}} and
+{{{phon(ð)}}} respectively; unlike Old Norse, these two sounds became
+distinct enough to constrast in some words, such as in /maðr/ (/man/) and
+/maþr/ (maths). You will also find vowels with acute accents. They used
+to represent long vowels, but due to sound changes, they are
+associated with a lower tone and generaly more lax vowel, as described
+below.
+
+Aside from Standard Eittlandic, there is no standard spelling and the
+language is written generally phonetically, although there is a
+tendency to keep the spelling reflecting the historical pronunciation
+of words; i.e. when representing the vowel {{{phon(ɛ̀)}}}, Eittlanders will
+tend to write «á» when it comes from a historically long {{{phon(ɑ)}}} but
+«é» if it comes from a historically long {{{phon(e)}}}. There is also a
+tendency in dialects other than Standard Eittlandic to write
+word-final vowels, even if they are no longer pronounced, as in «posi»
+(Standard Eittlandic /pos/, meaning /seal/).
+
+These are the letters used natively in Eittlandic:
+
+#+begin_quote
+a b d ð e f g h i j k l m n o p r s t þ u v y z ø œ
+#+end_quote
+
+All vowels, with the exception of «ø» and «œ», can bear an acute
+accent, extending the list with:
+#+begin_quote
+á é í ó ú ý
+#+end_quote
+
+Most of these letters represent their standard phonological value, but
+a few don't. Here are some rules that will help you read Eittlandic
+phonetically:
+- «a» :: this is an unrounded, open back vowel {{{phon(ɑ)}}} in some
+  dialects, or front {{{phon(a)}}} in some others
+- «á» :: this is an unrounded, mid open front vowel {{{phon(ɛ)}}} with a low
+  or falling tone
+- «ð» :: this is a voiced dentad fricative {{{phon(ð)}}}, as in English “this”
+- «é» :: pronounced like «á»
+- «g» :: the most unstable letter in Eittlandic. When in contact with
+  another consonant, it will be a standard voiced uvular stop {{{phon(ɡ)}}}.
+  However, if it is a word-initial consonent immediately followed by a
+  vowel or between vowels, it will be pronounced as a {{{phon(j)}}}. Lastly,
+  if it is word-final and preceeded by a vowel, it is pronounced as a
+  voiced velar fricative {{{phon(ɣ)}}}.
+- «í» :: this is an unrounded mid closed front vowel {{{phon(e)}}} with a
+  low or falling tone. It contrasts with «e» wich is pronounced with a
+  neutral or high tone
+- «j» :: this is the palatal semivowel {{{phon(j)}}}, as in German or other
+  North Germanic languages
+- «ó» :: this is a rounded mid open back vowel {{{phon(ɔ)}}} with a low or falling
+  tone
+- «p» :: in most places, pronounced as a voiceless bilabial plosive
+  {{{phon(p)}}} as expected, unless before a «t» where it becomes a
+  voiceless bilabial fricative {{{phon(ɸ)}}}
+- «þ» :: this is the unvoiced counterpart to «ð», the {{{phon(θ)}}}, as in
+  English “think”
+- «ú» :: this is a rounded mid closed back vowel {{{phon(o)}}} with a low or
+  falling tone. It constrasts with neutral or high tone «o»
+- «v» :: this is the voiced bilabial fricative {{{phon(β)}}}, unless when
+  following an «h» in a word-initial position; in this case, «hv» is
+  pronounced as a voiceless labialised velar approximant {{{phon(ʍ)}}}.
+- «y» :: this is the rounded front high vowel {{{phon(y)}}}, as in German /ü/ or French /u/
+- «ý» :: this is the mid front rounded vowel {{{phon(ø)}}} with a low or
+  falling tone, contrasting with the neutral or high tone «ø»
+  described below
+- «ø» :: is a mid front rounded vowel {{{phon(ø)}}}, like German «ö» or
+  French «eu» in /deux/
+- «œ» :: this is a low, lax, frount rounded vowel {{{phon(œ)}}}, like French
+  «eu» in «neuf», but with an additional low or falling tone
+
+There are another three additional digraphs when it comes to vowels:
+- «au» :: this is a rounded mid open back vowel {{{phon(ɔ)}}} with a neutral
+  or high tone, which contrasts with «ó»
+- «ei» :: this is one of the two diphthongs left in Eittlandic,
+  {{{phon(ɑɪ)}}}
+- «ey» :: this is the other diphthong left in Eittlandic, {{{phon(œʏ)}}}
+
 ** Vowel Inventory
 Modern Eittlandic has a total of ten simple vowels and three
 diphthongs, regardless of the dialect. It does not directly inherit
@@ -382,32 +481,6 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju80zw
 #+end_src
 
 #+html: <ImgFigure src="/img/eittlandic/vowel-feature-tree.png" alt="Eittlandic Vowel Featural Tree">Featural tree of Eittlandic vowels</ImgFigure>
-
-Here is a quick guide regarding the pronunciation of these vowels:
-- a {{{phon(ɑ)}}} :: as in General American English “hot” with a high tone
-- á {{{phon(ɛ̀)}}} :: as in General American English “bed” with a low tone
-- æ {{{phon(ɛ)}}} :: as in General American English “bed” with a high tone
-- e {{{phon(e)}}} :: as in French “été” or General American English “may”
-  with a high tone
-- é {{{phon(ɛ̀)}}} :: see {{{phon(æ)}}}
-- i {{{phon(i)}}} :: as in English “free” with a high tone
-- í {{{phon(è)}}} :: as in French “été” or General American English “may”
-  with a low tone
-- o {{{phon(o)}}} :: as in French “beau” or Cockney English “yawn” with a
-  high tone
-- ó {{{phon(ɔ̀)}}} :: as in General American English “thought” with a low
-  tone
-- u {{{phon(u)}}} :: as in French “mou” or General American English “boot”
-  with a high tone
-- ú {{{phon(ò)}}} :: as in French “beau” or Cockney English “yawn” with a
-  low tone
-- y {{{phon(y)}}} :: as in French “lune” with a high tone
-- ý {{{phon(ø̀)}}} :: as in French “deux” with a low tone
-- œ/ǿ {{{phon(œ)}}} :: as in French “neuf” with a low tone
-- ei {{{phon(ɑɪ)}}} :: as in English “I”
-- au {{{phon(ɔʊ)}}} :: similar to Canadian “ow” or in General American
-  English “bow”, but more open
-- ey {{{phon(œʏ)}}} :: as if it were “œy” but more open
 
 Eittlandic also has a second vowel inventory dedicated to unstressed
 vowels. While the one described above describes all vowels found in
@@ -500,9 +573,35 @@ Note the features borne by the diphthongs:
 #+end_src
 
 ** Consonant Inventory
-/Under construction/
+Regarding Eittlandic's consonants, the two main changes from Old Norse
+other than changes in their pronunciation is the now differenciation
+between «þ» and «ð» where in Old Norse, the former was used
+word-initially while the latter was used in all other positions.
+
+Similarly, the «f» letter was used to represent both {{{phon(f)}}}
+word-initially and {{{phon(v)}}} in all other positions. In Eittlandic,
+voiced «f» {{{phon(v)}}} merged into «v» {{{phon(β)}}}. Therefore, the letter «f»
+is no longer used to represent {{{phon(v)}}} anymore; the letter «v» is
+instead used to represent both historical «v» and historically voiced
+«f».
+
+Occasionally, the letter «h» may precede another consonant in a
+word-initial position, mainly «l», «r», and «v». These consonants
+become devoiced, with «hl», «hr», and «hv» becoming {{{phon(l̥)}}}, {{{phon(r̥)}}},
+and {{{phon(ʍ)}}} respectively.
 
 *** Private Data                                                :noexport:
+
+** Underlying vowels
+While most word-final vowels were dropped a few centuries ago, they
+still exist as underlying vowels that may affect the word's
+morphology. By default, when there is no final vowel for a noun, a
+dummy «i» is used to join the word with the definite morphene
+together. For instance, /dag/ (/day/), a word with no underlying vowel,
+which becomes /dagin/ in its singular accusative definite form. However,
+even if it is no longer present in its non-definite form, /sag/ still
+bears the word-final vowel «a» which appears in its definite form,
+such as /sagat/ (singular accusative definite form).
 
 ** Pitch and Stress
 The original bitonal pitch accent of Eittlandic is thought to have
