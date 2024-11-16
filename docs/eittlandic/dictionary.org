@@ -86,7 +86,7 @@ form of a noun is indicated in its declension table.
 
 ** A
 *** af(i)
-wn.m. {{{phon(af)}}}, from ON [[https://old-norse.net/html/a.php#afi][afi]]
+wn.m. {{{phon(ɑf)}}}, from ON [[https://old-norse.net/html/a.php#afi][afi]]
 
 1. grand-father
 2. old, elderly man
@@ -161,7 +161,7 @@ wn.m. {{{phon(ɑlf)}}}
 | Gen.    | allar  | allr   |
 
 *** Alfshringinssagat
-pn. {{{phon(ˈɑlfsˌr̥iŋinsˌsɑjɑt)}}}
+pn. {{{phon(ˈɑlfs.ˌr̥iŋ.ins.ˌsɑj.ɑt)}}}
 
 1. The Rings of Power
 
@@ -182,7 +182,7 @@ adj. {{{phon(ɑlmen)}}}
 | Gen.    | alment  | almenn  |
 
 *** angak
-sn.m. {{{phon(aŋɡak)}}}, a Tunrit-inherited word
+sn.m. {{{phon(ˈɑŋɡ.ɑk)}}}, a Tunrit-inherited word
 
 1. uncle; the brother of one’s parent, with a connotation of being an
    elder or respected figure
@@ -195,7 +195,7 @@ sn.m. {{{phon(aŋɡak)}}}, a Tunrit-inherited word
 | Gen. | angakar | angakins | angakar | angakin   |
 
 *** annaman
-sn.n. {{{phon(ˈɑnːɑˌmɑn)}}}, from [[file:./dictionary.md#annar][annar]] and [[file:./dictionary.md#man][man]]
+sn.n. {{{phon(ˈɑnː.ɑ.ˌmɑn)}}}, from [[file:./dictionary.md#annar][annar]] and [[file:./dictionary.md#man][man]]
 
 1. someone else
 
@@ -207,12 +207,12 @@ sn.n. {{{phon(ˈɑnːɑˌmɑn)}}}, from [[file:./dictionary.md#annar][annar]] an
 | Gen. | annamans | annamanits | annamans  | annamanit   |
 
 *** annar
-{{{phon(ɑnːɑr)}}}
+{{{phon(ɑnː.ɑr)}}}
 
 1. other, different
 
 *** amm(a)
-wn.f. {{{phon(amː)}}}, from ON [[https://old-norse.net/html/a.php#amma][amma]]
+wn.f. {{{phon(ɑmː)}}}, from ON [[https://old-norse.net/html/a.php#amma][amma]]
 
 1. grand-mother, granny
 2. old, elderly woman
@@ -271,20 +271,6 @@ sn.m. {{{phon(ɑrm)}}}, from ON [[https://old-norse.net/html/a.php#armr-1][armr]
 | Dat. | arm   | armin   | armum | arminum |
 | Gen. | armar | armins  | armar | armin   |
 
-*** aug(a)
-wn.n. {{{phon(ɔ̀j)}}}
-
-1. eye
-
-Alternative form: *ój*
-
-|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
-|------+-------+---------+-------+---------|
-| Nom. | aug   | augat   | aug   | augatr  |
-| Acc. | aug   | augat   | aug   | augat   |
-| Dat. | aug   | augat   | augum | augatum |
-| Gen. | augas | augats  | augas | augat   |
-
 *** automobil
 wn.n. {{{phon(ˈɔtoˌmobel)}}}, from Ancient Greek [[https://en.wiktionary.org/wiki/%CE%B1%E1%BD%90%CF%84%CF%8C%CF%82#Ancient_Greek][αὐτός]] and Latin [[https://en.wiktionary.org/wiki/mobilis#Latin][mōbilis]]. See also [[file:./dictionary.md#bil][bil]]
 
@@ -336,16 +322,13 @@ sn.f. {{{phon(ɑksl̩)}}}, from EON [[https://old-norse.net/html/oe.php#%C3%B6xl
 | Gen. | ákslar | ákslins | ákslar | ákslin   |
 
 *** áng
-interj. {{{phon(ɛŋ)}}}
+interj. {{{phon(ɛŋ)}}}, probably a Tunrit borrowing
 
 1. positive counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
 
-Alternative form: *éng*
+See also [[file:./dictionary.md#nang][náng]].
 
-This word does not have a clear origin, however it is supposed it was
-borrowed early on from an Eskaleut language that may have been spoken
-by the island’s initial inhabitants. Compare modern-day Aleut /aang/ and
-Proto-Eskimoan /*aa/ or /*ii/.
+Alternative form: *éng*
 
 *** ást
 sn.f. {{{phon(ɛ̀ʃt)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1st][ást]]
@@ -383,7 +366,7 @@ sn.n. {{{phon(bɑk)}}}, from ON [[https://old-norse.net/html/b.php#bak][bak]]
 | Gen. | baks | bakits  | baks  | bakit   |
 
 *** barn
-sn.n. {{{phon(barn)}}}, from ON [[https://old-norse.net/html/b.php#barn][barn]]
+sn.n. {{{phon(bɑrn)}}}, from ON [[https://old-norse.net/html/b.php#barn][barn]]
 
 1. child
 
@@ -522,7 +505,7 @@ sn.n. {{{phon(borð)}}}
 | Gen. | borðs | borðits | borðs  | borðit   |
 
 *** boðorð
-sn.m. {{{phon(boðorð)}}}
+sn.m. {{{phon(boð.orð)}}}
 
 1. a rule
 
@@ -534,7 +517,7 @@ sn.m. {{{phon(boðorð)}}}
 | Gen. | boðorðar | boðorðins | boðorðar | boðorðin   |
 
 *** boðorðsman
-sn.m. {{{phon(ˈboðorðˌmɑn)}}}, from [[file:./dictionary.md#boðorð][boðorð]] and [[file:./dictionary.md#man][man]]
+sn.m. {{{phon(ˈboð.orð.ˌmɑn)}}}, from [[file:./dictionary.md#boðorð][boðorð]] and [[file:./dictionary.md#man][man]]
 
 1. judge
 
@@ -558,7 +541,7 @@ sn.f  {{{phon(borg)}}}, from ON [[https://old-norse.net/html/b.php#borg-I][borg]
 | Gen. | borgar | borgins | borgar | borgin   |
 
 *** bráð
-sn.m. {{{phon(brɛð)}}}
+sn.m. {{{phon(brɛ̀ð)}}}
 
 Alternative form: *bréð*
 
@@ -581,7 +564,7 @@ re-analyzed into /bráð/ + /-ir/.
 | Gen. | bróð   | bróðins | bráðum | bráðin   |
 
 *** bróðdótt(u)
-sn.f. {{{phon(ˈbrɔ̀ð.dɔ̀ʃː)}}}, from [[file:./dictionary.md#broð-i][bróð]] and [[file:./dictionary.md#dott-u][dótt]]
+sn.f. {{{phon(ˈbrɔ̀ð.dɔ̀tː)}}}, from [[file:./dictionary.md#broð-i][bróð]] and [[file:./dictionary.md#dott-u][dótt]]
 
 1. niece; the daughter of one’s brother
 
@@ -699,7 +682,7 @@ ON [[https://en.wiktionary.org/wiki/-ligr#Old_Norse][-ligr]])
 Alternative form: *djópleg*
 
 *** dótt(u)
-sn.f. {{{phon(dɔ̀ʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
+sn.f. {{{phon(dɔ̀tː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 1. daughter
 
@@ -737,7 +720,7 @@ wn.f. {{{phon(dø̀n)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%BDna][
 | Gen. | dýns | dýnats  | dýns  | dýnat   |
 
 *** dýnsábreið(a)
-wn.f. {{{phon(dø̀nsɛ̀brɑɪð)}}}, from [[file:./dictionary.md#dyn-a][dýn]] and [[file:./dictionary.md#abreið-a][ábreið]]
+wn.f. {{{phon(dø̀ns.ɛ̀b.rɑɪð)}}}, from [[file:./dictionary.md#dyn-a][dýn]] and [[file:./dictionary.md#abreið-a][ábreið]]
 
 1. blanket
 
@@ -746,7 +729,7 @@ Alternative form: *dønsébreið(a)*
 See [[file:./dictionary.md#abreið-a][ábreið]] for declensions.
 
 *** dýnskláð
-wn.n. {{{phon(ˈdø̀nsˌklɛ̀ð)}}}, from [[file:./dictionary.md#dyn-a][dýn(a)]] and [[file:./dictionary.md#klað-i][kláð(i)]].
+wn.n. {{{phon(ˈdø̀nʃˌklɛ̀ð)}}}, from [[file:./dictionary.md#dyn-a][dýn(a)]] and [[file:./dictionary.md#klað-i][kláð(i)]].
 
 1. pillow case, litt. “pillow clothes”
 
@@ -784,14 +767,14 @@ wn.f. {{{phon(ˈdø̀r.ˌɡrèp)}}}, from [[file:./dictionary.md#dyr][dýr]] an
 | Gen. | dýrgríps | dýrgrípats | dýrgríps  | dýrgrípat   |
 
 *** dœtt(i)
-sn.f. {{{phon(dœ̀ʃː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
+sn.f. {{{phon(dœ̀tː)}}}, from ON [[https://old-norse.net/html/d.php#d%C3%B3ttir][dóttir]]
 
 Plural of [[file:./dictionary.md#dott-i][dótt(i)]].
 
 ** Đ
 ** E
 *** edd(a)
-wn.f. {{{phon(e:ðː)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
+wn.f. {{{phon(edː)}}}, from ON [[https://old-norse.net/html/e.php#edda][edda]]
 
 1. great grandmother
 2. female ancestor, beyond the grandmother
@@ -936,14 +919,14 @@ Declensions:
 |   3p   |   | ektið      | ektið       | ektuð | ekttisk |
 
 *** ektakon(a)
-sn.f. {{{phon(ˈekt.a.ˌkon)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#kon-a][kon(a)]]
+sn.f. {{{phon(ˈekt.ɑ.ˌkon)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#kon-a][kon(a)]]
 
 1. wife
 
 For declensions, see [[file:./dictionary.md#kon-a][kon(a)]]
 
 *** ektaman
-sn.m. {{{phon(ˈekt.a.ˌman)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#man][man]]
+sn.m. {{{phon(ˈekt.ɑ.ˌmɑn)}}}, from [[file:./dictionary.md#ekt-a][ekt(a)]] and [[file:./dictionary.md#man][man]]
 
 1. husband
 
@@ -1291,7 +1274,7 @@ sn.m. {{{phon(ˈfor.eld)}}}, from ON [[https://old-norse.net/html/f.php#forellri
 | Gen. | foreldir | foreldins | foreldir | foreldin   |
 
 *** Frídag
-sn.m. {{{phon(frèdaɣ)}}}, from EON [[https://old-norse.net/html/f.php#frj%C3%A1dagr][fríadagr]]
+sn.m. {{{phon(frèdɑɣ)}}}, from EON [[https://old-norse.net/html/f.php#frj%C3%A1dagr][fríadagr]]
 
 1. Friday, sixth day of the week
 
@@ -1365,7 +1348,7 @@ For declensions, see [[file:./dictionary.md#kon-a][kon(a)]].
 See also [[file:./dictionary.md#ill-a][ill (generic term for cousin)]] and [[file:./dictionary.md#frjandman][frjándman (male cousin)]].
 
 *** frjándman
-sn.m. {{{phon(ˈfrjɛ̀nd.ˌman)}}}, from [[file:./dictionary.md#frjand-i][frjánd]] and [[file:./dictionary.md#man][man]]
+sn.m. {{{phon(ˈfrjɛ̀nd.ˌmɑn)}}}, from [[file:./dictionary.md#frjand-i][frjánd]] and [[file:./dictionary.md#man][man]]
 
 1. cousin; the child of one’s parent’s sibling (male)
 
@@ -1415,7 +1398,7 @@ adj. {{{phon(ˈjɑmɑl)}}}, from ON [[https://old-norse.net/html/g.php#gamall-I]
 | Gen.    | gamalt  | gamall  |
 
 *** gauð
-wn.f. {{{phon(jɔʊð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
+wn.f. {{{phon(jɔð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
 
 1. a quarrel
 2. a heated debate /(informal)/
@@ -1430,7 +1413,7 @@ Alternative form: *jauð*
 | Gen. | gauðs | gauðits | gauðs  | gauðit   |
 
 *** gauð(a)
-wv. {{{phon(jɔʊð)}}}, from Eittlandic [[file:./dictionary.md#gauð][gauð]]
+wv. {{{phon(jɔð)}}}, from Eittlandic [[file:./dictionary.md#gauð][gauð]]
 
 1. to have a quarrel
 2. to argue, have a heated debate /(informal)/
@@ -1626,7 +1609,7 @@ adj. {{{phon(jɔ̀ð)}}}, from ON [[https://old-norse.net/html/g.php#g%C3%B3%C3%
 | Gen.    | góðar  | góðr   |
 
 *** grað(a)
-wn.n. {{{phon(ɡrað)}}}, from Latin [[https://en.wiktionary.org/wiki/gradus#Latin][gradus]]
+wn.n. {{{phon(ɡrɑð)}}}, from Latin [[https://en.wiktionary.org/wiki/gradus#Latin][gradus]]
 
 1. degree (general)
 2. degree (scholar)
@@ -1699,7 +1682,7 @@ Declensions:
 |   3p   |   | grípið     | grípið      | grípuð | grípask |
 
 *** grœn
-adj. {{{phon(ɡrœn)}}}, from ON [[https://old-norse.net/html/g.php#gr%C3%A6nn][grǿnn]]
+adj. {{{phon(ɡrœ̀n)}}}, from ON [[https://old-norse.net/html/g.php#gr%C3%A6nn][grǿnn]]
 
 1. green
 2. fresh
@@ -1854,7 +1837,7 @@ sn.f. {{{phon(hɛ̀nd)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6nd
 | Dat. | hánd   | hándin  | hándum | hándinum |
 | Gen. | hándar | hándins | hándar | hándin   |
 
-*** hás(s)
+*** hás
 adj. {{{phon(hɛ̀s)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6ss][háss]]
 
 1. white (hair colour)
@@ -2040,7 +2023,7 @@ adj. {{{phon(çɛ̀)}}}, from ON [[https://old-norse.net/html/h.php#hj%C3%A1][hj
 | Gen.    | hjárar | hjár   |
 
 *** hjól
-sn.n. {{{phon(çɔl)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
+sn.n. {{{phon(çɔ̀l)}}}, from ON [[https://en.wiktionary.org/wiki/hj%C3%B3l#Old_Norse][hjól]]
 
 1. wheel
 
@@ -2255,7 +2238,7 @@ sn.m. {{{phon(hɔ̀ʃt)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B3st
 | Gen. | hóstar | hóstins | hóstar | hóstin   |
 
 *** hrifs
-wn.n. {{{phon(r̥ivs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
+wn.n. {{{phon(r̥ifs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
 
 1. assault, mugging
 
@@ -2281,7 +2264,7 @@ sn.m. {{{phon(r̥iŋ)}}}, from ON [[https://old-norse.net/html/h.php#hringr-I][h
 | Gen. | hringar | hringins | hringar | hringin   |
 
 *** Hringarherinssagat
-pn. {{{phon(ˈr̥iŋarˌherensˌsɑjɑt)}}}
+pn. {{{phon(ˈr̥iŋ.ɑr.ˌher.ens.ˌsɑj.ɑt)}}}
 
 1. /The Lord of the Rings/, litt. /The Story of the Lord of the Ring/
 
@@ -2301,7 +2284,7 @@ sn.n. {{{phon(r̩os)}}}, from ON [[https://old-norse.net/html/h.php#hross][hross
 See also [[file:./dictionary.md#hest][hest]]
 
 *** hug(a)
-sv. {{{phon(huj)}}}
+sv. {{{phon(huɣ)}}}
 
 1. to mind, to think
 2. to dwell on
@@ -2385,7 +2368,7 @@ sn.m. {{{phon(ʍɑl)}}}, from ON [[https://old-norse.net/html/h.php#hvalr][hvalr
 | Gen. | hvalar | hvalins | hvalar | hvalin   |
 
 *** hvar
-pron. {{{phon(ʍar)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
+pron. {{{phon(ʍɑr)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
 
 1. where
 
@@ -2404,7 +2387,7 @@ interr. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Nor
 | Gen. | hves |
 
 *** hvenár
-interr. {{{phon(ʍenˈɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#hvenar][hvenær]]
+interr. {{{phon(ʍen.ˈɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#hvenar][hvenær]]
 
 1. when
 
@@ -2437,12 +2420,12 @@ used with countable nouns.
 #+html: :::
 
 *** hvernig
-interr. {{{phon(ˈʍerneɣ)}}}, from ON [[https://old-norse.net/html/h.php#hvernig][hvernig]]
+interr. {{{phon(ˈʍern.eɣ)}}}, from ON [[https://old-norse.net/html/h.php#hvernig][hvernig]]
 
 1. how, in what way
 
 *** hversdag
-{{{phon(hversdaj)}}}, from [[file:./dictionary.md#hver][hver]] and [[file:./dictionary.md#dag][dag]]
+{{{phon(hvers.daɣ)}}}, from [[file:./dictionary.md#hver][hver]] and [[file:./dictionary.md#dag][dag]]
 
 1. adj. daily, everyday
 2. adv. daily, everyday
@@ -2483,7 +2466,7 @@ Alternative form: *hvel(a)*
 | Gen. | hvíls | hvílats | hvíls  | hvílat   |
 
 *** hvílskláð(i)
-wn.n. {{{phon(ˈʍèlskˌlɛ̀ð)}}}, from [[file:./dictionary.md#hvil-a][hvíl]] and [[file:./dictionary.md#klað-i][kláð]]
+wn.n. {{{phon(ˈʍèlʃ.kˌlɛ̀ð)}}}, from [[file:./dictionary.md#hvil-a][hvíl]] and [[file:./dictionary.md#klað-i][kláð]]
 
 1. bedroom clothes, evening clothes
 
@@ -2508,18 +2491,15 @@ adj. {{{phon(ʍɛ̀t)}}}, from ON [[https://old-norse.net/html/h.php#hv%C3%ADtr]
 | Gen.    | hvítar | hvítr  |
 
 ** I
-*** -g(i)
+*** -ig(i)
 suffix {{{phon(iɣ)}}}, from ON [[https://old-norse.net/html/g.php#-gi][-gi]]
 
 1. negative, no, not
 
 *** ikkí
-interj. {{{phon(ixːə)}}}
+interj. {{{phon(ixːə)}}}, probably a Tunrit borrowing
 
 1. How cold! Brr!
-
-From an unkwnown Greenlandic language, compare with modern Greenlandic
-/ikkii/.
 
 *** ill(u)
 sn.m. {{{phon(ilː)}}}, inherited for Tunrit
@@ -2701,7 +2681,7 @@ Declensions:
 |   3p   |   | kann       | kunn                 |
 
 *** káppok
-adj. {{{phon(kɛ̀ɸːok)}}}, from Greenlandic /kaappoq/
+adj. {{{phon(kɛ̀ɸːok)}}}, Tunrit borrowing
 
 1. peckish, a little hungry
 
@@ -2770,11 +2750,9 @@ wn.n. {{{phon(ker)}}}, from ON [[https://old-norse.net/html/k.php#ker][ker]]
 | Gen. | kers | kerits  | kers  | kerit   |
 
 *** kék
-adj. {{{phon(kɛk)}}}
+adj. {{{phon(kɛ̀k)}}}, Tunrit borrowing
 
 1. gray (hair colour)
-
-Probably from a Greenlandic dialect, compare to West Greenlandic /qeeq/
 
 |         | Common | Neuter |
 |---------+--------+--------|
@@ -2898,7 +2876,7 @@ sn.f. {{{phon(kon)}}}, from ON [[https://old-norse.net/html/k.php#kona][kona]]
 | Gen. | konar | konans  | konar | konan   |
 
 *** Konung
-sn.m. {{{phon(ˈkonoŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
+sn.m. {{{phon(ˈkon.oŋ)}}}, from ON [[https://en.wiktionary.org/wiki/konungr#Old_Norse][konungr]]
 
 1. king
 
@@ -2912,7 +2890,7 @@ Alternative form: *Konong*
 | Gen. | Konungar | Konungins | Konungar | Konungin   |
 
 *** konunɡliɡ
-{{{phon(konoŋlej)}}}, from [[file:./dictionary.md#konung][konung]] and suffix /-lig/.
+{{{phon(kon.oŋ.leɣ)}}}, from [[file:./dictionary.md#konung][konung]] and suffix /-lig/.
 
 1. adv. royaly
 2. adj. royal
@@ -2970,7 +2948,7 @@ Declensions:
 
 ** L
 *** land
-sn.n. {{{phon(land)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse][land]]
+sn.n. {{{phon(lɑnd)}}}, from ON [[https://en.wiktionary.org/wiki/land#Old_Norse][land]]
 
 1. land
 2. country
@@ -3000,7 +2978,7 @@ adj. {{{phon(lɑt)}}}, from ON [[https://old-norse.net/html/l.php#latr]]
 | Gen.    | latar  | latr   |
 
 *** Laurdag
-sn.m. {{{phon(lɔrdaɣ)}}}, from ON [[https://old-norse.net/html/l.php#laug-IV][laugardagr]]
+sn.m. {{{phon(ˈlɔr.ˌdɑɣ)}}}, from ON [[https://old-norse.net/html/l.php#laug-IV][laugardagr]]
 
 1. Saturday, seventh day of the week
 
@@ -3008,7 +2986,7 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 *** lág
-sn.n. {{{phon(lɛ̀j)}}}
+sn.n. {{{phon(lɛ̀ɣ)}}}
 
 1. law, plural only
 
@@ -3371,7 +3349,7 @@ wn.m. {{{phon(mɑɣ)}}}, from ON [[https://old-norse.net/html/m.php#magi][magi]]
 | Gen. | mags | magits  | mags  | magit   |
 
 *** man
-in.m. {{{phon(mɑð)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0r][maðr]]
+in.m. {{{phon(mɑn)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0r][maðr]]
 
 1. man
 2. person
@@ -3386,7 +3364,7 @@ in.m. {{{phon(mɑð)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0r][m
 | Gen. | manns | mannins | menns  | mennin   |
 
 *** man(u)
-iv. {{{phon(mun)}}}, from ON [[https://old-norse.net/html/m.php#munu][munu]]
+iv. {{{phon(mɑn)}}}, from ON [[https://old-norse.net/html/m.php#munu][munu]]
 
 1. auxilliary verb to express the future, will, shall
 
@@ -3430,7 +3408,7 @@ Declensions:
 |   3p   |   | munuð      | mynið       | mynduð |
 
 *** mastergrað(a)
-wn.n. {{{phon(ˈmaʃterˌɡrað)}}}, from English [[https://en.wiktionary.org/wiki/master#English][Master]] and Middle Eittlandic
+wn.n. {{{phon(ˈmɑʃterˌɡrɑð)}}}, from English [[https://en.wiktionary.org/wiki/master#English][Master]] and Middle Eittlandic
 /graða/ (see [[file:./dictionary.md#grað-a][grað(a)]])
 
 1. Master's degree
@@ -3465,7 +3443,7 @@ Declensions:
 |   3p   |   | málið      | málið       | máluð | málisk  |
 
 *** málskipan
-sn.f. {{{phon(ˈmɛ̀lˌʃkipan)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]] and OE [[file:./dictionary.md#skipan][skipan]]
+sn.f. {{{phon(ˈmɛ̀lˌʃkipɑn)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6la][mæla]] and OE [[file:./dictionary.md#skipan][skipan]]
 
 1. language (i.e. Eittlandic, English, Japanese…)
 
@@ -3479,10 +3457,10 @@ wn.m. {{{phon(mɛ̀n)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A1ni][
 
 |      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
 |------+------+---------+-------+---------|
-| Nom. | mán  | máninn  | mánn  |         |
-| Acc. | mán  | mánin   | mán   |         |
-| Dat. | mán  | mánin   | mánum |         |
-| Gen. | máns | mánins  | máns  |         |
+| Nom. | mán  | mánit   | mánr  | mánitr  |
+| Acc. | mán  | mánit   | mán   | mánit   |
+| Dat. | mán  | mánit   | mánum | mánitum |
+| Gen. | máns | mánits  | máns  | mánit   |
 
 Like [[file:./dictionary.md#sol][sól]], the definite and plural form of /mán/ are modern and generally
 used to refer to a moon in its astronomical sense. In general
@@ -3507,7 +3485,7 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 *** mat
-sn.m. {{{phon(mat)}}}, from ON [[https://old-norse.net/html/m.php#matr][matr]]
+sn.m. {{{phon(mɑt)}}}, from ON [[https://old-norse.net/html/m.php#matr][matr]]
 
 1. food; any substance that people or animals eat to live and grow;
    often used in the context of meals and the enjoyment of eating,
@@ -3788,16 +3766,13 @@ indefinite pronoun.
 |   |    Gen. | nákkurs   | nákkurs   | nákkurs  |
 
 *** náng
-interj. {{{phon(nɛŋ)}}}
+interj. {{{phon(nɛŋ)}}}, propably a Tunrit borrowing
 
 1. negative counter-factual, see the [[file:./grammar.md#questions][questions]] section of the grammar
 
-Alternative form: *néng*
+See also [[file:./dictionary.md#ang][áng]].
 
-This word does not have a clear origin, however it is supposed it was
-borrowed early on from an Eskaleut language that may have been spoken
-by the island’s initial inhabitants. Compare Aleut /nangaa/ and
-Proto-Eskimoan /*nanka/, and Western Greenlandic /naagga/.
+Alternative form: *néng*
 
 *** nef
 sn.f. {{{phon(nef)}}}, from ON [[https://old-norse.net/html/n.php#nef][nef]]
@@ -3869,6 +3844,13 @@ Declensions:
 sn.f. {{{phon(niɸt)}}}, from ON [[https://old-norse.net/html/n.php#nipt][nipt]]
 
 1. niece; the daughter of one’s sibling
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | niptr  | niptinn | niptr  | niptinn  |
+| Acc. | nipt   | niptin  | nipt   | niptin   |
+| Dat. | nipt   | niptin  | niptum | niptinum |
+| Gen. | niptar | niptins | niptar | niptin   |
 
 *** norvegsúlf
 sn.m. {{{phon(ˈnorβejsˌòlv)}}}, from ON /Noregs/ (genitive of ON [[https://old-norse.net/html/n.php#noregr][Noregr]]) and ON
@@ -4037,7 +4019,7 @@ unsafe
 #+html: :::
 
 *** ótraust
-adj. {{{phon(ˌɔ̀ˈtrɔʊʃt)}}}
+adj. {{{phon(ˌɔ̀ˈtrɔʃt)}}}
 
 1. unsafe, not trustworthy
 
@@ -4065,7 +4047,7 @@ pn. {{{phon(ɔðen)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0
 | Gen. | Óðins |
 
 *** Óðinsdag
-sn.m. {{{phon(ɔðensdaɣ)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0insdagr][óðinsdagr]]
+sn.m. {{{phon(ɔð.ens.daɣ)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3%C3%B0insdagr][óðinsdagr]]
 
 1. Wednesday, fourth day of the week
 
@@ -4112,7 +4094,7 @@ For declensions, see [[file:./dictionary.md#vin][vin]]
 
 ** P
 *** panig
-sn.f. {{{phon(ˈpan.eɣ)}}}, likely from Tunrit. Compare to Greenlandic [[https://en.wiktionary.org/wiki/panik#Greenlandic][panik]]
+sn.f. {{{phon(ˈpɑn.eɣ)}}}, likely from Tunrit. Compare to Greenlandic [[https://en.wiktionary.org/wiki/panik#Greenlandic][panik]]
 
 1. daughter, term of endearment
 
@@ -4153,7 +4135,7 @@ Alternative form: *pengven*
 | Gen. | pengvins | pengvinits | pengvins  | pengvinit   |
 
 *** pos(i)
-wn.n. {{{phon(pos)}}}, probably from Greenlandic /puisi/
+wn.n. {{{phon(pos)}}}, probably a Tunrit borrowing
 
 1. posi, Eittlandic seal
 
@@ -4188,7 +4170,7 @@ sn.m. {{{phon(rɑs)}}}, from ON [[https://old-norse.net/html/r.php#rass][rass]]
 | Gen. | rasar | rasins  | rasar | rasin   |
 
 *** rauð
-adj. {{{phon(rɔ̀ð)}}}, from ON [[https://old-norse.net/html/r.php#rau%C3%B0r][rauðr]]
+adj. {{{phon(rɔð)}}}, from ON [[https://old-norse.net/html/r.php#rau%C3%B0r][rauðr]]
 
 1. red
 
@@ -4400,7 +4382,7 @@ wn.f. {{{phon(sɑj)}}}, from ON [[https://old-norse.net/html/s.php#saga][saga]]
 | Gen. | sags | sagats  | sags  | sagats  |
 
 *** sagj(a)
-sv. {{{phon(saj)}}}, from ON [[https://old-norse.net/html/s.php#segja-A][sagja]]
+sv. {{{phon(sɑj)}}}, from ON [[https://old-norse.net/html/s.php#segja-A][sagja]]
 
 1. to say, to tell
 2. to proclaim, to declare
@@ -4440,7 +4422,7 @@ adj. {{{phon(sɑm)}}}, from ON [[https://old-norse.net/html/s.php#samr][samr]]
 | Gen.    | samar  | samr   |
 
 *** samrekkja
-wv. {{{phon(ˈsamˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
+wv. {{{phon(ˈsɑmˌrekxə)}}}, from [[file:./dictionary.md#rekkja-verb][rekkja]]
 
 1. sleep with someone
 2. to have sex with someone (euphemism)
@@ -4543,19 +4525,6 @@ Alternative form: *séingkléð*
 
 See [[file:./dictionary.md#klað-a][kláð]] for declensions.
 
-*** sjá
-sn.m. {{{phon(ʃɛ̀)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6r-A][sær]]
-
-1. sea; a large body of salt water that covers a significant part of the Earth’s surface
-2. ocean; one of the five large bodies of water that cover the Earth
-
-|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
-|------+------+---------+-------+---------|
-| Nom. | sjár | sjánn   | sjár  | sjánn   |
-| Acc. | sjá  | sján    | sjá   | sján    |
-| Dat. | sjá  | sján    | sjám  | sjánum  |
-| Gen. | sjár | sjáns   | sjáar | sján    |
-
 *** sem
 {{{phon(sem)}}}, from ON [[https://old-norse.net/html/s.php#sem][sem]]
 
@@ -4600,7 +4569,7 @@ sn.m. {{{phon(ʃɛ̀)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6r-A]
       #+html: :::
 
 *** sitj(a)
-iv. {{{phon(siːʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
+iv. {{{phon(siʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
 
 1. to sit
 2. to represent (politics)
@@ -4640,6 +4609,19 @@ wf.n. {{{phon(sèð)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%AD%C3%
 adv. {{{phon(sèðɑn)}}}, from ON
 
 1. after, temporal posteriority or lesser priority
+
+*** sjá
+sn.m. {{{phon(ʃɛ̀)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%A6r-A][sær]]
+
+1. sea; a large body of salt water that covers a significant part of the Earth’s surface
+2. ocean; one of the five large bodies of water that cover the Earth
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | sjár | sjánn   | sjár  | sjánn   |
+| Acc. | sjá  | sján    | sjá   | sján    |
+| Dat. | sjá  | sján    | sjám  | sjánum  |
+| Gen. | sjár | sjáns   | sjáar | sján    |
 
 *** sjá
 iv. {{{phon(ʃɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse][sjá]]
@@ -4688,7 +4670,7 @@ sn.n. {{{phon(ʃɔ̀nβarp)}}}, from [[file:./dictionary.md#sjon][sjón]] and [[
 For declensions, see [[file:./dictionary.md#varp][varp]]
 
 *** sjónvarphús
-sn.n. {{{phon(ʃɔ̀nβarphòs)}}}, from [[file:./dictionary.md#sjonvarp][sjónvarp]] and [[file:./dictionary.md#hus][hús]]
+sn.n. {{{phon(ʃɔ̀n.βarp.hòs)}}}, from [[file:./dictionary.md#sjonvarp][sjónvarp]] and [[file:./dictionary.md#hus][hús]]
 
 1. cinema, theatre
 
@@ -5505,7 +5487,7 @@ wn.f. {{{phon(tonliʃt)}}}, from [[file:./dictionary.md#ton][ton]] and [[file:./
 See [[file:./dictionary.md#list][list]] for declensions.
 
 *** traust
-adj. {{{phon(trɔʊʃt)}}}
+adj. {{{phon(trɔʃt)}}}
 
 1. trusty, trustworthy, safe
 
@@ -5552,7 +5534,7 @@ wn.f. {{{phon(tuŋ)}}}
 | Gen. | tungs | tungats | tungs  | tungat   |
 
 *** týr
-in.m. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr][týr]]
+in.m. {{{phon(tø̀r)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr][týr]]
 
 1. god, divinity
 
@@ -5564,7 +5546,7 @@ in.m. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr][tý
 | Gen. | týs | týsins  | tív   | týsin   |
 
 *** Týr
-pn. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][Týr]]
+pn. {{{phon(tø̀r)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][Týr]]
 
 1. the god Týr
 
@@ -5576,7 +5558,7 @@ pn. {{{phon(tør)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][T�
 | Gen. | Týs |
 
 *** Týsdag
-sn.m. {{{phon(tøsdaɣ)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][týsdagr]]
+sn.m. {{{phon(tø̀sdaɣ)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%BDr-II][týsdagr]]
 
 1. Tuesday, third day of the week
 
@@ -5610,7 +5592,7 @@ pron. {{{phon(θesː)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEessi
 See also [[file:./dictionary.md#sa][sá]]
 
 *** Þór
-pn.m. {{{phon(θɔr)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rr-A][Þórr]]
+pn.m. {{{phon(θɔ̀r)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rr-A][Þórr]]
 
 1. Thor
 
@@ -5622,7 +5604,7 @@ pn.m. {{{phon(θɔr)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B
 | Gen. | Þórs |
 
 *** Þórsdag
-sn.m. {{{phon(θɔrsdaɣ)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rsdagr][þórsdagr]]
+sn.m. {{{phon(θɔ̀rsdaɣ)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%B3rsdagr][þórsdagr]]
 
 1. Thursday, fifth day of the week
 
@@ -5630,7 +5612,7 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 *** því
-adv. {{{phon(θwe)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEv%C3%AD][því]]
+adv. {{{phon(θwè)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEv%C3%AD][því]]
 
 1. because
 
