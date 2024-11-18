@@ -36,7 +36,7 @@ const simplifiedHead = [
       },
       {
         name: 'fediverse:creator',
-        content: '@phundrak@phundrak.com',
+        content: '@phundrak@mastodon.phundrak.com',
       },
       {
         name: 'twitter:card',
