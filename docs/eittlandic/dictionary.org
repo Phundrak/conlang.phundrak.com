@@ -98,6 +98,20 @@ wn.m. {{{phon(ɑf)}}}, from ON [[https://old-norse.net/html/a.php#afi][afi]]
 | Dat. | af  | afit    | afum | afitum  |
 | Gen. | afs | afits   | afs  | afit    |
 
+*** akaluk
+sn.m. {{{phon(ˈɑk.ɑl.ok)}}}, probably a Tunrit borrowing
+
+1. snow-capped mountain
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | akalukr  | akalukinn | akalukr  | akalukinn  |
+| Acc. | akaluk   | akalukin  | akaluk   | akalukin   |
+| Dat. | akaluk   | akalukin  | akalukum | akalukinum |
+| Gen. | akalukar | akalukins | akalukar | akalukin   |
+
+See also [[file:./dictionary.md#fjall][fjall]].
+
 *** alf
 wn.m. {{{phon(ɑlf)}}}
 
@@ -380,7 +394,7 @@ sn.n. {{{phon(bɑrn)}}}, from ON [[https://old-norse.net/html/b.php#barn][barn]]
 *** bát
 sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][bátr]]
 
-1. boat
+1. boat; a small vessel used for traveling on water
 
 |      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------+---------+-------+---------|
@@ -394,6 +408,7 @@ sv. {{{phon(ber)}}}, from ON [[https://old-norse.net/html/b.php#bera3-A][bera]]
 
 1. to transport or convey something from one place to another
 2. to hold and move something
+3. to endure, to tolerate; to withstand something difficult or painful
 
 Declensions:
 - infinitive :: ber
@@ -411,6 +426,20 @@ Declensions:
 |   1p   |   | berum      | berim       | berum | berumk  |
 |   2p   |   | berið      | berið       | beruð | berask  |
 |   3p   |   | berið      | berið       | beruð | berask  |
+
+*** bern
+sn.m. {{{phon(bern)}}}, from EON [[https://old-norse.net/html/b.php#bj%C3%B6rn][bern]]
+
+1. bear
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | bernn  | berninn | bernn  | berninn  |
+| Acc. | bern   | bernin  | bern   | bernin   |
+| Dat. | bern   | bernin  | bernum | berninum |
+| Gen. | bernar | bernins | bernar | bernin   |
+
+See also [[file:./dictionary.md#nanuk][nanuk]].
 
 *** bil
 wn.n. {{{phon(βil)}}}, shortened from of [[file:./dictionary.md#automobil][automobil]]
@@ -1248,6 +1277,8 @@ sn.n. {{{phon(fjɑlː)}}}, from ON [[https://old-norse.net/html/f.php#fjall][fja
 | Acc. | fjall  | fjallit  | fjall   | fjallit   |
 | Dat. | fjall  | fjallit  | fjallum | fjallitum |
 | Gen. | fjalls | fjallits | fjalls  | fjallit   |
+
+See also [[file:./dictionary.md#akaluk][akaluk]].
 
 *** flekk
 sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekkr]]
@@ -2501,6 +2532,41 @@ interj. {{{phon(ixːə)}}}, probably a Tunrit borrowing
 
 1. How cold! Brr!
 
+*** ilag(a)
+wn.n. {{{phon(ilɑj)}}}, from Tunrit
+
+1. a close, non-familial friend, a trusted companion
+2. a member of one's chosen family
+
+This term emphasizes an emotional bond, whereas [[file:./dictionary.md#vin][vin]] is the general
+term for friends or associates.
+
+See also [[file:./dictionary.md#vin][vin]].
+
+*** ilagaskap
+sn.m. {{{phon(ˈil.ɑj.ɑ.ˌʃkɑp)}}}, from [[file:./dictionary.md#ilag-a][ilag(a)]] and [[file:./dictionary.md#skap][skap]]
+
+1. close friendship, camaradery; a deep, affectionate bond between
+   friends
+
+For declensions, see [[file:./dictionary.md#skap][skap]].
+
+*** ilaglig
+adj. and adv. {{{phon(il.ɑɡ.liɣ)}}}, from [[file:./dictionary.md#ilag-a][ilag(a)]]
+
+1. friendly, affectionate, amicable
+
+|         | Common    | Neuter    |
+|---------+-----------+-----------|
+| Sg.Nom. | ilagligr  | ilagligt  |
+| Acc.    | ilaglig   | ilagligt  |
+| Dat.    | ilagligum | ilagligum |
+| Gen.    | ilagligs  | ilagligs  |
+| Pl.Nom. | ilagligar | ilaglig   |
+| Acc.    | ilaglig   | ilaglig   |
+| Dat.    | ilagligum | ilagligum |
+| Gen.    | ilagligar | ilagligr  |
+
 *** ill(u)
 sn.m. {{{phon(ilː)}}}, inherited for Tunrit
 
@@ -2581,45 +2647,6 @@ wn.n. {{{phon(jak)}}}, from Tibetan [[https://en.wiktionary.org/wiki/%E0%BD%82%E
 2. interj. yes (as an exclamation of joy)
 
 ** K
-*** kaup
-wn.n. {{{phon(kɔp)}}}, from ON [[https://old-norse.net/html/k.php#kaup][kaup]]
-
-1. commerce
-2. bargain, barter
-
-Alternative form: *kóp*
-
-|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
-|------+-------+---------+--------+----------|
-| Nom. | kaup  | kaupit  | kaupr  | kaupitr  |
-| Acc. | kaup  | kaupit  | kaup   | kaupit   |
-| Dat. | kaup  | kaupit  | kaupum | kaupitum |
-| Gen. | kaups | kaupits | kaups  | kaupit   |
-
-*** kaup(a)
-wv. {{{phon(kɔp)}}}, from ON [[https://old-norse.net/html/k.php#kaupa-B][kaupa]]
-
-1. to make business by selling goods, to do commerce
-2. to bargain, to barter
-3. to exchange
-
-Declensions:
-- infinitive :: kaup
-- imperative :: kaup
-- imperative passive voice :: kaupask
-- present participle :: kaupand
-- past participle :: kaupit
-
-|  <c>   |   |            |             |          |         |
-| person |   | Ind. Pres. | Subj. Pres. | Past     | Passive |
-|--------+---+------------+-------------+----------+---------|
-|   1s   |   | kaupar     | kaupar      | kaupar   | kaupum  |
-|   2s   |   | kaupið     | kaupið      | kaupir   | kaupir  |
-|   3s   |   | kaupir     | kaupim      | kaupið   | kaupið  |
-|   1p   |   | kaupt      | kaupt       | kaupt    | kaupum  |
-|   2p   |   | kaupuð     | kaupuð      | kaupumk  | kaupisk |
-|   3p   |   | kaupðisk   | kaupumk     | kaupðisk | kaupisk |
-
 *** kanik
 sn.n. {{{phon(kan.ek)}}}, probably a Tunrit word
 
@@ -2679,6 +2706,57 @@ Declensions:
 |   1p   |   | kannum     | kunnim               |
 |   2p   |   | kannuð     | kunnið               |
 |   3p   |   | kann       | kunn                 |
+
+*** kaup
+wn.n. {{{phon(kɔp)}}}, from ON [[https://old-norse.net/html/k.php#kaup][kaup]]
+
+1. commerce
+2. bargain, barter
+
+Alternative form: *kóp*
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | kaup  | kaupit  | kaupr  | kaupitr  |
+| Acc. | kaup  | kaupit  | kaup   | kaupit   |
+| Dat. | kaup  | kaupit  | kaupum | kaupitum |
+| Gen. | kaups | kaupits | kaups  | kaupit   |
+
+*** kaup(a)
+wv. {{{phon(kɔp)}}}, from ON [[https://old-norse.net/html/k.php#kaupa-B][kaupa]]
+
+1. to make business by selling goods, to do commerce
+2. to bargain, to barter
+3. to exchange
+
+Declensions:
+- infinitive :: kaup
+- imperative :: kaup
+- imperative passive voice :: kaupask
+- present participle :: kaupand
+- past participle :: kaupit
+
+|  <c>   |   |            |             |          |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past     | Passive |
+|--------+---+------------+-------------+----------+---------|
+|   1s   |   | kaupar     | kaupar      | kaupar   | kaupum  |
+|   2s   |   | kaupið     | kaupið      | kaupir   | kaupir  |
+|   3s   |   | kaupir     | kaupim      | kaupið   | kaupið  |
+|   1p   |   | kaupt      | kaupt       | kaupt    | kaupum  |
+|   2p   |   | kaupuð     | kaupuð      | kaupumk  | kaupisk |
+|   3p   |   | kaupðisk   | kaupumk     | kaupðisk | kaupisk |
+
+*** kájak
+sn.m. {{{phon(kɛ̀jɑk)}}}, from Tunrit
+
+1. kayak; small boat, barque, genrally for one person
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | kajakr  | kajakinn | kajakr  | kajakinn  |
+| Acc. | kajak   | kajakin  | kajak   | kajakin   |
+| Dat. | kajak   | kajakin  | kajakum | kajakinum |
+| Gen. | kajakar | kajakins | kajakar | kajakin   |
 
 *** káppok
 adj. {{{phon(kɛ̀ɸːok)}}}, Tunrit borrowing
@@ -3685,6 +3763,20 @@ adj. {{{phon(nɑkt)}}}
 | Dat.    | naktum | naktum |
 | Gen.    | naktar | naktr  |
 
+*** nanuk
+sn.m. {{{phon(nɑn.ok)}}}, Tunrit borrowing
+
+1. white bear; polar bear
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | nanukr  | nanukinn | nanukr  | nanukinn  |
+| Acc. | nanuk   | nanukin  | nanuk   | nanukin   |
+| Dat. | nanuk   | nanukin  | nanukum | nanukinum |
+| Gen. | nanukar | nanukins | nanukar | nanukin   |
+
+See also [[file:./dictionary.md#bern][bern]].
+
 *** ná
 adv. {{{phon(nɛ̀)}}}, from ON [[https://en.wiktionary.org/wiki/n%C3%A1#Old_Norse][ná]]
 
@@ -4084,6 +4176,18 @@ sn.m. {{{phon(ɔ̀sː)}}}, from ON [[https://old-norse.net/html/oo.php#%C3%B3ss]
 | Acc. | óss   | óssin   | óss   | óssin   |
 | Dat. | óss   | óssin   | óssum | óssinum |
 | Gen. | óssar | óssinan | óssar | óssin   |
+
+*** óveð
+sn.n. {{{phon(ˌɔ̀β.ˈeð)}}}, from [[file:./dictionary.md#o][ó-]] and [[file:./dictionary.md#veð][veð]]
+
+1. storm, tempest
+   #+html: ::: tip Example
+   Óveð kœmt upp.
+
+   A storm arose.
+   #+html: :::
+
+For declensions, see [[file:./dictionary.md#veð][veð]].
 
 *** óvin
 sn.m. {{{phon(ɔ̀β.en)}}}, from [[file:./dictionary.md#o][ó-]] and [[file:./dictionary.md#vin][vin]]
@@ -4720,6 +4824,35 @@ Declensions:
 |   2p   |   | skaluð     | skylið      | skylduð |
 |   3p   |   | skaluð     | skylið      | skylduð |
 
+*** skap
+sn.m. {{{phon(ʃkɑp)}}}, from ON [[https://old-norse.net/html/s.php#skap][skap]]
+
+1. mood, temper, disposition
+   #+html: ::: tip Example
+   Hann vas í góðum skap.
+
+   He was in a good mood.
+   #+html: :::
+2. nature, character, quality
+   #+html: ::: tip Example
+   Skapinn hans er sterk ok staðug.
+
+   He has a strong and steady nature.
+   #+html: :::
+3. condition, state (of something non-living)
+   #+html: ::: tip Example
+   Veðits skapr er óstaðug.
+
+   The condition of the weather is unsteady.
+   #+html: :::
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | skapr  | skapinn | skapr  | skapinn  |
+| Acc. | skap   | skapin  | skap   | skapin   |
+| Dat. | skap   | skapin  | skapum | skapinum |
+| Gen. | skapar | skapins | skapar | skapin   |
+
 *** skilj(a)
 sv. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_Norse][skilja]]
 
@@ -4745,6 +4878,19 @@ Declensions:
 |   1p   |   | skiljum    | skilim      | skiljum | skiljumk |
 |   2p   |   | skilið     | skilið      | skiljuð | skiljask |
 |   3p   |   | skilið     | skilið      | skiljuð | skiljask |
+
+*** skip
+sn.n. {{{phon(ʃkip)}}}, from ON [[https://old-norse.net/html/s.php#skip][skip]]
+
+1. ship; a large vessel used for traveling on water, often for
+   commrcial, military, or exploratory purposes
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | skip  | skipit  | skip   | skipitr  |
+| Acc. | skip  | skipit  | skip   | skipit   |
+| Dat. | skip  | skipit  | skipum | skipitum |
+| Gen. | skips | skipits | skips  | skipit   |
 
 *** skipan
 sn.f. {{{phon(ʃkipan)}}}, from ON [[https://old-norse.net/html/s.php#skipan][skipan]]
@@ -5070,6 +5216,25 @@ sn.n. {{{phon(ʃpelː)}}}
 | Acc. | spell  | spellit  | spell   | spellit   |
 | Dat. | spell  | spellit  | spellum | spellitum |
 | Gen. | spells | spellits | spells  | spellit   |
+
+*** staðug
+adj. {{{phon(ˈʃtɑð.oɣ)}}}, from ON [[https://old-norse.net/html/s.php#st%C3%B6%C3%B0ugr][stǫðugr]]
+
+1. steady; firmly fixed or supported, not shaking or moving
+2. constant, unchanging; not varying or fluctuating
+3. reliable, dependable; worthy of trust or reliance
+4. calm, composed; not easily excited or upset
+
+|         | Common   | Neuter   |
+|---------+----------+----------|
+| Sg.Nom. | staðugr  | staðugt  |
+| Acc.    | staðug   | staðugt  |
+| Dat.    | staðugum | staðugum |
+| Gen.    | staðugs  | staðugs  |
+| Pl.Nom. | staðugar | staðug   |
+| Acc.    | staðug   | staðug   |
+| Dat.    | staðugum | staðugum |
+| Gen.    | staðugar | staðugr  |
 
 *** stand(a)
 sv. {{{phon(ʃtɑnd)}}}, from ON [[https://old-norse.net/html/s.php#standa-A][standa]]
@@ -5433,6 +5598,22 @@ Declensions:
 |   2p   |   | tarrið     | tarrið      | tarruð | tarrisk |
 |   3p   |   | tarrið     | tarrið      | tarruð | tarrisk |
 
+*** tasik
+sn.n. {{{phon(tɑs.ek)}}}, Tunrit borrowing
+
+1. lake
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | tasik  | tasikit  | tasik   | tasikitr  |
+| Acc. | tasik  | tasikit  | tasik   | tasikit   |
+| Dat. | tasik  | tasikit  | tasikum | tasikitum |
+| Gen. | tasiks | tasikits | tasiks  | tasikit   |
+
+This term is interchangeable with [[file:./dictionary.md#vatn][vatn]] when it comes to its meaning as
+/lake/, but /tasik/ is often seen as more poetic and can disambiguate the
+use of [[file:./dictionary.md#vatn][vatn]].
+
 *** tán
 sn.f. {{{phon(tɛ̀n)}}}, from EON [[https://old-norse.net/html/t.php#t%C3%B6nn][tǫnn]]
 
@@ -5617,6 +5798,18 @@ adv. {{{phon(θwè)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEv%C3%
 1. because
 
 ** U
+*** ublun(a)
+sn.f. {{{phon(ub.lun)}}}, probably a Tunrit borrowing
+
+1. cloudberry
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | ublunr  | ublunann | ublunr  | ublunann  |
+| Acc. | ublun   | ublunan  | ublun   | ublunan   |
+| Dat. | ublun   | ublunan  | ublunum | ublunanum |
+| Gen. | ublunar | ublunans | ublunar | ublunan   |
+
 *** um
 prep. {{{phon(um)}}}, from ON [[https://old-norse.net/html/u.php#um-acc-A][um]]
 
@@ -5768,7 +5961,7 @@ sn.n. {{{phon(βarp)}}}, from [[file:./dictionary.md#verp-a][verp]]
 sn.n. {{{phon(βatn̩)}}}, from ON [[https://old-norse.net/html/v.php#vatn-A][vatn]]
 
 1. water
-2. lake
+2. lake; see also [[file:./dictionary.md#tasik][tasik]]
 3. a fluid or adaptable situation
 4. a deep, profound feeling or sensation
 
@@ -5841,6 +6034,19 @@ Declensions:
 |   1p   |   | vánum        | vánim        | vánum | vánumk  |
 |   2p   |   | vánið        | vánið        | vánuð | vándisk |
 |   3p   |   | vánið        | vánið        | vánuð | vándisk |
+
+*** veð
+sn.n. {{{phon(βeð)}}}, from ON [[https://old-norse.net/html/v.php#ve%C3%B0r][veðr]]
+
+1. weather
+2. climate
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | veð  | veðit   | veð   | veðitr  |
+| Acc. | veð  | veðit   | veð   | veðit   |
+| Dat. | veð  | veðit   | veðum | veðitum |
+| Gen. | veðs | veðits  | veðs  | veðit   |
 
 *** vef
 sm.n. {{{phon(βef)}}}, from ON [[https://old-norse.net/html/v.php#vefr][vefr]]
@@ -5939,9 +6145,9 @@ Declensions:
 
 |    | Ind. Pres. | Subj. Pres. | Ind. Past | Subj. Past |
 |----+------------+-------------+-----------+------------|
-| 1s | em         | sé          | vas       | vár        |
-| 2s | est/ert    | sér         | vast      | vár        |
-| 3s | es/er      | sé          | vas       | vár        |
+| 1s | em         | sé          | vas/var   | vár        |
+| 2s | est/ert    | sér         | vast/vart | vár        |
+| 3s | es/er      | sé          | vas/var   | vár        |
 | 1p | er         | sé          | var       | vár        |
 | 2p | eruð       | séð         | varð      | várið      |
 | 3p | er         | sé          | var       | vár        |
@@ -6070,6 +6276,8 @@ sn.m. {{{phon(βin)}}}
 | Acc. | vin   | vinin   | vin   | vinin   |
 | Dat. | vin   | vinin   | vinum | vininum |
 | Gen. | vinar | vinins  | vinar | vinin   |
+
+See also [[file:./dictionary.md#ilaɡ-a][ilaɡ(a)]].
 
 *** vinbú
 wn.m. {{{phon(ˈβinˌbò)}}}
