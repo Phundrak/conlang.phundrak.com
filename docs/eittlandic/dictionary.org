@@ -4672,6 +4672,24 @@ See [[file:./dictionary.md#klað-a][kláð]] for declensions.
       Since I was sick, I didn’t come.
       #+html: :::
 
+*** sél
+adj. {{{phon(sɛ̀l)}}}, from EON [[https://old-norse.net/html/s.php#s%C3%A6ll][séll]]
+
+1. happy, blessed
+2. fortunate, lucky
+3. prosperous, thriving; experiencing success and good fortune
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | sélr   | sélt   |
+| Acc.    | sél    | sélt   |
+| Dat.    | sélum  | sélum  |
+| Gen.    | séls   | séls   |
+| Pl.Nom. | sélar  | sél    |
+| Acc.    | sél    | sél    |
+| Dat.    | sélum  | sélum  |
+| Gen.    | sélar  | sélr   |
+
 *** sitj(a)
 iv. {{{phon(siʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
 
