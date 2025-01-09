@@ -85,6 +85,60 @@ added when no other underlying vowel can replace it). The definite
 form of a noun is indicated in its declension table.
 
 ** A
+*** að
+prep. {{{phon(ɑð)}}}, from ON [[https://old-norse.net/html/a.php#a%C3%B0][að]]
+
+As a preposition, /að/ generally indicates motion or direction towards
+something, or attachment to something. It can be translated as /to/,
+/towards/, or /at/.
+
+1. (part.) to, used to indicate the infinitive form of a verb
+
+   #+html: ::: tip Example
+   Han byrt að syng
+
+   She started to sing
+   #+html: :::
+2. to, towards, used to indicate direction or destination
+
+   #+html: ::: tip Example
+   - Hann fert að borgin
+
+     He went to the city
+
+   - Ek sendt brévit að vinin
+
+     I sent the letter to friends
+   #+html: :::
+
+   Unlike [[file:./dictionary.md#til][til]], /að/ emphasizes on the proximity towards the goal, or in
+   the case of a movement (physical or metaphorical), of an approach
+   of the goal.
+
+   Some dialects also prefer to use /að/ rather than [[file:./dictionary.md#til][til]].
+3. at, in, used to indicate location or position
+
+   #+html: ::: tip Example
+   - Ek býr að þett húsit
+
+     I live in this house
+
+   - Vár mœtumk að veitingstaðin
+
+     We met at the restaurant
+   #+html: :::
+4. on, upon, used to indicate contact or support
+
+   #+html: ::: tip Example
+   - Bókann liggjar að borðit
+
+     The book is next to the table
+
+   - Hann sitjar að stólin
+
+     He sits down in the chair
+   #+html: :::
+
 *** af(i)
 wn.m. {{{phon(ɑf)}}}, from ON [[https://old-norse.net/html/a.php#afi][afi]]
 
@@ -294,6 +348,7 @@ See [[file:./dictionary.md#bil][bil]] for declensions.
 
 ** Á
 *** á
+**** Noun
 sn.f. {{{phon(ɛ̀)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A13][á]]
 
 1. river
@@ -304,6 +359,39 @@ sn.f. {{{phon(ɛ̀)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A13][á]
 | Acc. | á   | án      | á   | án      |
 | Dat. | á   | án      | áum | ánum    |
 | Gen. | ár  | áns     | ár  | án      |
+
+**** Preposition
+prep. {{{phon(ɛ̀)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1-remark][á]]
+
+As a preposition, /á/ indicates a position or static location on a
+surface, in time, or in state. It generally triggers the accusative
+for temporal uses, while it triggers the dative for any other use.
+
+1. on, upon, used to indicate position or location on a surface
+
+   #+html: ::: tip Example
+   - Bókann liggjar á borðit
+
+     The book is on the table
+
+   - Hann sitjar á stólin
+
+     He sits on the chair
+   #+html: :::
+2. at, used to indicate a specific time or occasion
+
+   #+html: ::: tip Example
+   Vár mœtumk á Óðinsdag
+
+   We met on Wednesday
+   #+html: :::
+3. in, within, used to indicate a state or condition
+
+   #+html: ::: tip Example
+   Han es á far
+
+   She is on a journey
+   #+html: :::
 
 *** ábreið(a)
 wn.f. {{{phon(ɛ̀brɑɪð)}}}, from ON [[https://old-norse.net/html/aa.php#%C3%A1brei%C3%B0a][ábreiða]]
@@ -453,6 +541,20 @@ wn.n. {{{phon(βil)}}}, shortened from of [[file:./dictionary.md#automobil][auto
 | Dat. | bil  | bilit   | bilum | bilitum |
 | Gen. | bils | bilits  | bils  | bilit   |
 
+*** birt(i)
+wn.f. {{{phon(birt)}}}, from ON [[https://old-norse.net/html/b.php#birti][birti]]
+
+1. brightness, the quality or state of giving off or reflecting light
+   (see also [[file:./dictionary.md#ljos][ljós]])
+2. clarity, the quality or state of being clear or easily understood
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | birt  | birtit  | birtr  | birtitr  |
+| Acc. | birt  | birtit  | birt   | birtit   |
+| Dat. | birt  | birtit  | birtum | birtitum |
+| Gen. | birts | birtits | birts  | birtit   |
+
 *** bjálf(i)
 wn.m. {{{phon(βjɛ̀lf)}}}, from ON [[https://old-norse.net/html/b.php#bj%C3%A1lfi][bjálfi]]
 
@@ -576,6 +678,22 @@ Alternative form: *bréð*
 
 See [[file:dictionary.md#broð][/bróð/]]
 
+*** brév
+sn.n. {{{phon(brɛ̀β)}}}, from ON [[https://old-norse.net/html/b.php#bref][bréf]]
+
+1. letter, a written or printed communication, generally transported
+   by post, especially when it is a fomal communication from one
+   person or organisation to another
+2. episle, a formal or literary letter, especially one addressed to a
+   specific audience or dealing with a particular subject
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | brév  | brévit  | brév   | brévitr  |
+| Acc. | brév  | brévit  | brév   | brévit   |
+| Dat. | brév  | brévit  | brévum | brévitum |
+| Gen. | brévs | brévits | brévs  | brévit   |
+
 *** bróð(i)
 sn.m. {{{phon(brɔ̀ð)}}} , from ON [[https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir][bróðir]]
 
@@ -654,6 +772,54 @@ See also [[file:./dictionary.md#grann-i][grann(i)]] and [[file:./dictionary.md#n
 | Acc. | bú  | búit    | bú   | búit    |
 | Dat. | bú  | búit    | búum | búitum  |
 | Gen. | bús | búits   | bús  | búit    |
+
+*** bú(a)
+wv. {{{phon(bò)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%BAa-A][búa]]
+
+1. to live, to dwell, to reside or have one’s home in a prarticular
+   place
+2. to inhabit, to occupy, to live or occupy a place as a resident
+
+Declensions:
+- infinitive :: bú
+- imperative :: bú
+- imperative passive voice :: búask
+- present participle :: búand
+- past participle :: búit
+
+|  <c>   |   |            |             |      |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past | Passive |
+|--------+---+------------+-------------+------+---------|
+|   1s   |   | býr        | búir        | byt  | búmk    |
+|   2s   |   | býr        | búir        | byt  | búðisk  |
+|   3s   |   | býr        | búir        | byt  | búðisk  |
+|   1p   |   | búm        | búim        | bym  | búmk    |
+|   2p   |   | búið       | búið        | byð  | búðisk  |
+|   3p   |   | búið       | búið        | byð  | búðisk  |
+
+*** byr(ja)
+wv. {{{phon(byr)}}}, from ON [[https://old-norse.net/html/b.php#byrja2][byrja]]
+
+1. to begin, to start, to initiate an action or event, often with a
+   sense of informality or immediacy
+2. to commence, to initiate; to mark the start of something
+
+Declensions:
+- infinitive :: byr
+- imperative :: byr
+- imperative passive voice :: byrjask
+- present participle :: byrjand
+- past participle :: byrit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | byrjar     | byrir       | byrt   | byrjumk |
+|   2s   |   | byrjar     | byrir       | byrt   | byrtisk |
+|   3s   |   | byrjar     | byrir       | byrt   | byrtisk |
+|   1p   |   | byrjum     | byrim       | byrjum | byrjumk |
+|   2p   |   | byrið      | byrið       | byrjuð | byrtisk |
+|   3p   |   | byrið      | byrið       | byrjuð | byrtisk |
 
 ** C
 ** D
@@ -1144,10 +1310,29 @@ For declensions, see [[file:./dictionary.md#syst][syst]].
 
 See also [[file:./dictionary.md#moðirsyst][móðirsyst]].
 
-*** far(a)
-iv. {{{phon(far)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
+*** far
+sn.f. {{{phon(fɑr)}}}, from EON [[https://old-norse.net/html/f.php#f%C3%B6r][far]]
 
-1. to go, to travel
+1. journey, trip, an act of traveling from one place to another
+2. travel, the action of journeying, especially to distant places
+3. expedition, a journey undRtaken for a specific purpose, often
+   involving exploration or research
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | farr  | farinn  | farr  | farinn  |
+| Acc. | far   | farin   | far   | farin   |
+| Dat. | far   | farin   | farum | farinum |
+| Gen. | farar | farins  | farar | farin   |
+
+*** far(a)
+iv. {{{phon(fɑr)}}}, from ON [[https://old-norse.net/html/f.php#fara-A][fara]]
+
+1. to go, to move, to proceed from one place to another
+2. to travel, to journey, to go from one place to another, especially
+   over a considerable distance
+3. to transport, to convey, to move people or goods from one place to another
+4. to happen, to occur, to take place
 
 Declensions:
 - infinitive :: far
@@ -1193,7 +1378,10 @@ See [[file:dictionary.md#fað][/fað/]]
 *** ferð
 sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C3%B0r][ferðr]]
 
-1. fjord, bay
+1.  fjord, a long, narrow, deep inlet of the sea between high cliffs,
+   typically formed by submerged glacial activity
+2.  inlet, bay, a recess in the shoreline, often narrow and partly
+   surrounded by land
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
@@ -1201,6 +1389,7 @@ sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C
 | Acc. | ferð   | ferðin  | ferð   | ferðin   |
 | Dat. | ferð   | ferðin  | ferðum | ferðinum |
 | Gen. | ferðar | ferðins | ferðar | ferðin   |
+
 
 *** fé
 in.n.mass. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]]
@@ -1291,6 +1480,30 @@ sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekk
 | Acc. | flekk   | flekkin  | flekk   | flekkin   |
 | Dat. | flekk   | flekkin  | flekkum | flekkinum |
 | Gen. | flekkar | flekkins | flekkar | flekkin   |
+
+*** fløyg(a)
+iv. {{{phon(flœʏj)}}}, from EON [[https://old-norse.net/html/f.php#flj%C3%BAga][fleuga]]
+
+1. to fly, to move through the air using wings or an aircraft
+2. to rush, to hurry, to move or act quickly
+3. to flee, to escape, to run away from danger or difficulty
+
+Declensions:
+- infinitive :: fløyg
+- imperative :: fløyg
+- imperative passive voice :: fløygask
+- present participle :: fløygand
+- past participle :: fløygit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | flýgar     | fløygir     | fló    | fløygumk |
+|   2s   |   | flýgar     | fløygir     | fló    | fløygsk  |
+|   3s   |   | flýgar     | fløygir     | fló    | fløygisk |
+|   1p   |   | fløygum    | fløygim     | flugum | fløygumk |
+|   2p   |   | fløygið    | fløygið     | fluguð | fløygisk |
+|   3p   |   | fløygið    | fløygið     | fluguð | fløygisk |
 
 *** foreld
 sn.m. {{{phon(ˈfor.eld)}}}, from ON [[https://old-norse.net/html/f.php#forellri][foreldri]]
@@ -1427,6 +1640,30 @@ adj. {{{phon(ˈjɑmɑl)}}}, from ON [[https://old-norse.net/html/g.php#gamall-I]
 | Acc.    | gamalum | gamalum |
 | Dat.    | gamalt  | gamal   |
 | Gen.    | gamalt  | gamall  |
+
+*** gang(a)
+iv. {{{phon(jɑŋ)}}}, from ON [[https://old-norse.net/html/g.php#ganga-A][ganga]]
+
+1. to go, to walk, to move or travel on foot
+2. to proceed, to advance, to move forward or make progress
+3. to function, to open, to work or perform as intended
+
+Declensions:
+- infinitive :: gang
+- imperative :: gakk
+- imperative passive voice :: gangask
+- present participle :: gangand
+- past participle :: genginn
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | gengar     | gangir      | gekk   | gangumk |
+|   2s   |   | gengar     | gangir      | gekk   | gangsk  |
+|   3s   |   | gengar     | gangir      | gekk   | gangask |
+|   1p   |   | gangum     | gangim      | gangum | gangumk |
+|   2p   |   | gangið     | gangið      | ganguð | gangask |
+|   3p   |   | gangið     | gangið      | ganguð | gangask |
 
 *** gauð
 wn.f. {{{phon(jɔð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
@@ -1822,6 +2059,19 @@ wn.m. {{{phon(hɑn)}}}, from ON [[https://old-norse.net/html/h.php#hani][hani]]
 | Dat. | han  | hanit   | hanum | hanitum |
 | Gen. | hans | hanits  | hans  | hanit   |
 
+*** haust
+sn.n. {{{phon(hɔʃt)}}}, from ON [[https://old-norse.net/html/h.php#haust][haust]]
+
+1. automn, fall, the season of the year following summer and preceding
+   winter, typically occurring from September to November in Eittland
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | haust  | haustit  | haust   | haustitr  |
+| Acc. | haust  | haustit  | haust   | haustit   |
+| Dat. | haust  | haustit  | haustum | haustitum |
+| Gen. | hausts | haustits | hausts  | haustit   |
+
 *** hav(a)
 iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][hafa]]
 
@@ -1868,6 +2118,23 @@ sn.f. {{{phon(hɛ̀nd)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6nd
 | Dat. | hánd   | hándin  | hándum | hándinum |
 | Gen. | hándar | hándins | hándar | hándin   |
 
+*** hár
+{{{phon(hɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%A1r][hár]]
+
+1. (sn.f.) excellence, distinction; the quality of being outstanding or extremely good
+
+   #+html: ::: tip Example
+   Han havir hár í sér verkum
+   #+html: :::
+2. (sn.f.) majesty; the quality or dignity of being majestic
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | hárr  | hárinn  | hárr  | hárinn  |
+| Acc. | hár   | hárin   | hár   | hárin   |
+| Dat. | hár   | hárin   | hárum | hárinum |
+| Gen. | hárar | hárins  | hárar | hárin   |
+
 *** hás
 adj. {{{phon(hɛ̀s)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6ss][háss]]
 
@@ -1885,7 +2152,7 @@ adj. {{{phon(hɛ̀s)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6ss][
 | Gen.    | hásar  | háss   |
 
 *** háv
-adj. {{{phon(hɛ̀f)}}}
+adj. {{{phon(hɛ̀β)}}}
 
 1. tall, high
 
@@ -1931,13 +2198,14 @@ wn.f. {{{phon(ˈhɛ̀ðzˌdø̀n)}}}, from [[file:./dictionary.md#havuð][hávu�
 
 See [[file:./dictionary.md#dyn-a][dýn(a)]] for declensions.
 
-*** hef
+*** hef(ja)
 sv. {{{phon(hef)}}}, from ON [[https://old-norse.net/html/h.php#hefja-A][hefja]]
 
 1. to heave, lift, raise, move something upward
-2. to elevate or raise the status or importance of something
-3. to remove or alleviate a burden or difficultyu
-4. to enhance or improve something
+2. to begin, to start, to initiate an action or event, often with a sense of formality or significance
+3. to elevate or raise the status or importance of something
+4. to remove or alleviate a burden or difficultyu
+5. to enhance or improve something
 
 Declensions:
 - infinitive :: hef
@@ -1950,11 +2218,11 @@ Declensions:
 | person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
 |--------+---+------------+-------------+--------+---------|
 |   1s   |   | hefjar     | hefir       | heft   | hefjumk |
-|   2s   |   | hefjar     | hefir       | heft   | hefsk   |
-|   3s   |   | hefjar     | hefir       | heft   | hefisk  |
+|   2s   |   | hefjar     | hefir       | heft   | heftisk |
+|   3s   |   | hefjar     | hefir       | heft   | heftisk |
 |   1p   |   | hefjum     | hefim       | hefjum | hefjumk |
-|   2p   |   | hefið      | hefið       | hefjuð | hefisk  |
-|   3p   |   | hefið      | hefið       | hefjuð | hefisk  |
+|   2p   |   | hefið      | hefið       | hefjuð | heftisk |
+|   3p   |   | hefið      | hefið       | hefjuð | heftisk |
 
 *** heim
 {{{phon(hɑɪm)}}}
@@ -2440,7 +2708,7 @@ be singular only. If the dialect still uses declensions, the noun will
 bear the genitive case while /hver/ bears the original case. Can only be
 used with countable nouns.
 
-#+html: ::: Example
+#+html: ::: tip Example
 - Ér hlustið til hver sagjar han
 
   You’re listening to everything he/she says
@@ -2526,6 +2794,23 @@ adj. {{{phon(ʍɛ̀t)}}}, from ON [[https://old-norse.net/html/h.php#hv%C3%ADtr]
 suffix {{{phon(iɣ)}}}, from ON [[https://old-norse.net/html/g.php#-gi][-gi]]
 
 1. negative, no, not
+
+*** -ing
+suffix {{{phon(iŋ)}}}, from ON [[https://en.wiktionary.org/wiki/-ing#Old_Norse][-ing]]
+
+1. forms nouns denoting actions, results, or products of the verb to
+   which it is attached
+
+   #+html: ::: tip Example
+   - [[file:./dictionary.md#veit-a][veit]] → veiting (provision, serving)
+   - [[file:./dictionary.md#syng-ja][syng]] → synging (singing, song)
+   - [[file:./dictionary.md#les-a][les]] → lesing (reading, recitation)
+   #+html: :::
+2. forms nouns denoting a state or condition related to the verb
+
+   #+html: ::: tip Example
+   - [[file:./dictionary.md#hav-a][hav]] → having (possession, holding)
+   #+html: :::
 
 *** ikkí
 interj. {{{phon(ixːə)}}}, probably a Tunrit borrowing
@@ -2615,6 +2900,42 @@ sn.f. {{{phon(ent.ern.ˈet)}}}, from English /Internet/
 | Gen. | Internetar | Internetins | Internetar | Internetin   |
 
 ** Í
+*** í
+prep. {{{phon(è)}}}, from ON [[https://old-norse.net/html/ii.php#%C3%AD][í]]
+
+/Í/ indicates location or position inside something. When indicating a
+motion, the accusative is triggered, while the accusative is used when
+it indicates a location.
+
+1. in, within, used to indicate location or position inside something
+
+   #+html: ::: tip Example
+   - Ek býr í þett húsit
+
+     I live in this house
+
+   - Bókin er í skápin
+
+     The book is in the cabinet
+   #+html: :::
+2. into, used to indicate movement or direction into something
+
+   #+html: ::: tip Example
+   - Han gekk í húsit
+
+     She went to the house
+   - Hann lítt í bilitum
+
+     He looked inside the cars
+   #+html: :::
+3. in, during, used to indicate a period of time
+
+   #+html: ::: tip Example
+   Vár farum í sumarit
+
+   We traveled in the summR
+   #+html: :::
+
 *** ís
 sn.m. {{{phon(ès)}}}, from ON [[https://old-norse.net/html/ii.php#%C3%ADss][íss]]
 
@@ -3177,6 +3498,19 @@ sn.m. {{{phon(leɡ)}}}, from ON [[https://old-norse.net/html/l.php#leggr][leggr]
 | Dat. | legg   | leggin  | leggum | legginum |
 | Gen. | leggar | leggins | leggar | leggin   |
 
+*** lent(e)
+sn.f. {{{phon(lent)}}}, probable Tunrit borrowing
+
+1. spring, the season of the year following winter and preceding
+   summer, typically occurring in Eittland from March to June
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | lentr  | lentenn | lentr  | lentenn  |
+| Acc. | lent   | lenten  | lent   | lenten   |
+| Dat. | lent   | lenten  | lentum | lentenum |
+| Gen. | lenter | lentens | lenter | lenten   |
+
 *** les(a)
 sv. {{{phon(les)}}}, from ON [[https://old-norse.net/html/l.php#lesa-II][lesa]]
 
@@ -3198,6 +3532,31 @@ Declensions:
 |   1p   |   | lesum      | lesim       | lesum | lesumk  |
 |   2p   |   | lesið      | lesið       | lesuð | lesask  |
 |   3p   |   | lesið      | lesið       | lesuð | lesask  |
+
+*** ligg(ja)
+wv. {{{phon(liɡ)}}}, from ON [[https://old-norse.net/html/l.php#liggja][liggja]]
+
+1. to lie, to be in a horizontal position, to rest or recline,
+   especially on a surface
+2. to be situated, to be located, to occupy a particular place or
+   position
+
+Declensions:
+- infinitive :: ligg
+- imperative :: ligg
+- imperative passive voice :: liggask
+- present participle :: liggand
+- past participle :: liggit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | liggjar    | liggir      | lá     | liggumk |
+|   2s   |   | liggjar    | liggir      | lá     | ligdisk |
+|   3s   |   | liggjar    | liggir      | lá     | ligdisk |
+|   1p   |   | liggum     | liggim      | lággum | liggumk |
+|   2p   |   | liggið     | liggið      | lágguð | ligdisk |
+|   3p   |   | liggið     | liggið      | lágguð | ligdisk |
 
 *** list
 wn.f. {{{phon(liʃt)}}}, from ON [[https://old-norse.net/html/l.php#list][list]]
@@ -3370,11 +3729,55 @@ She looked at her house.
 | 3sf.NOM | look-3s.PST.IND | at | house-DEF | oneself.GEN |
 #+html: :::
 
+*** ljós
+sn.n. {{{phon(ljɔ̀s)}}}, from ON [[https://old-norse.net/html/l.php#lj%C3%B3s][ljós]]
+
+1. light, the natural agent that stimulates sight and makes things
+   visible
+2. illumination, the act or process of supplying or distributing light
+3. brightness, the quality or state of being bright, used in
+   scientific contexts, refering to the specific amount of brightness,
+   see also [[file:./dictionary.md#birt-i][birt(i)]]
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | ljós  | ljósit  | ljós   | ljósitr  |
+| Acc. | ljós  | ljósit  | ljós   | ljósit   |
+| Dat. | ljós  | ljósit  | ljósum | ljósitum |
+| Gen. | ljóss | ljósits | ljóss  | ljósit   |
+
 *** lok(a)
 sv. {{{phon(lok)}}}, from ON [[https://old-norse.net/html/l.php#loka2][loka]]
 
-1. to close
-2. to shut, to shut down
+1. to finish, to complete, to bring something to an end
+
+   #+html: ::: tip Example
+   Hann lokt verkit
+
+   He finished the work
+   #+html: :::
+2. to close, to shut, to move something so that it covers or blocks an opening
+
+   #+html: ::: tip Example
+   Han lokt dyrinn
+
+   She closed the door
+   #+html: :::
+3. to shut, to shut down
+
+   #+html: ::: tip Example
+   Lokt þú vétalat?
+
+   Did you shut down the computer?
+   #+html: :::
+4. to lock, to secure something so that it cannot be opened without a
+   key or special means
+
+   #+html: ::: tip Example
+   Hann lokt dyrinn með lykilit
+
+   He locked the door with the key
+   #+html: :::
 
 Declensions:
 - infinitive :: lok
@@ -3392,6 +3795,8 @@ Declensions:
 |   1p   |   | lokum      | lokim       | lokum | lokumk  |
 |   2p   |   | lokið      | lokið       | lokuð | lokask  |
 |   3p   |   | lokið      | lokið       | lokuð | lokask  |
+
+***
 
 *** lykil
 wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lykill]]
@@ -3746,6 +4151,28 @@ has already been up for some time by then.
 *** mœð
 See [[file:./dictionary.md#moð][móð]]
 
+*** mœt(a)
+wv. {{{phon(mœ̀t)}}}, from ON [[https://old-norse.net/html/m.php#m%C3%A6ta][mǿta]]
+
+1. to meet, to encounter, to come together by chance or arrangement
+
+Declensions:
+- infinitive :: mœt
+- imperative :: mœt
+- imperative passive voice :: mœtask
+- present participle :: mœtand
+- past participle :: mœtit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | mœtar      | mœtir       | mœtt  | mœtumk  |
+|   2s   |   | mœtar      | mœtir       | mœtt  | mœttisk |
+|   3s   |   | mœtar      | mœtir       | mœtt  | mœttisk |
+|   1p   |   | mœtum      | mœtim       | mœtum | mœtumk  |
+|   2p   |   | mœtið      | mœtið       | mœtuð | mœttisk |
+|   3p   |   | mœtið      | mœtið       | mœtuð | mœttisk |
+
 ** N
 *** nakt
 adj. {{{phon(nɑkt)}}}
@@ -4006,6 +4433,16 @@ adj. {{{phon(nø̀)}}}, from ON [[https://old-norse.net/html/n.php#n%C3%BDr][ný
 conj. {{{phon(ok)}}}, from ON [[https://old-norse.net/html/o.php#ok-A][ok]]
 
 1. and
+
+*** ov
+adv. {{{phon(oβ)}}}, from ON [[https://old-norse.net/html/o.php#of3-1][of]]
+
+1. too, excessively, to a degree or extent that is more than is
+   necessary, acceptable, or desirable
+2. very, extremely, to a great degree or extent
+
+/Of/ can be used with adjectives, adverbs, and verbs to indicate excess
+or emphasis.
 
 *** opin
 adj. {{{phon(ˈopin)}}}, from ON [[https://old-norse.net/html/o.php#opinn][opinn]]
@@ -4672,6 +5109,37 @@ See [[file:./dictionary.md#klað-a][kláð]] for declensions.
       Since I was sick, I didn’t come.
       #+html: :::
 
+*** send(a)
+wv. {{{phon(send)}}}, from ON [[https://old-norse.net/html/s.php#senda][senda]]
+
+1. to send, to dispatch, to cause something to be taken or transmitted
+   to another location or person
+
+   #+html: ::: tip Example
+   Ek sendt brévit
+
+   I sent the letter
+   #+html: :::
+2. to emit, to transmit, to give off or release something, such as
+   light, sound, or a signal
+
+Declensions:
+- infinitive :: send
+- imperative :: send
+- imperative passive voice :: sendask
+- present participle :: sendand
+- past participle :: sendit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | sendar     | sendir      | sendt  | sendumk |
+|   2s   |   | sendar     | sendir      | sendt  | senðisk |
+|   3s   |   | sendar     | sendir      | sendt  | senðisk |
+|   1p   |   | sendum     | sendim      | sendum | sendumk |
+|   2p   |   | sendið     | sendið      | senduð | senðisk |
+|   3p   |   | sendið     | sendið      | senduð | senðisk |
+
 *** sél
 adj. {{{phon(sɛ̀l)}}}, from EON [[https://old-norse.net/html/s.php#s%C3%A6ll][séll]]
 
@@ -4690,8 +5158,8 @@ adj. {{{phon(sɛ̀l)}}}, from EON [[https://old-norse.net/html/s.php#s%C3%A6ll][
 | Dat.    | sélum  | sélum  |
 | Gen.    | sélar  | sélr   |
 
-*** sitj(a)
-iv. {{{phon(siʃː)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
+*** sit(ja)
+iv. {{{phon(sit)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
 
 1. to sit
 2. to represent (politics)
@@ -4871,7 +5339,22 @@ sn.m. {{{phon(ʃkɑp)}}}, from ON [[https://old-norse.net/html/s.php#skap][skap]
 | Dat. | skap   | skapin  | skapum | skapinum |
 | Gen. | skapar | skapins | skapar | skapin   |
 
-*** skilj(a)
+*** skáp
+sn.m. {{{phon(ʃkɛ̀p)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%A1pr][skápr]]
+
+1. cabinet, a piece of furniture with shelves, drawers, or
+   compartments for storing or displaying items
+2. cuboard, a closed cabinet with doors, used for storing kitchen
+   utensils, dishes, or food
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | skápr  | skápinn | skápr  | skápinn  |
+| Acc. | skáp   | skápin  | skáp   | skápin   |
+| Dat. | skáp   | skápin  | skápum | skápinum |
+| Gen. | skápar | skápins | skápar | skápin   |
+
+*** skil(ja)
 sv. {{{phon(ʃkiːʎ)}}}, from ON [[https://en.wiktionary.org/wiki/skilja#Old_Norse][skilja]]
 
 1. to differenciate
@@ -5062,6 +5545,44 @@ iv. {{{phon(smɛ̀rsoβ)}}}, from [[file:./dictionary.md#smar][smár]] and [[fil
 
  See [[file:./dictionary.md#sov-a][sov(a)]] for conjugaison.
 
+*** smer
+sn.n. {{{phon(smer)}}}, from EON [[https://old-norse.net/html/s.php#smj%C3%B6r][smer]]
+
+1. butter
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | smer  | smerit  | smer   | smeritr  |
+| Acc. | smer  | smerit  | smer   | smerit   |
+| Dat. | smer  | smerit  | smerum | smeritum |
+| Gen. | smers | smerits | smers  | smerit   |
+
+*** smer(a)
+wv. {{{phon(smer)}}}, from [[file:./dictionary.md#smer][smer]]
+
+1. to spread butter
+2. to smooth over; to make something smooth or even, often used
+   figuratively to resolve disagreements or difficulties
+3. to flatter; to praise someone excessively, often insincerely, to
+   gain favour
+
+Declensions:
+- infinitive :: smer
+- imperative :: smer
+- imperative passive voice :: smerask
+- present participle :: smerand
+- past participle :: smerit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | smerar     | smerir      | smert  | smerumk  |
+|   2s   |   | smerar     | smerir      | smert  | smerðisk |
+|   3s   |   | smerar     | smerir      | smert  | smerðisk |
+|   1p   |   | smerum     | smerim      | smerum | smerumk  |
+|   2p   |   | smerið     | smerið      | smeruð | smerðisk |
+|   3p   |   | smerið     | smerið      | smeruð | smerðisk |
+
 *** snár
 sn.m. {{{phon(snɛ̀r)}}}, from ON [[https://en.wiktionary.org/wiki/snj%C3%B3r#Old_Norse][snjór]]
 
@@ -5235,6 +5756,19 @@ sn.n. {{{phon(ʃpelː)}}}
 | Dat. | spell  | spellit  | spellum | spellitum |
 | Gen. | spells | spellits | spells  | spellit   |
 
+*** stað
+sn.m. {{{phon(ʃtɑð)}}}, from ON [[https://old-norse.net/html/s.php#sta%C3%B0r][staðr]]
+
+1. place, location, a particular position, point, or area in space
+2. site, spot, specific location or position
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | staðr  | staðinn | staðr  | staðinn  |
+| Acc. | stað   | staðin  | stað   | staðin   |
+| Dat. | stað   | staðin  | staðum | staðinum |
+| Gen. | staðar | staðins | staðar | staðin   |
+
 *** staðug
 adj. {{{phon(ˈʃtɑð.oɣ)}}}, from ON [[https://old-norse.net/html/s.php#st%C3%B6%C3%B0ugr][stǫðugr]]
 
@@ -5386,6 +5920,20 @@ Declensions:
 |   2p   |   | stóðið     | stóðið      | stóðuð | stóðask |
 |   3p   |   | stóðið     | stóðið      | stóðuð | stóðask |
 
+*** stól
+sn.m. {{{phon(ʃtɔ̀l)}}}, from ON [[https://old-norse.net/html/s.php#st%C3%B3ll][stóll]]
+
+1. chair, a piece of furniture designed for sitting on, typically
+   having a seat, legs, and a back
+2. seat, a place or position designed for sitting
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | stóll  | stólinn | stóll  | stólinn  |
+| Acc. | stól   | stólin  | stól   | stólin   |
+| Dat. | stól   | stólin  | stólum | stólinum |
+| Gen. | stólar | stólins | stólar | stólin   |
+
 *** styrsamhald(i)
 sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#styrr][styrr]] (stir, battle) and [[https://old-norse.net/html/s.php#samheldi][samhaldi]]
 (a holding together, unity).
@@ -5399,6 +5947,19 @@ sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#s
 | Acc. | styrsamhald  | styrsamhaldit  | styrsamhald   | styrsamhaldit   |
 | Dat. | styrsamhald  | styrsamhaldit  | styrsamhaldum | styrsamhalditum |
 | Gen. | styrsamhalds | styrsamhaldits | styrsamhalds  | styrsamhaldit   |
+
+*** sumar
+sn.n. {{{phon(ˈsumɑr)}}}, from ON [[https://old-norse.net/html/s.php#sumar][sumar]]
+
+1. summer, the warmst season of the year, typically occurring from
+   June to September in Eittland
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | sumar  | sumarit  | sumar   | sumaritr  |
+| Acc. | sumar  | sumarit  | sumar   | sumarit   |
+| Dat. | sumar  | sumarit  | sumarum | sumaritum |
+| Gen. | sumars | sumarits | sumars  | sumarit   |
 
 *** sunn(a)
 wn.f. {{{phon(sunː)}}}, from ON [[https://old-norse.net/html/s.php#sunna][sunna]]
@@ -5503,6 +6064,30 @@ sn.n. {{{phon(sβèn)}}}, from ON [[https://old-norse.net/html/s.php#sv%C3%ADn]
 | Dat. | svín  | svínit  | svínum | svínitum |
 | Gen. | svíns | svínits | svíns  | svínit   |
 
+*** syng(ja)
+wv. {{{phon(syŋ)}}}, from ON [[https://old-norse.net/html/s.php#syngja][syngja]]
+
+1. to sing, to produce musical sounds with the voice
+2. to chant, to intone; to recite or utter in a melodic or rythmic
+   manner, often in a ritual or ceremonial context
+
+Declensions:
+- infinitive :: syng
+- imperative :: syng
+- imperative passive voice :: syngask
+- present participle :: syngand
+- past participle :: syngit
+
+|  <c>   |   |            |             |         |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past    | Passive  |
+|--------+---+------------+-------------+---------+----------|
+|   1s   |   | syngjar    | syngir      | syngt   | syngjumk |
+|   2s   |   | syngjar    | syngir      | syngt   | syngðisk |
+|   3s   |   | syngjar    | syngir      | syngt   | syngðisk |
+|   1p   |   | syngjum    | syngim      | syngjum | syngjumk |
+|   2p   |   | syngið     | syngið      | syngjuð | syngðisk |
+|   3p   |   | syngið     | syngið      | syngjuð | syngðisk |
+
 *** syst
 sn.f. {{{phon(syʃt)}}}, from ON [[https://old-norse.net/html/s.php#systir][systir]]
 
@@ -5557,7 +6142,7 @@ Declensions:
 **** Noun
 wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][tala]]
 
-1. number
+1. number, an abstract entity that represents a specific quantity
 
 |      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
 |------+------+---------+-------+---------|
@@ -5569,13 +6154,17 @@ wn.f. {{{phon(tal)}}}, from ON [[https://en.wiktionary.org/wiki/tala#Old_Norse][
 **** Verb
 wv. {{{phon(tal)}}}, from ON [[https://old-norse.net/html/t.php#tala2][tala]]
 
-1. to talk, to speak
+1. to talk, to speak, to communicate using words
+2. to recite, to declaim, to speak or read aloud, especially in a
+   formal or ceremonial context
+3. to express, to articulate, to convey thoughts or feelings through
+   speech
 
-   With prepositions:
-   - tal til :: to talk to someone
-   - tal um :: to talk about
-   - tal eftir :: to retract a statement, to go back on one’s words
-   - tal á málskipan :: to speak a language
+With prepositions:
+- tal til :: to talk to someone
+- tal um :: to talk about
+- tal eftir :: to retract a statement, to go back on one’s words
+- tal á málskipan :: to speak a language
 
 Declensions:
 - infinitive :: tal
@@ -5649,7 +6238,42 @@ sn.f. {{{phon(tɛ̀n)}}}, from EON [[https://old-norse.net/html/t.php#t%C3%B6nn]
 *** til
 prep. {{{phon(til)}}}, from ON [[https://old-norse.net/html/t.php#til-A][til]]
 
-1. to, towards, till (literally and figuratively)
+This preposition indicates direction, purpose, or destination towards
+something. It triggers the dative case.
+
+1. to, towards, used to indicate direction or destination, often with
+   a sense of purpose or goal.
+
+   #+html: ::: tip Example
+   - Hann fert til borgin
+
+     He went to the city
+
+   - Ek sendt brévit til vininum
+
+     I sent the letter to friends
+   #+html: :::
+
+   Unlike [[file:./dictionary.md#að][að]], /til/ emphasizes more on the goal itself or the purpose of
+   the action.
+
+   Some dialects also simply prefer to use /til/ rather than [[file:./dictionary.md#að][að]].
+2. for, used to indicate the beneficiary or recipient of an action
+   #+html: ::: tip Example
+   - Þett es gef til þér
+
+     This is a gift for you
+   - Ek gerð þett til stóð þér
+
+     I did this to support you
+   #+html: :::
+3. until, used to indicate a point in time up to which something happens
+
+   #+html: ::: tip Example
+   Vár vinnum til verkit sé lokin
+
+   We work until the work is finished
+   #+html: :::
 
 **** til ná
 1. adv. still
@@ -6117,6 +6741,53 @@ wn.f. {{{phon(ˈβɑɪshɑɪt)}}}, from German [[https://en.wiktionary.org/wiki/
 | Dat. | veisheit  | veisheitit  | veisheitum | veisheititum |
 | Gen. | veisheits | veisheitits | veisheits  | veisheitit   |
 
+*** veit(a)
+wv. {{{phon(βɑɪt)}}}, from ON [[https://old-norse.net/html/v.php#veita][veita]]
+
+1. to give, to provide, to transfer possession or control of something
+   to someone
+2. to grant, to bestow, to confer or award something to someone
+3. to serve, to attend, to perform duties or services for someone
+
+Declensions:
+- infinitive :: veit
+- imperative :: veit
+- imperative passive voice :: veitask
+- present participle :: veitand
+- past participle :: veitit
+
+|  <c>   |   |            |             |        |          |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive  |
+|--------+---+------------+-------------+--------+----------|
+|   1s   |   | veitar     | veitir      | veitt  | veitumk  |
+|   2s   |   | veitar     | veitir      | veitt  | veittisk |
+|   3s   |   | veitar     | veitir      | veitt  | veittisk |
+|   1p   |   | veitum     | veitim      | veitum | veitumk  |
+|   2p   |   | veitið     | veitið      | veituð | veittisk |
+|   3p   |   | veitið     | veitið      | veituð | veittisk |
+
+*** veiting
+sn.f. {{{phon(ˈβɑɪtˌeŋ)}}}, from [[file:./dictionary.md#veit-a][veit(a)]] and [[file:./dictionary.md#ing][-ing]]
+
+1. serving, provision, the act of providing or serving something,
+   especially food or drink
+2. meal, dish, a prepared serving of food
+
+|      | Sg.       | Def.Sg.    | Pl.       | Def.Pl.     |
+|------+-----------+------------+-----------+-------------|
+| Nom. | veitingr  | veitinginn | veitingr  | veitinginn  |
+| Acc. | veiting   | veitingin  | veiting   | veitingin   |
+| Dat. | veiting   | veitingin  | veitingum | veitinginum |
+| Gen. | veitingar | veitingins | veitingar | veitingin   |
+
+*** veitingstað
+sn.m. {{{phon(ˈβɑɪteŋˌʃtɑð)}}}, from [[file:./dictionary.md#veiting][veiting]] and [[file:./dictionary.md#stað][stað]]
+
+1. restaurant, dining place, an establishment where meals are served
+   to customers
+
+For declensions, see [[file:./dictionary.md#stað][stað]].
+
 *** vel
 adv. {{{phon(βel)}}}, from ON [[https://old-norse.net/html/v.php#vel][vel]]
 
@@ -6180,11 +6851,12 @@ sn.n. {{{phon(βerk)}}}, from ON [[https://old-norse.net/html/v.php#verk][verk]]
 
 1. work, the activities or tasks performed as part of one’s job or
    occupation
-2. business, a commercial or industrial enterprise or activity
-3. project, a planned undertaking or endeavour, typically involving a
+2. task, a piece of work to be done or undertaken
+3. business, a commercial or industrial enterprise or activity
+4. project, a planned undertaking or endeavour, typically involving a
    series of tasks or activities aimed at achieving a specific goal
-4. a large or complex task or assignment
-5. a collaborative effort involving multiple participants
+5. a large or complex task or assignment
+6. a collaborative effort involving multiple participants
 
 |      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
 |------+-------+---------+--------+----------|
@@ -6220,6 +6892,19 @@ Declensions:
 adv. {{{phon(βeʃt)}}}, from ON [[https://old-norse.net/html/v.php#vestr][vestr]]
 
 1. West, westward
+
+*** vetr
+in.m. {{{phon(βetr̩)}}}, from ON [[https://old-norse.net/html/v.php#vetr-A][vetr]]
+
+1. winter, the coldest season of the year, typically occuring from
+   November to March in Eittland
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | vetr   | vetrinn | vetr   | vetrinn  |
+| Acc. | vetr   | vetrin  | vetr   | vetrin   |
+| Dat. | vetr   | vetrin  | vetrum | vetrinum |
+| Gen. | vetrar | vetrins | vetrar | vetrin   |
 
 *** vél
 sn.f. {{{phon(βɛl)}}}, from ON [[https://en.wiktionary.org/wiki/v%C3%A9l#Old_Norse][vél]]
@@ -6358,6 +7043,33 @@ wn.n. {{{phon(ˈβindˌɔ̀j)}}}, from [[file:dictionary.md#vind][vind]] and [[f
 | Acc. | vindaug   | vindaugat  | vindaug   | vindaugat   |
 | Dat. | vindaug   | vindaugat  | vindaugum | vindaugatum |
 | Gen. | vindaugas | vindaugats | vindaugas | vindaugat   |
+
+*** vinn(a)
+wv. {{{phon(βin)}}}, from ON [[https://old-norse.net/html/v.php#vinna-A][vinna]]
+
+1. to work, to labour, to engage in physical or mental activity in
+   order to achieve a result or earn a living
+2. to win, to gain, to achieve victory or success in a competition or
+   contest
+3. to gain, to obtain, to acquire something through effort or
+   achievement
+
+Declensions:
+- infinitive :: vinn
+- imperative :: vinn
+- imperative passive voice :: vinnask
+- present participle :: vinnand
+- past participle :: vinnit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | vinnar     | vinnir      | vinnt  | vinnumk |
+|   2s   |   | vinnar     | vinnir      | vinnt  | vinnsk  |
+|   3s   |   | vinnar     | vinnir      | vinnt  | vinnask |
+|   1p   |   | vinnum     | vinnim      | vinnum | vinnumk |
+|   2p   |   | vinnið     | vinnið      | vinnuð | vinnask |
+|   3p   |   | vinnið     | vinnið      | vinnuð | vinnask |
 
 *** vit
 interj. {{{phon(βit)}}}
