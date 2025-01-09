@@ -239,6 +239,8 @@ become shorter.
   {{{phon(upɸə)}}}
 #+html: :::
 
+The only exception is a double «g» {{{phon(ɡː)}}} which became {{{phon(ɡ)}}}.
+
 *** r > ʁ (Eastern Eittlandic)
 From the beginning of the 16th century, the Eastern Eittlandic {{{phon(r)}}}
 began morphing into an {{{phon(ʁ)}}} in all contexts except in word-final

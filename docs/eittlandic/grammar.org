@@ -85,6 +85,21 @@ judged as distant by the speaker from themselves.
 On the other hand, the following pronouns containing /þess/ relate to
 the words “this” and “these” in English.
 
+|        | Masculine | Feminine | Neuter |
+|--------+-----------+----------+--------|
+| Sg Nom | þess      | þess     | þett   |
+| Sg Acc | þess      | þess     | þett   |
+| Sg Dat | þessum    | þess     | þess   |
+| Sg Gen | þess      | þear     | þess   |
+|--------+-----------+----------+--------|
+| Pl Nom | þessar    | þessar   | þess   |
+| Pl Acc | þess      | þess     | þess   |
+| Pl Dat | þessum    | þessum   | þessum |
+| Pl Gen | þess      | þessar   | þess   |
+
+Again, it is interesting to see how these pronouns retained some
+distinction between the masculine and the feminine form.
+
 **** Possessive Pronouns
 Possessive pronouns in Eittlandic simply are the genitive form of the
 personal pronouns shown [[file:./grammar.md#personal-pronouns][above]]. The pronoun agrees with the owner in
@@ -1293,6 +1308,12 @@ numerals have declensions as discussed in [[file:grammar.md#numerals][Word Class
 | Acc. | ein       | ein      | eit    |
 | Dat. | einn      | ein      | eit    |
 | Gen. | ein       | einn     | eits   |
+
+Indefinite articles are not required in Eittlandic the way they are in
+English. The sentence /hann át fisk/ (/he ate a fish/) is absolutely
+correct and does not required. Instead, indefinite articles are used
+as intensifiers, as in /hann át ein fisk, eng fiskin/ (/he ate *a* fish,
+not *the* fish/).
 
 **** Definite articles
 As in other Scandinavian languages, definite articles in Eittlandic
