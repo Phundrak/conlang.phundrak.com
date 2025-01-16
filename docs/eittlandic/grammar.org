@@ -200,6 +200,28 @@ same form as their infinitive counterpart.
   | eat.IMP | food-DEF.ACC | 2p.GEN |
 #+html: :::
 
+There is however a passive imperative voice in Eittlandic that does
+not exist in English. It is used to give commands or instructions
+where the subject is not specified or is implied to be a general "one"
+or "you". It is generally formed by addink /-ask/ after its infinitive.
+The imperative passive is particularly useful in instructions,
+recipes, or general commands where the focus is on the action rather
+than the agent.
+
+#+html: ::: tip Example
+1. Active voice imperative
+   - Et þat!
+
+     Eat it!
+2. Passive voice imperative
+   - Etask þat!
+
+     Let it be eaten!
+   - Hásk með krydd
+
+     Add with spices
+#+Html: :::
+
 **** Participles
 Formation of participles is relatively simple in Eittlandic is pretty
 simple, as it simply adds /-and/ and /-it/ to the verbal root of the verb
