@@ -833,7 +833,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -2075,7 +2075,7 @@ sn.n. {{{phon(hɔʃt)}}}, from ON [[https://old-norse.net/html/h.php#haust][haus
 *** hav(a)
 iv. {{{phon(haβ)}}}, from ON [[https://en.wiktionary.org/wiki/hafa#Old_Norse][hafa]]
 
-1. to have
+1. to have; in some dialects, see also [[file:./dictionary.md#ha][há]]
 2. stative auxilliary
 
 Declensions:
@@ -2101,6 +2101,31 @@ using hav(a) in the passive voice.
 | 1 | havumk              | havumk              | havumk          | heðumk           |
 | 2 | hafsk               | havisk              | havisk          | heðisk           |
 | 3 | hafsk               | havisk              | havisk          | heðisk           |
+
+*** há
+iv. {{{phon(hɛ̀)}}}, from OE [[file:./dictionary.md#hav-a][hav(a)]]
+
+1. to add, to put together, joining something to something else
+2. to include, to incorporate, to make something part of a whole
+3. (colloquial or dialects) to have, to possess, to be in ownership or
+   control of something; see also [[file:./dictionary.md#hav-a][hav(a)]]
+
+Declensions:
+- infinitive :: há
+- imperative :: há
+- imperative passive voice :: hásk
+- present participle :: hánd
+- past participle :: háit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | hár        | háir        | hát   | hávumk  |
+|   2s   |   | hár        | háir        | hát   | hásk    |
+|   3s   |   | hár        | háir        | hát   | háisk   |
+|   1p   |   | hávum      | háim        | hávum | hávumk  |
+|   2p   |   | háið       | háið        | hávuð | háisk   |
+|   3p   |   | háið       | háið        | hávuð | háisk   |
 
 *** hánd
 sn.f. {{{phon(hɛ̀nd)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6nd][hánd]]
@@ -3308,6 +3333,20 @@ Alternative form:  *kononglej*
 | Acc.    | konunglig   | konunglig   |
 | Dat.    | konungligum | konungligum |
 | Gen.    | konungligar | konungligr  |
+
+*** krydd
+sn.n. {{{phon(kryd)}}}, from ON [[https://en.wiktionary.org/wiki/krydd#Old_Norse][krydd]]
+
+1. spice, a substance used to flavour or season food
+2. seasoning, the process of adding spices to food to enhance its
+   flavour
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | krydd  | kryddit  | krydd   | krydditr  |
+| Acc. | krydd  | kryddit  | krydd   | kryddit   |
+| Dat. | krydd  | kryddit  | kryddum | krydditum |
+| Gen. | krydds | kryddits | krydds  | kryddit   |
 
 *** kú
 sn.f. {{{phon(kò)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BDr][kýr]]
@@ -6723,7 +6762,7 @@ sn.m. {{{phon(βeɣ)}}}, from ON [[https://old-norse.net/html/v.php#vegr][vegr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | vegr {{{phon(βeɡr̩)}}}  | veginn  | vegr  | veginn  |
+| Nom. | vegr {{{phon(βeɡr̩)}}}   | veginn  | vegr  | veginn  |
 | Acc. | veg {{{phon(βeɣ)}}}     | vegin   | veg   | vegin   |
 | Dat. | veg {{{phon(βej)}}}     | vegin   | vegum | veginum |
 | Gen. | vegar {{{phon(βejɑr)}}} | vegins  | vegar | vegin   |
