@@ -25,5 +25,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.ACCOUNT_ID }}
           projectName: conlang-phundrak-com
-          directory: content/.vuepress/dist/
+          directory: docs/.vuepress/dist/
           githubToken: ${{ secrets.TOKEN }}

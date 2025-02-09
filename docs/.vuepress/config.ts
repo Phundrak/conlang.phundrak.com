@@ -1,12 +1,15 @@
 import { defaultTheme } from '@vuepress/theme-default';
 import { defineUserConfig } from 'vuepress';
 import { viteBundler } from '@vuepress/bundler-vite';
-import { searchProPlugin } from 'vuepress-plugin-search-pro';
+import { umamiAnalyticsPlugin } from '@vuepress/plugin-umami-analytics';
+import { slimsearchPlugin } from '@vuepress/plugin-slimsearch';
 
 import head from './head';
 
+const isProd = process.env.NODE_ENV === 'production';
+
 export default defineUserConfig({
-  lang: 'en-US',
+  lang: 'en-GB',
   title: "Phundrak's Conlangs",
   head: head,
   description: 'Documentation of the constructed languages made by Phundrak',
@@ -19,11 +22,19 @@ export default defineUserConfig({
     },
   },
   plugins: [
-    searchProPlugin({
+    slimsearchPlugin({
       indexContent: true,
     }),
   ],
-  bundler: viteBundler({}),
+  bundler: isProd
+    ? viteBundler({})
+    : viteBundler({
+        viteOptions: {
+          server: {
+            allowedHosts: true,
+          },
+        },
+      }),
   theme: defaultTheme({
     sidebarDepth: 5,
     repo: 'https://labs.phundrak.com/phundrak/conlang.phundrak.com',
