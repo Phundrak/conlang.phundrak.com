@@ -19,13 +19,11 @@ jobs:
       - name: "Export org to md"
         run: emacs -Q --script export.el
       - run: npm run build
-      - name: "Deploy"
-        uses: appleboy/scp-action@v0.1.7
+      - name: "Deploy to Cloudflare Pages"
+        uses: cloudflare/pages-action@v1
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.KEY }}
-          port: ${{ secrets.PORT }}
-          source: docs/.vuepress/dist/*
-          target: ${{ secrets.DESTPATH }}
-          strip_components: 3
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.ACCOUNT_ID }}
+          projectName: conlang-phundrak-com
+          directory: content/.vuepress/dist/
+          githubToken: ${{ secrets.TOKEN }}
