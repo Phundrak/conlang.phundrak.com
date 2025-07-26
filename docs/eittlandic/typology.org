@@ -71,9 +71,9 @@ in second position in their clause and may be in first position
 interrogative and dependent clauses, as shown below.
 
 #+html: ::: tip Example
-Han talð mér þat kom han hér í gær
+Han talð mér þat kom han hér í gár
 
-han talð mér þat kom han hér í=gær
+han talð mér þat kom han hér í=gár
 
 3sg.m.nom tell-3sg.pret 1sg.dat that come.3sg.pret 3sg.m.nom here yesterday
 

@@ -238,16 +238,14 @@ adj. {{{phon(ɑlmen)}}}
 
 1. general, global
 
-|         | Common  | Neuter  |
-|---------+---------+---------|
-| Sg.Nom. | almenn  | almenar |
-| Acc.    | almenum | almenum |
-| Dat.    | almen   | almen   |
-| Gen.    | almen   | almenar |
-| Pl.Nom. | almens  | almens  |
-| Acc.    | almenum | almenum |
-| Dat.    | alment  | almen   |
-| Gen.    | alment  | almenn  |
+| Sg.Nom. | almenr  | alment  |
+| Acc.    | almen   | alment  |
+| Dat.    | almenum | almenum |
+| Gen.    | almens  | almens  |
+| Pl.Nom. | almenar | almen   |
+| Acc.    | almen   | almen   |
+| Dat.    | almenum | almenum |
+| Gen.    | almenar | almenr  |
 
 *** angak
 sn.m. {{{phon(ˈɑŋɡ.ɑk)}}}, a Tunrit-inherited word
@@ -338,6 +336,35 @@ sn.m. {{{phon(ɑrm)}}}, from ON [[https://old-norse.net/html/a.php#armr-1][armr]
 | Acc. | arm   | armin   | arm   | armin   |
 | Dat. | arm   | armin   | armum | arminum |
 | Gen. | armar | armins  | armar | armin   |
+
+*** arn
+sn.m. {{{phon(ɑrn)}}}, from EON [[https://en.wiktionary.org/wiki/%C7%ABrn][arn]]
+
+1. eagle, typically the Eittlandic eagle, a large bird of prey known
+   for its powerful build, sharp beak, and keen eyesight, belonging to
+   the family Accipitridaea
+
+See also the Wiki entry for the [[https://wiki.phundrak.com/s/eittland/doc/eagle-arn-YABevuKsz5][Eittlandic Eagle]].
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | arnr  | arninn  | arnr  | arninn  |
+| Acc. | arn   | arnin   | arn   | arnin   |
+| Dat. | arn   | arnin   | ørnum | ørninum |
+| Gen. | arnar | arnins  | arnar | arnin   |
+
+*** Aust
+adv. {{{phon(ɔʃt)}}}, from ON [[https://old-norse.net/html/a.php#austr][Austr]]
+
+1. east, eastwards; towards the east
+2. (sn.m.) the east, eastern direction
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | Austr  | Austann | Austr  | Austann  |
+| Acc. | Aust   | Austan  | Aust   | Austan   |
+| Dat. | Aust   | Austan  | Austum | Austanum |
+| Gen. | Austar | Austans | Austar | Austan   |
 
 *** automobil
 wn.n. {{{phon(ˈɔtoˌmobel)}}}, from Ancient Greek [[https://en.wiktionary.org/wiki/%CE%B1%E1%BD%90%CF%84%CF%8C%CF%82#Ancient_Greek][αὐτός]] and Latin [[https://en.wiktionary.org/wiki/mobilis#Latin][mōbilis]]. See also [[file:./dictionary.md#bil][bil]]
@@ -568,6 +595,20 @@ wn.m. {{{phon(βjɛ̀lf)}}}, from ON [[https://old-norse.net/html/b.php#bj%C3%A1
 | Dat. | bjálf  | bjálfit  | bjálfum | bjálfitum |
 | Gen. | bjálfs | bjálfits | bjálfs  | bjálfit   |
 
+*** blað
+sn.n. {{{phon(blɑð)}}}, from ON [[https://old-norse.net/html/b.php#bla%C3%B0][blað]]
+
+1. leaf
+2. page
+3. sheet; a thin, flat piece of material, such as paper or metal
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | blað  | blaðit  | blað   | blaðitr  |
+| Acc. | blað  | blaðit  | blað   | blaðit   |
+| Dat. | blað  | blaðit  | blaðum | blaðitum |
+| Gen. | blaðs | blaðits | blaðs  | blaðit   |
+
 *** blá
 adj. {{{phon(blɛ̀)}}}, from ON [[https://old-norse.net/html/b.php#bl%C3%A1r][blár]]
 
@@ -593,14 +634,14 @@ adj. {{{phon(blɑɪk)}}}, from ON [[https://old-norse.net/html/b.php#bleikr][ble
 
 |         | Common  | Neuter  |
 |---------+---------+---------|
-| Sg.Nom. | bleikr  | bleikar |
-| Acc.    | bleikum | bleikum |
-| Dat.    | bleik   | bleik   |
-| Gen.    | bleik   | bleikar |
-| Pl.Nom. | bleiks  | bleiks  |
-| Acc.    | bleikum | bleikum |
-| Dat.    | bleikt  | bleik   |
-| Gen.    | bleikt  | bleikr  |
+| Sg.Nom. | bleikr  | bleikt  |
+| Acc.    | bleik   | bleikt  |
+| Dat.    | bleikum | bleikum |
+| Gen.    | bleiks  | bleiks  |
+| Pl.Nom. | bleikar | bleik   |
+| Acc.    | bleik   | bleik   |
+| Dat.    | bleikum | bleikum |
+| Gen.    | bleikar | bleikr  |
 
 *** blóð
 sn.n. {{{phon(blɔ̀ð)}}}, from ON [[https://old-norse.net/html/b.php#bl%C3%B3%C3%B0][blóð]]
@@ -833,7 +874,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -889,6 +930,15 @@ See also [[file:./dictionary.md#panig][panig]]
 | Acc. | dótt   | dóttun  | dótt   | dóttun   |
 | Dat. | dótt   | dóttun  | dóttum | dóttunum |
 | Gen. | dóttur | dóttuns | dóttur | dóttun   |
+
+*** Dróttning
+sn.f. {{{phon(ˈdrɔ̀t.neŋ)}}}, from ON [[https://old-norse.net/html/d.php#dr%C3%B3ttning][dróttning]]
+
+1. queen; the female ruler of an independent state, especially one who
+   inherits the position by right of birth
+2. the wife or widow of a king
+3. a woman or goddess regarded as the embodiment of a specified
+   concept
 
 *** dyr
 sn.f. {{{phon(dyr)}}}, from ON [[https://old-norse.net/html/d.php#dyrr][dyrr]]
@@ -1378,9 +1428,9 @@ See [[file:dictionary.md#fað][/fað/]]
 *** ferð
 sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C3%B0r][ferðr]]
 
-1.  fjord, a long, narrow, deep inlet of the sea between high cliffs,
+1. fjord, a long, narrow, deep inlet of the sea between high cliffs,
    typically formed by submerged glacial activity
-2.  inlet, bay, a recess in the shoreline, often narrow and partly
+2. inlet, bay, a recess in the shoreline, often narrow and partly
    surrounded by land
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
@@ -1389,7 +1439,6 @@ sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C
 | Acc. | ferð   | ferðin  | ferð   | ferðin   |
 | Dat. | ferð   | ferðin  | ferðum | ferðinum |
 | Gen. | ferðar | ferðins | ferðar | ferðin   |
-
 
 *** fé
 in.n.mass. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]]
@@ -1468,6 +1517,15 @@ sn.n. {{{phon(fjɑlː)}}}, from ON [[https://old-norse.net/html/f.php#fjall][fja
 | Gen. | fjalls | fjallits | fjalls  | fjallit   |
 
 See also [[file:./dictionary.md#akaluk][akaluk]].
+
+*** fjallapal
+wn.n. {{{phon(ˈfjɑlː.ɑ.ˌpɑl)}}}, from [[file:./dictionary.md#fjall][fjall]] and [[file:./dictionary.md#pal][pal]]
+
+1. litt. mountain lichen, a type of lichen that grows in mountainous
+   or alpine regions of Eittland, often found on rocks or other
+   surfaces exposed to harsh, windy conditions
+
+For declensions, see [[file:./dictionary.md#pal][pal]]
 
 *** flekk
 sn.m. {{{phon(flek)}}}, from ON [[https://old-norse.net/html/f.php#flekkr][flekkr]]
@@ -1570,6 +1628,26 @@ be used to refer to different types of food.
 
 See also [[file:./dictionary.md#mat][mat]].
 
+*** frétt
+sn.f. {{{phon(frèt)}}}, from ON [[https://old-norse.net/html/f.php#fr%C3%A9tt][frétt]]
+
+1. news; new information or a report of recent events
+2. tidings; a piece of news or information
+
+|      | Pl.     | Def.Pl.   |
+|------+---------+-----------|
+| Nom. | fréttr  | fréttinn  |
+| Acc. | frétt   | fréttin   |
+| Dat. | fréttum | fréttinum |
+| Gen. | fréttar | fréttin   |
+
+*** fréttblað
+sn.n. {{{phon(ˈfrèt.blɑð)}}}, from [[file:./dictionary.md#frett][frétt]] and [[file:./dictionary.md#blað][blað]]
+
+1. newspaper
+
+For declensions, see [[file:./dictionary.md#blað][blað]]
+
 *** frjánd(i)
 wn.m. {{{phon(frjɛ̀nd)}}}, from ON [[https://old-norse.net/html/f.php#fr%C3%A6ndi][frændi]]
 
@@ -1632,14 +1710,14 @@ adj. {{{phon(ˈjɑmɑl)}}}, from ON [[https://old-norse.net/html/g.php#gamall-I]
 
 |         | Common  | Neuter  |
 |---------+---------+---------|
-| Sg.Nom. | gamall  | gamalar |
-| Acc.    | gamalum | gamalum |
-| Dat.    | gamal   | gamal   |
-| Gen.    | gamal   | gamalar |
-| Pl.Nom. | gamals  | gamals  |
-| Acc.    | gamalum | gamalum |
-| Dat.    | gamalt  | gamal   |
-| Gen.    | gamalt  | gamall  |
+| Sg.Nom. | gamall  | gamalt  |
+| Acc.    | gamal   | gamalt  |
+| Dat.    | gamalum | gamalum |
+| Gen.    | gamals  | gamals  |
+| Pl.Nom. | gamalar | gamal   |
+| Acc.    | gamal   | gamal   |
+| Dat.    | gamalum | gamalum |
+| Gen.    | gamalar | gamall  |
 
 *** gang(a)
 iv. {{{phon(jɑŋ)}}}, from ON [[https://old-norse.net/html/g.php#ganga-A][ganga]]
@@ -1805,6 +1883,21 @@ Declensions:
 |   1p   |   | gerum      | gerim       | gerðum | gerumk  |
 |   2p   |   | gerið      | gerið       | gerðuð | gerisk  |
 |   3p   |   | ger        | ger         | gerð   | gerisk  |
+
+*** gest
+sn.m. {{{phon(jeʃt)}}}, from ON
+
+1. guest; a person who is invited to visit someone’s home or attend a
+   social event
+2. visitor; a person who comes to see or stay with someone for a short
+   time
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | gestr  | gestinn | gestr  | gestinn  |
+| Acc. | gest   | gestin  | gest   | gestin   |
+| Dat. | gest   | gestin  | gestum | gestinum |
+| Gen. | gestar | gestins | gestar | gestin   |
 
 *** gleym(a)
 sv. {{{phon(ɡløʏm)}}}, from ON [[https://old-norse.net/html/g.php#gleyma][gleyma]]
@@ -2059,6 +2152,21 @@ wn.m. {{{phon(hɑn)}}}, from ON [[https://old-norse.net/html/h.php#hani][hani]]
 | Dat. | han  | hanit   | hanum | hanitum |
 | Gen. | hans | hanits  | hans  | hanit   |
 
+*** hauk
+sn.m. {{{phon(hɔk)}}}, from ON [[https://en.wiktionary.org/wiki/haukr#Old_Norse][haukr]]
+
+1. hawk, a medium-sized bird of prey known for its sharp beak, keen
+   eyesight, and long tail, belonging to the family Accipitridae
+2. person with keen eyesight, someone who has exceptionally good
+   vision and is observant
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | haukr  | haukinn | haukr  | haukinn  |
+| Acc. | hauk   | haukin  | hauk   | haukin   |
+| Dat. | hauk   | haukin  | haukum | haukinum |
+| Gen. | haukar | haukins | haukar | haukin   |
+
 *** haust
 sn.n. {{{phon(hɔʃt)}}}, from ON [[https://old-norse.net/html/h.php#haust][haust]]
 
@@ -2085,22 +2193,184 @@ Declensions:
 - present participle :: havand
 - past participle :: hafr
 
-|    | Indicative Present | Subjunctive Present | Indicative Past | Subjunctive Past |
-|----+--------------------+---------------------+-----------------+------------------|
-| 1s | hav                | hav                 | haft            | haft             |
-| 2s | havir              | havir               | haftir          | haftir           |
-| 3s | havir              | hav                 | haft            | haft             |
-| 1p | havum              | havim               | haft            | haft             |
-| 2p | haft               | haft                | haftuð          | haftið           |
-| 3p | hav                | hav                 | haft            | haft             |
+|    | Ind. Pres. | Subj. Pres. | Ind. Past | Subj. Past |
+|----+------------+-------------+-----------+------------|
+| 1s | hav        | hav         | haft      | haft       |
+| 2s | havir      | havir       | haftir    | haftir     |
+| 3s | havir      | hav         | haft      | haft       |
+| 1p | havum      | havim       | haft      | haft       |
+| 2p | haft       | haft        | haftuð    | haftið     |
+| 3p | hav        | hav         | haft      | haft       |
 
 Note that there is no difference between singular and plural when
 using hav(a) in the passive voice.
-|   | Indicative  Present | Subjunctive Present | Indicative Past | Subjunctive Past |
-|---+---------------------+---------------------+-----------------+------------------|
-| 1 | havumk              | havumk              | havumk          | heðumk           |
-| 2 | hafsk               | havisk              | havisk          | heðisk           |
-| 3 | hafsk               | havisk              | havisk          | heðisk           |
+|   | Ind.  Pres. | Subj. Pres. | Ind. Past | Subj. Past |
+|---+-------------+-------------+-----------+------------|
+| 1 | havumk      | havumk      | havumk    | heðumk     |
+| 2 | hafsk       | havisk      | havisk    | heðisk     |
+| 3 | hafsk       | havisk      | havisk    | heðisk     |
+
+*** há
+iv. {{{phon(hɛ̀)}}}, from OE [[file:./dictionary.md#hav-a][hav(a)]]
+
+1. to add, to put together, joining something to something else
+2. to include, to incorporate, to make something part of a whole
+3. (colloquial or dialects) to have, to possess, to be in ownership or
+   control of something; see also [[file:./dictionary.md#hav-a][hav(a)]]
+
+Declensions:
+- infinitive :: há
+- imperative :: há
+- imperative passive voice :: hásk
+- present participle :: hánd
+- past participle :: háit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | hár        | háir        | hát   | hávumk  |
+|   2s   |   | hár        | háir        | hát   | hásk    |
+|   3s   |   | hár        | háir        | hát   | háisk   |
+|   1p   |   | hávum      | háim        | hávum | hávumk  |
+|   2p   |   | háið       | háið        | hávuð | háisk   |
+|   3p   |   | háið       | háið        | hávuð | háisk   |
+
+*** hánd
+sn.f. {{{phon(hɛ̀nd)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6nd][hánd]]
+
+1. hand
+2. side,direction; a particular direction or orientation, often
+   indicated by the left or right hand
+3. agency, involvment; the role or part played by someone in a
+   particular situation
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | hándr  | hándinn | hándr  | hándinn  |
+| Acc. | hánd   | hándin  | hánd   | hándin   |
+| Dat. | hánd   | hándin  | hándum | hándinum |
+| Gen. | hándar | hándins | hándar | hándin   |
+
+*** hár
+{{{phon(hɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%A1r][hár]]
+
+1. (sn.f.) excellence, distinction; the quality of being outstanding or extremely good
+
+   #+html: ::: tip Example
+   Han havir hár í sér verkum
+   #+html: :::
+2. (sn.f.) majesty; the quality or dignity of being majestic
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | hárr  | hárinn  | hárr  | hárinn  |
+| Acc. | hár   | hárin   | hár   | hárin   |
+| Dat. | hár   | hárin   | hárum | hárinum |
+| Gen. | hárar | hárins  | hárar | hárin   |
+
+*** hás
+adj. {{{phon(hɛ̀s)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%B6ss][háss]]
+
+1. white (hair colour)
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | háss   | hást   |
+| Acc.    | hás    | hást   |
+| Dat.    | hásum  | hásum  |
+| Gen.    | háss   | háss   |
+| Pl.Nom. | hásar  | hás    |
+| Acc.    | hás    | hás    |
+| Dat.    | hásum  | hásum  |
+| Gen.    | hásar  | háss   |
+
+*** háv
+adj. {{{phon(hɛ̀β)}}}
+
+1. tall, high
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | hár    | hávt   |
+| Acc.    | háv    | hávt   |
+| Dat.    | hávum  | hávum  |
+| Gen.    | hávs   | hávs   |
+| Pl.Nom. | hávar  | háv    |
+| Acc.    | háv    | háv    |
+| Dat.    | hávum  | hávum  |
+| Gen.    | hávar  | hávr   |
+
+*** hávn
+sn.f. {{{phon(hɛ̀vn̩)}}}
+
+1. haven, port, harbour
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | hávnn  | hávninn | hávnn  | hávninn  |
+| Acc. | hávn   | hávnin  | hávn   | hávnin   |
+| Dat. | hávn   | hávnin  | hávnum | hávninum |
+| Gen. | hávnar | hávnins | hávnar | hávnin   |
+
+*** hávuð
+in.n. {{{phon(hɛ̀βoð)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B6fu%C3%B0-A][hǫfuð]]
+
+1. head (body)
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl.  |
+|------+-------+---------+-------+----------|
+| Nom. | hávuð | hávuðit | hávuð | hávuðitr |
+| Acc. | hávuð | hávuðit | hávuð | hávuðit  |
+| Dat. | háð   | háðit   | hávum | hávitum  |
+| Gen. | háðs  | háðits  | háðs  | háðit    |
+
+*** háðsdýn
+wn.f. {{{phon(ˈhɛ̀ðzˌdø̀n)}}}, from [[file:./dictionary.md#havuð][hávuð]] and [[file:./dictionary.md#dyn-a][dýn(a)]]
+
+1. pillow, litt. “head-mattress”
+
+See [[file:./dictionary.md#dyn-a][dýn(a)]] for declensions.
+
+*** hef(ja)
+sv. {{{phon(hef)}}}, from ON [[https://old-norse.net/html/h.php#hefja-A][hefja]]
+
+1. to heave, lift, raise, move something upward
+2. to begin, to start, to initiate an action or event, often with a sense of formality or significance
+3. to elevate or raise the status or importance of something
+4. to remove or alleviate a burden or difficultyu
+5. to enhance or improve something
+
+Declensions:
+- infinitive :: hef
+- imperative :: hef
+- imperative passive voice :: hefjask
+- present participle :: hefjand
+- past participle :: hefit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | hefjar     | hefir       | heft   | hefjumk |
+|   2s   |   | hefjar     | hefir       | heft   | heftisk |
+|   3s   |   | hefjar     | hefir       | heft   | heftisk |
+|   1p   |   | hefjum     | hefim       | hefjum | hefjumk |
+|   2p   |   | hefið      | hefið       | hefjuð | heftisk |
+|   3p   |   | hefið      | hefið       | hefjuð | heftisk |
+
+*** heim
+{{{phon(hɑɪm)}}}
+
+1. sn.m. home
+2. adv. (at) home
+
+#+name: Declension of /heim/ as a noun
+#+caption: heim-noun-declension
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | heimr  | heiminn | heimr  | heiminn  |
+| Acc. | heim   | heimin  | heim   | heimin   |
+| Dat. | heim   | heimin  | heimum | heiminum |
+| Gen. | heimar | heimins | heimar | heimin   |
 
 *** há
 iv. {{{phon(hɛ̀)}}}, from OE [[file:./dictionary.md#hav-a][hav(a)]]
@@ -2302,6 +2572,21 @@ sn.m. {{{phon(heʃt)}}}, from ON [[https://old-norse.net/html/h.php#hestr][hestr
 | Gen. | hestar | hestins | hestar | hestin   |
 
 See also [[file:./dictionary.md#hros][hros]]
+
+*** hér(i)
+sn.m. {{{phon(hɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%A9ri][héri]]
+
+1. hare, typically the Eittlandic hare, a large rodent with long ears
+   and hind legs, belonging to the family Leporidae
+
+See also the Wiki entry for the [[https://wiki.phundrak.com/s/eittland/doc/hare-her-tImicJgKIM][Eittlandic Hare]].
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | hérr  | hérinn  | hérr  | hérinn  |
+| Acc. | hér   | hérin   | hér   | hérin   |
+| Dat. | hér   | hérin   | hérum | hérinum |
+| Gen. | hérir | hérins  | hérir | hérin   |
 
 *** himin
 sn.m. {{{phon(him.in)}}}, from ON [[https://old-norse.net/html/h.php#himinn-note][himinn]]
@@ -3837,6 +4122,21 @@ Declensions:
 
 ***
 
+*** lund(i)
+wn.m. {{{phon(lund)}}}, from ON [[https://old-norse.net/html/l.php#lundi][lundi]]
+
+1. puffin, a seabird with a distinctive colourful beak and
+   black-and-white plumage, belonging to the family Alcidae
+
+See also the Wiki entry for the [[https://wiki.phundrak.com/s/eittland/doc/puffin-lund-qnjiF2YTSm][Eittlandic Puffin]].
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | lund  | lundit  | lundr  | lunditr  |
+| Acc. | lund  | lundit  | lund   | lundit   |
+| Dat. | lund  | lundit  | lundum | lunditum |
+| Gen. | lunds | lundits | lunds  | lundit   |
+
 *** lykil
 wn.m. {{{phon(lykil)}}}, from ON [[https://old-norse.net/html/l.php#lykill][lykill]]
 
@@ -4302,7 +4602,7 @@ indef.pron. {{{phon(nɛ̀χor)}}}, from EON [[https://old-norse.net/html/n.php#n
    #+html: ::: tip Example
    - Nákkurr kœmt í dag
 
-     Someone came yesterday
+     Someone came today
    #+html: :::
 
 See [[file:grammar.md#indefinite-pronouns][Indefinite pronouns (grammar)]] for more information on this
@@ -4410,6 +4710,19 @@ sn.f. {{{phon(niɸt)}}}, from ON [[https://old-norse.net/html/n.php#nipt][nipt]]
 | Dat. | nipt   | niptin  | niptum | niptinum |
 | Gen. | niptar | niptins | niptar | niptin   |
 
+*** Norð
+adv. {{{phon(norð)}}}, from ON [[https://old-norse.net/html/n.php#nor%C3%B0r][Norðr]]
+
+1. north, northward; toward the north
+2. the north, northern direction
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | Norðr  | Norðann | Norðr  | Norðann  |
+| Acc. | Norð   | Norðan  | Norð   | Norðan   |
+| Dat. | Norð   | Norðan  | Norðum | Norðanum |
+| Gen. | Norðar | Norðans | Norðar | Norðan   |
+
 *** norvegsúlf
 sn.m. {{{phon(ˈnorβejsˌòlv)}}}, from ON /Noregs/ (genitive of ON [[https://old-norse.net/html/n.php#noregr][Noregr]]) and ON
 [[https://en.wiktionary.org/wiki/ulfr#Old_Norse][úlfr]]
@@ -4480,7 +4793,7 @@ adv. {{{phon(oβ)}}}, from ON [[https://old-norse.net/html/o.php#of3-1][of]]
    necessary, acceptable, or desirable
 2. very, extremely, to a great degree or extent
 
-/Of/ can be used with adjectives, adverbs, and verbs to indicate excess
+/Ov/ can be used with adjectives, adverbs, and verbs to indicate excess
 or emphasis.
 
 *** opin
@@ -4673,6 +4986,26 @@ sn.m. {{{phon(ɔ̀β.en)}}}, from [[file:./dictionary.md#o][ó-]] and [[file:./d
 For declensions, see [[file:./dictionary.md#vin][vin]]
 
 ** P
+*** pal
+wn.n. {{{phon(pɑl)}}}, Tunrit root
+
+1. lichen
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | pal  | palit   | pøll  | pølitr  |
+| Acc. | pal  | palit   | pøl   | pølit   |
+| Dat. | pal  | palit   | pølum | pølitum |
+| Gen. | pals | palits  | pøls  | pølit   |
+
+*** palþak
+sn.n. {{{phon(ˈpɑl.ˌθɑk)}}}, from [[file:./dictionary.md#pal][pal]] and [[file:./dictionary.md#þak][þak]]
+
+1. lichen cover, a layer or covering of lichens growing on a surface
+   such as rocks, tres, or the ground
+
+For declensions, see [[file:./dictionary.md#þak][þak]]
+
 *** panig
 sn.f. {{{phon(ˈpɑn.eɣ)}}}, likely from Tunrit. Compare to Greenlandic [[https://en.wiktionary.org/wiki/panik#Greenlandic][panik]]
 
@@ -5197,6 +5530,19 @@ adj. {{{phon(sɛ̀l)}}}, from EON [[https://old-norse.net/html/s.php#s%C3%A6ll][
 | Dat.    | sélum  | sélum  |
 | Gen.    | sélar  | sélr   |
 
+*** siluét
+wn.f. {{{phon(ˈsi.lu.ˌɛ̀t)}}}, borrowing from French /silhouette/
+
+1. silhouette
+2. outline
+
+|      | Sg.     | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+---------+-----------+----------+------------|
+| Nom. | siluét  | siluétit  | siluétr  | siluétitr  |
+| Acc. | siluét  | siluétit  | siluét   | siluétit   |
+| Dat. | siluét  | siluétit  | siluétum | siluétitum |
+| Gen. | siluéts | siluétits | siluéts  | siluétit   |
+
 *** sit(ja)
 iv. {{{phon(sit)}}}, from ON [[https://en.wiktionary.org/wiki/sitja#Old_Norse][sitja]]
 
@@ -5547,6 +5893,20 @@ sn.m. {{{phon(ʃkɔ̀ɣ)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%B3
 | Acc. | skóg   | skógin  | skóg   | skógin   |
 | Dat. | skóg   | skógin  | skógum | skóginum |
 | Gen. | skógar | skógins | skógar | skógin   |
+
+*** skól(i)
+sn.m. {{{phon(ʃkɔ̀l)}}}, from ON https://old-norse.net/html/s.php#sk%C3%B3li
+
+1. school
+2. a place of learning; an environment where knowledge is shared and
+   acquired
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | skóll  | skólinn | skóll  | skólinn  |
+| Acc. | skól   | skólin  | skól   | skólin   |
+| Dat. | skól   | skólin  | skólum | skólinum |
+| Gen. | skólir | skólins | skólir | skólin   |
 
 *** smár
 adj. {{{phon(smɛ̀r)}}}, from ON [[https://old-norse.net/html/s.php#sm%C3%A1r-A][smár]]
@@ -5915,6 +6275,52 @@ wn.f. {{{phon(ʃtern)}}}, from EON [[https://old-norse.net/html/s.php#stjarna][s
 | Dat. | stern  | sternat  | sternum | sternatum |
 | Gen. | sterns | sternats | sterns  | sternat   |
 
+*** stíg(a)
+sv. {{{phon(ʃtèj)}}}, from ON [[https://old-norse.net/html/s.php#st%C3%ADga][stíga]]
+
+1. to climb, to ascend; to move upward or to a higher position,
+   especially by using the feet and sometimes hands
+
+   #+html: ::: tip Example
+   Vér stígum upp fjallit.
+
+   We climb the mountain.
+   #+html: :::
+
+2. to traverse, to journey; to travel across or through a particular
+   area or terrain
+
+Declensions:
+- infinitive :: stíg
+- imperative :: stíg
+- imperative passive voice :: stígask
+- present participle :: stígand
+- past participle :: stígit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | stígar     | stígir      | stígt  | stígumk |
+|   2s   |   | stígar     | stígir      | stígt  | stígsk  |
+|   3s   |   | stígar     | stígir      | stígt  | stígask |
+|   1p   |   | stígum     | stígim      | stígum | stígumk |
+|   2p   |   | stígið     | stígið      | stíguð | stígask |
+|   3p   |   | stígið     | stígið      | stíguð | stígask |
+
+*** stígukk(i)
+sn.f. {{{phon(ʃtèjuxː)}}}, from [[file:./dictionary.md#stig-a][stíg(a)]] and [[file:./dictionary.md#ukkik][ukkik]]
+
+1. stair; a single step in a flight of stairs
+2. stairs, staircase; a series of steps leading from one level to
+   another
+
+|      | Sg.       | Def.Sg.    | Pl.       | Def.Pl.     |
+|------+-----------+------------+-----------+-------------|
+| Nom. | stígukr   | stígukkinn | stígukr   | stígukkinn  |
+| Acc. | stígukk   | stígukkin  | stígukk   | stígukkin   |
+| Dat. | stígukk   | stígukkin  | stígukkum | stígukkinum |
+| Gen. | stígukkir | stígukkins | stígukkir | stígukkin   |
+
 *** stóð
 sn.n. {{{phon(ʃtɔ̀ð)}}}, from ON [[https://old-norse.net/html/s.php#standa-A][standa]]
 
@@ -5986,6 +6392,19 @@ sn.n. {{{phon(ˈʃtyrˌsamhald)}}}, from ON [[https://old-norse.net/html/s.php#s
 | Acc. | styrsamhald  | styrsamhaldit  | styrsamhald   | styrsamhaldit   |
 | Dat. | styrsamhald  | styrsamhaldit  | styrsamhaldum | styrsamhalditum |
 | Gen. | styrsamhalds | styrsamhaldits | styrsamhalds  | styrsamhaldit   |
+
+*** Suð
+adv. {{{phon(suð)}}}, from ON [[https://old-norse.net/html/s.php#su%C3%B0r][Suðr]]
+
+1. south, southward; towards the south
+2. (sn.m.) the south, southern direction
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | Suðr  | Suðann  | Suðr  | Suðann  |
+| Acc. | Suð   | Suðan   | Suð   | Suðan   |
+| Dat. | Suð   | Suðan   | Suðum | Suðanum |
+| Gen. | Suðar | Suðans  | Suðar | Suðan   |
 
 *** sumar
 sn.n. {{{phon(ˈsumɑr)}}}, from ON [[https://old-norse.net/html/s.php#sumar][sumar]]
@@ -6329,6 +6748,20 @@ wn.n. {{{phon(ˈtèbet)}}}, borrowed from Danish /Tibet/
 | Dat. | Tíbet  |
 | Gen. | Tíbets |
 
+*** tíð
+sn.n. {{{phon(tèð)}}}, from ON [[https://old-norse.net/html/t.php#t%C3%AD%C3%B0][tíð]]
+
+1. time
+2. periodic, era; a portion of time
+3. hour; the unit of time equal to 60 minutes
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | tíð  | tíðat   | tíð   | tíðatr  |
+| Acc. | tíð  | tíðat   | tíð   | tíðat   |
+| Dat. | tíð  | tíðat   | tíðum | tíðatum |
+| Gen. | tíðs | tíðats  | tíðs  | tíðat   |
+
 *** ton
 wn.m. {{{phon(ton)}}}, from Middle Low German [[https://en.wiktionary.org/wiki/ton#Middle_Low_German][ton]]
 
@@ -6428,6 +6861,29 @@ For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
 ** Þ
+*** þak
+sn.n. {{{phon(θɑk)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEak][þak]]
+
+1. layer, a single thickness of material covering a surface or lying
+   on top of another material
+2. cover, a layer of material placed over something to protect or
+   concal it
+3. roof, the upper covering of a building, typically made of sloping
+   panels
+
+   #+html: ::: tip Example
+   Húsits þakit er gamalt
+
+   The roof of the house is old
+   #+html: :::
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | þak  | þakit   | þak   | þakitr  |
+| Acc. | þak  | þakit   | þak   | þakit   |
+| Dat. | þak  | þakit   | þakum | þakitum |
+| Gen. | þaks | þakits  | þaks  | þakit   |
+
 *** þá
 conj. {{{phon(θɛ̀)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BE%C3%A1][þá]]
 
@@ -6490,6 +6946,19 @@ sn.f. {{{phon(ub.lun)}}}, probably a Tunrit borrowing
 | Acc. | ublun   | ublunan  | ublun   | ublunan   |
 | Dat. | ublun   | ublunan  | ublunum | ublunanum |
 | Gen. | ublunar | ublunans | ublunar | ublunan   |
+
+*** ukkik
+sn.f. {{{phon(uxːik)}}}, from Tunrit {{{recon(ukkik)}}}
+
+1. path; a way or track made for a particular purpose
+2. route a regular course or way that is taken when making a journey
+
+|      | Sg.     | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+---------+----------+---------+-----------|
+| Nom. | ukkikr  | ukkikinn | ukkikr  | ukkikinn  |
+| Acc. | ukkik   | ukkikin  | ukkik   | ukkikin   |
+| Dat. | ukkik   | ukkikin  | ukkikum | ukkikinum |
+| Gen. | ukkikar | ukkikins | ukkikar | ukkikin   |
 
 *** um
 prep. {{{phon(um)}}}, from ON [[https://old-norse.net/html/u.php#um-acc-A][um]]
@@ -6762,7 +7231,7 @@ sn.m. {{{phon(βeɣ)}}}, from ON [[https://old-norse.net/html/v.php#vegr][vegr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | vegr {{{phon(βeɡr̩)}}}   | veginn  | vegr  | veginn  |
+| Nom. | vegr {{{phon(βeɡr̩)}}}  | veginn  | vegr  | veginn  |
 | Acc. | veg {{{phon(βeɣ)}}}     | vegin   | veg   | vegin   |
 | Dat. | veg {{{phon(βej)}}}     | vegin   | vegum | veginum |
 | Gen. | vegar {{{phon(βejɑr)}}} | vegins  | vegar | vegin   |
@@ -6927,10 +7396,31 @@ Declensions:
 |   2p   |   | verpið     | verpið      | verpuð | verpask |
 |   3p   |   | verpið     | verpið      | verpuð | verpask |
 
-*** vest
+*** Vest
 adv. {{{phon(βeʃt)}}}, from ON [[https://old-norse.net/html/v.php#vestr][vestr]]
 
-1. West, westward
+1. west, westward; toward the west
+2. (sn.m.) the west, western direction
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | Vestr  | Vestann | Vestr  | Vestann  |
+| Acc. | Vest   | Vestan  | Vest   | Vestan   |
+| Dat. | Vest   | Vestan  | Vestum | Vestanum |
+| Gen. | Vestar | Vestans | Vestar | Vestan   |
+
+*** vetr
+in.m. {{{phon(βetr̩)}}}, from ON [[https://old-norse.net/html/v.php#vetr-A][vetr]]
+
+1. winter, the coldest season of the year, typically occuring from
+   November to March in Eittland
+
+|      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
+|------+--------+---------+--------+----------|
+| Nom. | vetr   | vetrinn | vetr   | vetrinn  |
+| Acc. | vetr   | vetrin  | vetr   | vetrin   |
+| Dat. | vetr   | vetrin  | vetrum | vetrinum |
+| Gen. | vetrar | vetrins | vetrar | vetrin   |
 
 *** vetr
 in.m. {{{phon(βetr̩)}}}, from ON [[https://old-norse.net/html/v.php#vetr-A][vetr]]
