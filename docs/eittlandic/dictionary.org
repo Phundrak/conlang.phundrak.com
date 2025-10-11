@@ -518,6 +518,25 @@ sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][
 | Dat. | bát   | bátin   | bátum | bátinum |
 | Gen. | bátar | bátins  | bátar | bátin   |
 
+*** ber
+adj. {{{phon(ber)}}}, from ON [[https://old-norse.net/html/b.php#berr][berr]]
+
+1. bare, naked; not covered by clothing
+2. exposed, unprotected; not covered or shielded
+3. mere,sheer; ure to emphasize the small amount of clothing
+4. plain, simple; without additional decoration or elaboration
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | berr   | bert   |
+| Acc.    | ber    | bert   |
+| Dat.    | berum  | berum  |
+| Gen.    | bers   | bers   |
+| Pl.Nom. | berar  | ber    |
+| Acc.    | ber    | ber    |
+| Dat.    | berum  | berum  |
+| Gen.    | berar  | berr   |
+
 *** ber(a)
 sv. {{{phon(ber)}}}, from ON [[https://old-norse.net/html/b.php#bera3-A][bera]]
 
@@ -874,7 +893,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -1209,6 +1228,44 @@ conj. {{{phon(en)}}}, from ON [[https://old-norse.net/html/e.php#en2][en]]. See 
 
 1. yet, still
 2. but (general purpose, links phrases as in English)
+
+*** end(a)
+wv. {{{phon(end)}}}, from ON [[https://old-norse.net/html/e.php#enda][enda]]
+
+1. to end, to conclude; to bring to a close or finish
+2. to terminate, to stop; to cause to cease or come to an end
+3. to finish, to complete; to bring to completion or conclusion
+
+Declensions:
+- infinitive :: end
+- imperative :: end
+- imperative passive voice :: endask
+- present participle :: endand
+- past participle :: endit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | endar      | endir       | endt  | endumk  |
+|   2s   |   | endar      | endir       | endt  | enddisk |
+|   3s   |   | endar      | endir       | endt  | enddisk |
+|   1p   |   | endum      | endim       | endum | endumk  |
+|   2p   |   | endið      | endið       | enduð | enddisk |
+|   3p   |   | endið      | endið       | enduð | enddisk |
+
+*** end(i)
+wn.m. {{{phon(end)}}}, from ON [[https://old-norse.net/html/e.php#endi][endi]]
+
+1. end, conclusion; the final part or extremity of something
+2. goal, purpose; the object or aim toward which an effort is directed
+3. tip, extremity; the farthest or utmost part of something
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | end  | endit   | endr  | enditr  |
+| Acc. | end  | endit   | end   | endit   |
+| Dat. | end  | endit   | endum | enditum |
+| Gen. | ends | endits  | ends  | endit   |
 
 *** eng(i)
 det. {{{phon(eŋ)}}}, from [[file:./dictionary.md#ein-n][ein(n)]] and [[file:./dictionary.md#i-g][-(i)g]]
@@ -1678,6 +1735,24 @@ For declensions, see [[file:./dictionary.md#man][man]].
 
 See also [[file:./dictionary.md#ill-a][ill (generic term for cousin)]] and [[file:./dictionary.md#frjandkon-a][frjándkon (female cousin)]].
 
+*** fúl
+adj. {{{phon(fòl)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%BAll][fúll]]
+
+1. foul, rotten; having an unpleasant odour or taste due to decay
+2. disgusting, repulsive; causing a strong feeling of dislike or revulsion
+3. wicked, evil; morally wrong or harmful
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | fúll   | fúlt   |
+| Acc.    | fúl    | fúlt   |
+| Dat.    | fúlum  | fúlum  |
+| Gen.    | fúls   | fúls   |
+| Pl.Nom. | fúlar  | fúl    |
+| Acc.    | fúl    | fúl    |
+| Dat.    | fúlum  | fúlum  |
+| Gen.    | fúlar  | fúll   |
+
 *** fylgj(a)
 wv. {{{phon(fyʎ)}}}, from ON [[https://old-norse.net/html/f.php#fylgja2][fylgja]]
 
@@ -1742,6 +1817,22 @@ Declensions:
 |   1p   |   | gangum     | gangim      | gangum | gangumk |
 |   2p   |   | gangið     | gangið      | ganguð | gangask |
 |   3p   |   | gangið     | gangið      | ganguð | gangask |
+
+*** gat
+wn.n. {{{phon(jat)}}}, from ON [[https://old-norse.net/html/g.php#gat][gat]]
+
+1. hole, opening; a hollow place in a solid body or surface
+2. cavity, hollow; an empty space within a solid object
+3. gap, breach; an opening that interrupts continuity or uniformity
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | gat  | gatit   | gatr  | gatitr  |
+| Acc. | gat  | gatit   | gat   | gatit   |
+| Dat. | gat  | gatit   | gatum | gatitum |
+| Gen. | gats | gatits  | gats  | gatit   |
+
+See also [[file:./dictionary.md#hol][hol]]
 
 *** gauð
 wn.f. {{{phon(jɔð)}}}, from ON [[https://old-norse.net/html/g.php#gau%C3%B0][gauð]] (/a barking/)
@@ -2832,6 +2923,30 @@ Declensions:
 |   1p   |   | hnjósum    | hnjósim     | hnjósum | hnjósumk |
 |   2p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
 |   3p   |   | hnjósið    | hnjósið     | hnjósuð | hnjósask |
+
+*** hol
+sn.n. {{{phon(hol)}}}, from [[https://old-norse.net/html/h.php#hol][hol]]
+
+1. hole, hollow; a depression or cavity in a surface
+2. den, burrow; an animal's dwelling dug into the ground
+3. cave, cavern; a large, naturally occuring chamber or series of chambers in rock
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | hol  | holit   | hol   | holitr  |
+| Acc. | hol  | holit   | hol   | holit   |
+| Dat. | hol  | holit   | holum | holitum |
+| Gen. | hols | holits  | hols  | holit   |
+
+See also [[file:./dictionary.md#gat][gat]]
+
+*** holbú
+wn.m. {{{phon(ˈhol.bò)}}}, from [[file:./dictionary.md#hol][hol]] and [[file:./dictionary.md#bu][bú]]
+
+1. old translation of /Hobbit/
+
+For declensions, see [[file:./dictionary.md#bu][bú]]
+
 
 *** hóst
 sn.m. {{{phon(hɔ̀ʃt)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B3str][hóstr]]
@@ -4698,6 +4813,51 @@ Declensions:
 |   2p   |   | nemið      | nemið       | nemuð | nemask  |
 |   3p   |   | nemið      | nemið       | nemuð | nemask  |
 
+*** net
+sn.n. {{{phon(net)}}}, from EON [[https://old-norse.net/html/n.php#nj%C3%B3ta-B][neta]]
+
+1. comfort, ease
+2. enjoyment, pleasure
+3. reliefe, solace
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | net  | netit   | net   | netitr  |
+| Acc. | net  | netit   | net   | netit   |
+| Dat. | net  | netit   | netum | netitum |
+| Gen. | nets | netits  | nets  | netit   |
+
+*** net(a)
+sv. {{{phon(net)}}}, from EON [[https://old-norse.net/html/n.php#nj%C3%B3ta-B][neta]]
+
+1. to enjoy; to take pleasure in something
+2. to benefit; to gain or profit from something
+3. to possess; to have ownership or control over something
+
+Declensions:
+- infinitive :: net
+- imperative :: net
+- imperative passive voice :: netask
+- present participle :: netand
+- past participle :: netit
+
+Declensions:
+- infinitive :: net
+- imperative :: net
+- imperative passive voice :: netask
+- present participle :: netand
+- past participle :: netit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | netr       | netir       | nett  | netumk  |
+|   2s   |   | netr       | netir       | nett  | netsk   |
+|   3s   |   | netr       | netir       | nett  | netisk  |
+|   1p   |   | netum      | netim       | netum | netumk  |
+|   2p   |   | netið      | netið       | netuð | netisk  |
+|   3p   |   | netið      | netið       | netuð | netisk  |
+
 *** nipt
 sn.f. {{{phon(niɸt)}}}, from ON [[https://old-norse.net/html/n.php#nipt][nipt]]
 
@@ -4886,6 +5046,20 @@ Declensions:
 |   1p   |   | orðtakum   | orðtakim    | orðtakum | orðtakumk |
 |   2p   |   | orðtakið   | orðtakið    | orðtakuð | orðtakisk |
 |   3p   |   | orðtakið   | orðtakið    | orðtakuð | orðtakisk |
+
+*** orm
+sn.m. {{{phon(orm)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0kr][ormr]]
+
+1. worm
+2. serpent, snake
+3. dragon
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | ormr  | orminn  | ormr  | orminn  |
+| Acc. | orm   | ormin   | orm   | ormin   |
+| Dat. | orm   | ormin   | ormum | orminum |
+| Gen. | ormar | ormins  | ormar | ormin   |
 
 ** Ó
 *** ó-
@@ -5346,6 +5520,7 @@ See [[file:./dictionary.md#rekkja-verb][rekkja]] for conjugaison.
 sn.m. {{{phon(sɑnd)}}}, from ON [[https://old-norse.net/html/s.php#sandr][sandr]]
 
 1. sand
+2. grit, courage; firmness of character or resolve
 
 |      | Sg.    | Def.Sg. | Pl.    | Def.Pl.  |
 |------+--------+---------+--------+----------|
@@ -5353,6 +5528,23 @@ sn.m. {{{phon(sɑnd)}}}, from ON [[https://old-norse.net/html/s.php#sandr][sandr
 | Acc. | sand   | sandin  | sand   | sandin   |
 | Dat. | sand   | sandin  | sandum | sandinum |
 | Gen. | sandar | sandins | sandar | sandin   |
+
+*** sand(i)
+adj. {{{phon(sɑnd)}}}, from [[file:./dictionary.md#sand][sand]]
+
+1. sandy; covered with or containing a large amount of sand
+2. gritty, determined; showing firmness of character or resolve
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | sandr  | sandt  |
+| Acc.    | sand   | sandt  |
+| Dat.    | sandum | sandum |
+| Gen.    | sands  | sands  |
+| Pl.Nom. | sandar | sand   |
+| Acc.    | sand   | sand   |
+| Dat.    | sandum | sandum |
+| Gen.    | sandar | sandr  |
 
 *** sann
 adj. {{{phon(sɑnː)}}}, from ON [[https://old-norse.net/html/s.php#sannr][sannr]]
@@ -5895,7 +6087,7 @@ sn.m. {{{phon(ʃkɔ̀ɣ)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%B3
 | Gen. | skógar | skógins | skógar | skógin   |
 
 *** skól(i)
-sn.m. {{{phon(ʃkɔ̀l)}}}, from ON https://old-norse.net/html/s.php#sk%C3%B3li
+sn.m. {{{phon(ʃkɔ̀l)}}}, from ON [[https://old-norse.net/html/s.php#sk%C3%B3li][skóli]]
 
 1. school
 2. a place of learning; an environment where knowledge is shared and
@@ -5907,6 +6099,26 @@ sn.m. {{{phon(ʃkɔ̀l)}}}, from ON https://old-norse.net/html/s.php#sk%C3%B3li
 | Acc. | skól   | skólin  | skól   | skólin   |
 | Dat. | skól   | skólin  | skólum | skólinum |
 | Gen. | skólir | skólins | skólir | skólin   |
+
+*** skreið
+adj. {{{phon(ʃkraɪð)}}}, from ON [[https://old-norse.net/html/s.php#skrei%C3%B0r][skreiðr]]
+
+1. slippery, smooth; having a surface that is smooth and causes objects to slide easily
+2. slimy, covered in a thick, slippery substance
+3. unreliable, deceitful; not trustworthy or honest
+
+|         | Common   | Neuter   |
+|---------+----------+----------|
+| Sg.Nom. | skreiðr  | skreiðt  |
+| Acc.    | skreið   | skreiðt  |
+| Dat.    | skreiðum | skreiðum |
+| Gen.    | skreiðs  | skreiðs  |
+| Pl.Nom. | skreiðar | skreið   |
+| Acc.    | skreið   | skreið   |
+| Dat.    | skreiðum | skreiðum |
+| Gen.    | skreiðar | skreiðr  |
+
+See also [[file:./dictionary.md#ustik][ustik]]
 
 *** smár
 adj. {{{phon(smɛ̀r)}}}, from ON [[https://old-norse.net/html/s.php#sm%C3%A1r-A][smár]]
@@ -6896,6 +7108,21 @@ Hann kœmt heim, þá lokt ok lást dyrin
 He came home, then closed and locked the door
 #+html: :::
 
+*** þef
+sn.m. {{{phon(θef)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEefr][þefr]]
+
+1. smell, odour
+2. scent, fragrance; a pleasant or distinctive smell
+3. aroma, bouquet; the characteristic smell of a substance, such as
+   wine or coffee, often indicating its quality or type
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | þefr  | þefinn  | þefr  | þefinn  |
+| Acc. | þef   | þefin   | þef   | þefin   |
+| Dat. | þef   | þefin   | þefum | þefinum |
+| Gen. | þefar | þefins  | þefar | þefin   |
+
 *** þegar
 {{{phon(θejar)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEegar][þegar]]
 
@@ -6928,6 +7155,25 @@ sn.m. {{{phon(θɔ̀rsdaɣ)}}}, from ON [[https://old-norse.net/html/th.php#%C3%
 
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
+
+*** þur
+adj. {{{phon(θur)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEurr][þurr]]
+
+1. dry; not wet or moist, lacking moisture
+2. arid, barren; having little or no rain, lacking vegetation
+3. thirsty; feeling a need for water or liquid
+4. dull, uninteresting; lacking excitement or variety
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | þurr   | þurt   |
+| Acc.    | þur    | þurt   |
+| Dat.    | þurum  | þurum  |
+| Gen.    | þurs   | þurs   |
+| Pl.Nom. | þurar  | þur    |
+| Acc.    | þur    | þur    |
+| Dat.    | þurum  | þurum  |
+| Gen.    | þurar  | þurr   |
 
 *** því
 adv. {{{phon(θwè)}}}, from ON [[https://old-norse.net/html/th.php#%C3%BEv%C3%AD][því]]
@@ -7022,6 +7268,25 @@ prep. {{{phon(ˈuɸːə̀)}}}, from ON [[https://old-norse.net/html/u.php#upp%C3
 1. upon
 
 Alternative form: *offá*
+
+*** ustik
+adj. {{{phon(oʃ.ˈtik)}}}, from Tunrit {{{recon(utsik)}}}
+
+1. slimy, covered in a thick, slippery substance
+2. viscous, having a thick and sticy consistency
+
+|         | Common  | Neuter  |
+|---------+---------+---------|
+| Sg.Nom. | ustikr  | ustikt  |
+| Acc.    | ustik   | ustikt  |
+| Dat.    | ustikum | ustikum |
+| Gen.    | ustiks  | ustiks  |
+| Pl.Nom. | ustikar | ustik   |
+| Acc.    | ustik   | ustik   |
+| Dat.    | ustikum | ustikum |
+| Gen.    | ustikar | ustikr  |
+
+See also [[file:./dictionary.md#skreið][skreið]]
 
 ** Ú
 *** úlf
@@ -7185,6 +7450,25 @@ Declensions:
 |   2p   |   | vánið        | vánið        | vánuð | vándisk |
 |   3p   |   | vánið        | vánið        | vánuð | vándisk |
 
+*** vát
+adj. {{{phon(βɛ̀t)}}}, from ON [[https://old-norse.net/html/v.php#v%C3%A6ta][væta]]
+
+1. wet, damp; covered or touched with liquid, especially water
+2. moist, humid; containing a small amount of water or liquid
+3. fresh, new; recently created or experienced, often in a positive
+   way
+
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | vátr   | vátt   |
+| Acc.    | vát    | vátt   |
+| Dat.    | vátum  | vátum  |
+| Gen.    | váts   | váts   |
+| Pl.Nom. | vátar  | vát    |
+| Acc.    | vát    | vát    |
+| Dat.    | vátum  | vátum  |
+| Gen.    | vátar  | vátr   |
+
 *** veð
 sn.n. {{{phon(βeð)}}}, from ON [[https://old-norse.net/html/v.php#ve%C3%B0r][veðr]]
 
@@ -7231,7 +7515,7 @@ sn.m. {{{phon(βeɣ)}}}, from ON [[https://old-norse.net/html/v.php#vegr][vegr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | vegr {{{phon(βeɡr̩)}}}  | veginn  | vegr  | veginn  |
+| Nom. | vegr {{{phon(βeɡr̩)}}}   | veginn  | vegr  | veginn  |
 | Acc. | veg {{{phon(βeɣ)}}}     | vegin   | veg   | vegin   |
 | Dat. | veg {{{phon(βej)}}}     | vegin   | vegum | veginum |
 | Gen. | vegar {{{phon(βejɑr)}}} | vegins  | vegar | vegin   |
