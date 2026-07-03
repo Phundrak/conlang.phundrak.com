@@ -893,7 +893,7 @@ sn.m. {{{phon(daɣ)}}}, from ON [[https://old-norse.net/html/d.php#dagr][dagr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | dagr {{{phon(daɡr̩)}}}   | daginn  | dagr  | daginn  |
+| Nom. | dagr {{{phon(daɡr̩)}}}  | daginn  | dagr  | daginn  |
 | Acc. | dag {{{phon(daɣ)}}}     | dagin   | dag   | dagin   |
 | Dat. | dag {{{phon(daj)}}}     | dagin   | dagum | daginum |
 | Gen. | dagar {{{phon(dajar)}}} | dagins  | dagar | dagin   |
@@ -3007,6 +3007,25 @@ sn.n. {{{phon(r̩os)}}}, from ON [[https://old-norse.net/html/h.php#hross][hross
 
 See also [[file:./dictionary.md#hest][hest]]
 
+*** hug
+sn.m. {{{phon(huj)}}}, from ON [[https://old-norse.net/html/h.php#hugr][hugr]]
+
+1. mind, intellect; the faculty of consciousness, thought, and
+   reasoning
+2. intention, purpose; a determination to act in a particular way
+3. (archaic) courage, spirit; mental or emotional strength in facing
+   difficulty or danger
+4. (poetic) heart, soul; the seat of emotions, desires, and moral
+   character (metaphorical extension, often in poetry or elevated
+   speech)
+
+|      | Sg.           | Def.Sg. | Pl.           | Def.Pl. |
+|------+---------------+---------+---------------+---------|
+| Nom. | hugr          | huginn  | hugr          | huginn  |
+| Acc. | hug {{{phon(huɣ)}}} | hugin   | hug {{{phon(huj)}}} | hugin   |
+| Dat. | hug {{{phon(huj)}}} | hugin   | hugum         | huginum |
+| Gen. | hugar         | hugins  | hugar         | hugin   |
+
 *** hug(a)
 sv. {{{phon(huɣ)}}}
 
@@ -3053,6 +3072,18 @@ Declensions:
 |   1p   |   | hugaleiðum | hugaleiðim  | hugaleiðum | hugaleiðumk  |
 |   2p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
 |   3p   |   | hugaleiðið | hugaleiðið  | hugaleiðuð | hugaleiððisk |
+
+*** hugmynd
+sn.f. {{{phon(ˈhuɡ.ˌmynd)}}}, from [[file:./dictionary.md#hug][hug]] and [[file:./dictionary.md#mynd][mynd]]
+
+1. idea; a concept, thought, or notion formed in the mind
+2. plan, proposal; a detailed suggestion or scheme for doing or
+   achieving something
+3. notion, belief; an opinion, conviction, or impression about
+   something
+4. concept; an abstract idea or mental representation of something
+
+For declensions, see [[file:./dictionary.md#mynd][mynd]].
 
 *** hund
 sn.m. {{{phon(hund)}}}, from ON [[https://old-norse.net/html/h.php#hundr][hundr]]
@@ -5060,6 +5091,21 @@ sn.m. {{{phon(orm)}}}, from ON [[https://old-norse.net/html/m.php#ma%C3%B0kr][or
 | Acc. | orm   | ormin   | orm   | ormin   |
 | Dat. | orm   | ormin   | ormum | orminum |
 | Gen. | ormar | ormins  | ormar | ormin   |
+
+*** ost(a)
+sn.m. {{{phon(oʃt)}}}, from ON [[https://old-norse.net/html/o.php#ostr][ostr]]
+
+1. cheese; a solid food made from the pressed curds of milk, often
+   aged and flavoured
+2. (figurative) something valuable or cherished, akin to “the best
+   part” (rare, archaic)
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | ostr  | ostann  | ostr  | ostann  |
+| Acc. | ost   | ostan   | ost   | ostan   |
+| Dat. | ost   | ostan   | ostum | ostanum |
+| Gen. | ostar | ostans  | ostar | ostan   |
 
 ** Ó
 *** ó-
@@ -7515,7 +7561,7 @@ sn.m. {{{phon(βeɣ)}}}, from ON [[https://old-norse.net/html/v.php#vegr][vegr]]
 
 |      | Sg.               | Def.Sg. | Pl.   | Def.Pl. |
 |------+-------------------+---------+-------+---------|
-| Nom. | vegr {{{phon(βeɡr̩)}}}   | veginn  | vegr  | veginn  |
+| Nom. | vegr {{{phon(βeɡr̩)}}}  | veginn  | vegr  | veginn  |
 | Acc. | veg {{{phon(βeɣ)}}}     | vegin   | veg   | vegin   |
 | Dat. | veg {{{phon(βej)}}}     | vegin   | vegum | veginum |
 | Gen. | vegar {{{phon(βejɑr)}}} | vegins  | vegar | vegin   |
@@ -7924,7 +7970,41 @@ See [[file:./dictionary.md#veisheit][veisheit]] for a more general term for /wis
 | Dat.    | ynnligum | ynnligum |
 | Gen.    | ynnligar | ynnligr  |
 
+*** yst(a)
+wv. {{{phon(yʃt)}}}, from ON [[https://old-norse.net/html/y.php#ysta][ysta]]
+
+1. to curdle; to cause milk to coagulate into curds, typically through
+   the addition of acid (e.g. lemon juice, vinegar) or rennet
+2. to thicken, to congeal; to cause a liquid to become semi-solid or
+   viscous (broader sense)
+3. (rare) to form, to takeshape; to develop into a coherent or solid
+   structure (metaphorical use)
+
+   #+html: ::: tip Example
+   Hugmyndinn beruð að yst í hennar hug
+
+   The ideas began to take shapein her mind.
+   #+html: :::
+
+Declensions:
+- infinitive :: yst
+- imperative :: yst
+- imperative passive voice :: ystask
+- present participle :: ystand
+- past participle :: ystit
+
+|  <c>   |   |            |             |       |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past  | Passive |
+|--------+---+------------+-------------+-------+---------|
+|   1s   |   | ystr       | ystir       | yst   | ystumk  |
+|   2s   |   | ystr       | ystir       | yst   | ystisk  |
+|   3s   |   | ystr       | ystir       | yst   | ystisk  |
+|   1p   |   | ystum      | ystim       | ystum | ystumk  |
+|   2p   |   | ystið      | ystið       | ystuð | ystisk  |
+|   3p   |   | ystið      | ystið       | ystuð | ystisk  |
+
 ** Ý
+
 ** Z
 ** Ø
 ** Œ
