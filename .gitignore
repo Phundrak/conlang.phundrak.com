@@ -1,9 +1,15 @@
 node_modules
+/docs/**/*.md
+
+# Vitepress
+/.vitepress/cache/
+/.vitepress/dist/
+/docs/.vitepress/
+/docs/img
+/docs/eittlandic/img
+/docs/proto-nyqy/img
 .temp
 .cache
-/docs/**/*.md
-/docs/.vuepress/dist/
-/.yarn/
 
 # Devenv
 .devenv*

@@ -10,11 +10,8 @@ and open-source. You can find its source code on my Gitea instance
 [[https://labs.phundrak.com/phundrak/conlang.phundrak.com][here]].
 
 ** Where is the website hosted?
-This website is hosted on my private physical server, located in the
-town of Bron in France, near Lyon. All of my websites are also hosted
-on this server, except for [[https://labs.phundrak.com][=labs.phundrak.com=]] and =mail.phundrak.com=
-which are hosted on servers rented to Scaleway and OVH France
-respectively. These servers are also located in France.
+This website is hosted on Cloudflare Pages on servers all over the
+world.
 
 ** Cookies
 *** What are cookies?

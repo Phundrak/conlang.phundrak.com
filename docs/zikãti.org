@@ -85,10 +85,10 @@ graph{graph[dpi=300,bgcolor="transparent"];node[shape=plaintext];"vowels-0ju8102
 | V[+nasal] | ã ẽ õ                                |
 
 Prefixes follow the (C_{2})V[-nasal] phonetic structure, with C_{2} being
-optional. Suffixes follow the CV[+nasal](C_{2}) structure with C_{2} being
+optional. Suffixes follow the CV[+nasal]⁣(C_{2}) structure with C_{2} being
 optional.
 
-Roots are a bit more complex, with a C(V[+nasal](C_{2})C)V[-nasal](C_{2})
+Roots are a bit more complex, with a C(V[+nasal]⁣(C_{2})C)V[-nasal]⁣(C_{2})
 structure.
 
 The only consonants that can follow the vowels /õ/ and /ẽ/ are non-nasal
@@ -148,7 +148,7 @@ adverbs, e.g. *qigi* /before/ from *gi* /from/ (see [[file:./zikãti#gi-from][gi
 - -rã :: TR
 - -sõr :: NOMIN
 - -zãr :: PASS
-- -qã :: SUBJ, attaches to verbs only, see [[file:zikãti#subclauses][subclauses]]
+- -qã :: SUBJ, attaches to verbs only, see [[file:./zikãti.md#subclauses][subclauses]]
 
 *** Word order
 Zikãti is a postpositional language following the SOV word order in
@@ -347,12 +347,12 @@ He thinks about it, maybe remembers it
 - hiti (n.) :: fire, light
 
 *** hitimbi - hearth, coocked food
-See [[file:zikãti#hiti-fire-light][hiti]] and [[file:zikãti#mbi-meat-food][mbi]].
+See [[file:./zikãti.md#hiti-fire-light][hiti]] and [[file:./zikãti.md#mbi-meat-food][mbi]].
 
 - hitimbi (n.) :: hearth, coocked food
 
 *** hitimiz - tea
-See [[file:zikãti#hiti-fire-light][hiti]] and [[file:zikãti#miz-water-stream][miz]].
+See [[file:./zikãti.md#hiti-fire-light][hiti]] and [[file:./zikãti.md#miz-water-stream][miz]].
 
 - hitimiz (n.) :: tea
 
@@ -374,7 +374,7 @@ See [[file:zikãti#hiti-fire-light][hiti]] and [[file:zikãti#miz-water-stream][
 - lud (n., con.) :: breath, life
 
 *** ludmiz - blood
-See [[file:zikãti#lud-breath-life][lud]] and [[file:zikãti#miz-water-stream][miz]].
+See [[file:./zikãti.md#lud-breath-life][lud]] and [[file:./zikãti.md#miz-water-stream][miz]].
 
 - ludmiz (n.) :: blood
 
