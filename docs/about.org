@@ -5,9 +5,9 @@
 ** Introduction
 This is the conlanging website of Lucien “Phundrak” Cartier-Tilet.
 
-This website is made with [[https://orgmode.org/][org-mode]] and [[https://v2.vuepress.vuejs.org/][Vuepress]] and is entirely free
-and open-source. You can find its source code on my Gitea instance
-[[https://labs.phundrak.com/phundrak/conlang.phundrak.com][here]].
+This website is made with [[https://orgmode.org/][org-mode]] and [[https://vitepress.dev/][Vitepress]] and its code is
+entirely free and open-source. You can find its source code on my
+Gitea instance [[https://labs.phundrak.com/phundrak/conlang.phundrak.com][here]].
 
 ** Where is the website hosted?
 This website is hosted on Cloudflare Pages on servers all over the
