@@ -518,6 +518,29 @@ sn.m. {{{phon(bɛ̀t)}}}, from ON [[https://old-norse.net/html/b.php#b%C3%A1tr][
 | Dat. | bát   | bátin   | bátum | bátinum |
 | Gen. | bátar | bátins  | bátar | bátin   |
 
+*** bein
+sn.n. {{{phon(bɑɪn)}}}, from ON [[https://old-norse.net/html/b.php#bein][bein]]
+
+1. bone; any of the hard, whitish piece of tissue making up the
+   skeleton in vertebrates
+2. (figurative) core, essence; the most important or central part of
+   something (poetic or elevated speech)
+3. (archaic) a leg or limb (regional, Northeastern Eittland, now rare)
+4. (slang) strength, endurance (colloquial)
+
+   #+html: ::: tip Example
+   Hann havir mikil bein í sér.
+
+   He has a lot of strength. (colloquial, lit “he has much bone in himself”)
+   #+html: :::
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | bein  | beinat  | bein   | beinatr  |
+| Acc. | bein  | beinat  | bein   | beinat   |
+| Dat. | bein  | beinat  | beinum | beinatum |
+| Gen. | beins | beinats | beins  | beinat   |
+
 *** ber
 adj. {{{phon(ber)}}}, from ON [[https://old-norse.net/html/b.php#berr][berr]]
 
@@ -730,6 +753,37 @@ sn.f  {{{phon(borg)}}}, from ON [[https://old-norse.net/html/b.php#borg-I][borg]
 | Acc. | borg   | borgin  | borg   | borgin   |
 | Dat. | borg   | borgin  | borgum | borginum |
 | Gen. | borgar | borgins | borgar | borgin   |
+
+*** brauð
+sn.n. {{{phon(brɔð)}}}, from ON [[https://old-norse.net/html/b.php#brau%C3%B0][brauð]]
+
+1. bread
+2. loaf; a single unit of bread, typically shaped and baked as a whole
+3. sustenance, livelihood; the means of supporting oneself, especially
+   in a basic or essential way (poetic or elevated speech)
+
+   #+html: ::: tip Example
+   Brauðit mín er rít.
+
+   My livelihood is writing. (lit. “My bread is writing.”)
+   #+html: :::
+4. (archaic) food in general; a broader term for nourishment or meals
+   (retained in some idiomatic expressions or older texts)
+
+   #+html: ::: tip Example
+   Hann geft mér brauð ok salt.
+
+   He gave me food and sart. (archaic, symbol of hospitality)
+   #+html: :::
+5. (slang) money, cash (colloquial, often in the context of earning or
+   spending)
+
+|      | Sg.    | Def.Sg.  | Pl.     | Def.Pl.   |
+|------+--------+----------+---------+-----------|
+| Nom. | brauð  | brauðit  | brauð   | brauðitr  |
+| Acc. | brauð  | brauðit  | brauð   | brauðit   |
+| Dat. | brauð  | brauðit  | brauðum | brauðitum |
+| Gen. | brauðs | brauðits | brauðs  | brauðit   |
 
 *** bráð
 sn.m. {{{phon(brɛ̀ð)}}}
@@ -1063,6 +1117,24 @@ adv. {{{phon(ef)}}}, from ON [[https://old-norse.net/html/e.php#ef-B][ef]]
 Always followed by a conditional verbal phrase or a noun if speakers
 can infer the verbal phrase from it.
 
+*** egg
+sn.n. {{{phon(eɡ)}}}, from ON [[https://old-norse.net/html/e.php#egg][egg]]
+
+1. egg; a hard-shelled rerproductive body produced by birds,
+   especially domestic fowl, and used as food
+2. (biology) egg; the female reproductive cell in animals, from which
+   the young develops after fertilization
+3. (figurative) a small or insignificant thing (colloquial, often
+   dismissive)
+4. a testicle (vulgar or humorous)
+
+|      | Sg.  | Def.Sg. | Pl.    | Def.Pl. |
+|------+------+---------+--------+---------|
+| Nom. | egg  | eggit   | egg    | eggitr  |
+| Acc. | egg  | eggit   | egg    | eggit   |
+| Dat. | egg  | eggit   | eggjum | eggitum |
+| Gen. | eggs | eggits  | eggs   | eggit   |
+
 *** ei
 Regional variation of [[file:./dictionary.md#eig][eig]].
 
@@ -1205,7 +1277,7 @@ sn.m. {{{phon(eld)}}}, from ON [[https://old-norse.net/html/e.php#eldr2][eldr]]
    intense feeling or desire; a powerful and motivating force
 
    #+html: ::: tip Example
-   Hann havir eld fyrir verkit hennum
+   Hann havir eld fyr verkit hennum
 
    He has great passion for his project
    #+html: :::
@@ -1500,7 +1572,14 @@ sn.m. {{{phon(ferð)}}}, from EON [[https://old-norse.net/html/f.php#fj%C3%B6r%C
 *** fé
 in.n.mass. {{{phon(fɛ̀)}}}, from ON [[https://old-norse.net/html/f.php#f%C3%A9][fé]]
 
-1. wealth
+1. wealth, riches; an abundance of valuable possessions or money
+2. money, currency; coins or banknotes used as a medium of exchange
+3. (archaic) livestock, cattle; domesticated animals such as cows,
+   sheep, or goats, especially as a measure of wealth
+4. (figurative) value, worth; the importance or usefulness of
+   something
+5. (poetic) treasure, fortune; a collection of valuable or precious
+   items
 
 |      | Singular | Plural |
 |------+----------+--------|
@@ -1775,6 +1854,65 @@ Declensions:
 |   1p   |   | fylgjum    | fylim       | fylgjum | fylgjumk |
 |   2p   |   | fylið      | fylið       | fylgjuð | fylðisk  |
 |   3p   |   | fylið      | fylið       | fylgjuð | fylðisk  |
+
+*** fyr
+{{{phon(fyr)}}}, from ON [[https://old-norse.net/html/f.php#fyrir-dat-A-I][fyrir]]
+
+As a preposition:
+1. for; intended to benefit or belon to someone or something
+
+   #+html: ::: tip Example
+   Ek hav gef fyr þik.
+
+   I have a gift for you.
+   #+html: :::
+2. before; in front of, ahead of (in space or time)
+
+   #+html: ::: tip Example
+   Hann stóðt fyr dyrin.
+
+   He stood before the door.
+   #+html: :::
+3. because of, due to; as a result of
+
+   #+html: ::: tip Example
+   Bróðinn mín grátt fyr sorg.
+
+   By brother cried due to sorrow.
+   #+html: :::
+4. in exchange for; as payment or compensation
+
+   #+html: ::: tip Example
+   Hann geft mér brauð fyr verkit.
+
+   He gave me cash for the work.
+   #+html: :::
+5. in place of, instead of; as a substitute
+
+   #+html: ::: tip Example
+   - Han talt fyr mik.
+
+     She spoke in my place.
+   - Hann gekk fyr bróðin sín.
+
+     He went instead of his brother.
+   #+html: :::
+6. in the presence of, before (in a formal or ceremonial context)
+
+As an adverb:
+1. forward, ahead; in a forward direction
+   #+html: ::: tip Example
+   Hann hlaupt fyr.
+
+   He ran ahead.
+   #+html: :::
+2. previously, before; at an earlier time
+
+   #+html: :::
+   Ek haf sját þett fyr.
+
+   I have seen this before.
+   #+html: :::
 
 ** G
 *** gamal
@@ -2099,6 +2237,34 @@ adj. {{{phon(ɡrɛ̀)}}}, from ON [[https://old-norse.net/html/g.php#gr%C3%A1r][
 | Acc.    | grá    | grá    |
 | Dat.    | grámum | grámum |
 | Gen.    | grárar | grár   |
+
+*** grát(a)
+sv. {{{phon(ɡrɛ̀t)}}}, from [[https://old-norse.net/html/g.php#gr%C3%A1ta][gráta]]
+
+1. to cry, to weep; to shed tears as an expression of emotion, such as
+   sadness, joy, or pain
+2. to mourn, to lament; to express grief or sorrow, especially for a
+   loss or death
+3. (figurative) to rain heavily (poetic or archaic, now rare)
+4. (archaic) to wail, to keen; to make a loud, sorrowful sound,
+   especially in mourning (retained in poetic or ritual contexts)
+
+Declensions:
+- infinitive :: grát
+- imperative :: grát
+- imperative passive voice :: grátask
+- present participle :: grátand
+- past participle :: grátit
+
+|  <c>   |   |            |             |        |         |
+| person |   | Ind. Pres. | Subj. Pres. | Past   | Passive |
+|--------+---+------------+-------------+--------+---------|
+|   1s   |   | grátar     | grátir      | grátt  | grátumk |
+|   2s   |   | grátar     | grátir      | grátt  | grátsk  |
+|   3s   |   | grátar     | grátir      | grátt  | grátisk |
+|   1p   |   | grátum     | grátim      | grátum | grátumk |
+|   2p   |   | grátið     | grátið      | grátuð | grátisk |
+|   3p   |   | grátið     | grátið      | grátuð | grátisk |
 
 *** gríp(a)
 sv. {{{phon(ɡrèp)}}}, from [[https://old-norse.net/html/g.php#gr%C3%ADpa][grípa]]
@@ -2947,7 +3113,6 @@ wn.m. {{{phon(ˈhol.bò)}}}, from [[file:./dictionary.md#hol][hol]] and [[file:
 
 For declensions, see [[file:./dictionary.md#bu][bú]]
 
-
 *** hóst
 sn.m. {{{phon(hɔ̀ʃt)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B3str][hóstr]]
 
@@ -2960,6 +3125,22 @@ sn.m. {{{phon(hɔ̀ʃt)}}}, from ON [[https://old-norse.net/html/h.php#h%C3%B3st
 | Acc. | hóst   | hóstin  | hóst   | hóstin   |
 | Dat. | hóst   | hóstin  | hóstum | hóstinum |
 | Gen. | hóstar | hóstins | hóstar | hóstin   |
+
+*** hœn
+wn.f. {{{phon(hø̀n)}}}, from EON [[https://old-norse.net/html/h.php#h%C3%A6na][hœna]]
+
+1. hen; a female domestic fowl, especially one kept for its eggs or
+   meat
+2. (figurative) a timit or cautious person (colloquial, often
+   derogatory)
+3. (archaic) a term of endearment for a woman or girl (regional,
+   Southern Eittland, now rare)
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | hœn  | hœnat   | hœnr  | hœnatr  |
+| Acc. | hœn  | hœnat   | hœn   | hœnat   |
+| Dat. | hœn  | hœnat   | hœnum | hœnatum |
+| Gen. | hœns | hœnats  | hœns  | hœnat   |
 
 *** hrifs
 wn.n. {{{phon(r̥ifs)}}}, from ON [[https://old-norse.net/html/h.php#hrifs][hrifs]]
@@ -3123,11 +3304,32 @@ sn.m. {{{phon(ʍɑl)}}}, from ON [[https://old-norse.net/html/h.php#hvalr][hvalr
 | Gen. | hvalar | hvalins | hvalar | hvalin   |
 
 *** hvar
-pron. {{{phon(ʍɑr)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
+{{{phon(ʍɑr)}}}, from ON [[https://en.wiktionary.org/wiki/hvar#Old_Norse][hvar]]
 
-1. where
+**** Interrogative adverb
+1. where; in or at what place or position
+2. where; to what place or destination
+3. (figurative) in what situation or condition
 
-Always in the dative case.
+   #+html: ::: tip Example
+   Hver er þú ná í líf?
+
+   Where are you now in life?
+   #+html: :::
+
+**** Relative adverb
+1. where; in or at which place
+2. (figurative) in which situation or condition
+
+**** Indefinite adverb
+(rare, poetic)
+1. wherever; in or at whatever place
+
+   #+html: ::: tip Example
+   Hver sem þú ferir, man ek fylgja þér.
+
+   Wherever you may go, I’ll follow you.
+   #+html: :::
 
 *** hvat
 interr. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Norse][hvat]]
@@ -3142,9 +3344,26 @@ interr. {{{phon(ʍɑt)}}}, from ON [[https://en.wiktionary.org/wiki/hvat#Old_Nor
 | Gen. | hves |
 
 *** hvenár
-interr. {{{phon(ʍen.ˈɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#hvenar][hvenær]]
+{{{phon(ʍen.ˈɛ̀r)}}}, from ON [[https://old-norse.net/html/h.php#hvenar][hvenær]]
 
-1. when
+**** Interrogative Adverb (question word)
+1. when; at what time
+2. when; on what occasion
+3. (figurative) in what circumstances or conditions
+
+**** Relative Adverb (introducing a relative clause)
+1. when; at which time
+2. in which circumstances or conditions
+
+**** Indefinite Adverb
+(rare, poetic)
+
+1. whenever; at whatever time
+   #+html: ::: tip Example
+   Þú man ver velkommen hvenár sem kom þú.
+
+   You will be welcome whenever you might come.
+   #+html: :::
 
 *** hver
 interr. and pron. {{{phon(ʍer)}}}, from ON [[https://old-norse.net/html/h.php#hverr2-A][hverr]]
@@ -3424,6 +3643,23 @@ wn.n. {{{phon(jak)}}}, from Tibetan [[https://en.wiktionary.org/wiki/%E0%BD%82%E
 2. interj. yes (as an exclamation of joy)
 
 ** K
+*** kalluk
+sn.w. {{{phon(ˈkɑlːok)}}}, probably from Tunrit
+
+1. fish or seafood soup; a hearty soup made primarily from fish,
+   shellfish, or other sea creatures, often with vegetables and herbs
+2. broth made from fish or seafood; a thin, flavourful liquid used as
+   a base for soups or sauces
+3. a communal meal or gathering where fish soup is served (in some
+   coastal communities in Western Eittland)
+
+|      | Sg.      | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+----------+-----------+----------+------------|
+| Nom. | kallukr  | kallukinn | kallukr  | kallukinn  |
+| Acc. | kalluk   | kallukin  | kalluk   | kallukin   |
+| Dat. | kalluk   | kallukin  | kallukum | kallukinum |
+| Gen. | kallukar | kallukins | kallukar | kallukin   |
+
 *** kanik
 sn.n. {{{phon(kan.ek)}}}, probably a Tunrit word
 
@@ -3634,6 +3870,36 @@ sn.m. {{{phon(keɸt)}}}, from EON [[https://old-norse.net/html/k.php#kjaptr][kep
 | Dat. | kept   | keptin  | keptum | keptinum |
 | Gen. | keptar | keptins | keptar | keptin   |
 
+*** ket
+sn.n. {{{phon(ket)}}}, from EON [[https://old-norse.net/html/k.php#kj%C3%B6t][ket]]
+
+1. meat; the flesh of animals, especially when used as food
+2. (figurative) flesh; the soft substance of the body, especially
+   muscle tissue
+
+   #+html: ::: tip Example
+   Ketit er sjúk.
+
+   The flesh is weak. (poetic)
+   #+html: :::
+3. (archaic) body; the physical form of a person or animal (poetic or
+   elevated speech)
+
+   #+html: ::: tip Example
+   Han geft líf ok ket fyr landit.
+
+   He gave his life and body for the country. (poetic)
+   #+html: :::
+4. (slang) muscle, strength (colloquial)
+
+
+|      | Sg.  | Def.Sg. | Pl.   | Def.Pl. |
+|------+------+---------+-------+---------|
+| Nom. | ket  | ketit   | ket   | ketitr  |
+| Acc. | ket  | ketit   | ket   | ketit   |
+| Dat. | ket  | ketit   | ketum | ketitum |
+| Gen. | kets | ketits  | kets  | ketit   |
+
 *** kláð(a)
 sv. {{{phon(klɛ̀ð)}}}, from ON [[https://old-norse.net/html/k.php#kl%C3%A6%C3%B0a][kláða]]
 
@@ -3782,7 +4048,11 @@ sn.n. {{{phon(kryd)}}}, from ON [[https://en.wiktionary.org/wiki/krydd#Old_Norse
 *** kú
 sn.f. {{{phon(kò)}}}, from ON [[https://old-norse.net/html/k.php#k%C3%BDr][kýr]]
 
-1. cow
+1. cow; a fully grown female bovine animal, especially one kept for
+   milk or meat
+2. (collective) cattle; a group of cows, often including bulls and
+   calves (used in a general sense)
+3. (figurative) a slow or dull-witted person (derogatory, colloquial)
 
 |      | Sg. | Def.Sg. | Pl. | Def.Pl. |
 |------+-----+---------+-----+---------|
@@ -3814,6 +4084,18 @@ Declensions:
 |   1p   |   | kúrum      | kúrim       | kúrum | kúrumk  |
 |   2p   |   | kúrið      | kúrið       | kúruð | kúrðask |
 |   3p   |   | kúrið      | kúrið       | kúruð | kúrðask |
+
+*** kýr
+sn.f. {{{phon(kø̀r)}}}
+
+Southern variant of [[file:./dictionary.md#ku][kú]] (cow).
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | kýrr  | kýrinn  | kýrr  | kýrinn  |
+| Acc. | kýr   | kýrin   | kýr   | kýrin   |
+| Dat. | kýr   | kýrin   | kýrum | kýrinum |
+| Gen. | kýrar | kýrins  | kýrar | kýrin   |
 
 ** L
 *** land
@@ -4208,13 +4490,29 @@ sn.n. {{{phon(ljɔ̀s)}}}, from ON [[https://old-norse.net/html/l.php#lj%C3%B3s]
 3. brightness, the quality or state of being bright, used in
    scientific contexts, refering to the specific amount of brightness,
    see also [[file:./dictionary.md#birt-i][birt(i)]]
+4. (adj) light, bright
 
+#+name: ljos-noun-declension
+#+caption: Declensions of /ljós/ as a noun
 |      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
 |------+-------+---------+--------+----------|
 | Nom. | ljós  | ljósit  | ljós   | ljósitr  |
 | Acc. | ljós  | ljósit  | ljós   | ljósit   |
 | Dat. | ljós  | ljósit  | ljósum | ljósitum |
 | Gen. | ljóss | ljósits | ljóss  | ljósit   |
+
+#+name: ljos-adjective-declension
+#+caption: Declensions of /ljós/ as an adjective
+|         | Common | Neuter |
+|---------+--------+--------|
+| Sg.Nom. | ljósr  | ljóst  |
+| Acc.    | ljós   | ljóst  |
+| Dat.    | ljósum | ljósum |
+| Gen.    | ljóss  | ljóss  |
+| Pl.Nom. | ljósar | ljós   |
+| Acc.    | ljós   | ljós   |
+| Dat.    | ljósum | ljósum |
+| Gen.    | ljósar | ljósr  |
 
 *** lok(a)
 sv. {{{phon(lok)}}}, from ON [[https://old-norse.net/html/l.php#loka2][loka]]
@@ -4482,6 +4780,22 @@ referring to different types of food or meat.
 
 See also [[file:./dictionary.md#fœð][fœð]].
 
+*** melk
+sn.f. {{{phon(melk)}}}, from EON [[https://old-norse.net/html/m.php#mj%C3%B3lk][melk]]
+
+1. milk; the white liquid produced by mammals, especially cows, goats,
+   or sheep, used as food
+2. (figurative) nourishment, sustenance; something that provides
+   emotional or spiritual support (poetic or elevated speech)
+3. (archaic) lactation; the process of producing milk (rare, primarily
+   in older texts or agricultural contexts)
+
+   #+html: ::: tip Example
+   Kúnn er í melk.
+
+   The cow is lactating.
+   #+html: :::
+
 *** metr(o)
 wn.n. {{{phon(metr)}}}, from French “métro”
 
@@ -4497,10 +4811,30 @@ wn.n. {{{phon(metr)}}}, from French “métro”
 See also [[file:./dictionary.md#undirland][undirland]]
 
 *** með
-adv. {{{phon(með)}}}
+{{{phon(með)}}}, from ON [[https://old-norse.net/html/m.php#me%C3%B0][með]]
 
-1. with
-2. prefix with, co-smth. See
+**** Preposition
+1. with; in the company of, alongside
+2. with; using or by means of
+3. with; having or possessing
+4. with; in a state or condition of
+5. with; in agreement or accordance with
+6. with; in spite of, despite
+# 1. with
+# 2. prefix with, co-smth
+
+**** Adverb
+1. along, too; in addition, as well
+   #+html: ::: tip Example
+   Ek komar með.
+
+   I am coming along.
+   #+html: ::: tip Example
+2. together; in a group or collective
+
+**** Prefix
+1. co-, with-; indicating partnership, joint action, or accompaniment
+2. with-; indicating possession or inclusion
 
 *** Meðkonung
 sn.m. {{{phon(meðˈkonoŋ)}}}, see [[file:./dictionary.md#með][með]] and [[file:./dictionary.md#konung][konung]]
@@ -5536,6 +5870,23 @@ Declensions:
 |   1p   |   | sagjum     | sagjim      | sagjum | sagjumk |
 |   2p   |   | sagjið     | sagjið      | sagjuð | sagjask |
 |   3p   |   | sagjið     | sagjið      | sagjuð | sagjask |
+
+*** salt
+sn.n. {{{phon(sɑlt)}}}, from ON [[https://old-norse.net/html/s.php#salt][salt]]
+
+1. salt; a white crystaline substance (sodium chloride) used for
+   seasoning and preserving food;
+2. (chemistry) salt; any chemical compound formed from the reaction of
+   an acid with a base
+3. (figurative) wit, sharpness; colloquial, often used to describe a
+   person’s intelligence or humour
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | salt  | saltit  | salt   | saltitr  |
+| Acc. | salt  | saltit  | salt   | saltit   |
+| Dat. | salt  | saltit  | saltum | saltitum |
+| Gen. | salts | saltits | salts  | saltit   |
 
 *** sam
 adj. {{{phon(sɑm)}}}, from ON [[https://old-norse.net/html/s.php#samr][samr]]
@@ -6703,6 +7054,30 @@ sn.m. {{{phon(sunsndaɣ)}}} , from ON [[https://old-norse.net/html/s.php#sunnuda
 For declensions, see [[file:./dictionary.md#dag][dag]]. Does not have a definite form. See the other
 [[file:./dictionary.md#days-of-the-week][days of the week]].
 
+*** súp
+wn.f. {{{phon(sòp)}}}, from ON [[https://old-norse.net/html/s.php#s%C3%BApa2][súpa]]
+
+1. soup; a liquid dish, typically savoury, made by boiling meat, fish,
+   vegetables, or grain in water or broth
+2. broth, stock; the liquid in which food has been cooked, often used
+   as a base for soups or sauces
+3. (figurative) a messy or complicated situation (colloquial)
+   #+html: ::: tip Example
+   - Þat er eit súp!
+
+     What a mess!
+   - Ná vér er í súp.
+
+     We are in a mess now.
+   #+html: :::
+
+|      | Sg.   | Def.Sg. | Pl.   | Def.Pl. |
+|------+-------+---------+-------+---------|
+| Nom. | súpr  | súpann  | súpr  | súpann  |
+| Acc. | súp   | súpan   | súp   | súpan   |
+| Dat. | súp   | súpan   | súpum | súpanum |
+| Gen. | súpar | súpans  | súpar | súpan   |
+
 *** svar(a)
 wv. {{{phon(sβar)}}}, from ON [[https://old-norse.net/html/s.php#svara][svara]]
 
@@ -6779,6 +7154,29 @@ sn.n. {{{phon(sβèn)}}}, from ON [[https://old-norse.net/html/s.php#sv%C3%ADn]
 | Acc. | svín  | svínit  | svín   | svínit   |
 | Dat. | svín  | svínit  | svínum | svínitum |
 | Gen. | svíns | svínits | svíns  | svínit   |
+
+*** sykr
+sn.n. {{{phon(ˈsyk.r̩)}}}, from Middle French [[https://en.wiktionary.org/wiki/sucre#Middle_French][sucre]]
+
+1. sugar
+2. (chemistry) carbohydrate
+3. (figurative) sweetness, charm; colloquial, often used to describe a
+   person’s personality or behaviour
+4. (slang) money (colloquial, often in the context of earning or
+   spending)
+
+   #+html: ::: tip Example
+   Hann vinnar fyr sykrit.
+
+   He works for the money. (colloquial)
+   #+html: :::
+
+|      | Sg.   | Def.Sg. | Pl.    | Def.Pl.  |
+|------+-------+---------+--------+----------|
+| Nom. | sykr  | sykrit  | sykr   | sykritr  |
+| Acc. | sykr  | sykrit  | sykr   | sykrit   |
+| Dat. | sykr  | sykrit  | sykrum | sykritum |
+| Gen. | sykrs | sykrits | sykrs  | sykrit   |
 
 *** syng(ja)
 wv. {{{phon(syŋ)}}}, from ON [[https://old-norse.net/html/s.php#syngja][syngja]]
@@ -8002,6 +8400,22 @@ Declensions:
 |   1p   |   | ystum      | ystim       | ystum | ystumk  |
 |   2p   |   | ystið      | ystið       | ystuð | ystisk  |
 |   3p   |   | ystið      | ystið       | ystuð | ystisk  |
+
+*** ysting
+wn.f. {{{phon(yʃtiŋɡ)}}}, from [[file:./dictionary.md#yst-a][yst]] and [[file:./dictionary.md#ing][-ing]]
+
+1. fresh cheese; a soft, unaged cheese made by coagulating milk with
+   acid (such as lemon juice or vinegar) rather than rennet, and not
+   pressed
+2. curdled milk; milk that has coagulated but has not been processed
+   into cheese (broader sense)
+
+|      | Sg.     | Def.Sg.   | Pl.      | Def.Pl.    |
+|------+---------+-----------+----------+------------|
+| Nom. | ysting  | ystingit  | ystingr  | ystingitr  |
+| Acc. | ysting  | ystingit  | ysting   | ystingit   |
+| Dat. | ysting  | ystingit  | ystingum | ystingitum |
+| Gen. | ystings | ystingits | ystings  | ystingit   |
 
 ** Ý
 

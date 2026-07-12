@@ -352,11 +352,11 @@ main verb which appears in its participle form. The present participle
 is used when the event relates to the present or the future, while the
 past participle is used when the event relates to a time in the past.
 
- It also uses the verbs /ver/ and /hav/ before
-the verb, which both agree in number, tense, and mood instead of the
-main verb. The latter, on the other hand, appears in its participle
-form, present or past depending on whether the action is happening or
-will happen, or if it happened in the past.
+It also uses the verbs /ver/ and /hav/ before the verb, which both agree
+in number, tense, and mood instead of the main verb. The latter, on
+the other hand, appears in its participle form, present or past
+depending on whether the action is happening or will happen, or if it
+happened in the past.
 
 #+html: ::: tip Example
 - Hann haft sovin, þá kunn hann kom
